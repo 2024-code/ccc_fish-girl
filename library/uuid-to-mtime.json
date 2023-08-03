@@ -71184,11 +71184,6 @@
     "meta": 1690807065656,
     "relativePath": "scripts\\three_languages\\set_languages\\Slot_aztec_lan.ts"
   },
-  "b9701a18-9f69-4dc9-8bbd-2a9ac088b5ee": {
-    "asset": 1691088880682,
-    "meta": 1691088880905,
-    "relativePath": "Scene\\LobbyMain.fire"
-  },
   "4745e899-b445-4502-8666-2297d3708fa8": {
     "asset": 1690835657159,
     "meta": 1690835689686,
@@ -71424,9 +71419,14 @@
     "meta": 1691088358666,
     "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
   },
+  "b9701a18-9f69-4dc9-8bbd-2a9ac088b5ee": {
+    "asset": 1691090586028,
+    "meta": 1691090586169,
+    "relativePath": "Scene\\LobbyMain.fire"
+  },
   "bd60c950-a1fc-4421-a141-3e00573519f3": {
-    "asset": 1691088735709,
-    "meta": 1691088746960,
+    "asset": 1691090666161,
+    "meta": 1691090691710,
     "relativePath": "Script\\Lobby\\LobbyButtonClick.js"
   }
 }

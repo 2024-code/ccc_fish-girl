@@ -78,7 +78,7 @@ cc.Class({
                 this.canvasNode.getComponent("LobbyMain").com_Register.getChildByName("eb_PasswordConfirm").getComponent("cc.EditBox").string = "The two verification codes are different";
                 return;
             }
-            
+
             this.canvasNode.getComponent("LobbyRegister").mlapiRegister_Function(account, password);
         }
     },
@@ -258,16 +258,39 @@ cc.Class({
      * 点击兑换按钮
      */
     exchangeButtonClick_Function: function () {
+        var language = cc.sys.localStorage.getItem('selectedLanguage') || 'txt.zh';
         cc.log('点击兑换按钮============')
         this.canvasNode.getComponent("LobbyMain").bg_Black.active = true;
         if (this.canvasNode.getComponent("LobbyMain").playerInfo.isOffical) {
             if (!this.canvasNode.getComponent("LobbyMain").playerInfo.aliAccount && this.canvasNode.getComponent("LobbyMain").playerInfo.isBindAli) {
-                this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("兑现必须绑定支付宝,\n\n要前去绑定支付宝吗?", 2, 2);
+                switch (language) {
+                    case 'txt.zh':
+                        this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("兑现必须绑定支付宝,\n\n要前去绑定支付宝吗?", 2, 2);
+                        break;
+                    case 'txt.vn':
+                        this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("Uang tunai harus mengikat Alipay, atau mengikat Alipay?", 2, 2);
+                        break;
+                    case 'txt.en':
+                        this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("Cash must bind Alipay,\n\n to bind Alipay?", 2, 2);
+                        break;
+                }
+
             } else {
                 //打开兑换界面
+
             }
         } else {
-            this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("兑现必须绑定账号,\n\n要前去绑定账号吗?", 2, 1);
+            switch (language) {
+                case 'txt.zh':
+                    this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("兑现必须绑定支付宝,\n\n要前去绑定支付宝吗?", 2, 1);
+                    break;
+                case 'txt.vn':
+                    this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("Uang tunai harus mengikat Alipay, atau mengikat Alipay?", 2, 1);
+                    break;
+                case 'txt.en':
+                    this.canvasNode.getComponent("LobbyMain").showMessagebox_Function("Cash must bind Alipay,\n\n to bind Alipay?", 2, 1);
+                    break;
+            }
         }
     },
 
