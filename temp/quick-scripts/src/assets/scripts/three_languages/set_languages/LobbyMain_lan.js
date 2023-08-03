@@ -56,6 +56,7 @@ var LobbyMain_lan = /** @class */ (function (_super) {
             17: '验证码',
             18: '确认密码',
             19: '活动',
+            20: '发送验证码'
         };
         _this.enLanguage = {
             0: 'Mobile number registration ',
@@ -77,7 +78,8 @@ var LobbyMain_lan = /** @class */ (function (_super) {
             16: 'Mobile number ',
             17: 'Verification code ',
             18: 'Confirm password',
-            19: ' Activity '
+            19: ' Activity ',
+            20: ' Send verification code '
         };
         _this.inLanguage = {
             0: 'plat nomor mobil ',
@@ -99,6 +101,8 @@ var LobbyMain_lan = /** @class */ (function (_super) {
             16: 'nomor ponsel ',
             17: 'kode verifikasi ',
             18: 'konfirmasi sandi',
+            19: ' Activity ',
+            20: ' Send verification code '
         };
         return _this;
     }

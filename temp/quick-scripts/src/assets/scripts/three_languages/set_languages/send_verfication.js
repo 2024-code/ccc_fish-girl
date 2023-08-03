@@ -36,39 +36,39 @@ var send_verfication = /** @class */ (function (_super) {
      * 60秒倒计时
      */
     send_verfication.prototype.countdown = function () {
+        var _this = this;
         if (this.countdownRunning) {
             return; // 如果倒计时正在进行中，则直接返回，不执行倒计时逻辑
         }
         this.countdownRunning = true; // 将倒计时标记为正在进行中
         var count = 60;
-        var labelComponent = this.sen_verficat;
-        var self = this;
+        var labelComponent = this.verficat_but;
         var intervalId = setInterval(function () {
             if (count === 1) {
                 labelComponent.string = '发送手机验证码';
                 clearInterval(intervalId);
                 // 模拟向服务器发送请求获取验证码
-                var phoneNumber = labelComponent.string;
-                self.sendVerificationCodeRequest(phoneNumber)
+                var phoneNumber = _this.cur_phone.string;
+                _this.sendVerificationCodeRequest(phoneNumber)
                     .then(function (verificationCode) {
                     // 验证码校验
-                    var isValidVerification = verificationCode === self.cur_verficat.string;
+                    var isValidVerification = verificationCode === _this.cur_verficat.string;
                     if (isValidVerification) {
                         // 验证码正确
                         console.log('验证码正确');
-                        self.isRegistered = true;
+                        _this.isRegistered = true;
                     }
                     else {
                         // 验证码错误
                         console.log('验证码错误');
-                        self.isRegistered = false;
+                        _this.isRegistered = false;
                     }
-                    self.countdownRunning = false; // 倒计时结束，标记为非进行中
+                    _this.countdownRunning = false; // 倒计时结束，标记为非进行中
                 })
                     .catch(function (error) {
                     console.error('发送验证码请求出错:', error);
-                    self.isRegistered = false; // 请求出错，将注册状态标记为false
-                    self.countdownRunning = false; // 倒计时结束，标记为非进行中
+                    _this.isRegistered = false; // 请求出错，将注册状态标记为false
+                    _this.countdownRunning = false; // 倒计时结束，标记为非进行中
                 });
                 return;
             }
@@ -92,11 +92,14 @@ var send_verfication = /** @class */ (function (_super) {
         return this.isRegistered;
     };
     __decorate([
-        property({ type: cc.Label, tooltip: '发送验证码button' })
-    ], send_verfication.prototype, "sen_verficat", void 0);
+        property({ type: cc.Label, tooltip: '顾客手机号' })
+    ], send_verfication.prototype, "cur_phone", void 0);
     __decorate([
         property({ type: cc.Label, tooltip: '顾客给的验证码' })
     ], send_verfication.prototype, "cur_verficat", void 0);
+    __decorate([
+        property({ type: cc.Label, tooltip: '验证码按钮显示倒计时' })
+    ], send_verfication.prototype, "verficat_but", void 0);
     send_verfication = __decorate([
         ccclass
     ], send_verfication);

@@ -2,12 +2,14 @@ const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class send_verfication extends cc.Component {
-
-    @property({ type: cc.Label, tooltip: '发送验证码button' })
-    sen_verficat: cc.Label;
+    @property({ type: cc.Label, tooltip: '顾客手机号' })
+    cur_phone: cc.Label;
 
     @property({ type: cc.Label, tooltip: '顾客给的验证码' })
     cur_verficat: cc.Label;
+
+    @property({ type: cc.Label, tooltip: '验证码按钮显示倒计时' })
+    verficat_but: cc.Label;
 
     private countdownRunning: boolean = false; // 倒计时是否正在进行中
     private isRegistered: boolean = false;
@@ -23,35 +25,35 @@ export default class send_verfication extends cc.Component {
         this.countdownRunning = true; // 将倒计时标记为正在进行中
 
         let count = 60;
-        const labelComponent = this.sen_verficat;
-        var self = this;
+        const labelComponent = this.verficat_but;
+
         const intervalId = setInterval(() => {
             if (count === 1) {
                 labelComponent.string = '发送手机验证码';
                 clearInterval(intervalId);
 
                 // 模拟向服务器发送请求获取验证码
-                const phoneNumber = labelComponent.string;
-                self.sendVerificationCodeRequest(phoneNumber)
+                const phoneNumber = this.cur_phone.string;
+                this.sendVerificationCodeRequest(phoneNumber)
                     .then((verificationCode) => {
                         // 验证码校验
-                        const isValidVerification = verificationCode === self.cur_verficat.string;
+                        const isValidVerification = verificationCode === this.cur_verficat.string;
                         if (isValidVerification) {
                             // 验证码正确
                             console.log('验证码正确');
-                            self.isRegistered = true;
+                            this.isRegistered = true;
                         } else {
                             // 验证码错误
                             console.log('验证码错误');
-                            self.isRegistered = false;
+                            this.isRegistered = false;
                         }
 
-                        self.countdownRunning = false; // 倒计时结束，标记为非进行中
+                        this.countdownRunning = false; // 倒计时结束，标记为非进行中
                     })
                     .catch((error) => {
                         console.error('发送验证码请求出错:', error);
-                        self.isRegistered = false; // 请求出错，将注册状态标记为false
-                        self.countdownRunning = false; // 倒计时结束，标记为非进行中
+                        this.isRegistered = false; // 请求出错，将注册状态标记为false
+                        this.countdownRunning = false; // 倒计时结束，标记为非进行中
                     });
 
                 return;
@@ -61,6 +63,7 @@ export default class send_verfication extends cc.Component {
             count--;
         }, 1000);
     }
+
 
     // 模拟向服务器发送请求获取验证码的方法
     sendVerificationCodeRequest(phoneNumber: string): Promise<string> {
@@ -74,7 +77,7 @@ export default class send_verfication extends cc.Component {
             }, 2000); // 这里使用setTimeout模拟异步请求的延迟时间
         });
     }
-    
+
     ReturnRegistered() {
         return this.isRegistered;
     }

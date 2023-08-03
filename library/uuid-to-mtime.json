@@ -71209,11 +71209,6 @@
     "meta": 1691050323704,
     "relativePath": "Texture\\yadaxiao\\new_skin\\table.jpg"
   },
-  "14045c4d-61e6-43f2-9b9c-dbafd2f49d0b": {
-    "asset": 1691079377134,
-    "meta": 1691079383344,
-    "relativePath": "scripts\\three_languages\\set_languages\\send_verfication.ts"
-  },
   "88ce55a9-fb65-4dbe-a838-e24089780750": {
     "asset": 1691079966628,
     "meta": 1691080172776,
@@ -71239,11 +71234,6 @@
     "meta": 1691082489948,
     "relativePath": "set_language_Text\\baijiale_text\\pl_helpbg.png"
   },
-  "c7a59c14-7ec1-4808-af15-955c4251c004": {
-    "asset": 1691082916101,
-    "meta": 1691082928423,
-    "relativePath": "scripts\\three_languages\\set_languages\\baijiale_game_lan.ts"
-  },
   "3fa6df74-d778-4860-ba3f-5cdb2a5b4c30": {
     "asset": 1691083090456,
     "meta": 1691083090459,
@@ -71253,11 +71243,6 @@
     "asset": 1691083312827,
     "meta": 1691083320871,
     "relativePath": "scripts\\three_languages\\set_languages\\FishMain_lan.ts"
-  },
-  "92de601c-ec05-4602-b425-da33cb30ae87": {
-    "asset": 1691083284180,
-    "meta": 1691083320911,
-    "relativePath": "scripts\\three_languages\\set_languages\\LobbyMain_lan.ts"
   },
   "b1030091-a6e2-43bd-b992-98fa094982ad": {
     "asset": 1690994670221,
@@ -71420,13 +71405,28 @@
     "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
   },
   "b9701a18-9f69-4dc9-8bbd-2a9ac088b5ee": {
-    "asset": 1691090586028,
-    "meta": 1691090586169,
+    "asset": 1691093184616,
+    "meta": 1691093184843,
     "relativePath": "Scene\\LobbyMain.fire"
   },
   "bd60c950-a1fc-4421-a141-3e00573519f3": {
     "asset": 1691090666161,
     "meta": 1691090691710,
     "relativePath": "Script\\Lobby\\LobbyButtonClick.js"
+  },
+  "c7a59c14-7ec1-4808-af15-955c4251c004": {
+    "asset": 1691090860722,
+    "meta": 1691090875858,
+    "relativePath": "scripts\\three_languages\\set_languages\\baijiale_game_lan.ts"
+  },
+  "92de601c-ec05-4602-b425-da33cb30ae87": {
+    "asset": 1691091667257,
+    "meta": 1691091751038,
+    "relativePath": "scripts\\three_languages\\set_languages\\LobbyMain_lan.ts"
+  },
+  "14045c4d-61e6-43f2-9b9c-dbafd2f49d0b": {
+    "asset": 1691092996973,
+    "meta": 1691093006693,
+    "relativePath": "scripts\\three_languages\\set_languages\\send_verfication.ts"
   }
 }

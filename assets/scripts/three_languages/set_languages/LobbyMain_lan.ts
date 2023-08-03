@@ -34,7 +34,8 @@ export default class LobbyMain_lan extends cc.Component {
         16: '手机号',
         17: '验证码',
         18: '确认密码',
-        19:'活动',
+        19: '活动',
+        20: '发送验证码'
     };
 
     enLanguage: { [key: number]: string } = {
@@ -57,7 +58,8 @@ export default class LobbyMain_lan extends cc.Component {
         16: 'Mobile number ',
         17: 'Verification code ',
         18: 'Confirm password',
-        19:' Activity '
+        19: ' Activity ',
+        20: ' Send verification code '
     };
 
     inLanguage: { [key: number]: string } = {
@@ -80,6 +82,8 @@ export default class LobbyMain_lan extends cc.Component {
         16: 'nomor ponsel ',
         17: 'kode verifikasi ',
         18: 'konfirmasi sandi',
+        19: ' Activity ',
+        20: ' Send verification code '
     };
 
     protected start(): void {
