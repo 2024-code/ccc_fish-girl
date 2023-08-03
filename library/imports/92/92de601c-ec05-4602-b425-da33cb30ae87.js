@@ -1,6 +1,6 @@
 "use strict";
-cc._RF.push(module, '92de6Ac7AVGArQl2jPLMK6H', 'LobbyMain _lan');
-// scripts/three_languages/set_languages/LobbyMain _lan.ts
+cc._RF.push(module, '92de6Ac7AVGArQl2jPLMK6H', 'LobbyMain_lan');
+// scripts/three_languages/set_languages/LobbyMain_lan.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {
@@ -30,9 +30,9 @@ var Language;
     Language["VN"] = "txt.vn";
     Language["EN"] = "txt.en";
 })(Language || (Language = {}));
-var yadaxiao_game_lan = /** @class */ (function (_super) {
-    __extends(yadaxiao_game_lan, _super);
-    function yadaxiao_game_lan() {
+var LobbyMain_lan = /** @class */ (function (_super) {
+    __extends(LobbyMain_lan, _super);
+    function LobbyMain_lan() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
         _this.labelArr = [];
         _this.zhLanguage = {
@@ -54,7 +54,8 @@ var yadaxiao_game_lan = /** @class */ (function (_super) {
             15: '登录',
             16: '手机号',
             17: '验证码',
-            18: '确认密码'
+            18: '确认密码',
+            19: '活动',
         };
         _this.enLanguage = {
             0: 'Mobile number registration ',
@@ -75,7 +76,8 @@ var yadaxiao_game_lan = /** @class */ (function (_super) {
             15: 'Login',
             16: 'Mobile number ',
             17: 'Verification code ',
-            18: 'Confirm password'
+            18: 'Confirm password',
+            19: ' Activity '
         };
         _this.inLanguage = {
             0: 'plat nomor mobil ',
@@ -96,14 +98,22 @@ var yadaxiao_game_lan = /** @class */ (function (_super) {
             15: 'log masuk',
             16: 'nomor ponsel ',
             17: 'kode verifikasi ',
-            18: 'konfirmasi sandi'
+            18: 'konfirmasi sandi',
         };
         return _this;
     }
-    yadaxiao_game_lan.prototype.start = function () {
+    LobbyMain_lan_1 = LobbyMain_lan;
+    LobbyMain_lan.prototype.start = function () {
+        if (LobbyMain_lan_1.Instance === null) {
+            LobbyMain_lan_1.Instance = this;
+        }
+        else {
+            this.destroy();
+            return;
+        }
         this.setLanguage();
     };
-    yadaxiao_game_lan.prototype.setLanguage = function () {
+    LobbyMain_lan.prototype.setLanguage = function () {
         var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
         var languageObj = {};
         switch (language) {
@@ -121,14 +131,16 @@ var yadaxiao_game_lan = /** @class */ (function (_super) {
             label.string = languageObj[index] || '';
         });
     };
+    var LobbyMain_lan_1;
+    LobbyMain_lan.Instance = null;
     __decorate([
         property({ type: [cc.Label], tooltip: '替换的Label' })
-    ], yadaxiao_game_lan.prototype, "labelArr", void 0);
-    yadaxiao_game_lan = __decorate([
+    ], LobbyMain_lan.prototype, "labelArr", void 0);
+    LobbyMain_lan = LobbyMain_lan_1 = __decorate([
         ccclass
-    ], yadaxiao_game_lan);
-    return yadaxiao_game_lan;
+    ], LobbyMain_lan);
+    return LobbyMain_lan;
 }(cc.Component));
-exports.default = yadaxiao_game_lan;
+exports.default = LobbyMain_lan;
 
 cc._RF.pop();

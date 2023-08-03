@@ -23,6 +23,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+var LobbyMain_lan_1 = require("./set_languages/LobbyMain_lan");
 var ccclass = cc._decorator.ccclass;
 var Record = /** @class */ (function (_super) {
     __extends(Record, _super);
@@ -35,6 +36,7 @@ var Record = /** @class */ (function (_super) {
     Record.prototype.which_language = function (cur) {
         var language = cur.currentTarget.name;
         cc.sys.localStorage.setItem('selectedLanguage', language);
+        LobbyMain_lan_1.default.Instance.setLanguage();
         console.log(language);
     };
     Record = __decorate([

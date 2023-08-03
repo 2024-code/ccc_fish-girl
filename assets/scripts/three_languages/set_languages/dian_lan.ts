@@ -12,6 +12,18 @@ export default class dian_lan extends cc.Component {
     @property({ type: [cc.Label], tooltip: '替换的Label' })
     labelArr: cc.Label[] = [];
 
+    @property({ type: [cc.Sprite], tooltip: '替换的Sprite' })
+    spriteArr: cc.Sprite[] = [];
+
+    @property({ type: [cc.SpriteFrame], tooltip: '替换的中文图片' })
+    spriteFrameArr_zh: cc.SpriteFrame[] = [];
+
+    @property({ type: [cc.SpriteFrame], tooltip: '替换的英文图片' })
+    spriteFrameArr_en: cc.SpriteFrame[] = [];
+
+    @property({ type: [cc.SpriteFrame], tooltip: '替换的印尼图片' })
+    spriteFrameArr_vn: cc.SpriteFrame[] = [];
+
     zhLanguage: { [key: number]: string } = {
         0: '点击下注',
         1: '退出',
@@ -41,12 +53,21 @@ export default class dian_lan extends cc.Component {
         switch (language) {
             case Language.ZH:
                 languageObj = this.zhLanguage;
+                for (let i = 0; i < this.spriteFrameArr_zh.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_zh[i];
+                }
                 break;
             case Language.VN:
                 languageObj = this.inLanguage;
+                for (let i = 0; i < this.spriteFrameArr_vn.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_vn[i];
+                }
                 break;
             case Language.EN:
                 languageObj = this.enLanguage;
+                for (let i = 0; i < this.spriteFrameArr_en.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_en[i];
+                }
                 break;
         }
 

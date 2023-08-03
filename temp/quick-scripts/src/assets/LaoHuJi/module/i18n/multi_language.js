@@ -10,7 +10,7 @@ cc.Class({
     Panel_choose_language: cc.Node
   },
   onBtnClick_arrow: function onBtnClick_arrow() {
-    this.node.active = false;
+    // this.node.active = false;
     this.Panel_choose_language.active = true;
   }
 });

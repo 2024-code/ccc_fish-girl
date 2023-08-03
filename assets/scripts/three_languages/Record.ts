@@ -1,3 +1,5 @@
+import LobbyMain_lan from "./set_languages/LobbyMain_lan";
+
 const { ccclass } = cc._decorator;
 
 @ccclass
@@ -9,6 +11,7 @@ export default class Record extends cc.Component {
     which_language(cur: any) {
         let language = cur.currentTarget.name;
         cc.sys.localStorage.setItem('selectedLanguage', language);
+        LobbyMain_lan.Instance.setLanguage(); 
         console.log(language);
     }
 }

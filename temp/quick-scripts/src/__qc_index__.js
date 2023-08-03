@@ -345,7 +345,7 @@ require('./assets/scripts/three_languages/Record');
 require('./assets/scripts/three_languages/set_languages/ATTlianhuanpao_lan');
 require('./assets/scripts/three_languages/set_languages/FishMain_lan');
 require('./assets/scripts/three_languages/set_languages/HotUpdate_lan');
-require('./assets/scripts/three_languages/set_languages/LobbyMain _lan');
+require('./assets/scripts/three_languages/set_languages/LobbyMain_lan');
 require('./assets/scripts/three_languages/set_languages/Slot_aztec_lan');
 require('./assets/scripts/three_languages/set_languages/baijiale_game_lan');
 require('./assets/scripts/three_languages/set_languages/dian_lan');

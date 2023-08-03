@@ -3,8 +3,8 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class send_verfication extends cc.Component {
 
-    @property({ type: cc.Label, tooltip: '顾客手机号' })
-    cur_phone: cc.Label;
+    @property({ type: cc.Label, tooltip: '发送验证码button' })
+    sen_verficat: cc.Label;
 
     @property({ type: cc.Label, tooltip: '顾客给的验证码' })
     cur_verficat: cc.Label;
@@ -23,7 +23,7 @@ export default class send_verfication extends cc.Component {
         this.countdownRunning = true; // 将倒计时标记为正在进行中
 
         let count = 60;
-        const labelComponent = this.cur_phone;
+        const labelComponent = this.sen_verficat;
         var self = this;
         const intervalId = setInterval(() => {
             if (count === 1) {

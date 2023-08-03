@@ -7,7 +7,7 @@ cc.Class({
 
     onBtnClick_arrow: function () 
     {
-        this.node.active = false;
+        // this.node.active = false;
         this.Panel_choose_language.active = true;
     },
 });

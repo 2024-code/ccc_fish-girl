@@ -1,4 +1,3 @@
-
 "use strict";
 cc._RF.push(module, '08c87Or0SxL5aE2cvUmlzr/', 'FishMain_lan');
 // scripts/three_languages/set_languages/FishMain_lan.ts
@@ -186,6 +185,10 @@ var FishMain_lan = /** @class */ (function (_super) {
             46: 'bom layar penuh',
             47: "penanaman ikan"
         };
+        _this.spriteArr = [];
+        _this.spriteFrameArr_zh = [];
+        _this.spriteFrameArr_en = [];
+        _this.spriteFrameArr_vn = [];
         return _this;
     }
     FishMain_lan.prototype.start = function () {
@@ -197,12 +200,21 @@ var FishMain_lan = /** @class */ (function (_super) {
         switch (language) {
             case Language.ZH:
                 languageObj = this.zhLanguage;
+                for (var i = 0; i < this.spriteFrameArr_zh.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_zh[i];
+                }
                 break;
             case Language.VN:
                 languageObj = this.inLanguage;
+                for (var i = 0; i < this.spriteFrameArr_vn.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_vn[i];
+                }
                 break;
             case Language.EN:
                 languageObj = this.enLanguage;
+                for (var i = 0; i < this.spriteFrameArr_en.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_en[i];
+                }
                 break;
         }
         this.labelArr.forEach(function (label, index) {
@@ -212,6 +224,18 @@ var FishMain_lan = /** @class */ (function (_super) {
     __decorate([
         property({ type: [cc.Label], tooltip: '替换的Label' })
     ], FishMain_lan.prototype, "labelArr", void 0);
+    __decorate([
+        property({ type: [cc.Sprite], tooltip: '替换的Sprite' })
+    ], FishMain_lan.prototype, "spriteArr", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的中文图片' })
+    ], FishMain_lan.prototype, "spriteFrameArr_zh", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的英文图片' })
+    ], FishMain_lan.prototype, "spriteFrameArr_en", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的印尼图片' })
+    ], FishMain_lan.prototype, "spriteFrameArr_vn", void 0);
     FishMain_lan = __decorate([
         ccclass
     ], FishMain_lan);

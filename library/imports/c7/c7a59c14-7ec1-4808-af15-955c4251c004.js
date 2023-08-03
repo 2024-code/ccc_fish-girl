@@ -35,25 +35,33 @@ var BaijialeGameLan = /** @class */ (function (_super) {
     function BaijialeGameLan() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
         _this.labelArr = [];
+        _this.spriteArr = [];
+        _this.spriteFrameArr_zh = [];
+        _this.spriteFrameArr_en = [];
+        _this.spriteFrameArr_vn = [];
         _this.zhLanguage = {
             0: '点',
             1: '点',
             2: '富豪',
             3: '神算子',
-            4: '规则'
+            4: '规则',
+            5: '请下住'
         };
         _this.enLanguage = {
             0: 'POINT',
             1: 'POINT',
             2: 'RICH',
             3: 'GodOperator',
-            4: 'RULE'
+            4: 'RULE',
+            5: ' Please stay down '
         };
         _this.inLanguage = {
-            0: 'titik',
-            1: 'pluviosity',
-            2: 'pembuat firman',
-            3: 'aturan'
+            0: 'titik ',
+            1: 'titik ',
+            2: 'kaya ',
+            3: 'GodOperator',
+            4: 'aturan ',
+            5: 'tolong jangan bangun'
         };
         return _this;
     }
@@ -66,12 +74,21 @@ var BaijialeGameLan = /** @class */ (function (_super) {
         switch (language) {
             case Language.ZH:
                 languageObj = this.zhLanguage;
+                for (var i = 0; i < this.spriteFrameArr_zh.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_zh[i];
+                }
                 break;
             case Language.VN:
                 languageObj = this.inLanguage;
+                for (var i = 0; i < this.spriteFrameArr_vn.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_vn[i];
+                }
                 break;
             case Language.EN:
                 languageObj = this.enLanguage;
+                for (var i = 0; i < this.spriteFrameArr_en.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_en[i];
+                }
                 break;
         }
         this.labelArr.forEach(function (label, index) {
@@ -81,6 +98,18 @@ var BaijialeGameLan = /** @class */ (function (_super) {
     __decorate([
         property({ type: [cc.Label], tooltip: '替换的Label' })
     ], BaijialeGameLan.prototype, "labelArr", void 0);
+    __decorate([
+        property({ type: [cc.Sprite], tooltip: '替换的Sprite' })
+    ], BaijialeGameLan.prototype, "spriteArr", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的中文图片' })
+    ], BaijialeGameLan.prototype, "spriteFrameArr_zh", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的英文图片' })
+    ], BaijialeGameLan.prototype, "spriteFrameArr_en", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的印尼图片' })
+    ], BaijialeGameLan.prototype, "spriteFrameArr_vn", void 0);
     BaijialeGameLan = __decorate([
         ccclass
     ], BaijialeGameLan);

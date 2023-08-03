@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '14045xNYeZD8puc26/S9J0L', 'send_verfication');
-// scripts/three_languages/sen_verification /send_verfication.ts
+// scripts/three_languages/set_languages/send_verfication.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {
@@ -41,7 +41,7 @@ var send_verfication = /** @class */ (function (_super) {
         }
         this.countdownRunning = true; // 将倒计时标记为正在进行中
         var count = 60;
-        var labelComponent = this.cur_phone;
+        var labelComponent = this.sen_verficat;
         var self = this;
         var intervalId = setInterval(function () {
             if (count === 1) {
@@ -92,8 +92,8 @@ var send_verfication = /** @class */ (function (_super) {
         return this.isRegistered;
     };
     __decorate([
-        property({ type: cc.Label, tooltip: '顾客手机号' })
-    ], send_verfication.prototype, "cur_phone", void 0);
+        property({ type: cc.Label, tooltip: '发送验证码button' })
+    ], send_verfication.prototype, "sen_verficat", void 0);
     __decorate([
         property({ type: cc.Label, tooltip: '顾客给的验证码' })
     ], send_verfication.prototype, "cur_verficat", void 0);

@@ -16,53 +16,37 @@
             "children": [
               "hierarchy"
             ],
-            "height": 808.2000122070312,
+            "height": 761.7000122070312,
             "type": "panel",
-            "width": 204.9250030517578
+            "width": 204.1875
           },
           {
             "active": 0,
             "children": [
               "assets"
             ],
-            "height": 808.2000122070312,
+            "height": 761.7000122070312,
             "type": "panel",
-            "width": 204.9250030517578
+            "width": 204.1875
           },
           {
             "active": 0,
             "children": [
               "scene"
             ],
-            "height": 808.2000122070312,
+            "height": 761.7000122070312,
             "type": "panel",
-            "width": 614.7625122070312
+            "width": 610.5499877929688
           },
           {
+            "active": 0,
             "children": [
-              {
-                "active": 0,
-                "children": [
-                  "inspector",
-                  "cocos-services"
-                ],
-                "height": 556,
-                "type": "panel",
-                "width": 504.8000183105469
-              },
-              {
-                "active": 0,
-                "children": [
-                  "timeline"
-                ],
-                "height": 266,
-                "type": "panel",
-                "width": 504.8000183105469
-              }
+              "inspector",
+              "cocos-services"
             ],
-            "height": 825,
-            "type": "dock-v",
-            "width": 504.8000183105469
+            "height": 761.7000122070312,
+            "type": "panel",
+            "width": 510.4624938964844
           }
         ],
         "type": "dock-h"
@@ -72,10 +56,10 @@
         "assets",
         "scene",
         "inspector",
-        "cocos-services",
-        "timeline"
+        "cocos-services"
       ]
-    }
+    },
+    "worker": {}
   },
   "panels": {
     "preferences": {

@@ -30688,7 +30688,7 @@
         "__id__": 1109
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 1111
@@ -49221,6 +49221,56 @@
       {
         "__id__": 1110
       }
+    ],
+    "spriteArr": [
+      {
+        "__id__": 650
+      },
+      {
+        "__id__": 654
+      },
+      {
+        "__id__": 658
+      }
+    ],
+    "spriteFrameArr_zh": [
+      {
+        "__uuid__": "9b11f35a-51b4-41d5-88ab-8909eaca1c1c"
+      },
+      {
+        "__uuid__": "a28d3ed0-7e7c-4d44-85e7-6439a5509d23"
+      },
+      {
+        "__uuid__": "794ab716-6ef2-42f4-9834-d562f8a9b40f"
+      },
+      null,
+      null
+    ],
+    "spriteFrameArr_en": [
+      {
+        "__uuid__": "95e196e1-e776-429c-a221-445c73fe182d"
+      },
+      {
+        "__uuid__": "73024eae-72ec-4a5a-9f5e-e6364051cfc1"
+      },
+      {
+        "__uuid__": "1173ae34-7be7-4bb2-980a-3b52e127e551"
+      },
+      null,
+      null
+    ],
+    "spriteFrameArr_vn": [
+      {
+        "__uuid__": "95e196e1-e776-429c-a221-445c73fe182d"
+      },
+      {
+        "__uuid__": "73024eae-72ec-4a5a-9f5e-e6364051cfc1"
+      },
+      {
+        "__uuid__": "1173ae34-7be7-4bb2-980a-3b52e127e551"
+      },
+      null,
+      null
     ],
     "_id": "b6SEVNPXNN6aNbOjD9NOD/"
   },

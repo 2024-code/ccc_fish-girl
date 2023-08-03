@@ -7,7 +7,9 @@ enum Language {
 }
 
 @ccclass
-export default class yadaxiao_game_lan extends cc.Component {
+export default class LobbyMain_lan extends cc.Component {
+
+    public static Instance: LobbyMain_lan = null as unknown as LobbyMain_lan;
 
     @property({ type: [cc.Label], tooltip: '替换的Label' })
     labelArr: cc.Label[] = [];
@@ -31,7 +33,8 @@ export default class yadaxiao_game_lan extends cc.Component {
         15: '登录',
         16: '手机号',
         17: '验证码',
-        18: '确认密码'
+        18: '确认密码',
+        19:'活动',
     };
 
     enLanguage: { [key: number]: string } = {
@@ -53,7 +56,8 @@ export default class yadaxiao_game_lan extends cc.Component {
         15: 'Login',
         16: 'Mobile number ',
         17: 'Verification code ',
-        18: 'Confirm password'
+        18: 'Confirm password',
+        19:' Activity '
     };
 
     inLanguage: { [key: number]: string } = {
@@ -75,14 +79,20 @@ export default class yadaxiao_game_lan extends cc.Component {
         15: 'log masuk',
         16: 'nomor ponsel ',
         17: 'kode verifikasi ',
-        18: 'konfirmasi sandi'
+        18: 'konfirmasi sandi',
     };
 
     protected start(): void {
+        if (LobbyMain_lan.Instance === null) {
+            LobbyMain_lan.Instance = this;
+        } else {
+            this.destroy();
+            return;
+        }
         this.setLanguage();
     }
 
-    private setLanguage(): void {
+    public setLanguage(): void {
         let language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
 
         let languageObj: { [key: number]: string } = {};

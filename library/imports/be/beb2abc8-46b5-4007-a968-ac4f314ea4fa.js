@@ -35,6 +35,13 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
     function ATTlianhuanpao_lan() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
         _this.labelArr = [];
+        _this.spriteArr = [];
+        _this.spriteFrameArr_zh = [];
+        _this.spriteFrameArr_en = [];
+        _this.spriteFrameArr_vn = [];
+        _this.beginSpriteArr_zh = [];
+        _this.beginSpriteArr_en = [];
+        _this.beginSpriteArr_vn = [];
         _this.zhLanguage = {
             0: '点击下注',
             1: '退出',
@@ -61,12 +68,33 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
         switch (language) {
             case Language.ZH:
                 languageObj = this.zhLanguage;
+                for (var i = 0; i < this.spriteFrameArr_zh.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_zh[i];
+                }
+                this.beginArr.normalSprite = this.beginSpriteArr_zh[0];
+                this.beginArr.pressedSprite = this.beginSpriteArr_zh[1];
+                // this.beginArr.hoverSprite = this.beginSpriteArr_zh[2];
+                // this.beginArr.disabledSprite = this.beginSpriteArr_zh[3];
                 break;
             case Language.VN:
                 languageObj = this.inLanguage;
+                for (var i = 0; i < this.spriteFrameArr_vn.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_vn[i];
+                }
+                this.beginArr.normalSprite = this.beginSpriteArr_vn[0];
+                this.beginArr.pressedSprite = this.beginSpriteArr_vn[1];
+                // this.beginArr.hoverSprite = this.beginSpriteArr_vn[2];
+                // this.beginArr.disabledSprite = this.beginSpriteArr_vn[3];
                 break;
             case Language.EN:
                 languageObj = this.enLanguage;
+                for (var i = 0; i < this.spriteFrameArr_en.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_en[i];
+                }
+                this.beginArr.normalSprite = this.beginSpriteArr_en[0];
+                this.beginArr.pressedSprite = this.beginSpriteArr_en[1];
+                // this.beginArr.hoverSprite = this.beginSpriteArr_en[2];
+                // this.beginArr.disabledSprite = this.beginSpriteArr_en[3];
                 break;
         }
         this.labelArr.forEach(function (label, index) {
@@ -76,6 +104,30 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
     __decorate([
         property({ type: [cc.Label], tooltip: '替换的Label' })
     ], ATTlianhuanpao_lan.prototype, "labelArr", void 0);
+    __decorate([
+        property({ type: [cc.Sprite], tooltip: '替换的Sprite' })
+    ], ATTlianhuanpao_lan.prototype, "spriteArr", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的中文图片' })
+    ], ATTlianhuanpao_lan.prototype, "spriteFrameArr_zh", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的英文图片' })
+    ], ATTlianhuanpao_lan.prototype, "spriteFrameArr_en", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的印尼图片' })
+    ], ATTlianhuanpao_lan.prototype, "spriteFrameArr_vn", void 0);
+    __decorate([
+        property({ type: cc.Button, tooltip: '开始按钮' })
+    ], ATTlianhuanpao_lan.prototype, "beginArr", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '开始的Sprite中文贴图' })
+    ], ATTlianhuanpao_lan.prototype, "beginSpriteArr_zh", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '开始的Sprite英文贴图' })
+    ], ATTlianhuanpao_lan.prototype, "beginSpriteArr_en", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '开始的Sprite印尼贴图' })
+    ], ATTlianhuanpao_lan.prototype, "beginSpriteArr_vn", void 0);
     ATTlianhuanpao_lan = __decorate([
         ccclass
     ], ATTlianhuanpao_lan);
