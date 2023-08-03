@@ -71185,8 +71185,8 @@
     "relativePath": "scripts\\three_languages\\set_languages\\Slot_aztec_lan.ts"
   },
   "b9701a18-9f69-4dc9-8bbd-2a9ac088b5ee": {
-    "asset": 1691081324551,
-    "meta": 1691081325544,
+    "asset": 1691088880682,
+    "meta": 1691088880905,
     "relativePath": "Scene\\LobbyMain.fire"
   },
   "4745e899-b445-4502-8666-2297d3708fa8": {
@@ -71208,11 +71208,6 @@
     "asset": 1690843840994,
     "meta": 1690843978615,
     "relativePath": "scripts\\three_languages\\set_languages\\yadaxiao_game_lan.ts"
-  },
-  "bd60c950-a1fc-4421-a141-3e00573519f3": {
-    "asset": 1690844539803,
-    "meta": 1690844554752,
-    "relativePath": "Script\\Lobby\\LobbyButtonClick.js"
   },
   "e3a63fd3-4dd1-4d30-9d0d-69221600ba9a": {
     "asset": 1615548155000,
@@ -71419,14 +71414,19 @@
     "meta": 1691085864899,
     "relativePath": "set_language_Text\\ATTlianhuanpao\\UI_BaoLiu.png"
   },
-  "beb2abc8-46b5-4007-a968-ac4f314ea4fa": {
-    "asset": 1691087767476,
-    "meta": 1691087774949,
-    "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
-  },
   "c280416e-9959-441e-8dc8-b8cd71617ac0": {
     "asset": 1691087893481,
     "meta": 1691087893486,
     "relativePath": "set_language_Text\\saigou"
+  },
+  "beb2abc8-46b5-4007-a968-ac4f314ea4fa": {
+    "asset": 1691088222157,
+    "meta": 1691088358666,
+    "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
+  },
+  "bd60c950-a1fc-4421-a141-3e00573519f3": {
+    "asset": 1691088735709,
+    "meta": 1691088746960,
+    "relativePath": "Script\\Lobby\\LobbyButtonClick.js"
   }
 }

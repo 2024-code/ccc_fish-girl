@@ -53252,7 +53252,7 @@
     "node": {
       "__id__": 1254
     },
-    "_enabled": true,
+    "_enabled": false,
     "_normalMaterial": null,
     "_grayMaterial": null,
     "duration": 0.1,
@@ -144320,7 +144320,7 @@
         "__id__": 3348
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [],
     "_prefab": null,
     "_opacity": 255,
@@ -151796,7 +151796,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 22,
+      "width": 22.25,
       "height": 50.4
     },
     "_anchorPoint": {
