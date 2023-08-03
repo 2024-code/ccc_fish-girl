@@ -1,0 +1,895 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "slots_82",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ON/UQhf2xPZ+AD5PMv2tNVf2IkQ",
+      "spine": "3.5.46",
+      "width": 159,
+      "height": 165
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "ALL",
+        "parent": "root",
+        "y": -2
+      },
+      {
+        "name": "BG",
+        "parent": "ALL"
+      },
+      {
+        "name": "bone",
+        "parent": "ALL",
+        "x": -2.2,
+        "y": -33
+      },
+      {
+        "name": "bone2",
+        "parent": "bone",
+        "x": 4.23,
+        "y": 1.9,
+        "scaleX": 0.468,
+        "scaleY": 0.468
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg3",
+        "bone": "BG",
+        "attachment": "bg"
+      },
+      {
+        "name": "light",
+        "bone": "BG",
+        "color": "ffffff00",
+        "attachment": "lizi_00175",
+        "blend": "additive"
+      },
+      {
+        "name": "lion",
+        "bone": "bone",
+        "attachment": "lion"
+      },
+      {
+        "name": "lionlight",
+        "bone": "bone",
+        "color": "ffffff00",
+        "attachment": "lionlight",
+        "blend": "additive"
+      },
+      {
+        "name": "312",
+        "bone": "bone2",
+        "color": "ffffff00",
+        "attachment": "312",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "312": {
+          "312": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        "bg3": {
+          "bg": {
+            "width": 128,
+            "height": 129
+          }
+        },
+        "light": {
+          "lizi_00175": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              64,
+              -64,
+              -64,
+              -64,
+              -64,
+              64,
+              64,
+              64
+            ],
+            "hull": 4
+          }
+        },
+        "lion": {
+          "lion": {
+            "type": "mesh",
+            "uvs": [
+              0.78211,
+              0.07302,
+              0.81767,
+              0.09528,
+              0.85951,
+              0.32199,
+              0.92016,
+              0.51834,
+              1,
+              0.62562,
+              1,
+              0.95759,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.96568,
+              0,
+              0.8665,
+              0.12742,
+              0.7916,
+              0.1588,
+              0.57501,
+              0.22782,
+              0.46166,
+              0.20272,
+              0.37665,
+              0.20482,
+              0.12362,
+              0.31777,
+              0,
+              0.61897,
+              0,
+              0.46627,
+              0.08111,
+              0.39307,
+              0.20661,
+              0.38052,
+              0.46369,
+              0.74237,
+              0.57299,
+              0.69845,
+              0.67015,
+              0.25502,
+              0.69242,
+              0.22364,
+              0.81387
+            ],
+            "triangles": [
+              17,
+              15,
+              16,
+              18,
+              15,
+              17,
+              14,
+              15,
+              18,
+              13,
+              14,
+              18,
+              19,
+              12,
+              13,
+              18,
+              19,
+              13,
+              17,
+              0,
+              2,
+              16,
+              0,
+              17,
+              2,
+              0,
+              1,
+              20,
+              2,
+              3,
+              2,
+              18,
+              17,
+              2,
+              19,
+              18,
+              20,
+              19,
+              2,
+              21,
+              19,
+              20,
+              22,
+              12,
+              19,
+              22,
+              19,
+              21,
+              11,
+              12,
+              22,
+              10,
+              11,
+              22,
+              23,
+              10,
+              22,
+              20,
+              3,
+              4,
+              4,
+              21,
+              20,
+              5,
+              21,
+              4,
+              8,
+              9,
+              10,
+              8,
+              10,
+              23,
+              23,
+              22,
+              21,
+              23,
+              21,
+              5,
+              8,
+              23,
+              5,
+              6,
+              7,
+              8,
+              6,
+              8,
+              5
+            ],
+            "vertices": [
+              31.84,
+              96.02,
+              36.11,
+              93.26,
+              41.13,
+              65.15,
+              48.41,
+              40.8,
+              57.99,
+              27.5,
+              57.99,
+              -13.66,
+              57.99,
+              -18.92,
+              -62.01,
+              -18.92,
+              -62.01,
+              -14.67,
+              -62.01,
+              -2.37,
+              -46.72,
+              6.92,
+              -42.95,
+              33.77,
+              -34.67,
+              47.83,
+              -37.68,
+              58.37,
+              -37.43,
+              89.75,
+              -23.88,
+              105.08,
+              12.27,
+              105.08,
+              -6.06,
+              95.02,
+              -14.84,
+              79.46,
+              -16.35,
+              47.58,
+              27.07,
+              34.03,
+              21.8,
+              21.98,
+              -31.41,
+              19.22,
+              -35.17,
+              4.16
+            ],
+            "hull": 17
+          }
+        },
+        "lionlight": {
+          "lionlight": {
+            "x": -1.51,
+            "y": 43.58,
+            "width": 159,
+            "height": 165
+          }
+        }
+      }
+    },
+    "animations": {
+      "ami3": {
+        "slots": {
+          "312": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "312"
+              },
+              {
+                "time": 1,
+                "name": "312"
+              },
+              {
+                "time": 2,
+                "name": "312"
+              }
+            ]
+          },
+          "bg3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bg"
+              },
+              {
+                "time": 1,
+                "name": "bg"
+              },
+              {
+                "time": 2,
+                "name": "bg"
+              }
+            ]
+          },
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "lizi_00175"
+              },
+              {
+                "time": 1,
+                "name": "lizi_00175"
+              },
+              {
+                "time": 2,
+                "name": "lizi_00175"
+              }
+            ]
+          },
+          "lion": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "lion"
+              },
+              {
+                "time": 1,
+                "name": "lion"
+              },
+              {
+                "time": 2,
+                "name": "lion"
+              }
+            ]
+          },
+          "lionlight": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "lionlight"
+              },
+              {
+                "time": 1,
+                "name": "lionlight"
+              },
+              {
+                "time": 2,
+                "name": "lionlight"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": -4.74,
+                "y": 1.18
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.212,
+                "y": 1.212
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "BG": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "ALL": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "light": {
+              "lizi_00175": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.3333,
+                  "vertices": [
+                    73.21341,
+                    -73.21342,
+                    -73.21341,
+                    -73.21342,
+                    -73.21341,
+                    73.21342,
+                    73.21341,
+                    73.21342
+                  ]
+                },
+                {
+                  "time": 1,
+                  "vertices": [
+                    50.0368,
+                    -50.0368,
+                    -50.0368,
+                    -50.0368,
+                    -50.0368,
+                    50.0368,
+                    50.0368,
+                    50.0368
+                  ]
+                },
+                {
+                  "time": 1.6667,
+                  "vertices": [
+                    73.21341,
+                    -73.21342,
+                    -73.21341,
+                    -73.21342,
+                    -73.21341,
+                    73.21342,
+                    73.21341,
+                    73.21342
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "lion": {
+              "lion": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.3333,
+                  "vertices": [
+                    2.25801,
+                    -0.38898,
+                    1.86902,
+                    -6.22398,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2.86996,
+                    -0.574,
+                    2.86996,
+                    -0.574,
+                    4.592,
+                    0,
+                    0,
+                    0,
+                    -2.10403,
+                    3.15602,
+                    -2.10403,
+                    3.15602,
+                    -0.52603,
+                    4.20802,
+                    0,
+                    0,
+                    -0.52603,
+                    4.20802
+                  ]
+                },
+                {
+                  "time": 1,
+                  "offset": 36,
+                  "vertices": [
+                    3.68197,
+                    -2.10401,
+                    3.68197,
+                    -2.10401,
+                    0,
+                    -3.68201,
+                    0,
+                    0,
+                    0,
+                    -3.68201
+                  ]
+                },
+                {
+                  "time": 1.5,
+                  "vertices": [
+                    -1.66495,
+                    -0.94402,
+                    -1.66495,
+                    -0.94402,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.44397,
+                    -0.57401,
+                    -3.44397,
+                    -0.57401,
+                    -5.16597,
+                    -1.722,
+                    0,
+                    0,
+                    8.31403,
+                    3.68198,
+                    8.31403,
+                    3.68198,
+                    0,
+                    0.78901,
+                    0,
+                    0,
+                    0,
+                    0.78901
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            }
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          },
+          {
+            "time": 1
+          },
+          {
+            "time": 2
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nslots_82.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n312\n  rotate: false\n  xy: 423, 189\n  size: 64, 64\n  orig: 64, 64\n  offset: 0, 0\n  index: -1\nbg\n  rotate: false\n  xy: 163, 124\n  size: 128, 129\n  orig: 128, 129\n  offset: 0, 0\n  index: -1\nlion\n  rotate: true\n  xy: 163, 2\n  size: 120, 124\n  orig: 120, 124\n  offset: 0, 0\n  index: -1\nlionlight\n  rotate: false\n  xy: 2, 88\n  size: 159, 165\n  orig: 159, 165\n  offset: 0, 0\n  index: -1\nlizi_00175\n  rotate: false\n  xy: 293, 125\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "60d10648-a15c-473d-82ed-a2c19f55f6c6"
+    }
+  ],
+  "textureNames": [
+    "slots_82.png"
+  ],
+  "scale": 1
+}

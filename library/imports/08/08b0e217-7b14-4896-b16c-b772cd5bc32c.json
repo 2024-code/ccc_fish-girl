@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_chip_shadow",
+    "texture": "893d77ef-e874-48b0-ba19-d74f08e0eb68",
+    "atlas": "3a07ef5d-800c-44f7-82b4-0b758072f750",
+    "rect": [
+      63,
+      125,
+      41,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

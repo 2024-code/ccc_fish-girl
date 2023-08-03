@@ -1,0 +1,55 @@
+
+beike.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+86-1
+  rotate: false
+  xy: 366, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bk01
+  rotate: true
+  xy: 133, 81
+  size: 173, 100
+  orig: 173, 100
+  offset: 0, 0
+  index: -1
+bk02
+  rotate: false
+  xy: 2, 2
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+bk03
+  rotate: true
+  xy: 2, 73
+  size: 181, 129
+  orig: 181, 129
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 235, 121
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 366, 8
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+paopaoUp
+  rotate: false
+  xy: 172, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

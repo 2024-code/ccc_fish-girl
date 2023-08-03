@@ -1,0 +1,63 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "face", "parent": "root", "length": 40.26, "x": -25.77, "y": -78.94, "rotation": 70.89 },
+	{ "name": "bone", "parent": "face", "length": 19.08, "x": 115.94, "y": 2.58, "rotation": -50.27 },
+	{ "name": "eyes", "parent": "face", "length": 8.26, "x": 94.5, "y": 10.1, "rotation": 2.25 },
+	{ "name": "nose", "parent": "face", "length": 6.88, "x": 84.09, "y": 11.73, "rotation": 0.45 }
+],
+"slots": [
+	{ "name": "icon_milefo_face", "bone": "face", "attachment": "icon_milefo_face" },
+	{ "name": "icon_milefo_nose", "bone": "nose", "attachment": "icon_milefo_nose" },
+	{ "name": "icon_molefo_eyes", "bone": "eyes", "attachment": "icon_molefo_eyes" },
+	{ "name": "hat", "bone": "bone", "attachment": "hat" }
+],
+"skins": {
+	"default": {
+		"hat": {
+			"hat": { "x": 10.12, "y": -11.91, "rotation": -29.99, "width": 68, "height": 45 }
+		},
+		"icon_milefo_face": {
+			"icon_milefo_face": { "x": 86.82, "y": -1.55, "rotation": -70.89, "width": 75, "height": 73 }
+		},
+		"icon_milefo_nose": {
+			"icon_milefo_nose": { "x": -6.56, "y": -2.5, "rotation": -71.34, "width": 30, "height": 28 }
+		},
+		"icon_molefo_eyes": {
+			"icon_molefo_eyes": { "x": 1.1, "y": -3.52, "rotation": -73.14, "width": 31, "height": 10 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"face": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0666, "angle": 0.1 },
+					{ "time": 0.3, "angle": 4.1 },
+					{ "time": 0.5333, "angle": 9.1 },
+					{ "time": 0.8, "angle": 4.1 },
+					{ "time": 1, "angle": 0.1 },
+					{ "time": 1.0666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -5.11, "y": 2.53 },
+					{ "time": 0.5333, "x": -8.11, "y": 4.53 },
+					{ "time": 0.8, "x": -5.11, "y": 2.53 },
+					{ "time": 1.0666, "x": 0, "y": 0 }
+				]
+			},
+			"eyes": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4, "x": 1, "y": 1 },
+					{ "time": 0.5333, "x": 0.7, "y": 1 },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

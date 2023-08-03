@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "TriangleGame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "TriangleAddN": {
+      "__uuid__": "49d9817f-d987-48d3-9f52-0d77524ce079"
+    },
+    "TriangleAddP": {
+      "__uuid__": "30ac362c-7873-42f4-8852-c93f6baa4234"
+    },
+    "TriangleBetBG": {
+      "__uuid__": "8a8e6456-9dd6-4858-9e0e-ea0ad34cdcf1"
+    },
+    "TriangleBlink00": {
+      "__uuid__": "e3c7bd10-139a-43c3-936c-89242c3e1e9d"
+    },
+    "TriangleBlink01": {
+      "__uuid__": "1a5aa005-ce58-4529-abd5-fb2856e7c666"
+    },
+    "TriangleBonusBG": {
+      "__uuid__": "6f169c8d-a322-4749-9d15-7cbcab8862a1"
+    },
+    "TriangleBonusIconH": {
+      "__uuid__": "07276316-708c-4b19-93db-92e4f1599aad"
+    },
+    "TriangleBonusIconN": {
+      "__uuid__": "f54e2990-1601-42e4-b89d-e73b010ab56f"
+    },
+    "TriangleBtnD": {
+      "__uuid__": "64b68497-52ea-42d6-b61d-bceb952be200"
+    },
+    "TriangleBtnSelectN": {
+      "__uuid__": "165c8bed-7537-4c32-adc2-82876cbc53bb"
+    },
+    "TriangleBtnSelectP": {
+      "__uuid__": "dc0e8bcb-95e6-491d-bc89-40ece24b1ff2"
+    },
+    "TriangleBtnStartD": {
+      "__uuid__": "40e733f2-8ac8-401f-8088-ad85cb1d344c"
+    },
+    "TriangleBtnStartN": {
+      "__uuid__": "f7b31ad5-a827-4f7f-b573-f2b54916c753"
+    },
+    "TriangleBtnStartP": {
+      "__uuid__": "6a8a67c7-e9f7-4d70-8abe-d52638607af5"
+    },
+    "TriangleBtnStopN": {
+      "__uuid__": "c4a554ab-9af3-4e18-a512-dc51a156ccd8"
+    },
+    "TriangleBtnStopP": {
+      "__uuid__": "e65b2966-f9f8-4d14-9a08-be5b44da23f4"
+    },
+    "TriangleBtnTimes10D": {
+      "__uuid__": "959cf0b2-a712-401d-9847-6fd91c20a240"
+    },
+    "TriangleBtnTimes10N": {
+      "__uuid__": "375bf11c-c0f4-4dbc-9d40-6529cc27851c"
+    },
+    "TriangleBtnTimes10P": {
+      "__uuid__": "ca573835-9285-44d7-8086-f13b6f58bc4d"
+    },
+    "TriangleBtnTimes20D": {
+      "__uuid__": "1d34cf18-640e-4daa-9667-4fe7700779a9"
+    },
+    "TriangleBtnTimes20N": {
+      "__uuid__": "3863e5f6-61a9-43d5-9059-055a537bd880"
+    },
+    "TriangleBtnTimes20P": {
+      "__uuid__": "99ce903e-8cc9-4518-9085-7fad88cc903d"
+    },
+    "TriangleBtnTimes40D": {
+      "__uuid__": "c0f7041a-fcec-48eb-b220-5e9b905dbad5"
+    },
+    "TriangleBtnTimes40N": {
+      "__uuid__": "f74a3284-7975-4fb2-8e45-12cede3d63af"
+    },
+    "TriangleBtnTimes40P": {
+      "__uuid__": "b558cd11-1bb8-4dba-9717-87561ce007fa"
+    },
+    "TriangleBtnToBonusD": {
+      "__uuid__": "99a42103-5dc9-4bbb-9e01-33d4d644d54e"
+    },
+    "TriangleBtnToBonusN": {
+      "__uuid__": "fc4a5d7e-360b-463b-87f9-fc858b3dcb58"
+    },
+    "TriangleBtnToBonusP": {
+      "__uuid__": "11826616-cafc-4a30-a984-efbd5faeb3b2"
+    },
+    "TriangleCoinBG": {
+      "__uuid__": "44851c99-daaa-479f-83f0-f0a9d0ff18b5"
+    },
+    "TriangleGameName": {
+      "__uuid__": "944c4687-375a-428a-9527-593417cabf76"
+    },
+    "TrianglePondBG": {
+      "__uuid__": "18406de5-c964-407b-bed5-eca2cb8a7f20"
+    },
+    "TriangleReturnN": {
+      "__uuid__": "c163aff2-5597-47fa-8e62-f205e5356cbd"
+    },
+    "TriangleReturnP": {
+      "__uuid__": "4aa9636c-c972-486b-89a2-fa13dcd06d52"
+    },
+    "TriangleRewardBG": {
+      "__uuid__": "3284fdea-5e84-4bcf-bc82-6d36d5a4ce07"
+    },
+    "TriangleSubN": {
+      "__uuid__": "69fcc7ad-6820-4c4b-aff5-90705a3b32bc"
+    },
+    "TriangleSubP": {
+      "__uuid__": "aa4eeed3-bd4b-4df8-8fd9-8246fd4e9669"
+    },
+    "TriangleTextBonus1": {
+      "__uuid__": "ee968c34-e4fc-4a3a-a79a-02eb5e275ddc"
+    },
+    "TriangleTextBonus2": {
+      "__uuid__": "f88414c2-5f41-4ab0-8839-52c798d9ed82"
+    },
+    "TriangleTextGameRule": {
+      "__uuid__": "368720c0-ada9-459a-acbf-c6941b70fcc5"
+    },
+    "TriangleTextLeftTime": {
+      "__uuid__": "f4a2c1e8-5d2a-43ef-a07e-502bce330f67"
+    },
+    "TriangleTextReadMe": {
+      "__uuid__": "6e82ee02-6f92-4ce5-b1c3-d1b69e70481b"
+    }
+  }
+}

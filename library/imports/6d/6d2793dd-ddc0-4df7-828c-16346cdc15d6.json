@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guangquan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 115
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 141
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 115
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 141
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,244 @@
+
+slots_pig.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/pig_butu01
+  rotate: false
+  xy: 241, 284
+  size: 70, 246
+  orig: 72, 248
+  offset: 1, 1
+  index: -1
+images/pig_butu02
+  rotate: true
+  xy: 185, 218
+  size: 312, 54
+  orig: 314, 56
+  offset: 1, 1
+  index: -1
+images/pig_butu03
+  rotate: false
+  xy: 347, 939
+  size: 342, 83
+  orig: 344, 85
+  offset: 1, 1
+  index: -1
+images/pig_butu04
+  rotate: true
+  xy: 347, 502
+  size: 84, 187
+  orig: 86, 189
+  offset: 1, 1
+  index: -1
+images/pig_butu05
+  rotate: false
+  xy: 313, 382
+  size: 163, 118
+  orig: 165, 120
+  offset: 1, 1
+  index: -1
+pig_HandL01
+  rotate: true
+  xy: 762, 866
+  size: 77, 69
+  orig: 79, 71
+  offset: 1, 1
+  index: -1
+pig_HandL02
+  rotate: false
+  xy: 2, 57
+  size: 202, 110
+  orig: 266, 122
+  offset: 63, 11
+  index: -1
+pig_HandL02aa
+  rotate: true
+  xy: 241, 214
+  size: 68, 70
+  orig: 88, 95
+  offset: 20, 0
+  index: -1
+pig_HandL02bb
+  rotate: false
+  xy: 110, 14
+  size: 76, 41
+  orig: 88, 95
+  offset: 0, 54
+  index: -1
+pig_HandL03
+  rotate: true
+  xy: 347, 588
+  size: 124, 205
+  orig: 126, 207
+  offset: 1, 1
+  index: -1
+pig_HandR01
+  rotate: true
+  xy: 693, 749
+  size: 93, 56
+  orig: 95, 58
+  offset: 1, 1
+  index: -1
+pig_biyan01
+  rotate: true
+  xy: 185, 171
+  size: 45, 48
+  orig: 47, 50
+  offset: 1, 1
+  index: -1
+pig_biyan02
+  rotate: true
+  xy: 438, 316
+  size: 64, 50
+  orig: 66, 52
+  offset: 1, 1
+  index: -1
+pig_bizi
+  rotate: false
+  xy: 693, 844
+  size: 67, 99
+  orig: 69, 101
+  offset: 1, 1
+  index: -1
+pig_bizi02
+  rotate: false
+  xy: 313, 316
+  size: 123, 64
+  orig: 125, 66
+  offset: 1, 1
+  index: -1
+pig_body
+  rotate: false
+  xy: 2, 532
+  size: 343, 490
+  orig: 345, 492
+  offset: 1, 1
+  index: -1
+pig_dalianzi
+  rotate: false
+  xy: 554, 593
+  size: 163, 128
+  orig: 165, 130
+  offset: 1, 1
+  index: -1
+pig_erduo01
+  rotate: false
+  xy: 2, 2
+  size: 106, 53
+  orig: 108, 55
+  offset: 1, 1
+  index: -1
+pig_erduo02
+  rotate: false
+  xy: 313, 250
+  size: 60, 64
+  orig: 62, 66
+  offset: 1, 1
+  index: -1
+pig_eyeL01
+  rotate: true
+  xy: 375, 251
+  size: 63, 54
+  orig: 65, 56
+  offset: 1, 1
+  index: -1
+pig_eyeL02
+  rotate: false
+  xy: 281, 189
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+pig_eyeL03
+  rotate: false
+  xy: 431, 270
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+pig_eyeR01
+  rotate: true
+  xy: 235, 169
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+pig_eyeR02
+  rotate: false
+  xy: 762, 844
+  size: 19, 20
+  orig: 21, 22
+  offset: 1, 1
+  index: -1
+pig_eyeR03
+  rotate: false
+  xy: 313, 216
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+pig_face
+  rotate: false
+  xy: 347, 714
+  size: 192, 223
+  orig: 194, 225
+  offset: 1, 1
+  index: -1
+pig_maozi
+  rotate: false
+  xy: 691, 945
+  size: 136, 77
+  orig: 138, 79
+  offset: 1, 1
+  index: -1
+pig_meimao01
+  rotate: false
+  xy: 313, 504
+  size: 32, 26
+  orig: 34, 28
+  offset: 1, 1
+  index: -1
+pig_meimao02
+  rotate: false
+  xy: 693, 726
+  size: 55, 21
+  orig: 57, 23
+  offset: 1, 1
+  index: -1
+pig_xiong
+  rotate: true
+  xy: 541, 723
+  size: 214, 150
+  orig: 216, 152
+  offset: 1, 1
+  index: -1
+pig_yifu
+  rotate: false
+  xy: 2, 169
+  size: 181, 361
+  orig: 183, 363
+  offset: 1, 1
+  index: -1
+pig_zuiA01
+  rotate: true
+  xy: 478, 393
+  size: 107, 51
+  orig: 109, 53
+  offset: 1, 1
+  index: -1
+pig_zuiA02
+  rotate: true
+  xy: 954, 936
+  size: 86, 68
+  orig: 88, 70
+  offset: 1, 1
+  index: -1
+pig_zuiB
+  rotate: false
+  xy: 829, 960
+  size: 123, 62
+  orig: 125, 64
+  offset: 1, 1
+  index: -1

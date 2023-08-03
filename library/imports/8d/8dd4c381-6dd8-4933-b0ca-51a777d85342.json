@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "court.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "court_0001": {
+      "__uuid__": "2912a1eb-b944-4736-9458-ee0aa0b67879"
+    },
+    "court_0002": {
+      "__uuid__": "85613c3c-494e-4616-8de0-782923dd26d8"
+    },
+    "court_0003": {
+      "__uuid__": "b3a69248-f843-43a9-873e-6c0809e2a8c4"
+    },
+    "court_0004": {
+      "__uuid__": "f3dde71d-aa5c-43b4-b103-bd8fc4d4eaaa"
+    },
+    "court_0005": {
+      "__uuid__": "93009b4f-5e81-421e-816d-fc58f4caac69"
+    },
+    "court_0006": {
+      "__uuid__": "3aeec6b4-2538-45b8-a5cc-c586ba1b28eb"
+    },
+    "court_0007": {
+      "__uuid__": "74cb8f59-1da4-4765-9fff-59e6e1999620"
+    },
+    "court_0008": {
+      "__uuid__": "dfe382a7-532e-481b-bd91-e074a7f97a1c"
+    },
+    "court_0009": {
+      "__uuid__": "47b018ac-54fe-47cb-ae1d-76d4ddd476a7"
+    },
+    "court_0010": {
+      "__uuid__": "1f78af48-edf4-48a7-9f1a-0f33d3632d0f"
+    },
+    "court_0011": {
+      "__uuid__": "dc4c5c9d-064c-4808-9458-fb032b4f5726"
+    },
+    "court_0012": {
+      "__uuid__": "8be60d0f-6a97-4864-aea0-4e5d650a9864"
+    },
+    "court_0013": {
+      "__uuid__": "f289cd98-1d86-4376-af40-d516463ae859"
+    },
+    "court_0014": {
+      "__uuid__": "767ca7c1-1ebd-442e-a430-e665eb40d239"
+    },
+    "court_0015": {
+      "__uuid__": "72722c24-95b9-4dc0-9d0b-deed47cdb001"
+    },
+    "court_0016": {
+      "__uuid__": "32da1da2-92ac-42c8-b186-ee2ad09dbe19"
+    },
+    "court_0017": {
+      "__uuid__": "4f4a3e7f-78cc-4b12-afaf-d163815a20a9"
+    },
+    "court_0018": {
+      "__uuid__": "4248a2e9-2b40-488b-9fc7-08115e577756"
+    },
+    "court_0019": {
+      "__uuid__": "9cc7559b-bc32-4d4f-a233-5ebaac68a411"
+    },
+    "court_0020": {
+      "__uuid__": "03a26ca1-8fb9-420b-9934-3921737cba20"
+    },
+    "court_0021": {
+      "__uuid__": "e2010b78-87be-4a36-882e-04217cc506c3"
+    },
+    "court_0022": {
+      "__uuid__": "2225b991-0787-4056-9278-cac2f504885f"
+    },
+    "court_0023": {
+      "__uuid__": "5d208d13-592e-44c6-9bc1-ead663cc3179"
+    },
+    "court_0024": {
+      "__uuid__": "d97d32f6-64c9-4a9e-a1ad-865983600183"
+    },
+    "court_0025": {
+      "__uuid__": "d785141a-3c32-40cf-b36d-949566e1a1b9"
+    },
+    "court_0026": {
+      "__uuid__": "0208ee1a-6bac-4294-a2e2-3d33730ca621"
+    },
+    "court_0027": {
+      "__uuid__": "7910cfb2-fe03-4591-bc89-385faaf23a5a"
+    },
+    "court_0028": {
+      "__uuid__": "6fd55065-bced-44c6-8811-adcf4df94c19"
+    },
+    "court_0029": {
+      "__uuid__": "f542d12a-fb82-49a7-8e37-b0d4df1c121e"
+    },
+    "court_0030": {
+      "__uuid__": "c520f13e-fb4e-472d-a359-cb5315deb15b"
+    },
+    "court_0031": {
+      "__uuid__": "301465b6-ba7f-46da-9b92-884f84035c32"
+    },
+    "court_0032": {
+      "__uuid__": "bd61700f-ecdf-4363-bcf7-1762ad6e8096"
+    },
+    "court_0033": {
+      "__uuid__": "7b0d5d58-cb07-4aed-9a5c-38ece3f41487"
+    },
+    "court_0034": {
+      "__uuid__": "2d4c7582-090e-4c3e-92ee-4f7446a717b7"
+    },
+    "court_0035": {
+      "__uuid__": "2b6d9fd0-c179-44b2-acb8-2ed77933a1c4"
+    },
+    "court_0036": {
+      "__uuid__": "77c37fe9-3bf5-4a3d-8032-d11514bc96ac"
+    },
+    "court_0037": {
+      "__uuid__": "00e89f49-c8ae-42d0-88d1-b9611de9a6bb"
+    },
+    "court_0038": {
+      "__uuid__": "ef74fe4f-a6d8-4d8c-8c63-63ee21f60127"
+    },
+    "court_0039": {
+      "__uuid__": "aaa2e2d9-745b-4a17-8aa2-696d898ef378"
+    },
+    "court_0040": {
+      "__uuid__": "8684e010-df8f-4f36-b205-9e9c09de307e"
+    },
+    "court_0041": {
+      "__uuid__": "684d1c47-0409-4324-b8a9-e0f54d4ecc5b"
+    },
+    "court_0042": {
+      "__uuid__": "4ad44b72-585b-4d89-ae44-6159b04d20a4"
+    },
+    "court_0043": {
+      "__uuid__": "21004752-9752-4776-9c10-ff66e98feaa6"
+    },
+    "court_0044": {
+      "__uuid__": "5db9a34c-9335-4466-98eb-82489b44ce03"
+    },
+    "court_0045": {
+      "__uuid__": "a14bdd81-a81a-427f-93f9-5dc4b7828d43"
+    },
+    "court_0046": {
+      "__uuid__": "36c0da13-9341-4d78-9e52-3ac45f951fd4"
+    },
+    "court_0047": {
+      "__uuid__": "a8ff98e8-7cf8-4efc-a6af-0bfb2a8616f6"
+    },
+    "court_0048": {
+      "__uuid__": "364b5d3c-76d2-4676-8f83-c88aeb25990e"
+    },
+    "court_0049": {
+      "__uuid__": "78cbf83e-8721-493b-bdb9-79fb7da79f48"
+    },
+    "court_0050": {
+      "__uuid__": "91e5d365-adf7-4d23-bd4f-4735546bee9f"
+    }
+  }
+}

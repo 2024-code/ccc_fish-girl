@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lbl_King_Taco_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-lbl_King_Taco-0001": {
+      "__uuid__": "543bad97-99b8-49c4-a02c-ac808cd87042"
+    },
+    "atlas-lbl_King_Taco-0003": {
+      "__uuid__": "9a0c60cb-594a-4e2b-8c30-53c202da92d3"
+    },
+    "atlas-lbl_King_Taco-0007": {
+      "__uuid__": "216a5596-5eda-4408-8a97-bf40e806d4d9"
+    },
+    "atlas-lbl_King_Taco-0009": {
+      "__uuid__": "70f4a40b-4479-4854-a422-9411b05548fc"
+    },
+    "atlas-lbl_King_Taco-0015": {
+      "__uuid__": "73274aee-2486-4a89-8239-640a026b9dcd"
+    },
+    "atlas-lbl_King_Taco-0025": {
+      "__uuid__": "65471474-9835-4737-ad1e-401e3d1459f4"
+    },
+    "atlas-lbl_King_Taco-0029": {
+      "__uuid__": "3a9491c3-e775-40e8-a3f3-5e64cc55d20c"
+    },
+    "atlas-lbl_King_Taco-0031": {
+      "__uuid__": "120ea98a-50a7-444b-9c68-18006b5493e5"
+    },
+    "atlas-lbl_King_Taco-0033": {
+      "__uuid__": "eafb9392-0021-43c1-9aeb-8eeea29098f5"
+    },
+    "atlas-lbl_King_Taco-0037": {
+      "__uuid__": "c88484c4-5aae-46c6-bf48-3fd0a6fd75df"
+    },
+    "atlas-lbl_King_Taco-0039": {
+      "__uuid__": "4e560b02-dd59-4f7e-ab5f-900c7b8504d4"
+    },
+    "atlas-lbl_King_Taco-0049": {
+      "__uuid__": "776ba6f7-023c-40ce-b677-7151892cc3ff"
+    },
+    "atlas-lbl_King_Taco-0061": {
+      "__uuid__": "a83f5347-0281-4f8c-b9f9-e16dc8c796c1"
+    },
+    "atlas-lbl_King_Taco-0065": {
+      "__uuid__": "07ad7682-dfec-46bf-9e03-675dbd6e5342"
+    },
+    "atlas-lbl_King_Taco-0067": {
+      "__uuid__": "3ff40a47-6313-4d41-8de8-3106273dddaa"
+    },
+    "atlas-lbl_King_Taco-0077": {
+      "__uuid__": "6a261455-ab4d-4038-bf0c-84c62b37d162"
+    },
+    "atlas-lbl_King_Taco-0079": {
+      "__uuid__": "bb9daa29-a194-45cd-bdff-1d84150db518"
+    },
+    "atlas-lbl_King_Taco-0083": {
+      "__uuid__": "23079aed-0cf5-4c13-8d81-cd4dd0118e01"
+    },
+    "atlas-lbl_King_Taco-0087": {
+      "__uuid__": "381cb77f-129c-4bd3-a0f2-6fed95dbdebf"
+    },
+    "atlas-lbl_King_Taco-0089": {
+      "__uuid__": "ec325320-78b6-455a-ae32-8ef2108f1c02"
+    },
+    "atlas-lbl_King_Taco-0091": {
+      "__uuid__": "01e2dd93-5c63-463e-a9a4-ac73f52f6b81"
+    },
+    "atlas-lbl_King_Taco-0095": {
+      "__uuid__": "00a2b131-faee-4e63-b653-077d3464a5bf"
+    },
+    "atlas-lbl_King_Taco-0097": {
+      "__uuid__": "49b65ae4-00cd-431d-ac08-793b852d1881"
+    },
+    "atlas-lbl_King_Taco-0099": {
+      "__uuid__": "2d68d47a-b7dd-4897-b00f-c399977edbfe"
+    },
+    "atlas-lbl_King_Taco-0101": {
+      "__uuid__": "f159d00e-63da-484e-83f5-a3796e761c93"
+    },
+    "atlas-lbl_King_Taco-0105": {
+      "__uuid__": "da7564a0-d005-49a6-92ce-2a8d40058f09"
+    },
+    "atlas-lbl_King_Taco-0107": {
+      "__uuid__": "23a240ce-5b48-4d8f-a196-55881f0b52fc"
+    },
+    "atlas-lbl_King_Taco-0111": {
+      "__uuid__": "cbb1a842-32f5-4156-82e6-591b94df6025"
+    },
+    "atlas-lbl_King_Taco-0113": {
+      "__uuid__": "db38be2e-2dc9-4e38-9104-963dba6cae22"
+    },
+    "atlas-lbl_King_Taco-0117": {
+      "__uuid__": "6acd1d41-133e-47e1-ab53-40c962e4c7ba"
+    },
+    "atlas-lbl_King_Taco-0125": {
+      "__uuid__": "51b4b4dc-fc98-4f49-b53b-bc3eabea018b"
+    },
+    "atlas-lbl_King_Taco-0127": {
+      "__uuid__": "d81c7da0-3c59-4bd4-91d7-790ceb7d6616"
+    },
+    "atlas-lbl_King_Taco-0129": {
+      "__uuid__": "fe80bcf1-cf68-4f08-9663-ab9a9499a172"
+    },
+    "atlas-lbl_King_Taco-0137": {
+      "__uuid__": "755c7813-db52-4317-9c68-db91f1838e73"
+    },
+    "atlas-lbl_King_Taco-0143": {
+      "__uuid__": "d078c967-50c2-42e8-9335-e207b5f8f16a"
+    },
+    "atlas-lbl_King_Taco-0145": {
+      "__uuid__": "5eea16f7-1ffc-4168-80c3-53d29abd29dc"
+    },
+    "atlas-lbl_King_Taco-0147": {
+      "__uuid__": "07b3c010-eca8-40d7-b449-d37df59e4ef1"
+    },
+    "atlas-lbl_King_Taco-0149": {
+      "__uuid__": "69810b64-64dd-43b8-8944-d29939c291d8"
+    },
+    "atlas-lbl_King_Taco-0177": {
+      "__uuid__": "71e2aa5b-4614-4f71-9828-e51181b239af"
+    },
+    "atlas-lbl_King_Taco-0179": {
+      "__uuid__": "1c8b50ca-681d-44d0-9d0c-38fd53057760"
+    },
+    "atlas-lbl_King_Taco-0181": {
+      "__uuid__": "d38d0d75-c978-4462-bbce-d0a1d93b4f16"
+    },
+    "atlas-lbl_King_Taco-0183": {
+      "__uuid__": "daef3246-4e83-44f6-ac80-3a52e032382f"
+    },
+    "atlas-lbl_King_Taco-0185": {
+      "__uuid__": "78270359-db82-455c-bdf7-18a16a8b1a1b"
+    },
+    "atlas-lbl_King_Taco-0191": {
+      "__uuid__": "0d5e7ed6-a796-4a24-a422-93e5467a694f"
+    },
+    "atlas-lbl_King_Taco-0193": {
+      "__uuid__": "6a33e3cb-ae71-4ac1-861b-c36241e920a2"
+    },
+    "atlas-lbl_King_Taco-0199": {
+      "__uuid__": "ef9eaf38-3caf-4799-b238-a4ac77606965"
+    },
+    "atlas-lbl_King_Taco-0201": {
+      "__uuid__": "6e094504-91e6-4c18-a359-e48ace47d2fc"
+    },
+    "atlas-lbl_King_Taco-0203": {
+      "__uuid__": "ca328cae-4819-42bf-a498-93fdbca68142"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tgmx",
+    "texture": "df84e02a-3bec-4f68-bc36-1dff407ff511",
+    "atlas": "",
+    "rect": [
+      4,
+      9,
+      246,
+      59
+    ],
+    "offset": [
+      -8,
+      -3.5
+    ],
+    "originalSize": [
+      270,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

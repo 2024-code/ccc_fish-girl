@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Occlusion",
+    "texture": "4d2bd8a0-9872-4e81-860e-5477aec38ed7",
+    "atlas": "436b2e03-2f3c-4e2c-bd0c-a5c2b40685f3",
+    "rect": [
+      1,
+      1,
+      800,
+      352
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      352
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

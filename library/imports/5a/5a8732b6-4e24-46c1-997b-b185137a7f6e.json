@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_Big_Nemo-0023",
+    "texture": "005bf60d-d9ea-450c-905d-2b27775602ff",
+    "atlas": "384f0028-771c-4128-bcf5-e2bd78426cdf",
+    "rect": [
+      216,
+      596,
+      150,
+      213
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      152,
+      215
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

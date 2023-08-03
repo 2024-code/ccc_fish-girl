@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_bonus_btn_end_nor",
+    "texture": "cc543c18-c951-46c1-8f0f-3bc876a3e3a3",
+    "atlas": "8e248bed-55bf-4717-99cc-8e3a3a2430b8",
+    "rect": [
+      2,
+      2,
+      204,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

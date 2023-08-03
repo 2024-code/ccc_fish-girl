@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_paytable_bg",
+    "texture": "276d4c2f-a72c-4a80-a38e-81cbcae83409",
+    "atlas": "",
+    "rect": [
+      129,
+      60,
+      464,
+      744
+    ],
+    "offset": [
+      -527.5,
+      67.5
+    ],
+    "originalSize": [
+      1777,
+      999
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_jackpot_minor",
+    "texture": "0e1f6164-4330-4485-82cb-cbb3b0043c98",
+    "atlas": "8d1ede32-a669-4e71-a838-a192e80deaa4",
+    "rect": [
+      1620,
+      62,
+      80,
+      32
+    ],
+    "offset": [
+      2,
+      1
+    ],
+    "originalSize": [
+      86,
+      36
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+
+mantou-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_bun
+  rotate: false
+  xy: 113, 3
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+icon_plate
+  rotate: false
+  xy: 2, 2
+  size: 109, 73
+  orig: 109, 79
+  offset: 0, 1
+  index: -1

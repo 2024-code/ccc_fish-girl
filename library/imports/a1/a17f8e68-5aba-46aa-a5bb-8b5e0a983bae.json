@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "login_page.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "feixing1": {
+      "__uuid__": "ae31674e-1bf3-4c31-bdf1-8bb9e1218dc3"
+    },
+    "girl": {
+      "__uuid__": "472de4f4-5874-4dc9-9947-9aea6832e585"
+    },
+    "laotou": {
+      "__uuid__": "2dc44410-4687-43ce-b66e-df44c0cea3bf"
+    },
+    "logo": {
+      "__uuid__": "991f3a1f-af39-4e17-aea8-276960bedcab"
+    },
+    "niu": {
+      "__uuid__": "560f3a1f-09dd-4188-a3a2-5623c37468a6"
+    },
+    "pai1": {
+      "__uuid__": "729cee1c-1626-44c9-877d-69e9ad03b4b4"
+    },
+    "pai2": {
+      "__uuid__": "da76e9e2-7db0-4d4b-82f7-b37aad2be793"
+    },
+    "star1": {
+      "__uuid__": "a841c1c1-63f1-43f1-9998-de07b8aeaec5"
+    },
+    "star2": {
+      "__uuid__": "83465c47-0174-4012-9959-7877acebd427"
+    },
+    "star3": {
+      "__uuid__": "0a6491bc-e40a-4404-93af-ae77608b1f5f"
+    },
+    "star4": {
+      "__uuid__": "7d6ff6e1-3bc2-43fd-b3e2-1bd1ee4e980d"
+    }
+  }
+}

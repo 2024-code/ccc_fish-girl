@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_button_transition_20",
+    "texture": "20733033-e16a-4335-97bf-eed2b6a8833f",
+    "atlas": "",
+    "rect": [
+      32,
+      0,
+      359,
+      250
+    ],
+    "offset": [
+      -11,
+      0
+    ],
+    "originalSize": [
+      445,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

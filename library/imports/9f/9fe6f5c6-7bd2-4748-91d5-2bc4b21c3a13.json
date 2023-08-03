@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trend_box",
+    "texture": "a1a51cfa-29b2-415d-9992-040f36b2068c",
+    "atlas": "be887cc9-9c44-4b9c-b3ac-77388bcde58b",
+    "rect": [
+      280,
+      42,
+      75,
+      62
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      75,
+      72
+    ],
+    "capInsets": [
+      19,
+      12,
+      19,
+      23
+    ]
+  }
+}

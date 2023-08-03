@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_ptable_btn_close_press",
+    "texture": "035cf4e0-4d25-449b-8c2d-0fc705ccd377",
+    "atlas": "",
+    "rect": [
+      5,
+      7,
+      85,
+      90
+    ],
+    "offset": [
+      2,
+      -2
+    ],
+    "originalSize": [
+      91,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slot_ui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "5c51ca67-ee4d-4f65-b7da-7225aa77732a"
+    },
+    "brn_help": {
+      "__uuid__": "10bda859-d722-4f05-9cf4-87eca013da5b"
+    },
+    "btn_jia": {
+      "__uuid__": "cd2f3f0d-a9e2-4f35-92db-272b4d6eea9b"
+    },
+    "btn_jian": {
+      "__uuid__": "473a91f9-da55-4bf4-a40f-e056349c609e"
+    },
+    "btn_sound": {
+      "__uuid__": "7e5c3a71-1a16-4344-9327-15d7973f1cc9"
+    },
+    "btn_sound_2": {
+      "__uuid__": "ec844813-873c-498f-b182-4a30727ebc64"
+    },
+    "btn_tingzhi": {
+      "__uuid__": "ec3db810-00c2-469d-a996-6fa45a4a13c0"
+    },
+    "btn_zidong": {
+      "__uuid__": "017bb332-2a9c-488a-81ae-4c477aa47e6f"
+    },
+    "gold": {
+      "__uuid__": "ba4e6e1c-5fd7-4e8d-9d1d-15266b901109"
+    },
+    "ks_1": {
+      "__uuid__": "cc06f3f1-03a8-43ea-b7dd-687e8d737e65"
+    },
+    "ks_2": {
+      "__uuid__": "f3c41c4e-f951-4ba4-8a7b-0a32256951cf"
+    },
+    "txt_bjyd": {
+      "__uuid__": "0f52cad6-29e5-46a1-8801-e3990bf3762b"
+    },
+    "txt_bjzz": {
+      "__uuid__": "a899a696-a24e-40b4-9f5e-ab8488a5ecf3"
+    },
+    "txt_dz": {
+      "__uuid__": "df6c44ea-729b-4666-bac8-30effb2cff64"
+    },
+    "txt_xianshu": {
+      "__uuid__": "0639343b-6f5a-4d12-903a-3cfdb9298774"
+    },
+    "xz": {
+      "__uuid__": "15330619-8307-48e7-9e42-251d76309fdc"
+    }
+  }
+}

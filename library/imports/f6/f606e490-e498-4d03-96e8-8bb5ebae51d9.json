@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_select_flower_1",
+    "texture": "47110f95-adae-4612-b8c7-403f5c549f83",
+    "atlas": "43b61cde-f45b-485b-945c-8f054d052d3e",
+    "rect": [
+      566,
+      893,
+      120,
+      99
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      126,
+      101
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

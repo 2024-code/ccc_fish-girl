@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameLayer",
+    "texture": "7c5f9193-1a14-4727-9232-f040c5177bc0",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1020,
+      1011
+    ],
+    "offset": [
+      0,
+      4.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

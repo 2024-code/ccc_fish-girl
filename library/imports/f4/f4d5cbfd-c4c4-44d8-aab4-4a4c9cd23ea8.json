@@ -1,0 +1,136 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shz_spine_3",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 18.61,
+        "x": -0.82,
+        "y": -0.72,
+        "rotation": 91.81
+      }
+    ],
+    "slots": [
+      {
+        "name": "icon_plate",
+        "bone": "root",
+        "attachment": "icon_plate"
+      },
+      {
+        "name": "icon_bun",
+        "bone": "bone",
+        "attachment": "icon_bun"
+      }
+    ],
+    "skins": {
+      "default": {
+        "icon_bun": {
+          "icon_bun": {
+            "x": 10.12,
+            "y": 0.52,
+            "rotation": -91.81,
+            "width": 90,
+            "height": 72
+          }
+        },
+        "icon_plate": {
+          "icon_plate": {
+            "x": -0.66,
+            "y": -13.76,
+            "width": 109,
+            "height": 79
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": -3.44
+              },
+              {
+                "time": 0.4666,
+                "x": 0,
+                "y": -0.9
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 7.09
+              },
+              {
+                "time": 0.8,
+                "x": 0,
+                "y": 5.09
+              },
+              {
+                "time": 1.0666,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.9,
+                "y": 1
+              },
+              {
+                "time": 0.4666,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 1.079,
+                "y": 1
+              },
+              {
+                "time": 0.8,
+                "x": 1.02,
+                "y": 1
+              },
+              {
+                "time": 1.0666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmantou-1.png\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nicon_bun\n  rotate: false\n  xy: 113, 3\n  size: 90, 72\n  orig: 90, 72\n  offset: 0, 0\n  index: -1\nicon_plate\n  rotate: false\n  xy: 2, 2\n  size: 109, 73\n  orig: 109, 79\n  offset: 0, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "09ac6171-e8de-458e-b84a-8e4f8fa5db9b"
+    }
+  ],
+  "textureNames": [
+    "mantou-1.png"
+  ],
+  "scale": 1
+}

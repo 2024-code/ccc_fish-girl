@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-01_lblFlatFish-0111",
+    "texture": "1bea9038-9764-4181-a3d6-e712a6742be1",
+    "atlas": "9d2dca7e-2f0f-4688-a0c7-e0b2ac866b92",
+    "rect": [
+      374,
+      83,
+      80,
+      92
+    ],
+    "offset": [
+      5,
+      12
+    ],
+    "originalSize": [
+      92,
+      116
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

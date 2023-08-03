@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_bag.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dt_bag_bg_black": {
+      "__uuid__": "180b5e85-bce1-4c09-9998-6aaa51c8ef6a"
+    },
+    "dt_bag_bg_blue": {
+      "__uuid__": "36ebc901-2838-47de-ac2a-7eed81b400f1"
+    },
+    "dt_bag_btn_bluegreen": {
+      "__uuid__": "614a13c5-63b4-4702-9cd3-82cdf60ed73e"
+    },
+    "dt_bag_btn_m_type01": {
+      "__uuid__": "178dee5f-374d-4b1d-9f34-a381458f5587"
+    },
+    "dt_bag_btn_m_type02": {
+      "__uuid__": "0553fcd6-7c93-4ffb-b3e7-b2e5d8d42f31"
+    },
+    "dt_bag_btn_plusminus": {
+      "__uuid__": "ec9a70f4-07f7-47b4-b163-25f541dde66d"
+    },
+    "dt_bag_btn_prop01": {
+      "__uuid__": "f70a4f07-1a12-416b-b069-331dce0b8c8c"
+    },
+    "dt_bag_btn_prop02": {
+      "__uuid__": "25b16021-bedd-4e03-84bb-cafe65418877"
+    },
+    "dt_bag_btn_type01": {
+      "__uuid__": "a28be3fa-45b5-4a23-bc62-f17712c57d1f"
+    },
+    "dt_bag_btn_type02": {
+      "__uuid__": "35f03424-02d3-4e83-9b8a-f627940dbbd0"
+    },
+    "dt_bag_icon_chip": {
+      "__uuid__": "b1770732-44c7-4752-8136-54ebd2c25d56"
+    },
+    "dt_bag_icon_express": {
+      "__uuid__": "dc40f3d6-bad4-4de0-8c2c-54a03d3a3fbf"
+    },
+    "dt_bag_icon_flow": {
+      "__uuid__": "b6bf3d89-021f-4b46-88c4-e1336d6a981b"
+    },
+    "dt_bag_icon_gold": {
+      "__uuid__": "1947fe6d-e345-44aa-8c6d-94773d2267ba"
+    },
+    "dt_bag_icon_jd": {
+      "__uuid__": "8f08985d-6270-4b08-ac86-9106d1226b41"
+    },
+    "dt_bag_icon_nickname": {
+      "__uuid__": "d03bdf26-d9be-451e-be8e-b9b19b784bed"
+    },
+    "dt_bag_icon_pay": {
+      "__uuid__": "5ff45318-ea8e-4f00-ac2c-231d9e066a35"
+    },
+    "dt_bag_icon_prop": {
+      "__uuid__": "0156492f-e784-49e2-981e-f87fb63583b6"
+    },
+    "dt_bag_icon_redbag": {
+      "__uuid__": "7cbf63f2-218e-4cc4-948d-d146eb9b372a"
+    },
+    "dt_bag_icon_roomcard": {
+      "__uuid__": "03ed8d5d-58da-4b3c-9c22-109e907e6ec9"
+    },
+    "dt_bag_icon_transmit": {
+      "__uuid__": "0ec9ff95-6db5-4e6c-b9d1-d41b80be950f"
+    },
+    "dt_bag_icon_vs": {
+      "__uuid__": "6c54beed-eb22-4556-afc0-2f4e42287bbb"
+    },
+    "dt_bag_img_headframe": {
+      "__uuid__": "c609790b-76a5-432f-b6fc-9470dc6d686d"
+    },
+    "dt_bag_img_line": {
+      "__uuid__": "f7255e1e-e5cb-43cf-a938-7153477b5937"
+    },
+    "dt_f_img_gezi": {
+      "__uuid__": "1d91fb04-637f-44d9-9575-07048ce8bed8"
+    },
+    "dt_f_img_jltb": {
+      "__uuid__": "a1cd1230-2fe2-49a8-9c26-3a317676e67e"
+    },
+    "dt_f_img_zuhe": {
+      "__uuid__": "464e8173-842a-4f92-a70d-cf962a5bece2"
+    }
+  }
+}

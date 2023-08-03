@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "gold": {
+      "__uuid__": "41faf5bf-6036-4fe0-aea1-a11f763ef217"
+    },
+    "gold00": {
+      "__uuid__": "991c1563-3da4-458f-9729-9d48a1426924"
+    },
+    "gold01": {
+      "__uuid__": "04e99b2c-6339-4a0c-85fa-0dd4567228b7"
+    },
+    "gold02": {
+      "__uuid__": "123aaab0-4be6-4875-972f-d989156454b2"
+    },
+    "gold04": {
+      "__uuid__": "25a3d474-4d12-47fd-8abc-547a2eda50cc"
+    },
+    "gold05": {
+      "__uuid__": "b29d830d-fbc9-4b74-970d-15189b0c12e2"
+    },
+    "gold06": {
+      "__uuid__": "00868141-f9cb-4275-a6d9-5808f0ada8d2"
+    },
+    "gold07": {
+      "__uuid__": "bf97124e-1d5d-4362-8fb6-4ada710fce16"
+    },
+    "gold08": {
+      "__uuid__": "8dd27ec5-2619-499d-bf1a-9448dea3dc45"
+    },
+    "j_grand": {
+      "__uuid__": "bbec8ef1-06cb-4b47-9d1d-44640eab7cb4"
+    },
+    "j_grand_bg": {
+      "__uuid__": "dea18da5-df64-49c9-b32f-847387c52631"
+    },
+    "j_major": {
+      "__uuid__": "cb902a36-f927-41ce-b406-5187d3486d3c"
+    },
+    "j_major_bg": {
+      "__uuid__": "caa462f0-fc0e-4cfa-88f3-9e86131fd2ea"
+    },
+    "j_mini": {
+      "__uuid__": "84e669ce-21ac-43cd-b9af-cc08fe59d87e"
+    },
+    "j_mini_bg": {
+      "__uuid__": "af6cb4b0-c5e2-4152-ae38-03aa5d97b905"
+    },
+    "j_minor": {
+      "__uuid__": "ea4f0dae-29ed-497a-9138-be554b654138"
+    },
+    "j_minor_bg": {
+      "__uuid__": "e9dd0fde-51d8-40cf-aba1-42342f3a36af"
+    },
+    "jubaopen": {
+      "__uuid__": "0d6772c7-4eb5-48d8-b63a-8be69652f52e"
+    },
+    "s_bridge_static": {
+      "__uuid__": "a032dafe-f9d5-4957-acae-95e03c7e44d6"
+    },
+    "s_bridge_static_fs": {
+      "__uuid__": "e3a3caea-acd4-4cbd-adac-a9c832b04ade"
+    },
+    "s_game_logo": {
+      "__uuid__": "2bc86146-e872-4b62-8b07-ca3c376f5a71"
+    },
+    "shuzi": {
+      "__uuid__": "c628d2f1-166c-4a4d-a6cd-3897bad7ff89"
+    },
+    "top": {
+      "__uuid__": "4a2f01f0-d188-4c1a-9db5-04903ba0c527"
+    }
+  }
+}

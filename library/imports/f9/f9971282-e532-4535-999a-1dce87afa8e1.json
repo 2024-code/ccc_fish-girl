@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameMenu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "GameMenuBG2": {
+      "__uuid__": "19c5077b-799e-4871-92fa-d9b1ccbc36aa"
+    },
+    "GameMenuBG3": {
+      "__uuid__": "e71a6e20-8a60-47a4-8681-f209fa487c1a"
+    },
+    "GameMenuBG4": {
+      "__uuid__": "aae41b99-c424-46b7-b325-f8188ddfa9d0"
+    },
+    "MenuExit1": {
+      "__uuid__": "b3508afe-e8ad-4d2a-95f2-8aabaa942a03"
+    },
+    "MenuExit2": {
+      "__uuid__": "ed3f43ee-ac1f-4181-8fb7-c5e34ab2a5a1"
+    },
+    "MenuHelp1": {
+      "__uuid__": "31cf0ad9-b52f-4689-8a68-ced6fe3cf981"
+    },
+    "MenuHelp2": {
+      "__uuid__": "df2a5977-e5ab-4ae2-ac62-1658987921c1"
+    },
+    "MenuSoundOff1": {
+      "__uuid__": "24705eed-9f3e-4156-85a3-ed2336e2d989"
+    },
+    "MenuSoundOff2": {
+      "__uuid__": "2e668174-bb55-4714-8ad2-d38742eb9699"
+    },
+    "MenuSoundOn1": {
+      "__uuid__": "b8cea657-b8a9-43bd-adb4-151d7ac45e67"
+    },
+    "MenuSoundOn2": {
+      "__uuid__": "0f29f629-90ac-4f96-a8a4-8d3a55091fb6"
+    },
+    "ShakeOff1": {
+      "__uuid__": "dfd5921b-9b25-4c52-a885-be00eddab233"
+    },
+    "ShakeOff2": {
+      "__uuid__": "51ddadb3-ff9c-4e61-9fce-83ea89e842b9"
+    },
+    "ShakeOn1": {
+      "__uuid__": "af48cc70-c011-4a6a-8ca6-a2b3ae7dab5f"
+    },
+    "ShakeOn2": {
+      "__uuid__": "b937fcbe-4029-4acb-82d2-199a78d09259"
+    }
+  }
+}

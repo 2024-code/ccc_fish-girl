@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6f2f7282-2869-476e-aa01-32e57b6e12e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "ManbuzheK800ermai": {
+      "ver": "1.0.4",
+      "uuid": "2988e3b7-5948-4471-bb7b-58de62f7b78c",
+      "rawTextureUuid": "6f2f7282-2869-476e-aa01-32e57b6e12e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -1.5,
+      "trimX": 9,
+      "trimY": 7,
+      "width": 136,
+      "height": 149,
+      "rawWidth": 160,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

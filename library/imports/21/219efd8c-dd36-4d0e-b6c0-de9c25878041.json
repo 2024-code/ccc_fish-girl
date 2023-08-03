@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_06_blurred",
+    "texture": "ecf2010b-4941-4bbb-b667-c81e1546f205",
+    "atlas": "",
+    "rect": [
+      198,
+      162,
+      205,
+      277
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

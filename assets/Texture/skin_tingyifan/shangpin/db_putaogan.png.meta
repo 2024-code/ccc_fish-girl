@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "050a3792-566a-4bfb-99a0-c4cb321e7dd7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "db_putaogan": {
+      "ver": "1.0.4",
+      "uuid": "e399d02c-932b-4c08-bd61-fef2a2aa9a8f",
+      "rawTextureUuid": "050a3792-566a-4bfb-99a0-c4cb321e7dd7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -10,
+      "trimX": 14,
+      "trimY": 32,
+      "width": 132,
+      "height": 116,
+      "rawWidth": 160,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

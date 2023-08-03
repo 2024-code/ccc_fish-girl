@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_taizi",
+    "texture": "1b0b0b19-cf5d-4710-8839-8cf529119479",
+    "atlas": "",
+    "rect": [
+      1,
+      14,
+      401,
+      117
+    ],
+    "offset": [
+      0,
+      18.5
+    ],
+    "originalSize": [
+      403,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

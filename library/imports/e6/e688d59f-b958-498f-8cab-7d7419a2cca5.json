@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lzt_item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "corner_ball_blue": {
+      "__uuid__": "9fa768b8-7dff-4005-b4c3-1cb11631d68d"
+    },
+    "corner_ball_red": {
+      "__uuid__": "e8de084b-9f18-464c-a56e-c6fc1be4ad2a"
+    },
+    "corner_circle_blue": {
+      "__uuid__": "6413d68a-2dfc-4aba-8190-fbb9369b8810"
+    },
+    "corner_circle_red": {
+      "__uuid__": "c0c92cc0-aa09-4fcc-8bab-8cab5c329a6e"
+    },
+    "corner_line_blue": {
+      "__uuid__": "74ce729e-54b5-4f48-92d4-74a00bf38ee3"
+    },
+    "corner_line_red": {
+      "__uuid__": "f8b76bfb-c879-4fdb-b169-d88c5c9181c7"
+    },
+    "dl_item_blue": {
+      "__uuid__": "8e707883-0196-4103-8557-6eebac8b62b1"
+    },
+    "dl_item_red": {
+      "__uuid__": "18924ce4-37d3-45c2-bb35-b64f32f68fd0"
+    },
+    "dragon": {
+      "__uuid__": "ded61c2b-6a41-42b1-bbfd-ae87c5c55791"
+    },
+    "dyzl_item_blue": {
+      "__uuid__": "4ee56472-42d4-4e9f-a6bd-41a9dc6ff2e7"
+    },
+    "dyzl_item_red": {
+      "__uuid__": "3776294e-58e9-46bb-93b3-a9797d3ec2ca"
+    },
+    "lzt_item0": {
+      "__uuid__": "4ca24511-d7d4-47aa-bc1c-5b42a9bced3f"
+    },
+    "lzt_item1": {
+      "__uuid__": "7c32585e-762a-4868-acf8-ab50f982b19f"
+    },
+    "lzt_item2": {
+      "__uuid__": "fd8e23da-631e-4801-baf7-d898e50f561a"
+    },
+    "lzt_item3": {
+      "__uuid__": "cce3e697-47d5-4bfc-a821-ad86434917af"
+    },
+    "lzt_item4": {
+      "__uuid__": "caa6de39-a52b-4e4d-b450-7a29ff198089"
+    },
+    "lzt_item5": {
+      "__uuid__": "b77e2a7b-cb0f-4f32-81cd-1df4a14be36b"
+    },
+    "lzt_item6": {
+      "__uuid__": "34864b36-75ea-4ab7-92fc-81d5037f7543"
+    },
+    "lzt_item7": {
+      "__uuid__": "5855e651-aefa-44eb-9c68-78bf69b0d058"
+    },
+    "lzt_item8": {
+      "__uuid__": "b4e7def3-b123-4a50-a456-ec3d7689d35c"
+    },
+    "lzt_item9": {
+      "__uuid__": "383579f7-d14f-4a75-9c0d-36f5ca4c0f7b"
+    },
+    "next_round": {
+      "__uuid__": "77f6a5a6-b5cb-4310-aacb-fefd6101e9b5"
+    },
+    "tie": {
+      "__uuid__": "5dae0bb5-f8ee-4949-bcff-db1a21089c6c"
+    },
+    "tiger": {
+      "__uuid__": "c92dcfd2-44fb-44cd-ae10-e42ebb5d1cd0"
+    },
+    "xl_item_blue": {
+      "__uuid__": "6ccdce17-ecb0-411a-9e30-36e3302bb20b"
+    },
+    "xl_item_red": {
+      "__uuid__": "42cef5a1-137a-46b8-abbf-5eb148f74da1"
+    },
+    "yyl_item_blue": {
+      "__uuid__": "541b48e2-b529-4c3f-8240-229698dede78"
+    },
+    "yyl_item_red": {
+      "__uuid__": "26fa2c2f-8958-4d82-9700-3adba73355f1"
+    }
+  }
+}

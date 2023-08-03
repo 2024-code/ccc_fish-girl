@@ -1,0 +1,33 @@
+
+anim_wait-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bac
+  rotate: false
+  xy: 2, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+bac2
+  rotate: false
+  xy: 2, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+bac1
+  rotate: false
+  xy: 2, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 42
+  size: 493, 68
+  orig: 493, 68
+  offset: 0, 0
+  index: -1

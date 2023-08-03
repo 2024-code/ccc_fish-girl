@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9053dba4-d7fc-4ca2-82ae-d3d9db20f5a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 342,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "FreeGame_13": {
+      "ver": "1.0.4",
+      "uuid": "51bce99e-8287-4fb4-80e9-10e9e8870cae",
+      "rawTextureUuid": "9053dba4-d7fc-4ca2-82ae-d3d9db20f5a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 342,
+      "height": 75,
+      "rawWidth": 342,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

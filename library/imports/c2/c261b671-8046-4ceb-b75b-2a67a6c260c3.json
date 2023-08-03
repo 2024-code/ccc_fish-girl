@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "dizhu_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 79,\r\n        \"y\": 1,\r\n        \"height\": 86,\r\n        \"name\": \"icon1\",\r\n        \"x\": 89\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 1,\r\n        \"height\": 86,\r\n        \"name\": \"图层-1\",\r\n        \"x\": 1\r\n    }],\r\n    \"imagePath\": \"dizhu_tex.png\",\r\n    \"name\": \"dizhu\"\r\n}",
+  "_texture": {
+    "__uuid__": "cafbd2b4-3c87-4313-aef4-148d653d69a4"
+  },
+  "texture": {
+    "__uuid__": "cafbd2b4-3c87-4313-aef4-148d653d69a4"
+  },
+  "_textureAtlasData": null
+}

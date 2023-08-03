@@ -1,0 +1,1788 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "slots_6",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "auAPpgJnKv26218nWfw9Zu4WdKQ",
+      "spine": "3.5.46",
+      "width": 167,
+      "height": 155
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "All",
+        "parent": "root"
+      },
+      {
+        "name": "bg",
+        "parent": "All"
+      },
+      {
+        "name": "GaoGuang",
+        "parent": "bg"
+      },
+      {
+        "name": "GaoGuang2",
+        "parent": "bg",
+        "scaleX": 1.233,
+        "scaleY": 1.233
+      },
+      {
+        "name": "Light",
+        "parent": "bg"
+      },
+      {
+        "name": "bone",
+        "parent": "All",
+        "length": 30.74,
+        "rotation": 92.24,
+        "x": 6.39,
+        "y": -60.23
+      },
+      {
+        "name": "bone2",
+        "parent": "bone",
+        "length": 66.02,
+        "rotation": -0.99,
+        "x": 30.74
+      },
+      {
+        "name": "bone3",
+        "parent": "bone",
+        "length": 21.11,
+        "rotation": -141.85,
+        "x": 34.08,
+        "y": -19.1
+      },
+      {
+        "name": "bone5",
+        "parent": "bone",
+        "length": 18.32,
+        "rotation": 156.24,
+        "x": 23.52,
+        "y": 18.06
+      },
+      {
+        "name": "bone4",
+        "parent": "bone5",
+        "length": 14.36,
+        "rotation": -30.27,
+        "x": -10.33,
+        "y": 2.64
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg7",
+        "bone": "bg",
+        "attachment": "bg1"
+      },
+      {
+        "name": "xia5",
+        "bone": "bone",
+        "attachment": "xia5"
+      },
+      {
+        "name": "xia5Light",
+        "bone": "bone",
+        "color": "ffffff00",
+        "attachment": "xia5Light",
+        "blend": "additive"
+      },
+      {
+        "name": "xia4",
+        "bone": "bone2",
+        "attachment": "xia4"
+      },
+      {
+        "name": "xia4Light2",
+        "bone": "bone2",
+        "color": "ffffff00",
+        "attachment": "xia4Light",
+        "blend": "additive"
+      },
+      {
+        "name": "xia6",
+        "bone": "bone5",
+        "attachment": "xia3"
+      },
+      {
+        "name": "bone5",
+        "bone": "bone5",
+        "color": "ffffff00",
+        "attachment": "xia3Light",
+        "blend": "additive"
+      },
+      {
+        "name": "bone4",
+        "bone": "bone4",
+        "attachment": "xia2"
+      },
+      {
+        "name": "xia2Light2",
+        "bone": "bone4",
+        "color": "ffffff00",
+        "attachment": "xia2Light",
+        "blend": "additive"
+      },
+      {
+        "name": "bone3",
+        "bone": "bone3",
+        "attachment": "xia1"
+      },
+      {
+        "name": "xia1Light2",
+        "bone": "bone3",
+        "color": "ffffff00",
+        "attachment": "xia1Light",
+        "blend": "additive"
+      },
+      {
+        "name": "gaoguang",
+        "bone": "GaoGuang",
+        "attachment": "gaoguang",
+        "blend": "additive"
+      },
+      {
+        "name": "bg6",
+        "bone": "Light",
+        "attachment": "bg2"
+      },
+      {
+        "name": "bg8",
+        "bone": "Light",
+        "color": "ffffff00",
+        "attachment": "bg2",
+        "blend": "additive"
+      },
+      {
+        "name": "a0001",
+        "bone": "GaoGuang2",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "a0001": {
+          "a0001": {
+            "width": 128,
+            "height": 128
+          },
+          "a0002": {
+            "width": 128,
+            "height": 128
+          },
+          "a0003": {
+            "width": 128,
+            "height": 128
+          },
+          "a0004": {
+            "width": 128,
+            "height": 128
+          },
+          "a0005": {
+            "width": 128,
+            "height": 128
+          },
+          "a0006": {
+            "width": 128,
+            "height": 128
+          },
+          "a0007": {
+            "width": 128,
+            "height": 128
+          },
+          "a0008": {
+            "width": 128,
+            "height": 128
+          },
+          "a0009": {
+            "width": 128,
+            "height": 128
+          },
+          "a0010": {
+            "width": 128,
+            "height": 128
+          },
+          "a0011": {
+            "width": 128,
+            "height": 128
+          },
+          "a0012": {
+            "width": 128,
+            "height": 128
+          },
+          "a0013": {
+            "width": 128,
+            "height": 128
+          },
+          "a0014": {
+            "width": 128,
+            "height": 128
+          },
+          "a0015": {
+            "width": 128,
+            "height": 128
+          },
+          "a0016": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "bg6": {
+          "bg2": {
+            "width": 167,
+            "height": 155
+          }
+        },
+        "bg7": {
+          "bg1": {
+            "width": 127,
+            "height": 127
+          }
+        },
+        "bg8": {
+          "bg2": {
+            "width": 167,
+            "height": 155
+          }
+        },
+        "bone3": {
+          "xia1": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.28686,
+              0.29196,
+              0.53886,
+              0.60053
+            ],
+            "triangles": [
+              4,
+              2,
+              3,
+              5,
+              4,
+              3,
+              1,
+              2,
+              4,
+              1,
+              4,
+              5,
+              5,
+              3,
+              0,
+              1,
+              5,
+              0
+            ],
+            "vertices": [
+              42.81,
+              7.02,
+              16.89,
+              -23.45,
+              -15.1,
+              3.77,
+              10.82,
+              34.23,
+              1.68,
+              4.56,
+              18.08,
+              3.84
+            ],
+            "hull": 4
+          }
+        },
+        "bone4": {
+          "xia2": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.74124,
+              0.70611,
+              0.48409,
+              0.79182
+            ],
+            "triangles": [
+              4,
+              2,
+              3,
+              5,
+              2,
+              4,
+              1,
+              2,
+              5,
+              4,
+              3,
+              0,
+              5,
+              4,
+              0,
+              1,
+              5,
+              0
+            ],
+            "vertices": [
+              5.96,
+              16.56,
+              27.96,
+              -0.76,
+              -6.68,
+              -44.76,
+              -28.68,
+              -27.44,
+              1.47,
+              -0.85,
+              10.09,
+              -1.53
+            ],
+            "hull": 4
+          }
+        },
+        "bone5": {
+          "xia3Light": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.68775,
+              0.88635,
+              0.30868,
+              0.23397
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              4,
+              5,
+              3,
+              1,
+              2,
+              5,
+              1,
+              5,
+              4,
+              4,
+              3,
+              0,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              22.7,
+              21.64,
+              47.28,
+              -40.69,
+              -45.75,
+              -77.37,
+              -70.33,
+              -15.04,
+              19.8,
+              -1.99,
+              -31.57,
+              -49.55
+            ],
+            "hull": 4
+          }
+        },
+        "gaoguang": {
+          "gaoguang": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.34229,
+              0.33348,
+              0.49824,
+              0.20282,
+              0.64907,
+              0.31948
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              6,
+              5,
+              3,
+              4,
+              2,
+              5,
+              1,
+              2,
+              4,
+              4,
+              5,
+              6,
+              0,
+              1,
+              4,
+              6,
+              3,
+              0,
+              0,
+              4,
+              6
+            ],
+            "vertices": [
+              57.24,
+              0.51,
+              -57.76,
+              0.51,
+              -57.76,
+              63.51,
+              57.24,
+              63.51,
+              -18.4,
+              42.5,
+              -0.47,
+              50.73,
+              16.88,
+              43.38
+            ],
+            "hull": 4
+          }
+        },
+        "xia1Light2": {
+          "xia1Light": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.62123,
+              0.60773,
+              0.32554,
+              0.36334
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              4,
+              5,
+              3,
+              1,
+              2,
+              5,
+              1,
+              5,
+              4,
+              4,
+              3,
+              0,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              49.97,
+              6.18,
+              18.87,
+              -30.38,
+              -22.26,
+              4.61,
+              8.84,
+              41.17,
+              22.06,
+              6.06,
+              2.81,
+              3.8
+            ],
+            "hull": 4
+          }
+        },
+        "xia2Light2": {
+          "xia2Light": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.68987,
+              0.64279,
+              0.52836,
+              0.72713
+            ],
+            "triangles": [
+              4,
+              2,
+              3,
+              5,
+              2,
+              4,
+              1,
+              2,
+              5,
+              4,
+              3,
+              0,
+              5,
+              4,
+              0,
+              1,
+              5,
+              0
+            ],
+            "vertices": [
+              6.52,
+              23.75,
+              35.6,
+              0.86,
+              -2.75,
+              -47.85,
+              -31.83,
+              -24.96,
+              1.84,
+              -0.75,
+              9.77,
+              -0.34
+            ],
+            "hull": 4
+          }
+        },
+        "xia4": {
+          "xia4": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.33046,
+              0.95285,
+              0.31688,
+              0.48068
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              0,
+              4,
+              5,
+              1,
+              2,
+              5,
+              1,
+              5,
+              4,
+              0,
+              5,
+              3,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              -1.72,
+              -34.02,
+              -0.56,
+              18.97,
+              91.41,
+              16.96,
+              90.26,
+              -36.02,
+              3.39,
+              1.37,
+              46.84,
+              1.14
+            ],
+            "hull": 4
+          }
+        },
+        "xia4Light2": {
+          "xia4Light": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.34245,
+              0.83391,
+              0.34245,
+              0.348
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              5,
+              1,
+              2,
+              4,
+              1,
+              5,
+              5,
+              3,
+              0,
+              4,
+              5,
+              0,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              -7.81,
+              -37.88,
+              -6.45,
+              24.1,
+              96.52,
+              21.85,
+              95.17,
+              -40.13,
+              10.19,
+              2.5,
+              60.22,
+              1.41
+            ],
+            "hull": 4
+          }
+        },
+        "xia5": {
+          "xia5": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.3667,
+              0.85261,
+              0.36084,
+              0.30005
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              0,
+              4,
+              5,
+              1,
+              2,
+              5,
+              1,
+              5,
+              4,
+              0,
+              5,
+              3,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              -3.15,
+              -22.74,
+              -1.55,
+              18.23,
+              41.42,
+              16.55,
+              39.82,
+              -24.42,
+              4.2,
+              2.96,
+              27.95,
+              2.27
+            ],
+            "hull": 4
+          }
+        },
+        "xia5Light": {
+          "xia5Light": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.41616,
+              0.81924,
+              0.44057,
+              0.40424
+            ],
+            "triangles": [
+              5,
+              2,
+              3,
+              5,
+              1,
+              2,
+              4,
+              1,
+              5,
+              5,
+              3,
+              0,
+              4,
+              5,
+              0,
+              1,
+              4,
+              0
+            ],
+            "vertices": [
+              -8.34,
+              -27.54,
+              -6.35,
+              23.42,
+              47.61,
+              21.31,
+              45.62,
+              -29.65,
+              2.58,
+              1.83,
+              24.92,
+              -0.29
+            ],
+            "hull": 4
+          }
+        },
+        "xia6": {
+          "xia3": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0.2149,
+              0.12609,
+              0.63919,
+              0.85418
+            ],
+            "triangles": [
+              4,
+              2,
+              3,
+              5,
+              4,
+              3,
+              1,
+              2,
+              4,
+              1,
+              4,
+              5,
+              5,
+              3,
+              0,
+              1,
+              5,
+              0
+            ],
+            "vertices": [
+              19.32,
+              13.86,
+              39.86,
+              -38.24,
+              -42.93,
+              -70.89,
+              -63.47,
+              -18.79,
+              -36.9,
+              -55.57,
+              14.66,
+              -9.7
+            ],
+            "hull": 4
+          }
+        }
+      }
+    },
+    "animations": {
+      "ami3": {
+        "slots": {
+          "a0001": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "a0001"
+              },
+              {
+                "time": 0.4,
+                "name": "a0002"
+              },
+              {
+                "time": 0.4667,
+                "name": "a0003"
+              },
+              {
+                "time": 0.5333,
+                "name": "a0004"
+              },
+              {
+                "time": 0.6,
+                "name": "a0005"
+              },
+              {
+                "time": 0.6667,
+                "name": "a0006"
+              },
+              {
+                "time": 0.7333,
+                "name": "a0007"
+              },
+              {
+                "time": 0.8,
+                "name": "a0008"
+              },
+              {
+                "time": 0.8667,
+                "name": "a0009"
+              },
+              {
+                "time": 0.9333,
+                "name": "a0010"
+              },
+              {
+                "time": 1,
+                "name": "a0011"
+              },
+              {
+                "time": 1.0667,
+                "name": "a0012"
+              },
+              {
+                "time": 1.1333,
+                "name": "a0013"
+              },
+              {
+                "time": 1.2,
+                "name": "a0014"
+              },
+              {
+                "time": 1.2667,
+                "name": "a0015"
+              },
+              {
+                "time": 1.3333,
+                "name": "a0016"
+              },
+              {
+                "time": 1.4,
+                "name": null
+              }
+            ]
+          },
+          "bg6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bg2"
+              }
+            ]
+          },
+          "bg7": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bg1"
+              }
+            ]
+          },
+          "bg8": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bg2"
+              }
+            ]
+          },
+          "bone3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia1"
+              }
+            ]
+          },
+          "bone4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia2"
+              }
+            ]
+          },
+          "bone5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia3Light"
+              }
+            ]
+          },
+          "gaoguang": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "gaoguang"
+              }
+            ]
+          },
+          "xia4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia4"
+              }
+            ]
+          },
+          "xia5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia5"
+              }
+            ]
+          },
+          "xia6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia3"
+              }
+            ]
+          },
+          "xia1Light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia1Light"
+              }
+            ]
+          },
+          "xia2Light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia2Light"
+              }
+            ]
+          },
+          "xia4Light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia4Light"
+              }
+            ]
+          },
+          "xia5Light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffb7"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "xia5Light"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.036,
+                "y": 1.036
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3333,
+                "angle": 0.09
+              },
+              {
+                "time": 1,
+                "angle": -3.26
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 4.61,
+                "y": 1.45
+              },
+              {
+                "time": 1,
+                "x": -4.86,
+                "y": 4.05
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.914,
+                "y": 0.914
+              },
+              {
+                "time": 1,
+                "x": 0.997,
+                "y": 0.997
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Light": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.8333,
+                "angle": 5.74
+              },
+              {
+                "time": 1.5,
+                "angle": -2.75
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "GaoGuang": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 6.72
+              },
+              {
+                "time": 1.3333,
+                "angle": -6.91
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bg": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.006,
+                "y": 0.961
+              },
+              {
+                "time": 1.3333,
+                "x": 0.941,
+                "y": 1.043
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "All": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "GaoGuang2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.897,
+                "y": 0.897
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "bone3": {
+              "xia1": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 1,
+                  "offset": 8,
+                  "vertices": [
+                    1.13636,
+                    4.06609,
+                    1.13636,
+                    4.06609
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "bone4": {
+              "xia2": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 1,
+                  "offset": 2,
+                  "vertices": [
+                    1.1782,
+                    2.45003,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00822,
+                    -0.55311,
+                    -0.0557,
+                    2.85534
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "bone5": {
+              "xia3Light": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 1,
+                  "offset": 2,
+                  "vertices": [
+                    3.13545,
+                    2.831,
+                    9.84681,
+                    4.68046,
+                    11.94576,
+                    -16.8142,
+                    0,
+                    0,
+                    6.48792,
+                    3.09011
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "gaoguang": {
+              "gaoguang": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.5,
+                  "offset": 8,
+                  "vertices": [
+                    0.53957,
+                    4.58117,
+                    0.29431,
+                    2.49885,
+                    1.48836,
+                    2.35821
+                  ]
+                },
+                {
+                  "time": 1.3333,
+                  "offset": 8,
+                  "vertices": [
+                    5.30177,
+                    6.54193,
+                    0.13081,
+                    1.1106,
+                    6.746,
+                    -2.88584
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "xia4": {
+              "xia4": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.6667,
+                  "offset": 6,
+                  "vertices": [
+                    -12.21309,
+                    -0.7789,
+                    -0.1279,
+                    -5.85832,
+                    -0.1279,
+                    -5.85832
+                  ]
+                },
+                {
+                  "time": 1.5,
+                  "offset": 6,
+                  "vertices": [
+                    -4.57991,
+                    -0.29209,
+                    -4.65649,
+                    -8.31177,
+                    -4.40799,
+                    -8.31718
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "xia5": {
+              "xia5": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 1,
+                  "offset": 8,
+                  "vertices": [
+                    -0.11514,
+                    -2.94646,
+                    -0.11514,
+                    -2.94646
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "xia6": {
+              "xia3": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 1,
+                  "offset": 2,
+                  "vertices": [
+                    8.32971,
+                    1.38315,
+                    6.41725,
+                    2.21382,
+                    7.60336,
+                    -12.85012,
+                    7.40638,
+                    2.92084,
+                    2.41857,
+                    1.90473
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "xia1Light2": {
+              "xia1Light": [
+                {
+                  "time": 0
+                }
+              ]
+            },
+            "xia2Light2": {
+              "xia2Light": [
+                {
+                  "time": 0
+                }
+              ]
+            },
+            "xia4Light2": {
+              "xia4Light": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.6667,
+                  "offset": 4,
+                  "vertices": [
+                    -4.32364,
+                    0.09433,
+                    -9.71249,
+                    0.93283,
+                    -0.09846,
+                    -4.51276,
+                    -0.09846,
+                    -4.51276
+                  ]
+                },
+                {
+                  "time": 1.5,
+                  "offset": 4,
+                  "vertices": [
+                    -1.62136,
+                    0.03537,
+                    -3.64219,
+                    0.34981,
+                    -4.00368,
+                    -5.48967,
+                    -4.00368,
+                    -5.48967
+                  ]
+                },
+                {
+                  "time": 2
+                }
+              ]
+            },
+            "xia5Light": {
+              "xia5Light": [
+                {
+                  "time": 0
+                }
+              ]
+            }
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nslots_6.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\na0001\n  rotate: false\n  xy: 2, 197\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0002\n  rotate: false\n  xy: 171, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0003\n  rotate: false\n  xy: 2, 67\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0004\n  rotate: false\n  xy: 301, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0005\n  rotate: false\n  xy: 431, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0006\n  rotate: false\n  xy: 561, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0007\n  rotate: false\n  xy: 691, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0008\n  rotate: false\n  xy: 821, 354\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0009\n  rotate: false\n  xy: 132, 197\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0010\n  rotate: false\n  xy: 132, 67\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0011\n  rotate: false\n  xy: 262, 224\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0012\n  rotate: false\n  xy: 262, 94\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0013\n  rotate: false\n  xy: 392, 224\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0014\n  rotate: false\n  xy: 392, 94\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0015\n  rotate: false\n  xy: 522, 224\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\na0016\n  rotate: false\n  xy: 522, 94\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nbg1\n  rotate: false\n  xy: 652, 225\n  size: 127, 127\n  orig: 127, 127\n  offset: 0, 0\n  index: -1\nbg2\n  rotate: false\n  xy: 2, 327\n  size: 167, 155\n  orig: 167, 155\n  offset: 0, 0\n  index: -1\ngaoguang\n  rotate: false\n  xy: 2, 2\n  size: 115, 63\n  orig: 115, 63\n  offset: 0, 0\n  index: -1\nxia1\n  rotate: true\n  xy: 836, 256\n  size: 40, 42\n  orig: 40, 42\n  offset: 0, 0\n  index: -1\nxia1Light\n  rotate: false\n  xy: 836, 298\n  size: 48, 54\n  orig: 48, 54\n  offset: 0, 0\n  index: -1\nxia2\n  rotate: false\n  xy: 224, 9\n  size: 28, 56\n  orig: 28, 56\n  offset: 0, 0\n  index: -1\nxia2Light\n  rotate: true\n  xy: 886, 315\n  size: 37, 62\n  orig: 37, 62\n  offset: 0, 0\n  index: -1\nxia3\n  rotate: false\n  xy: 652, 134\n  size: 56, 89\n  orig: 56, 89\n  offset: 0, 0\n  index: -1\nxia3Light\n  rotate: false\n  xy: 951, 382\n  size: 67, 100\n  orig: 67, 100\n  offset: 0, 0\n  index: -1\nxia4\n  rotate: false\n  xy: 781, 260\n  size: 53, 92\n  orig: 53, 92\n  offset: 0, 0\n  index: -1\nxia4Light\n  rotate: true\n  xy: 119, 3\n  size: 62, 103\n  orig: 62, 103\n  offset: 0, 0\n  index: -1\nxia5\n  rotate: true\n  xy: 652, 91\n  size: 41, 43\n  orig: 41, 43\n  offset: 0, 0\n  index: -1\nxia5Light\n  rotate: false\n  xy: 710, 169\n  size: 51, 54\n  orig: 51, 54\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "a9a76190-e4ca-4bfe-a7fd-cfe0fb440b45"
+    }
+  ],
+  "textureNames": [
+    "slots_6.png"
+  ],
+  "scale": 1
+}

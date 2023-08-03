@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game1_back_2",
+    "texture": "ef9bd8d1-ee33-4c8b-9c1e-f12905ccf450",
+    "atlas": "",
+    "rect": [
+      3,
+      6,
+      106,
+      87
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      112,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnGoDice",
+    "texture": "a9d0a14f-fe7c-496c-ac77-7d4cbcbca669",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      268,
+      343
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      271,
+      344
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

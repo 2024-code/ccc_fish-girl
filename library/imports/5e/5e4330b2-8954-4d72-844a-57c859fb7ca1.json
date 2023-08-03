@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wheelBg",
+    "texture": "6ec66108-dc2c-4201-bf74-e2ae8b6a79b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      121
+    ],
+    "offset": [
+      -1.5,
+      2
+    ],
+    "originalSize": [
+      144,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

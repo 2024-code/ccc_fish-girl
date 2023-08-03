@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lhj_gold_rain.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "acer01": {
+      "__uuid__": "55be1b89-1987-467d-84db-6c646a65a498"
+    },
+    "acer02": {
+      "__uuid__": "6da73104-44c2-4f3e-a69a-81e9a1ddd122"
+    },
+    "coin01": {
+      "__uuid__": "3f3d9436-1de8-404d-83d8-a4c6a3fb92d2"
+    },
+    "coin02": {
+      "__uuid__": "b244242c-33b6-4e6e-bb81-fbafe473f6c7"
+    },
+    "coin03": {
+      "__uuid__": "d3b62ced-8996-4bfc-9ba4-11bd21c0ef8a"
+    },
+    "coin04": {
+      "__uuid__": "99ca29d3-138e-422a-a224-fd37550ea299"
+    },
+    "coin05": {
+      "__uuid__": "d44c8fd4-b261-4117-928c-b2c3c300f32d"
+    },
+    "coin06": {
+      "__uuid__": "79736e6a-c047-4b0a-ad07-cd898efacacd"
+    },
+    "coin07": {
+      "__uuid__": "be298b94-2edb-46e9-8cd2-0473c6f08eee"
+    },
+    "coin08": {
+      "__uuid__": "0bb1ea57-215a-4771-a5e1-9fb9bed71374"
+    },
+    "coin_none": {
+      "__uuid__": "73d37583-30f0-41db-8395-61a8e4c241fb"
+    }
+  }
+}

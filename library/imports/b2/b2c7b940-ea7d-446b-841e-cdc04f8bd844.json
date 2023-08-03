@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lbl_King_LblDragon_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-lbl_King_LblDragon-0004": {
+      "__uuid__": "cfeb251a-072c-48bd-b818-cdbf164f5639"
+    },
+    "atlas-lbl_King_LblDragon-0008": {
+      "__uuid__": "2316113b-e959-4d15-846a-07bee9f85d92"
+    },
+    "atlas-lbl_King_LblDragon-0017": {
+      "__uuid__": "e1442737-39da-45e0-957c-90e0470cf8d1"
+    },
+    "atlas-lbl_King_LblDragon-0018": {
+      "__uuid__": "1cf61586-2b3a-4dfa-af61-9ff613ace624"
+    },
+    "atlas-lbl_King_LblDragon-0019": {
+      "__uuid__": "0a398802-420b-4a01-8f4b-7272856af0d3"
+    },
+    "atlas-lbl_King_LblDragon-0020": {
+      "__uuid__": "33a368a0-1f05-4905-8428-fbe719fe440d"
+    },
+    "atlas-lbl_King_LblDragon-0022": {
+      "__uuid__": "152c26f1-fdf6-4b39-a14f-70b4741ff9ac"
+    },
+    "atlas-lbl_King_LblDragon-0024": {
+      "__uuid__": "da658196-30e2-423c-8409-52c53d12fa92"
+    },
+    "atlas-lbl_King_LblDragon-0042": {
+      "__uuid__": "a312f915-323c-4afd-ae41-c0e3b5ebd199"
+    },
+    "atlas-lbl_King_LblDragon-0059": {
+      "__uuid__": "7a342555-18af-4392-9dea-d2dc74692c4b"
+    },
+    "atlas-lbl_King_LblDragon-0060": {
+      "__uuid__": "511088f7-fe48-4894-ad8a-a0416b047b55"
+    },
+    "atlas-lbl_King_LblDragon-0061": {
+      "__uuid__": "77335c73-f937-4a2b-8ab3-24d3394dcec8"
+    },
+    "atlas-lbl_King_LblDragon-0071": {
+      "__uuid__": "d452be62-e1fe-4713-ab43-8bcb58a64d21"
+    },
+    "atlas-lbl_King_LblDragon-0072": {
+      "__uuid__": "69a77621-5493-4459-a6f3-d3f6bf387100"
+    },
+    "atlas-lbl_King_LblDragon-0073": {
+      "__uuid__": "e1086cfb-d58f-47a0-beee-30eda5e462fc"
+    },
+    "atlas-lbl_King_LblDragon-0074": {
+      "__uuid__": "76012f58-3a9e-49eb-912d-0a961bdd286f"
+    },
+    "atlas-lbl_King_LblDragon-0075": {
+      "__uuid__": "b4b768c5-c35e-44e3-b513-a4fa9e1555f3"
+    },
+    "atlas-lbl_King_LblDragon-0076": {
+      "__uuid__": "92cf0312-11e3-4d7d-94ea-c8e7df0f8257"
+    },
+    "atlas-lbl_King_LblDragon-0078": {
+      "__uuid__": "6817fa01-3379-4bc4-8d95-a143f993a176"
+    },
+    "atlas-lbl_King_LblDragon-0079": {
+      "__uuid__": "2f41f7eb-3b10-4bce-9294-fcdb09c81d7c"
+    },
+    "atlas-lbl_King_LblDragon-0097": {
+      "__uuid__": "3d1e6576-add8-474a-abf8-a474567daad3"
+    },
+    "atlas-lbl_King_LblDragon-0098": {
+      "__uuid__": "70d76c2a-9bae-422d-a1c9-281467e7fa5a"
+    },
+    "atlas-lbl_King_LblDragon-0099": {
+      "__uuid__": "53047b21-7244-4ad4-b554-ae898daed541"
+    },
+    "atlas-lbl_King_LblDragon-0102": {
+      "__uuid__": "220a27c6-2300-4783-9333-1ce03cf418dc"
+    },
+    "atlas-lbl_King_LblDragon-0103": {
+      "__uuid__": "06b71751-2839-47a8-8484-c92e4673b16f"
+    },
+    "atlas-lbl_King_LblDragon-0104": {
+      "__uuid__": "b91141aa-09f9-4fe1-b4f1-29821a2c65f2"
+    },
+    "atlas-lbl_King_LblDragon-0105": {
+      "__uuid__": "d4f96272-308a-4944-ae0f-42b6b133fa85"
+    },
+    "atlas-lbl_King_LblDragon-0106": {
+      "__uuid__": "e00da86a-b924-4e16-a4fd-c18ff8658ef8"
+    },
+    "atlas-lbl_King_LblDragon-0107": {
+      "__uuid__": "7a826576-ba46-47eb-887e-a82bfd18363f"
+    },
+    "atlas-lbl_King_LblDragon-0108": {
+      "__uuid__": "7514a993-4c2a-4d95-a849-416f61285c79"
+    },
+    "atlas-lbl_King_LblDragon-0109": {
+      "__uuid__": "f5002f60-b02f-4df5-b445-6e951b4ba83d"
+    },
+    "atlas-lbl_King_LblDragon-0110": {
+      "__uuid__": "868859d7-9e5d-4fb3-9285-267fb06fc19c"
+    },
+    "atlas-lbl_King_LblDragon-0111": {
+      "__uuid__": "d092d4f4-fa85-4254-b358-79b2e73e7185"
+    },
+    "atlas-lbl_King_LblDragon-0112": {
+      "__uuid__": "16b4bd9f-905d-41fa-b73e-4f9ec7579a92"
+    },
+    "atlas-lbl_King_LblDragon-0143": {
+      "__uuid__": "034c86f5-aebd-4f75-af6b-5b83f378270b"
+    },
+    "atlas-lbl_King_LblDragon-0146": {
+      "__uuid__": "c3706486-9af8-48b2-985e-515bf064f04a"
+    },
+    "atlas-lbl_King_LblDragon-0153": {
+      "__uuid__": "baa1f549-33b4-4c47-bf78-2e70d100a31c"
+    },
+    "atlas-lbl_King_LblDragon-0154": {
+      "__uuid__": "2979bf56-9130-4be9-8a87-6f47e34e9fae"
+    },
+    "atlas-lbl_King_LblDragon-0155": {
+      "__uuid__": "9ec619dc-5cd1-4461-9416-ec6cbb912831"
+    },
+    "atlas-lbl_King_LblDragon-0156": {
+      "__uuid__": "4d34c940-fac3-452b-a6d0-443a74f3d915"
+    },
+    "atlas-lbl_King_LblDragon-0157": {
+      "__uuid__": "c953d3d7-8328-4aad-b6d0-80294a0596cf"
+    },
+    "atlas-lbl_King_LblDragon-0158": {
+      "__uuid__": "1bc7eece-aa26-493e-bfc6-2d954d784342"
+    },
+    "atlas-lbl_King_LblDragon-0162": {
+      "__uuid__": "1cdda0c6-1a13-4762-a7de-96cba30d4eea"
+    },
+    "atlas-lbl_King_LblDragon-0163": {
+      "__uuid__": "58dcb9ea-5dc6-47c2-b859-f00c1ace30fe"
+    },
+    "atlas-lbl_King_LblDragon-0164": {
+      "__uuid__": "c4b0f0d1-f941-4012-b82f-26a1755966f9"
+    },
+    "atlas-lbl_King_LblDragon-0165": {
+      "__uuid__": "1737fc41-852b-4407-8ef9-f9f00215a37b"
+    },
+    "atlas-lbl_King_LblDragon-0166": {
+      "__uuid__": "624da6a1-c0d5-4c31-86c1-9f2d86a0bfb7"
+    },
+    "atlas-lbl_King_LblDragon-0169": {
+      "__uuid__": "3de062ce-7451-433c-8565-1aac19f0f02b"
+    },
+    "atlas-lbl_King_LblDragon-0170": {
+      "__uuid__": "2ce8de50-8ce8-4d27-886c-e02b2a83936c"
+    },
+    "atlas-lbl_King_LblDragon-0174": {
+      "__uuid__": "dd72dd1b-c94f-4244-87db-ef1b1eb703d0"
+    }
+  }
+}

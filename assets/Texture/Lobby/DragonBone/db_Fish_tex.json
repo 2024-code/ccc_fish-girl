@@ -1,0 +1,40 @@
+{
+    "SubTexture": [{
+        "frameX": 0,
+        "y": 1,
+        "frameY": -1,
+        "frameWidth": 250,
+        "width": 250,
+        "frameHeight": 250,
+        "height": 248,
+        "name": "buyu_1",
+        "x": 1
+    },
+    {
+        "width": 208,
+        "y": 1,
+        "height": 206,
+        "name": "ca177c09eb82f45c6d42ce00c2f48450",
+        "x": 253
+    },
+    {
+        "width": 210,
+        "y": 209,
+        "height": 75,
+        "name": "logo",
+        "x": 253
+    },
+    {
+        "frameX": -3,
+        "y": 251,
+        "frameY": -4,
+        "frameWidth": 128,
+        "width": 122,
+        "frameHeight": 128,
+        "height": 120,
+        "name": "1",
+        "x": 1
+    }],
+    "imagePath": "db_Fish_tex.png",
+    "name": "db_Fish"
+}

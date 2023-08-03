@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "five_petalA",
+    "texture": "6cb10e0c-80e0-44ca-8011-7204968eafba",
+    "atlas": "f1380ce7-de9f-4cb9-aec1-86102c178155",
+    "rect": [
+      532,
+      920,
+      70,
+      77
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      70,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

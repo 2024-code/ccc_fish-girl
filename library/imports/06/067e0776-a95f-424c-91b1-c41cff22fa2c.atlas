@@ -1,0 +1,19 @@
+
+ruyi-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_ruyi
+  rotate: false
+  xy: 250, 2
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 5
+  size: 246, 86
+  orig: 246, 86
+  offset: 0, 0
+  index: -1

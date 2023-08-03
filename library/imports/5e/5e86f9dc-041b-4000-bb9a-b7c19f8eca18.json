@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_wild_0001",
+    "texture": "bf3af0ad-7c2f-4c9d-9e82-df4c3990aa79",
+    "atlas": "ae2fadfe-4f07-4648-8de1-41f6a1d27683",
+    "rect": [
+      320,
+      1662,
+      310,
+      324
+    ],
+    "offset": [
+      -7,
+      36
+    ],
+    "originalSize": [
+      500,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

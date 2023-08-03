@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pl_vlv",
+    "texture": "e8166fbf-6a26-42d3-b704-7d55460ae325",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      60,
+      30
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      60,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

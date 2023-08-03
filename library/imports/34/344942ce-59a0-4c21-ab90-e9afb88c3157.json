@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FREE SPIN WIN",
+    "texture": "b8b2f0ae-db75-4929-89ec-2def505c3c33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      93
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dragon_d",
+    "texture": "a1a51cfa-29b2-415d-9992-040f36b2068c",
+    "atlas": "be887cc9-9c44-4b9c-b3ac-77388bcde58b",
+    "rect": [
+      450,
+      51,
+      42,
+      44
+    ],
+    "offset": [
+      0,
+      -6
+    ],
+    "originalSize": [
+      42,
+      56
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

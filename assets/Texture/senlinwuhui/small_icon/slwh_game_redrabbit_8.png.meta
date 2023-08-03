@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b9a173b7-3ec3-4da5-8031-5d2f1fd38de9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_redrabbit_8": {
+      "ver": "1.0.4",
+      "uuid": "f4dee72f-2e49-4910-98db-fca8ee1156cc",
+      "rawTextureUuid": "b9a173b7-3ec3-4da5-8031-5d2f1fd38de9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 6,
+      "trimX": 73,
+      "trimY": 61,
+      "width": 110,
+      "height": 122,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

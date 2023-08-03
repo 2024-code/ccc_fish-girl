@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-player-1634",
+    "texture": "00bf3183-3290-40c9-b5d2-a623dd5e78c5",
+    "atlas": "9046bc1f-be7f-4aa9-9fc6-1c4ed6ef8514",
+    "rect": [
+      134,
+      1,
+      131,
+      114
+    ],
+    "offset": [
+      2,
+      34
+    ],
+    "originalSize": [
+      137,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

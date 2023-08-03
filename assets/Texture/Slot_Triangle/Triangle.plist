@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>TriangleBlueFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleBonus00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,969},{29,40}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,44}</string>
+			</dict>
+			<key>TriangleCyanFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,122},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleGrayFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,243},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleGreenFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,364},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleOrangeFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,485},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TrianglePurpleFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,606},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleRedFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,727},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>TriangleYellowFrame00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,848},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Triangle.png</string>
+			<key>realTextureFileName</key>
+			<string>Triangle.png</string>
+			<key>size</key>
+			<string>{110,1010}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>110</integer>
+			<key>height</key>
+			<integer>1010</integer>
+		</dict>
+	</dict>
+</plist>

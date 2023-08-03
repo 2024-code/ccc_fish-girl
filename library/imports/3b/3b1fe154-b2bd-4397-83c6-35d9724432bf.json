@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_bigwin_banner_03",
+    "texture": "a5245906-596f-45db-a89f-67cda7e452d8",
+    "atlas": "",
+    "rect": [
+      244,
+      99,
+      563,
+      490
+    ],
+    "offset": [
+      -1.5,
+      30.5
+    ],
+    "originalSize": [
+      1054,
+      749
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

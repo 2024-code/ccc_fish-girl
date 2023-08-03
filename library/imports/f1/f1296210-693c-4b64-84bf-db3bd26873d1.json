@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_trend",
+    "texture": "43b7d734-ea6a-4f6c-952d-c4ba68119f52",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      44,
+      33
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      45,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bd85ab0e-8ccf-4c0e-8090-d86377f6bee3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "ipadmini": {
+      "ver": "1.0.4",
+      "uuid": "99073306-50a4-4a85-88b3-45ae68434648",
+      "rawTextureUuid": "bd85ab0e-8ccf-4c0e-8090-d86377f6bee3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -9.5,
+      "trimX": 25,
+      "trimY": 33,
+      "width": 111,
+      "height": 113,
+      "rawWidth": 160,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

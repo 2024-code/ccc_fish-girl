@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_tuiguang",
+    "texture": "b2dad560-1eae-4251-b868-7706f2b6b18d",
+    "atlas": "",
+    "rect": [
+      10,
+      6,
+      79,
+      97
+    ],
+    "offset": [
+      2,
+      -0.5
+    ],
+    "originalSize": [
+      95,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

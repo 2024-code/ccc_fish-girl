@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FREE-GAME",
+    "texture": "d76854db-992f-4e42-98f5-cc26b77829f7",
+    "atlas": "",
+    "rect": [
+      15,
+      3,
+      1009,
+      34
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1040,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_ptable_btn_return_nor",
+    "texture": "0e1f6164-4330-4485-82cb-cbb3b0043c98",
+    "atlas": "8d1ede32-a669-4e71-a838-a192e80deaa4",
+    "rect": [
+      2,
+      2,
+      240,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      64
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

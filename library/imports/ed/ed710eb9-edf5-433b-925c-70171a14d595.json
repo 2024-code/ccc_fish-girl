@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_blank",
+    "texture": "cab0e128-1a00-4c86-a002-84c1aa9c80ca",
+    "atlas": "",
+    "rect": [
+      168,
+      224,
+      1,
+      1
+    ],
+    "offset": [
+      84,
+      -112
+    ],
+    "originalSize": [
+      169,
+      225
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

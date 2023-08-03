@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_bonus_diamond_idle_00014",
+    "texture": "d2bc2fd5-8003-49fe-9fff-c921d3229923",
+    "atlas": "12c72b6f-811b-418b-9105-c9bf80dfb0ed",
+    "rect": [
+      222,
+      1614,
+      245,
+      204
+    ],
+    "offset": [
+      -12,
+      -34
+    ],
+    "originalSize": [
+      617,
+      508
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

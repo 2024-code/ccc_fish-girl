@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game2_bg_Down",
+    "texture": "9dcc63a3-b6ba-4d8a-96ef-c6e23a0d9e65",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      1334,
+      164
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      1334,
+      167
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

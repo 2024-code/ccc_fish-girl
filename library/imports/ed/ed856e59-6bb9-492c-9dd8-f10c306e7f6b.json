@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "TriangleRule.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BlueLineH": {
+      "__uuid__": "42ece6d8-9451-43e2-acc3-85dc2b9806d5"
+    },
+    "BlueLineV": {
+      "__uuid__": "46db3918-4a75-4d4d-8bf2-fc6626cb518b"
+    },
+    "CyanLineH": {
+      "__uuid__": "23ebb165-8f69-46ee-a4b5-fd1bff99d0a6"
+    },
+    "CyanLineV": {
+      "__uuid__": "46d7f722-6b5a-45b7-8b52-46371388082c"
+    },
+    "GrayLineH": {
+      "__uuid__": "d5e1a81b-4a75-4f79-a415-f2bfc3a5390a"
+    },
+    "GrayLineV": {
+      "__uuid__": "e0b5b5e9-f030-49a5-83d1-46f296c63bb0"
+    },
+    "GreenLineH": {
+      "__uuid__": "f85c55e8-704b-4085-9ea1-f8e6426734fe"
+    },
+    "GreenLineV": {
+      "__uuid__": "c55e86b2-db8c-4ed3-ae10-2ee15991aedf"
+    },
+    "OrangeLineH": {
+      "__uuid__": "5ac973e9-c5a2-4a75-8c25-5ef2f0eeaaea"
+    },
+    "OrangeLineV": {
+      "__uuid__": "c87cdbdc-715c-4daa-951d-e85ea1f14919"
+    },
+    "PurpleLineH": {
+      "__uuid__": "effde1bb-a826-4054-9a3d-14eea74b5910"
+    },
+    "PurpleLineV": {
+      "__uuid__": "4a051eed-26e3-4eae-9d7f-f46ff325065c"
+    },
+    "RedLineH": {
+      "__uuid__": "117b49b9-2db3-48f2-a5fb-caffbab021eb"
+    },
+    "RedLineV": {
+      "__uuid__": "68aea4e7-bbd7-4c23-91cf-7fd29748bd89"
+    },
+    "TriangleBGBig": {
+      "__uuid__": "46df94db-aefb-43ad-973c-397ba0721140"
+    },
+    "TriangleBGHL": {
+      "__uuid__": "941537bd-2e07-4ca9-a5db-cd4f971b65fd"
+    },
+    "TriangleBGSmall": {
+      "__uuid__": "dbda7435-12ec-47ee-9ee8-e580fc84d739"
+    },
+    "TriangleBlueH": {
+      "__uuid__": "32e35f15-bdb2-4d99-8888-00981e2887e8"
+    },
+    "TriangleBlueN": {
+      "__uuid__": "3566f3ed-adf4-4559-9bed-2065bebbdc2e"
+    },
+    "TriangleCyanH": {
+      "__uuid__": "00bb88f9-f94d-4aa2-8425-8cfb58cf507f"
+    },
+    "TriangleCyanN": {
+      "__uuid__": "c4dcbb9a-7012-486b-a7be-7463e8539d54"
+    },
+    "TriangleGrayH": {
+      "__uuid__": "ad98a1f9-6c3c-4632-b601-729e2bba25fa"
+    },
+    "TriangleGrayN": {
+      "__uuid__": "996a009f-c49f-4b74-9ace-e65b88f71331"
+    },
+    "TriangleGreenH": {
+      "__uuid__": "afb4f1dd-391c-4f40-838c-e85c2a163d03"
+    },
+    "TriangleGreenN": {
+      "__uuid__": "569e9795-8581-497c-9d56-3c0d58ebbb4e"
+    },
+    "TriangleOrangeH": {
+      "__uuid__": "b35d0a5d-0b34-468e-84e2-c2c47178ff03"
+    },
+    "TriangleOrangeN": {
+      "__uuid__": "28a37e55-101a-4622-b2ee-49df0c7ed21e"
+    },
+    "TrianglePurpleH": {
+      "__uuid__": "2ff071dd-1faf-4b6f-9aee-55d7a453ceef"
+    },
+    "TrianglePurpleN": {
+      "__uuid__": "ce328771-99c6-42b4-a797-38277e09725a"
+    },
+    "TriangleRedH": {
+      "__uuid__": "3243c743-68f5-4063-bab3-2b9cce78dec4"
+    },
+    "TriangleRedN": {
+      "__uuid__": "987ac687-fc49-48f8-8700-46a63c16eea8"
+    },
+    "TriangleYellowH": {
+      "__uuid__": "9f3e1340-1d60-4db7-932a-63a319812286"
+    },
+    "TriangleYellowN": {
+      "__uuid__": "d442b3d1-6249-4a41-89d4-118fd3ef608b"
+    },
+    "YellowLineH": {
+      "__uuid__": "60a571eb-0d59-4262-9b6b-98a7f3d7967a"
+    },
+    "YellowLineV": {
+      "__uuid__": "f58f7999-c730-44b4-b03a-e7c98e2ef8df"
+    }
+  }
+}

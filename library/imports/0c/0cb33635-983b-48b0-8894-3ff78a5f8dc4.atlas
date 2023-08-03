@@ -1,0 +1,69 @@
+
+pig_box.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian_117
+  rotate: false
+  xy: 271, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fd02_a
+  rotate: false
+  xy: 91, 55
+  size: 41, 37
+  orig: 42, 46
+  offset: 1, 6
+  index: -1
+fd02_b
+  rotate: false
+  xy: 531, 133
+  size: 26, 53
+  orig: 28, 55
+  offset: 1, 1
+  index: -1
+fd02_c
+  rotate: false
+  xy: 2, 94
+  size: 135, 139
+  orig: 137, 141
+  offset: 1, 1
+  index: -1
+fd02_clight
+  rotate: false
+  xy: 139, 98
+  size: 130, 135
+  orig: 137, 141
+  offset: 3, 4
+  index: -1
+fd02_e
+  rotate: false
+  xy: 2, 2
+  size: 68, 45
+  orig: 70, 47
+  offset: 1, 1
+  index: -1
+fd02_f
+  rotate: false
+  xy: 2, 49
+  size: 87, 43
+  orig: 89, 45
+  offset: 1, 1
+  index: -1
+fd02_flight
+  rotate: false
+  xy: 531, 188
+  size: 80, 45
+  orig: 89, 45
+  offset: 4, 0
+  index: -1
+shanguang_00111
+  rotate: false
+  xy: 401, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

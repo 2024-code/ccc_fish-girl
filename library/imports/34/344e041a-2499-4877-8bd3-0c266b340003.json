@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_effect",
+    "texture": "a577cf79-efe2-4c64-8d4c-103e837826b7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      418,
+      978
+    ],
+    "offset": [
+      -45,
+      21
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

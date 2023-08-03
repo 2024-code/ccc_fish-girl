@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "WinBouns2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Bonus05": {
+      "__uuid__": "3f1b377a-2b63-4827-b920-a25901f4c80d"
+    },
+    "Bonus06": {
+      "__uuid__": "cc664b53-2a38-402e-8076-78df613d16a0"
+    },
+    "Bonus16": {
+      "__uuid__": "41a6524b-75e2-4826-8de1-f73143e64480"
+    },
+    "Bonus18": {
+      "__uuid__": "ecb442fb-cefa-413f-9243-917b8caa99ad"
+    },
+    "Bonus29": {
+      "__uuid__": "fd9fe7cc-43d4-4765-862a-2678683e4e02"
+    },
+    "Bonus30": {
+      "__uuid__": "4123691e-0386-45b4-ba9b-e6765d6e72c6"
+    },
+    "Bonus31": {
+      "__uuid__": "1140916f-f5d8-49cf-ad49-599cec1f0116"
+    },
+    "Bonus32": {
+      "__uuid__": "ca00fa5e-f908-41de-b295-4f1419b32ffe"
+    }
+  }
+}

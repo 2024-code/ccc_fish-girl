@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_ptable_btn_next_nor",
+    "texture": "78a2b94b-a418-4d22-afa6-04dc917a7e3b",
+    "atlas": "3360e52c-da30-4406-b141-86bba9d2a5c2",
+    "rect": [
+      806,
+      784,
+      58,
+      69
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      58,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

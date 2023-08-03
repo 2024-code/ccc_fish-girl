@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_Turtle-0123",
+    "texture": "fbd3d517-da4b-456a-922c-e5a8be74d6fc",
+    "atlas": "7385fee5-fcf3-43e2-b885-7593863d01d5",
+    "rect": [
+      1362,
+      1,
+      286,
+      340
+    ],
+    "offset": [
+      -43,
+      -4
+    ],
+    "originalSize": [
+      408,
+      408
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

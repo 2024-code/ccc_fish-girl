@@ -1,0 +1,233 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "referee.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "referee_0001": {
+      "__uuid__": "1c7e5dab-6686-43b6-b6f2-629e58f44fe5"
+    },
+    "referee_0002": {
+      "__uuid__": "f9208857-fe49-4074-b025-2d0aae95a10c"
+    },
+    "referee_0003": {
+      "__uuid__": "55969855-4b5d-4cc2-b409-ccce8eab1ff3"
+    },
+    "referee_0004": {
+      "__uuid__": "f84dcd79-7095-4c7c-8dd7-87a6c532dc19"
+    },
+    "referee_0005": {
+      "__uuid__": "6a9fa339-40a9-4ac9-90d8-7a41ec20ee7d"
+    },
+    "referee_0006": {
+      "__uuid__": "1035a740-8721-4790-b807-c5e0256c3f38"
+    },
+    "referee_0007": {
+      "__uuid__": "9e7c661d-1feb-4409-9ebc-82c03eac93d9"
+    },
+    "referee_0008": {
+      "__uuid__": "334c9a64-c4c9-41f2-9cf8-fc8be77cc365"
+    },
+    "referee_0009": {
+      "__uuid__": "86e53f22-09e3-4ee1-990e-5e5a80e36bdc"
+    },
+    "referee_0010": {
+      "__uuid__": "8e1f7bf8-8b70-4348-96e1-b5080f2aa7fd"
+    },
+    "referee_0011": {
+      "__uuid__": "5ec62f83-7617-4eb4-b35f-f17ca4747c70"
+    },
+    "referee_0012": {
+      "__uuid__": "8659c666-6de1-440f-af21-c1557d5289cf"
+    },
+    "referee_0013": {
+      "__uuid__": "77c21f95-0d5c-4ed5-91d3-aee7d7227be5"
+    },
+    "referee_0014": {
+      "__uuid__": "16257140-5a7a-43cf-b97e-4f0344cb07d2"
+    },
+    "referee_0015": {
+      "__uuid__": "f5d545c1-5742-4dd8-bb69-17d371099ca4"
+    },
+    "referee_0016": {
+      "__uuid__": "8385f1f5-8d77-40df-b455-fcbf1e73a65f"
+    },
+    "referee_0017": {
+      "__uuid__": "3132a206-0e78-4461-a409-b8d6a1c725de"
+    },
+    "referee_0018": {
+      "__uuid__": "e040dc1b-162c-4622-9b4d-6c88ada8c56f"
+    },
+    "referee_0019": {
+      "__uuid__": "ff1e49aa-2103-4f29-8659-341d350d5697"
+    },
+    "referee_0020": {
+      "__uuid__": "09e452cf-9c26-4b18-8ba3-cbedaad6ef97"
+    },
+    "referee_0021": {
+      "__uuid__": "5f6d64d7-a24f-4c07-9bfa-cbb9a2ff8023"
+    },
+    "referee_0022": {
+      "__uuid__": "25f947b0-245d-4f70-9fc3-e1e6bf840371"
+    },
+    "referee_0023": {
+      "__uuid__": "ae80bf1b-15ad-4f69-a099-445a30cbffb4"
+    },
+    "referee_0024": {
+      "__uuid__": "f6178279-7f2e-4c24-8174-d2226cc90810"
+    },
+    "referee_0025": {
+      "__uuid__": "0b16ee91-3286-4c6e-89d3-1d191caf0da3"
+    },
+    "referee_0026": {
+      "__uuid__": "8ddacf9f-a0f1-43c5-8fd3-ba44905e145d"
+    },
+    "referee_0027": {
+      "__uuid__": "2d8ab574-1f23-42e8-8190-abca1a7ef2ce"
+    },
+    "referee_0028": {
+      "__uuid__": "3698a350-ce32-4ece-b513-a1f76631e14a"
+    },
+    "referee_0029": {
+      "__uuid__": "4180ed07-7268-42d2-9fc8-efcee5272904"
+    },
+    "referee_0030": {
+      "__uuid__": "dca8b104-ea81-4909-a384-56a20b4e5871"
+    },
+    "referee_0031": {
+      "__uuid__": "8636c137-2b1f-4616-8f39-2f7fa8147961"
+    },
+    "referee_0032": {
+      "__uuid__": "9086d980-13a4-4ac7-a677-1a95fd12258f"
+    },
+    "referee_0033": {
+      "__uuid__": "4f00053d-df6c-4c53-9ee9-4b58238b36b1"
+    },
+    "referee_0034": {
+      "__uuid__": "11adc195-e059-49d4-95b5-c504c43a6816"
+    },
+    "referee_0035": {
+      "__uuid__": "8e5dd290-54be-4796-b6fa-98f62af38829"
+    },
+    "referee_0036": {
+      "__uuid__": "c4917ccd-5fb2-404b-9a90-931cb8669b44"
+    },
+    "referee_0037": {
+      "__uuid__": "a1365e6c-41fb-4e12-a232-449249e4b0e7"
+    },
+    "referee_0038": {
+      "__uuid__": "9bfc02c1-8b82-4bdc-870e-9c7256f0ec78"
+    },
+    "referee_0039": {
+      "__uuid__": "9f661eac-a6b5-4f0a-810b-50a1e65493a9"
+    },
+    "referee_0040": {
+      "__uuid__": "a46349de-aa5a-4d74-929c-f5c7640573b4"
+    },
+    "referee_0041": {
+      "__uuid__": "a9b8c171-270d-4391-9439-6ed04f16000a"
+    },
+    "referee_0042": {
+      "__uuid__": "c3e949e5-4d12-41b3-9551-4757b50a0751"
+    },
+    "referee_0043": {
+      "__uuid__": "e604487f-230c-4d46-a18a-81709b62ef28"
+    },
+    "referee_0044": {
+      "__uuid__": "b58cebe5-7cdc-48cb-9cc2-8f024090f94d"
+    },
+    "referee_0045": {
+      "__uuid__": "5812a4c0-8fd5-4857-a170-8da7e9b9adc1"
+    },
+    "referee_0046": {
+      "__uuid__": "85d5c8ef-f812-4106-ba0e-7fd0fd45d39e"
+    },
+    "referee_0047": {
+      "__uuid__": "dca1e6dc-f2c0-4de7-939b-c8e03ced4727"
+    },
+    "referee_0048": {
+      "__uuid__": "39b2fe0c-9554-4869-b334-7541b8cfcb3d"
+    },
+    "referee_0049": {
+      "__uuid__": "9373d9e1-5f5a-449a-8f9f-1d0936de2556"
+    },
+    "referee_0050": {
+      "__uuid__": "f946af82-adce-426a-a064-83b56288b0f9"
+    },
+    "referee_0051": {
+      "__uuid__": "13584ea8-17b2-4fb6-89ed-f0a3d3d9c778"
+    },
+    "referee_0052": {
+      "__uuid__": "0c2ed181-b75b-469a-a368-2eb61af61fd6"
+    },
+    "referee_0053": {
+      "__uuid__": "b6b1aa89-4565-4842-980d-7e576de51f61"
+    },
+    "referee_0054": {
+      "__uuid__": "dfcc209d-91db-4d6c-ba6c-713ebe6cf9d8"
+    },
+    "referee_0055": {
+      "__uuid__": "6a090f0a-1540-4a5f-9430-38ffdebd1a1c"
+    },
+    "referee_0056": {
+      "__uuid__": "b0ca8a84-867b-4936-aaaf-47b6fde429cc"
+    },
+    "referee_0057": {
+      "__uuid__": "96d01d06-fc69-44eb-a50f-5c9186775af6"
+    },
+    "referee_0058": {
+      "__uuid__": "cefa6e0c-1892-4054-8b24-8e38cfbcfe19"
+    },
+    "referee_0059": {
+      "__uuid__": "cee670dc-b520-4c33-8097-e75f7257a872"
+    },
+    "referee_0060": {
+      "__uuid__": "d96439a4-d159-4562-918a-87a1645fec1d"
+    },
+    "referee_0061": {
+      "__uuid__": "101997fa-b6bf-42ad-ba75-2e89512405b8"
+    },
+    "referee_0062": {
+      "__uuid__": "6d972dd3-72c5-4e48-b1f7-833a29e27c84"
+    },
+    "referee_0063": {
+      "__uuid__": "ed9a8875-af54-40a8-afff-4a9c9bbde7db"
+    },
+    "referee_0064": {
+      "__uuid__": "f1b5e987-60eb-4079-b128-244ab1411c9a"
+    },
+    "referee_0065": {
+      "__uuid__": "dec9a968-9800-4a0b-b0b4-9baadf7fadb8"
+    },
+    "referee_0066": {
+      "__uuid__": "d2d72dc8-d88b-48e3-ae7e-f6cc1d563574"
+    },
+    "referee_0067": {
+      "__uuid__": "d8adf92e-242a-4991-a924-3d66a5089536"
+    },
+    "referee_0068": {
+      "__uuid__": "92853b28-a19f-487f-8650-851d3dfb3ccf"
+    },
+    "referee_0069": {
+      "__uuid__": "5ac18eb2-0ae4-4849-9aa6-7f9034456898"
+    },
+    "referee_0070": {
+      "__uuid__": "b3026731-47d0-4c6c-91f4-bca58e35ef8f"
+    },
+    "referee_0071": {
+      "__uuid__": "1f1b2e5e-f4d7-4457-9ba0-f14ec631a010"
+    },
+    "referee_0072": {
+      "__uuid__": "fd1fbf02-8770-4f19-af5d-97c830537dc2"
+    },
+    "referee_0073": {
+      "__uuid__": "ae9828c3-76bb-43e5-9da8-3a581b519070"
+    },
+    "referee_0074": {
+      "__uuid__": "c239d7b4-0f6e-4dfb-b50c-25ecee63fe2f"
+    },
+    "referee_0075": {
+      "__uuid__": "5b523eea-2f87-4236-9a42-2fe00a49d9c8"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TriangleCoin02",
+    "texture": "09fabfa6-4542-455c-9eef-ca23566d9faa",
+    "atlas": "e3c1ea18-3342-4021-9e58-7e332a2f60a8",
+    "rect": [
+      65,
+      0,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

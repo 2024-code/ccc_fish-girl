@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button_play.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "QH_BEGIN": {
+      "__uuid__": "0176c4ac-61cb-49ec-9f63-f20d02590a61"
+    },
+    "QH_BEGIN2": {
+      "__uuid__": "7bb4097e-e47d-4632-940e-090a01137d9b"
+    },
+    "QH_BEGIN3": {
+      "__uuid__": "2f795712-f3a3-45c6-958e-a4e1ab27bfe7"
+    },
+    "QH_MIAOFEI": {
+      "__uuid__": "9b9ae41b-a5b3-4014-8ef7-2d6ab8beaad1"
+    },
+    "QH_ZIDONG_0": {
+      "__uuid__": "9c3387eb-6e38-4005-8f9b-e9d8aafe62e7"
+    },
+    "QH_ZIDONG_1": {
+      "__uuid__": "bac6e68b-823f-41f9-a54f-6c1c4fef438e"
+    },
+    "QH_ZIDONG_click": {
+      "__uuid__": "3d896245-70e5-4d39-91d5-d0a146fa507d"
+    },
+    "The_Biggest_Bets1": {
+      "__uuid__": "61057a67-0b53-45dc-b586-6c750a69d38e"
+    },
+    "The_Biggest_Bets2": {
+      "__uuid__": "73e7bfd7-4565-47c3-92ba-0e11cab6a02f"
+    },
+    "The_Biggest_Bets3": {
+      "__uuid__": "a2c89daf-3d13-48b6-9f1b-442810f4ded8"
+    },
+    "addition1": {
+      "__uuid__": "0759acd1-ff5d-4138-96b7-863b3c8037f4"
+    },
+    "addition2": {
+      "__uuid__": "d251cb88-76fc-4bbd-85b5-a088dcc8d98d"
+    },
+    "addition3": {
+      "__uuid__": "aa20d423-39d8-41fa-89f5-94cfe443ad98"
+    },
+    "ho_btn_stop": {
+      "__uuid__": "77cfb910-2036-4564-a802-25142f688baa"
+    },
+    "ho_btn_stop2": {
+      "__uuid__": "0a6b5713-a1ca-48d8-89c2-fe6899dbdfcb"
+    },
+    "ho_btn_stop3": {
+      "__uuid__": "58af0daa-ed08-4e08-b0f9-2a5c8437d436"
+    },
+    "ho_label_auto_choose_bg": {
+      "__uuid__": "dd9ae2df-60b4-4408-a8e2-b7bc99ab9afa"
+    },
+    "ho_label_auto_start": {
+      "__uuid__": "73aafa9a-8cb9-472c-901a-564bc0bb3083"
+    },
+    "ho_label_auto_time_bg": {
+      "__uuid__": "03c6ef84-9096-4400-a6e8-33ac6cce1a3f"
+    },
+    "ho_label_auto_time_label2": {
+      "__uuid__": "20806d37-19b8-4297-96d4-dfeaa67678a7"
+    },
+    "ho_label_cancel_auto": {
+      "__uuid__": "2973d669-e2ec-4fa5-a70f-7837087a6938"
+    },
+    "subtraction1": {
+      "__uuid__": "37516832-c220-48fb-abe2-cf799b349f80"
+    },
+    "subtraction2": {
+      "__uuid__": "aa18968a-ff6f-450e-a856-792815a2a707"
+    },
+    "subtraction3": {
+      "__uuid__": "6744e139-bd10-41cc-8120-f7c93e825bf7"
+    }
+  }
+}

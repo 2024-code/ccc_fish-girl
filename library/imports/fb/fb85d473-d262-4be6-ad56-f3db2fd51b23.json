@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhucebg",
+    "texture": "5e6e798d-a4c7-423b-9127-9dad583e3fef",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      910,
+      604
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      912,
+      605
+    ],
+    "capInsets": [
+      45,
+      54,
+      54,
+      57
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnAutoStart",
+    "texture": "d209d7e0-302c-46f8-90d2-662dde7e4f26",
+    "atlas": "97a4488c-440d-4f55-aef2-c82fd5801f21",
+    "rect": [
+      75,
+      1015,
+      183,
+      182
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      183,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

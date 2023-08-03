@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "winner_area_small",
+    "texture": "c98f4e65-9750-430d-8b80-f1a67a890f42",
+    "atlas": "249892e5-bbaa-4611-92af-0eac4aa6255b",
+    "rect": [
+      2,
+      2,
+      396,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      396,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

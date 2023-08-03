@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bonus03",
+    "texture": "ee801d41-bb6c-440e-ac64-768e5fa431f4",
+    "atlas": "e8b496dc-6c71-494d-b5ac-a729d24f6b1f",
+    "rect": [
+      1,
+      1,
+      756,
+      120
+    ],
+    "offset": [
+      2,
+      2
+    ],
+    "originalSize": [
+      800,
+      140
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

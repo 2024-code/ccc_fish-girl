@@ -1,0 +1,133 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GameResultLayer",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "btnClose": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                667,
+                142
+              ],
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": [
+                667,
+                142
+              ],
+              "curve": "quadIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 1,
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 1,
+              "curve": "quadIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.7,
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 1,
+              "curve": "quadIn"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0,
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0,
+              "curve": "quadIn"
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bg": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                631.2051,
+                371.4205
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                631.2051,
+                371.4205
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.25,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            },
+            {
+              "frame": 0.25,
+              "value": 1
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

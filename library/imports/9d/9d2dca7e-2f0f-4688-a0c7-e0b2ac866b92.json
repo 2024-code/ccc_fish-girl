@@ -1,0 +1,188 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "01_lblFlatFish_1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-01_lblFlatFish-0001": {
+      "__uuid__": "5e4e6382-acfa-47df-95b7-1e9f4e1082b0"
+    },
+    "atlas-01_lblFlatFish-0003": {
+      "__uuid__": "3adc89c1-abbd-4cc2-8ad3-eb4a3e2328ae"
+    },
+    "atlas-01_lblFlatFish-0005": {
+      "__uuid__": "c353c69e-8958-4841-b179-8bb6c866ff97"
+    },
+    "atlas-01_lblFlatFish-0007": {
+      "__uuid__": "106de3d1-100b-4bf4-909f-23cc50760f5a"
+    },
+    "atlas-01_lblFlatFish-0009": {
+      "__uuid__": "f1fbb0d2-3933-4b13-81d8-e699f8e0ec4d"
+    },
+    "atlas-01_lblFlatFish-0011": {
+      "__uuid__": "d2da6b68-d427-4b4f-ae0c-5d5e10009bb2"
+    },
+    "atlas-01_lblFlatFish-0013": {
+      "__uuid__": "f5144ecf-d599-4789-85b2-7168e7f7e6ab"
+    },
+    "atlas-01_lblFlatFish-0015": {
+      "__uuid__": "db8e35ab-c1a2-400c-b7e5-439b9b480cc3"
+    },
+    "atlas-01_lblFlatFish-0017": {
+      "__uuid__": "f064f9d8-1852-42be-bab5-ec8a5e277988"
+    },
+    "atlas-01_lblFlatFish-0019": {
+      "__uuid__": "85870ef4-28cd-46f1-baf7-2da91095d8a2"
+    },
+    "atlas-01_lblFlatFish-0021": {
+      "__uuid__": "fd23b078-cf2c-4d1d-8070-b5cb56848b6e"
+    },
+    "atlas-01_lblFlatFish-0023": {
+      "__uuid__": "6a778ddf-c2d7-41b3-b88d-b1ad163b6663"
+    },
+    "atlas-01_lblFlatFish-0025": {
+      "__uuid__": "70632da1-db82-4de4-8afa-015b018c0449"
+    },
+    "atlas-01_lblFlatFish-0027": {
+      "__uuid__": "3609bc8d-9662-4fa1-91b7-f16643c9fb79"
+    },
+    "atlas-01_lblFlatFish-0029": {
+      "__uuid__": "40f1234c-c92f-4a8b-9d22-c3ee84251c74"
+    },
+    "atlas-01_lblFlatFish-0031": {
+      "__uuid__": "bcc87004-2638-4ef5-ac07-89f4aa54074f"
+    },
+    "atlas-01_lblFlatFish-0033": {
+      "__uuid__": "256f7a84-2bf1-4079-ac46-8d96a58a91a5"
+    },
+    "atlas-01_lblFlatFish-0035": {
+      "__uuid__": "487fb768-d495-44c8-8231-367114fbb993"
+    },
+    "atlas-01_lblFlatFish-0037": {
+      "__uuid__": "92847471-3813-4fb5-8cad-416bfbb69bd3"
+    },
+    "atlas-01_lblFlatFish-0039": {
+      "__uuid__": "0972cee5-391b-4783-b1d9-a4226366f58e"
+    },
+    "atlas-01_lblFlatFish-0041": {
+      "__uuid__": "d10a5770-fa41-4958-b33c-0b409939fb71"
+    },
+    "atlas-01_lblFlatFish-0043": {
+      "__uuid__": "774866fc-1d53-41e7-a1d2-a58c18816ec1"
+    },
+    "atlas-01_lblFlatFish-0045": {
+      "__uuid__": "f9f645fe-7712-492f-b2ac-7c13d8aee2b7"
+    },
+    "atlas-01_lblFlatFish-0047": {
+      "__uuid__": "e6bc5a10-4dbf-40cb-b643-0360ea64dd98"
+    },
+    "atlas-01_lblFlatFish-0049": {
+      "__uuid__": "20566c03-2361-4102-bdcc-c0f6fe285e1f"
+    },
+    "atlas-01_lblFlatFish-0051": {
+      "__uuid__": "065ca3c5-ab63-4724-bfa9-f23609b942c8"
+    },
+    "atlas-01_lblFlatFish-0053": {
+      "__uuid__": "fa1dd699-e9e6-49c5-b9b3-d1359e0f774f"
+    },
+    "atlas-01_lblFlatFish-0055": {
+      "__uuid__": "224d853c-417f-484e-9924-ba2cb20ea710"
+    },
+    "atlas-01_lblFlatFish-0057": {
+      "__uuid__": "a48fc9bd-eae7-4066-83a3-b902b60772aa"
+    },
+    "atlas-01_lblFlatFish-0059": {
+      "__uuid__": "445fd856-2aa9-4696-9cbd-db4b6b968f01"
+    },
+    "atlas-01_lblFlatFish-0061": {
+      "__uuid__": "8a81ac08-c17c-4d19-8627-f1bfd05cf1d7"
+    },
+    "atlas-01_lblFlatFish-0063": {
+      "__uuid__": "a30c5efa-0637-4527-84bb-7ce4a8052779"
+    },
+    "atlas-01_lblFlatFish-0065": {
+      "__uuid__": "e3c98401-f4d2-4ba4-afe4-d4bedd815b15"
+    },
+    "atlas-01_lblFlatFish-0067": {
+      "__uuid__": "8fa2cf51-e737-4ba8-9ca9-5f5622d8ce86"
+    },
+    "atlas-01_lblFlatFish-0069": {
+      "__uuid__": "ece37226-1784-4880-b76b-55e64b70cf85"
+    },
+    "atlas-01_lblFlatFish-0071": {
+      "__uuid__": "f6b79ce7-b302-4b3f-879f-779ed244b3f1"
+    },
+    "atlas-01_lblFlatFish-0073": {
+      "__uuid__": "fc770287-f98f-4276-b9c6-83350bb2630b"
+    },
+    "atlas-01_lblFlatFish-0075": {
+      "__uuid__": "af82d19f-c273-420d-a284-0bb369039443"
+    },
+    "atlas-01_lblFlatFish-0077": {
+      "__uuid__": "d3c2a8f8-c692-4403-8a2b-90e8312aad76"
+    },
+    "atlas-01_lblFlatFish-0079": {
+      "__uuid__": "d1baba5d-e241-448b-b6d1-f7da8bf0984b"
+    },
+    "atlas-01_lblFlatFish-0081": {
+      "__uuid__": "cec09b92-9348-4bef-8f20-192a69bb2076"
+    },
+    "atlas-01_lblFlatFish-0083": {
+      "__uuid__": "21759938-e8db-473c-a8ed-3e3aa1f37443"
+    },
+    "atlas-01_lblFlatFish-0085": {
+      "__uuid__": "398725d1-4964-4eb3-9161-713d816faea1"
+    },
+    "atlas-01_lblFlatFish-0087": {
+      "__uuid__": "2633e0c4-7364-41bf-8ac8-255ec7777bd6"
+    },
+    "atlas-01_lblFlatFish-0089": {
+      "__uuid__": "4e143074-bf42-4316-a1ce-18722b50a9da"
+    },
+    "atlas-01_lblFlatFish-0091": {
+      "__uuid__": "26be2083-a086-43a0-bde2-0286740faa2d"
+    },
+    "atlas-01_lblFlatFish-0093": {
+      "__uuid__": "846d286d-766c-454c-8a83-ce58d23b5a32"
+    },
+    "atlas-01_lblFlatFish-0095": {
+      "__uuid__": "6bf5f24a-d970-4f7e-8762-2b3b406b7272"
+    },
+    "atlas-01_lblFlatFish-0097": {
+      "__uuid__": "b7cf5897-a655-4293-b0b7-2a6a5ce78b2e"
+    },
+    "atlas-01_lblFlatFish-0099": {
+      "__uuid__": "db72ff89-3c00-46dd-bfb5-a57c4dbe66c5"
+    },
+    "atlas-01_lblFlatFish-0101": {
+      "__uuid__": "ee06332a-a2b4-4ffc-bfe0-fdad4fe7a285"
+    },
+    "atlas-01_lblFlatFish-0103": {
+      "__uuid__": "09d8738a-fbca-454a-a2c7-902ba3d726a9"
+    },
+    "atlas-01_lblFlatFish-0105": {
+      "__uuid__": "8b40fffa-0340-40fc-97e0-ccf0068f4eb8"
+    },
+    "atlas-01_lblFlatFish-0107": {
+      "__uuid__": "6923f357-a8c8-443c-9f1b-1bd766d02739"
+    },
+    "atlas-01_lblFlatFish-0109": {
+      "__uuid__": "ff426637-e213-4ab8-8242-260d673310af"
+    },
+    "atlas-01_lblFlatFish-0111": {
+      "__uuid__": "0b0cb140-d55e-4d2d-91fc-6379fe4e5a7c"
+    },
+    "atlas-01_lblFlatFish-0113": {
+      "__uuid__": "2347ac58-aa60-4b3f-9854-7beba2d6f79f"
+    },
+    "atlas-01_lblFlatFish-0115": {
+      "__uuid__": "6a46af2f-4276-4615-93ed-d7afd7c6cd48"
+    },
+    "atlas-01_lblFlatFish-0117": {
+      "__uuid__": "d3fbf4c6-4c0a-4105-91dc-56bac1611c47"
+    },
+    "atlas-01_lblFlatFish-0119": {
+      "__uuid__": "5f5ffa37-cac2-45c4-b2a2-a1d0b8d085d2"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpinsLeft",
+    "texture": "68065231-c0dd-4172-b607-d08eaf51477c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      93
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

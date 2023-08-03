@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pkbgbox",
+    "texture": "f572c31b-8dbb-4cfa-bb67-916654583454",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      330,
+      162
+    ],
+    "offset": [
+      -84,
+      40
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

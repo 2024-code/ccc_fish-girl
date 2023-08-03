@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_lose",
+    "texture": "3f05fe8c-30ed-4550-a330-1e89f723990b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      735,
+      285
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      735,
+      285
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

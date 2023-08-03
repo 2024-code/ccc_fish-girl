@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_grand_loop_01",
+    "texture": "10ec774d-a9eb-4bca-9b8f-39c788b211b1",
+    "atlas": "",
+    "rect": [
+      185,
+      125,
+      229,
+      290
+    ],
+    "offset": [
+      -0.5,
+      30
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f37075e-39ff-47ab-9348-5e6b7708714d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 101,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_xiazhu_tg": {
+      "ver": "1.0.4",
+      "uuid": "e453182d-a096-461a-bb6d-a1e40bc71a74",
+      "rawTextureUuid": "9f37075e-39ff-47ab-9348-5e6b7708714d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 101,
+      "height": 101,
+      "rawWidth": 101,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

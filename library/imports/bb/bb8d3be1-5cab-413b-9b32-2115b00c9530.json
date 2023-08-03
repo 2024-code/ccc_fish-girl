@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "landlord",
+    "texture": "df49a0f0-71ad-4e8e-836e-49acf708ad16",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      106,
+      41
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      108,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

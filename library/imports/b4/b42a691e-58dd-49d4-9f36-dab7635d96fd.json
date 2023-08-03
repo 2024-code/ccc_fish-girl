@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_major_loop_01",
+    "texture": "c47f8980-5a0d-45a2-9cff-47d567185d9a",
+    "atlas": "",
+    "rect": [
+      185,
+      125,
+      226,
+      286
+    ],
+    "offset": [
+      -2,
+      32
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

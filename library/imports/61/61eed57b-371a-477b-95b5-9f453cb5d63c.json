@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_bigWin_bkgAnim",
+    "texture": "31d60482-f045-441c-86d3-84bf1da3b219",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      994,
+      2037
+    ],
+    "offset": [
+      -13,
+      3.5
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

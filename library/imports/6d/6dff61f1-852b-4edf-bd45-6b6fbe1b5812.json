@@ -1,0 +1,122 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_YuPuTuan2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slots_1": {
+      "__uuid__": "8e24f311-0d78-43e7-af57-b83404035197"
+    },
+    "slots_2": {
+      "__uuid__": "94929f1f-8d52-415f-9a44-9ef056b60897"
+    },
+    "slots_3": {
+      "__uuid__": "31b3d946-bd84-4914-9376-0033f283b912"
+    },
+    "slots_4": {
+      "__uuid__": "01e4f707-a479-4663-bbfd-c3924966ff78"
+    },
+    "slots_5": {
+      "__uuid__": "f587271f-f0fd-4b78-beab-1791d873dafa"
+    },
+    "slots_51": {
+      "__uuid__": "e86b3716-5c79-49db-b726-2238bb6d9b39"
+    },
+    "slots_6": {
+      "__uuid__": "3546341f-97a1-4f5f-9871-0660a01939b1"
+    },
+    "slots_61": {
+      "__uuid__": "b17cc48e-a740-4bb5-8022-b459d7629121"
+    },
+    "slots_7": {
+      "__uuid__": "f53368ef-c911-437c-be7b-6470df2ea614"
+    },
+    "slots_71": {
+      "__uuid__": "139d393a-75d0-43f5-9bcb-6f5fd4c333a1"
+    },
+    "slots_81": {
+      "__uuid__": "20aa384b-3b33-404f-abee-d269952f26c1"
+    },
+    "slots_82": {
+      "__uuid__": "f22b1e6a-2a60-47d2-8b50-38665aaf92e8"
+    },
+    "slots_bonus_btn_end_nor": {
+      "__uuid__": "842ec4c0-ea33-4e28-a1d2-f268627e756a"
+    },
+    "slots_bonus_btn_end_press": {
+      "__uuid__": "d20987b8-5ea6-4fff-973e-59082dfc9e71"
+    },
+    "slots_fs_btn_again_nor": {
+      "__uuid__": "1c1d53d0-c454-4c07-9b40-6b69016dd802"
+    },
+    "slots_fs_btn_again_press": {
+      "__uuid__": "23a27b1d-269d-4435-a997-347edcdd8f9f"
+    },
+    "slots_fs_btn_begin_nor": {
+      "__uuid__": "2bfcfcf9-6d53-4af1-b760-f58651be1ec5"
+    },
+    "slots_fs_btn_begin_press": {
+      "__uuid__": "ae737c41-2dd9-4e83-872b-e84aa732e104"
+    },
+    "slots_fs_btn_end_nor": {
+      "__uuid__": "bf080814-c1d0-40f4-8fcd-42adfd4d11f2"
+    },
+    "slots_fs_btn_end_press": {
+      "__uuid__": "1a04e241-5483-4d6b-b6a8-cd07b80d3ae1"
+    },
+    "slots_jackpot_bar": {
+      "__uuid__": "10708db7-1eff-42d2-a719-16c966175a2c"
+    },
+    "slots_jackpot_bar2": {
+      "__uuid__": "1ae189b7-af6d-4ff2-995f-baca3c370e4f"
+    },
+    "slots_jackpot_bar_fs": {
+      "__uuid__": "266b140e-3521-4362-a6b1-4e470e2bd199"
+    },
+    "slots_jackpot_bar_fs2": {
+      "__uuid__": "1ff189cf-beff-4854-a87f-2757f6bfc289"
+    },
+    "slots_jackpot_medium": {
+      "__uuid__": "7c1ceac6-52b3-48cf-9c0f-3ff3f84fd824"
+    },
+    "slots_jackpot_mega": {
+      "__uuid__": "771907f3-4794-4b74-b37f-5467ba45a7b4"
+    },
+    "slots_jackpot_minor": {
+      "__uuid__": "c844778b-a3ca-47c8-8059-16b173561cb2"
+    },
+    "slots_loadbar": {
+      "__uuid__": "b5259d35-d656-4faf-a26c-dadcf8a84060"
+    },
+    "slots_loadbar_bg": {
+      "__uuid__": "d8827cd4-bdd7-4080-9a94-35b0cc42df90"
+    },
+    "slots_mask_61": {
+      "__uuid__": "11b7af01-2874-4668-a898-85d07926a26c"
+    },
+    "slots_mask_82": {
+      "__uuid__": "a03af977-1b10-4e7d-9273-f1370922b90f"
+    },
+    "slots_ptable_back_dec": {
+      "__uuid__": "f850fd4d-1eea-4827-9507-41f7be6366bb"
+    },
+    "slots_ptable_btn_close_nor": {
+      "__uuid__": "349c3aa0-ec6c-4ae8-a431-a59371875a65"
+    },
+    "slots_ptable_btn_close_press": {
+      "__uuid__": "980bf871-6ff3-4786-b63e-dea3ff7edf59"
+    },
+    "slots_ptable_btn_next_nor": {
+      "__uuid__": "baaf06d5-9fa8-40ba-8a72-5bd5def6e421"
+    },
+    "slots_ptable_btn_next_press": {
+      "__uuid__": "81c73705-c565-4517-8718-3604cb23bcb2"
+    },
+    "slots_ptable_btn_return_nor": {
+      "__uuid__": "ca483d36-27ec-425a-b868-5dd483f8ab6e"
+    },
+    "slots_ptable_btn_return_press": {
+      "__uuid__": "5dc1b9e0-8f83-43c7-96d8-7198e20b848a"
+    }
+  }
+}

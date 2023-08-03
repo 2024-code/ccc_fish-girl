@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_bonus_wheel_pointer",
+    "texture": "3d8dda34-ceb8-4a31-b1c6-7c1fa2685682",
+    "atlas": "c3b35d79-4fa7-47e3-8350-67d4b721bb28",
+    "rect": [
+      934,
+      124,
+      43,
+      106
+    ],
+    "offset": [
+      0,
+      9
+    ],
+    "originalSize": [
+      43,
+      124
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

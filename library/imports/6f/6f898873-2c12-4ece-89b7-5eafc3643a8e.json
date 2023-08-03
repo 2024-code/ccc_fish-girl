@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ruler_lhd_bg",
+    "texture": "4376fb74-d877-4159-a286-c76025b89777",
+    "atlas": "",
+    "rect": [
+      38,
+      11,
+      769,
+      566
+    ],
+    "offset": [
+      -9.5,
+      10.5
+    ],
+    "originalSize": [
+      864,
+      609
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

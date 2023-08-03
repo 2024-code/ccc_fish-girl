@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game2_btn_half_01",
+    "texture": "414afe38-1a6b-42d7-9145-3f60aff81be8",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      150,
+      58
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      165,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

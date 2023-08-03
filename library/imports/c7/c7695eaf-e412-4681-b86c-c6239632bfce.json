@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_start2",
+    "texture": "a67613d5-4003-4287-ac63-84d048cf5e5f",
+    "atlas": "5da2c214-906c-4edf-bc7a-0920aa3e937c",
+    "rect": [
+      2,
+      394,
+      950,
+      90
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      1000,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

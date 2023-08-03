@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_fx_lightning_b0001",
+    "texture": "690da14e-08d9-4353-8db1-8ddcf75f6814",
+    "atlas": "45bcb668-24f0-44ff-b0a7-cb74cbd0826f",
+    "rect": [
+      714,
+      1034,
+      86,
+      68
+    ],
+    "offset": [
+      -6,
+      -1
+    ],
+    "originalSize": [
+      400,
+      120
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

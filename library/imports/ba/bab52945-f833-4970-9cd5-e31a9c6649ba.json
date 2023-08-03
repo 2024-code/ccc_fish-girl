@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameWin",
+    "texture": "dbf61804-5bb9-4f04-80ed-ea20d967b46b",
+    "atlas": "0a05f1f1-185b-4dd7-83f2-3e4bde6ea0a3",
+    "rect": [
+      1,
+      1,
+      523,
+      366
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      523,
+      366
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

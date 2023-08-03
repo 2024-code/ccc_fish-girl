@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_YuPuTuan2Bonus.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slots_bonus_btn_begin": {
+      "__uuid__": "86b09e84-0ea3-4ac0-99aa-e4781af1f03e"
+    },
+    "slots_bonus_wheel": {
+      "__uuid__": "e5535c0f-06e9-4234-a816-c504bcfd4667"
+    },
+    "slots_bonus_wheel_muti": {
+      "__uuid__": "390c068f-bed1-41ba-bdb9-546dbff192ce"
+    },
+    "slots_bonus_wheel_pointer": {
+      "__uuid__": "03dc64a4-4456-4941-be5e-5453d95fb8cc"
+    },
+    "slots_bonus_wheel_select": {
+      "__uuid__": "d0dd503f-a7d6-42b4-a484-2c962bddbae4"
+    }
+  }
+}

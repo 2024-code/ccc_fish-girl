@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_jackpot_bar_fs",
+    "texture": "db2a5be1-f648-4cc9-8c3f-fe940c046b5a",
+    "atlas": "883b728b-6e3f-4890-a2e8-e078196c72be",
+    "rect": [
+      484,
+      509,
+      352,
+      97
+    ],
+    "offset": [
+      18,
+      15
+    ],
+    "originalSize": [
+      388,
+      129
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

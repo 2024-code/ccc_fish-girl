@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_minor_reveal_10",
+    "texture": "671e0f1c-1b83-484f-aeef-4ba649733e1a",
+    "atlas": "",
+    "rect": [
+      127,
+      128,
+      326,
+      325
+    ],
+    "offset": [
+      -10,
+      9.5
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

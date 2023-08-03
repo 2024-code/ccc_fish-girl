@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_2018_red_bag.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dt_cjhd_bg_brown": {
+      "__uuid__": "e112a7ce-2611-41e7-a220-d88786d70532"
+    },
+    "dt_cjhd_bg_infobar": {
+      "__uuid__": "66dc9f14-184b-47da-b8ef-b70a4bb128c4"
+    },
+    "dt_cjhd_bg_left": {
+      "__uuid__": "623cd03a-7052-4b50-9157-584b2e01cff1"
+    },
+    "dt_cjhd_bg_qianhuang": {
+      "__uuid__": "bbcb7acc-e9fc-4560-83b3-b70f7bc544d6"
+    },
+    "dt_cjhd_bg_shuijima": {
+      "__uuid__": "d019e0bb-a7aa-40eb-8388-a4e73f041e4b"
+    },
+    "dt_cjhd_bg_speak": {
+      "__uuid__": "d0bb1414-4751-4232-b93e-ad1cad5ddebd"
+    },
+    "dt_cjhd_bg_tanchuan": {
+      "__uuid__": "5d4c2299-3128-45e5-9dee-eb8220a43e53"
+    },
+    "dt_cjhd_bg_time": {
+      "__uuid__": "f855e336-299b-4d4d-9d0b-66a20251f3b9"
+    },
+    "dt_cjhd_bg_title": {
+      "__uuid__": "70895c52-637f-46f9-9922-47e4a3ec1d54"
+    },
+    "dt_cjhd_bg_white01": {
+      "__uuid__": "bb36cc60-c279-4a35-99de-adfd8f03faad"
+    },
+    "dt_cjhd_bg_white02": {
+      "__uuid__": "0cceafa1-3d23-4da7-9ae9-0f1551c58ef6"
+    },
+    "dt_cjhd_btn_back": {
+      "__uuid__": "fd26354c-a5fb-47c2-a33d-4405233e0650"
+    },
+    "dt_cjhd_btn_bigrob": {
+      "__uuid__": "f5f6fafa-eaf1-4059-bd3e-e091e9938f4c"
+    },
+    "dt_cjhd_btn_close": {
+      "__uuid__": "fd03b195-44fd-48ab-96f0-b36b77c0bbe1"
+    },
+    "dt_cjhd_btn_cow": {
+      "__uuid__": "c0e5f7be-9b5f-4f4b-94d0-fe547fe76dbc"
+    },
+    "dt_cjhd_btn_green": {
+      "__uuid__": "9197c7f5-1362-40d0-a6d1-ff20bf0f7cd9"
+    },
+    "dt_cjhd_btn_orange": {
+      "__uuid__": "566344e6-e58e-4f0c-bbb8-66f708e0ef60"
+    },
+    "dt_cjhd_btn_red": {
+      "__uuid__": "e86ebf91-18f3-4803-a4f0-ffca14a90a32"
+    },
+    "dt_cjhd_btn_redbag": {
+      "__uuid__": "7f098ed6-6ddc-4f25-be5c-cdb215e6d0ca"
+    },
+    "dt_cjhd_btn_rob": {
+      "__uuid__": "2ef11e38-1256-4d65-97c5-0ba10d66f683"
+    },
+    "dt_cjhd_btn_yellow": {
+      "__uuid__": "6750e7c3-8a67-42e4-9ddd-bccb5a5e36ed"
+    },
+    "dt_cjhd_icon_frends": {
+      "__uuid__": "6416e214-c677-4038-9ebf-47a1029fad4d"
+    },
+    "dt_cjhd_icon_wechat": {
+      "__uuid__": "0b5959ec-14ff-4bba-b258-5dc5e88afe4b"
+    },
+    "dt_cjhd_img_belt": {
+      "__uuid__": "f5e173bc-50b0-4c5c-ba5f-8900d4ac8e82"
+    },
+    "dt_cjhd_img_belt_left": {
+      "__uuid__": "2b007879-6eaa-405d-a479-5b5de9c0df5c"
+    },
+    "dt_cjhd_img_gai": {
+      "__uuid__": "d5e39c83-64b2-439e-996a-67652af0d9e7"
+    },
+    "dt_cjhd_img_gold": {
+      "__uuid__": "3fbf16aa-4af5-472e-9079-05e0701c222f"
+    },
+    "dt_cjhd_img_redbag": {
+      "__uuid__": "87b5c3e3-48e6-4ac3-90d0-afb47722c34c"
+    },
+    "dt_cjhd_img_shuijima": {
+      "__uuid__": "9cf977e0-a20e-4356-8b1d-46fbf7bf3068"
+    },
+    "dt_cjhd_img_title": {
+      "__uuid__": "916b9db8-dc78-44f5-bf08-97a07f79021e"
+    },
+    "dt_cjhd_txt_myranking": {
+      "__uuid__": "460a8673-cb1e-4f8d-9a3c-23bf2f96b5c4"
+    },
+    "dt_cjhd_txt_waiting": {
+      "__uuid__": "266b9e62-21f6-44c3-a4ad-1c54cb83c1b5"
+    },
+    "dt_tjhb_img_headframe": {
+      "__uuid__": "f21d08a1-2e46-45db-8686-dcb5989b24d9"
+    },
+    "dt_txt_qiang": {
+      "__uuid__": "ad263f48-b537-45c7-a089-ce6bde812a91"
+    }
+  }
+}

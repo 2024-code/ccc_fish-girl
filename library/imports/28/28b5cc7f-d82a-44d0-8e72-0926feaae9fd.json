@@ -1,0 +1,191 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameViewLayerPlist.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "GameLayer-arm_left": {
+      "__uuid__": "ac1f3be5-efb4-4fe2-b5de-f3d14e238ca7"
+    },
+    "GameLayer-arm_right": {
+      "__uuid__": "21ce984b-3346-4f14-99ae-bc16b4d1b878"
+    },
+    "GameLayer-auto_cmp": {
+      "__uuid__": "0d2367fe-85f8-4365-80b7-87b49d629310"
+    },
+    "GameLayer-btn_all": {
+      "__uuid__": "ce84dfab-b69d-4c11-899a-da9e17cbc5a1"
+    },
+    "GameLayer-btn_always": {
+      "__uuid__": "3f379ef8-ad46-4edf-9e1a-d697838a501b"
+    },
+    "GameLayer-btn_bg_yellow": {
+      "__uuid__": "64ab614c-ff3d-4a52-9567-688294f1515c"
+    },
+    "GameLayer-btn_cmp": {
+      "__uuid__": "dd73c994-29e3-4a51-953f-41cd91982437"
+    },
+    "GameLayer-btn_cmp_cancel": {
+      "__uuid__": "963ace85-7a83-468c-8c3d-bdb17960c2b4"
+    },
+    "GameLayer-btn_drop": {
+      "__uuid__": "a629ac52-37e2-4cbb-940c-4dd90dbb4a46"
+    },
+    "GameLayer-btn_follow": {
+      "__uuid__": "82c86975-769b-44a1-944a-a6ba7914ddf6"
+    },
+    "GameLayer-btn_help": {
+      "__uuid__": "32dec0b0-0360-4a52-b8e0-e55ca027e2e3"
+    },
+    "GameLayer-btn_pk": {
+      "__uuid__": "0a70b744-2fc4-4506-ae6c-f89c59e9c50c"
+    },
+    "GameLayer-btn_see": {
+      "__uuid__": "47a2238d-bdb4-4509-af87-73809b0b7d0e"
+    },
+    "GameLayer-btn_setup": {
+      "__uuid__": "787ea32f-8ac4-4e04-9a27-de8414a9ef6d"
+    },
+    "GameLayer-btn_unalways": {
+      "__uuid__": "93d51896-7d24-498d-98b9-c30542b0f7d5"
+    },
+    "GameLayer-chip": {
+      "__uuid__": "ba3e9b13-5efb-463b-af01-c6b7bd3f4573"
+    },
+    "GameLayer-chip_bg": {
+      "__uuid__": "d46853c7-9884-4de6-9c99-876240fd2386"
+    },
+    "GameLayer-clock_green": {
+      "__uuid__": "3c749f22-2e5d-46f7-a699-c94f1af4a5db"
+    },
+    "GameLayer-clock_green_bg": {
+      "__uuid__": "66eae7a4-86b2-4a8d-8e69-57c34c58a9fb"
+    },
+    "GameLayer-clock_red": {
+      "__uuid__": "55b986dc-529a-4260-8275-6ef1e33134aa"
+    },
+    "GameLayer-clock_red_bg": {
+      "__uuid__": "276d2fb2-258b-4c25-b6e8-bba7825f699d"
+    },
+    "GameLayer-clock_yellow": {
+      "__uuid__": "08786cb0-39b5-4531-a58c-4171a674a8d1"
+    },
+    "GameLayer-clock_yellow_bg": {
+      "__uuid__": "61f8983d-b2b2-4cc3-96a6-4e5096f2ef50"
+    },
+    "GameLayer-desc_add": {
+      "__uuid__": "048c8548-e00e-474e-a026-ac13f341f2c6"
+    },
+    "GameLayer-desc_allin": {
+      "__uuid__": "c42e8b72-ad2f-4979-a341-170999942e91"
+    },
+    "GameLayer-desc_cmp": {
+      "__uuid__": "7e006fc6-4cec-4dac-963e-297a007c7ea3"
+    },
+    "GameLayer-desc_follow": {
+      "__uuid__": "ebc8e0f3-a616-404c-b73a-1e6b1ac72ca8"
+    },
+    "GameLayer-desc_see": {
+      "__uuid__": "6268e57f-d38a-4a75-b50b-bfaff0fe0b9b"
+    },
+    "GameLayer-flag_drop": {
+      "__uuid__": "fae07fd7-49ec-49ca-bcce-f224fc9be569"
+    },
+    "GameLayer-flag_out": {
+      "__uuid__": "973182ab-fca9-4397-86a4-1713ad2245bb"
+    },
+    "GameLayer-flag_see": {
+      "__uuid__": "b343f063-f88d-45f3-9920-715c5f691d94"
+    },
+    "GameLayer-flag_start": {
+      "__uuid__": "20ac3dae-01c9-467e-9709-c803ab1ffaf9"
+    },
+    "GameLayer-flag_waitin": {
+      "__uuid__": "87f29b21-3189-4ebf-83d3-0b4b7d258271"
+    },
+    "GameLayer-gold_bar": {
+      "__uuid__": "8a3e297a-bfac-40ed-9cd4-533705b8cd56"
+    },
+    "GameLayer-gold_flower": {
+      "__uuid__": "77240a80-8343-49dd-bb38-1128fec8ffde"
+    },
+    "GameLayer-icon_pk": {
+      "__uuid__": "0b6a2d7a-a49b-49df-96a4-326daf2e6b7a"
+    },
+    "GameLayer-pairs": {
+      "__uuid__": "763790e3-b807-46db-9b51-a52ecf76ca6a"
+    },
+    "GameLayer-panther": {
+      "__uuid__": "c07a03b3-b615-4b8f-9103-5d2307e841fd"
+    },
+    "GameLayer-play_bg": {
+      "__uuid__": "82d9c1a5-e82c-4c7b-aecd-1c02bf4a14f5"
+    },
+    "GameLayer-please_bg": {
+      "__uuid__": "863240fa-e73c-411b-8d8f-26045c78986f"
+    },
+    "GameLayer-please_dot": {
+      "__uuid__": "cc79b0cd-3cc3-47a0-a056-84c1ed39715a"
+    },
+    "GameLayer-please_wait": {
+      "__uuid__": "39c18242-34f4-4741-a6d8-3a16647a8e81"
+    },
+    "GameLayer-please_wait_oth": {
+      "__uuid__": "875de7f4-193e-4fac-9b70-dc18e9c7b74c"
+    },
+    "GameLayer-scorebg_lose": {
+      "__uuid__": "c0123b5d-2467-454a-bf59-1291dae0d486"
+    },
+    "GameLayer-scorebg_win": {
+      "__uuid__": "e6f124df-c3ce-429a-b852-5e6318225846"
+    },
+    "GameLayer-straight": {
+      "__uuid__": "4b09f0de-6ec3-40ee-8bd8-0a41b9fc4597"
+    },
+    "GameLayer-straight_gold": {
+      "__uuid__": "ccd6fbfc-bd6e-4569-bdf7-88438ad1347b"
+    },
+    "GameLayer-type_bg": {
+      "__uuid__": "26a05717-4491-445b-be2f-ebc93293f06f"
+    },
+    "GameLayer-empty_player": {
+      "__uuid__": "2876d347-ec7a-42dc-89f4-ef419f6681ce"
+    },
+    "GameLayer-btn_back_old": {
+      "__uuid__": "9b0cf966-0e1a-42e1-acc1-034eaef47887"
+    },
+    "GameLayer-result-btn_continue": {
+      "__uuid__": "c10e84c9-7629-4713-8c6f-72acedc6cea9"
+    },
+    "GameLayer-result-btn_leave": {
+      "__uuid__": "46733c5d-bc72-40c0-83b7-4d115678524a"
+    },
+    "GameLayer-result-lose_bg": {
+      "__uuid__": "f40c7f45-ac4a-480b-aa4b-bccd491a5911"
+    },
+    "GameLayer-result-rect_bg": {
+      "__uuid__": "9d430816-1643-4b87-98ba-4368f64ffa03"
+    },
+    "GameLayer-result-start_tip": {
+      "__uuid__": "9d858a34-687c-4e09-bf11-6fe94a76b7c3"
+    },
+    "GameLayer-result-win_bg": {
+      "__uuid__": "6baa0049-e176-4c07-b392-14626630d33c"
+    },
+    "GameLayer-result-you_lose": {
+      "__uuid__": "ad5a2269-d7ab-4ece-909e-4c958d35bf76"
+    },
+    "GameLayer-result-you_win": {
+      "__uuid__": "dd88876b-1605-47b5-9c1d-fca632f7acde"
+    },
+    "GameLayer-game_chat_lbg": {
+      "__uuid__": "4c79d32c-b6c0-4a33-807a-dc56551d7daa"
+    },
+    "GameLayer-game_chat_rbg": {
+      "__uuid__": "6ebef669-5a82-4bc6-8777-6a8915010389"
+    },
+    "GameLayer-btn_begin_normal": {
+      "__uuid__": "7c9d9ea6-a4a9-4af8-b6d0-50d7a4111b00"
+    }
+  }
+}

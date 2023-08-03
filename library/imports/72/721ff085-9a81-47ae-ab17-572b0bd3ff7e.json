@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_respin_16",
+    "texture": "7edffcdc-52c3-4f3b-bf13-e98146b5b96a",
+    "atlas": "",
+    "rect": [
+      30,
+      13,
+      809,
+      280
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      870,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

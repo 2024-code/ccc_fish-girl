@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spbg",
+    "texture": "32ddd461-f4d9-4491-921e-dc5f8e5eb826",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      155
+    ],
+    "capInsets": [
+      20,
+      23,
+      21,
+      29
+    ]
+  }
+}

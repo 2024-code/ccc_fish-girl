@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lzt_bg.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dl_bg": {
+      "__uuid__": "6d572dbc-6369-41aa-ba5b-088a352ef286"
+    },
+    "xsl_bg": {
+      "__uuid__": "98715de6-b52b-435b-9a81-ea0b1230caf5"
+    },
+    "zpl_bg_01": {
+      "__uuid__": "00f07d97-8399-4089-a1fe-4355d54be9bb"
+    },
+    "zpl_bg_02": {
+      "__uuid__": "cfa9c9e8-eda6-4b2f-becd-9163af710089"
+    }
+  }
+}

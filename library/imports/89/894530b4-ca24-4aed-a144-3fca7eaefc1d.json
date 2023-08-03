@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_03_banner_win_24",
+    "texture": "3abcf958-c0e1-4bcf-8552-6aed4080fa3b",
+    "atlas": "",
+    "rect": [
+      132,
+      314,
+      325,
+      124
+    ],
+    "offset": [
+      -5.5,
+      -76
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

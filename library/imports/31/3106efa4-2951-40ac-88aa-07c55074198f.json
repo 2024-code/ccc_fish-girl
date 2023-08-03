@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "db_Board_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 397,\r\n        \"y\": 1,\r\n        \"height\": 151,\r\n        \"name\": \"上庄\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 1,\r\n        \"height\": 86,\r\n        \"name\": \"图层-611\",\r\n        \"x\": 400\r\n    }],\r\n    \"imagePath\": \"db_Board_tex.png\",\r\n    \"name\": \"db_Board\"\r\n}",
+  "_texture": {
+    "__uuid__": "6bc8a7f1-7ef8-4552-bbed-7110a5c2d18d"
+  },
+  "texture": {
+    "__uuid__": "6bc8a7f1-7ef8-4552-bbed-7110a5c2d18d"
+  },
+  "_textureAtlasData": null
+}

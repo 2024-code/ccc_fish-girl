@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waterWave_0",
+    "texture": "448f6ddc-f642-444c-a6d6-9ee93a4233b9",
+    "atlas": "9de68001-e417-4042-8fc4-47ae9fc73f31",
+    "rect": [
+      2,
+      264,
+      260,
+      503
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      503
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

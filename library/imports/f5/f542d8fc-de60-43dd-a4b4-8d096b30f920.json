@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_activity.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dt_f_bg_biaoti": {
+      "__uuid__": "78a2dcc8-34e7-4617-913d-3e4bbbf4277b"
+    },
+    "dt_f_bg_huodong": {
+      "__uuid__": "04394ece-0577-40f1-9e2b-7849d3982c25"
+    },
+    "dt_f_bg_neirong": {
+      "__uuid__": "391d7a39-bb37-4ac6-b2e6-9926a954a7ad"
+    },
+    "dt_f_bg_shenhe": {
+      "__uuid__": "63bc9fcb-a62d-4c99-b071-043b51565b86"
+    },
+    "dt_f_btn_blue_b": {
+      "__uuid__": "bd292a49-31b8-4221-b400-8bc1fabbc94e"
+    },
+    "dt_f_btn_fanhui": {
+      "__uuid__": "bb0fffe2-fb0e-4785-83c4-de2c0fda4008"
+    },
+    "dt_f_btn_fenxiang": {
+      "__uuid__": "490febeb-c940-4692-a459-caf7ac6ee67c"
+    },
+    "dt_f_btn_huodong": {
+      "__uuid__": "5e72fe56-48a9-4861-a65d-bf78b2bc6f92"
+    },
+    "dt_f_btn_kaifu_blue": {
+      "__uuid__": "5e13d7a3-f095-48f0-ba7a-0996dbf940ae"
+    },
+    "dt_f_btn_kaifu_orange": {
+      "__uuid__": "eb15c304-0b7e-4e4f-8a1b-aa61dffcc5ca"
+    },
+    "dt_f_btn_pengyouquan": {
+      "__uuid__": "ea67e0c8-e3b1-4527-ab5e-3d0e7b2acc1c"
+    },
+    "dt_f_btn_qq": {
+      "__uuid__": "7d397a71-9245-42e3-a5d7-031f6ef989b5"
+    },
+    "dt_f_btn_share": {
+      "__uuid__": "974766f9-3f26-45d0-9d6d-a232d93b10aa"
+    },
+    "dt_f_btn_tgxq": {
+      "__uuid__": "1fd79b52-69bf-4dfc-9581-f988a7fdbb95"
+    },
+    "dt_f_btn_tuiguang": {
+      "__uuid__": "a6346ecb-a4f1-4c99-9537-35d53adea8dd"
+    },
+    "dt_f_btn_weibo": {
+      "__uuid__": "4f00753f-28f7-44b6-9a51-9e0f60b97e77"
+    },
+    "dt_f_btn_weixin": {
+      "__uuid__": "18462575-14a6-4b15-97d9-ebb6572da904"
+    },
+    "dt_f_img_cha": {
+      "__uuid__": "684e8b9c-bb5a-4303-bb6a-f03593621527"
+    },
+    "dt_f_img_fenye_d": {
+      "__uuid__": "55cf074f-ed91-4902-bcef-6e2767a54099"
+    },
+    "dt_f_img_fenye_l": {
+      "__uuid__": "49f614b9-26c4-4b96-9a54-1a3add4eb946"
+    },
+    "dt_f_img_gou": {
+      "__uuid__": "8f4a14b4-ab4e-46ee-bdd3-3e49f6ec531b"
+    },
+    "dt_f_img_guang": {
+      "__uuid__": "fbe111b3-3097-49fa-a132-3f45660892eb"
+    },
+    "dt_f_img_kaifu_buyu": {
+      "__uuid__": "2394afa8-f9d2-4bb5-b272-c21f73ae690f"
+    },
+    "dt_f_img_kaifu_ddz": {
+      "__uuid__": "746ec169-c659-4df2-a4e5-fb77f951063a"
+    },
+    "dt_f_img_kaifu_dezhou": {
+      "__uuid__": "7ffa6cfc-08db-40a9-a0da-34053fd88b8e"
+    },
+    "dt_f_img_kaifu_dt": {
+      "__uuid__": "b72d064b-fd50-4fb8-b186-6d9a22d1b71c"
+    },
+    "dt_f_img_tgzj_dzn": {
+      "__uuid__": "760d120c-0e18-40ec-b1d7-85bf5c0f9f46"
+    },
+    "dt_f_img_tgzj_title": {
+      "__uuid__": "02442861-db8b-46f2-9937-ed837af892dc"
+    },
+    "dt_f_img_tigou": {
+      "__uuid__": "73e94080-664d-45ef-960a-bed77a636c44"
+    },
+    "dt_f_img_zhongyao": {
+      "__uuid__": "0466e666-6e46-4af3-a637-bcccd81923a8"
+    },
+    "dt_f_txt_huodong": {
+      "__uuid__": "5f3a143b-9382-4905-8fe1-8388a80bfbfc"
+    },
+    "dt_f_txt_rank": {
+      "__uuid__": "2b6de61c-7ed8-4afb-959a-b57c46d0dff7"
+    },
+    "dt_fish_activity_loading_bar": {
+      "__uuid__": "22a562e1-92ed-47cc-8db8-461c5e8f57bc"
+    },
+    "dt_fish_activity_loading_bg": {
+      "__uuid__": "d586c0bc-babc-4854-9102-5bdee0f866e3"
+    },
+    "dt_fish_hb_btn_close": {
+      "__uuid__": "eae92fd2-a4f5-4000-84c9-03377e0ca5d3"
+    },
+    "dt_fish_share_btn_qhb": {
+      "__uuid__": "68cc9ece-0438-4465-86d0-204a44cf1dd5"
+    },
+    "dt_fish_share_btn_qhb1": {
+      "__uuid__": "a4311495-ed01-4b37-80e5-013372ae77de"
+    },
+    "dt_load": {
+      "__uuid__": "db8e4505-a936-4dc4-a007-994723e463c6"
+    },
+    "dt_load_bg": {
+      "__uuid__": "859b3298-2425-4ca2-88dc-80c6c82a6a25"
+    },
+    "dt_rank_img_fengexian": {
+      "__uuid__": "08314181-d115-4b34-8caa-049ed9330760"
+    },
+    "dt_rank_img_self": {
+      "__uuid__": "1030e2a9-0ff7-4615-89a7-6066176f95e4"
+    },
+    "dt_rank_num_1": {
+      "__uuid__": "deb98776-524e-4756-8b0c-95e7bb68cb2f"
+    },
+    "dt_rank_num_2": {
+      "__uuid__": "c0c7c451-7099-45f0-9535-e0414f32fe99"
+    },
+    "dt_rank_num_3": {
+      "__uuid__": "585f8139-7e88-4fd7-924c-263a9c01c6e8"
+    },
+    "dt_rank_self_bg": {
+      "__uuid__": "b5d5f525-b31c-4570-a096-3a7e56ca00c2"
+    }
+  }
+}

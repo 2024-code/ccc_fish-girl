@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_coin_particle_02",
+    "texture": "46fd4d2a-c374-4fed-947a-ed2d598711d6",
+    "atlas": "",
+    "rect": [
+      13,
+      106,
+      288,
+      145
+    ],
+    "offset": [
+      -3,
+      -18.5
+    ],
+    "originalSize": [
+      320,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

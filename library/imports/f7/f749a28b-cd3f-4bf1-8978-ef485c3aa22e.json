@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battery_lightnig",
+    "texture": "5ceeefb5-8fca-4b18-a9b1-cdf6dcd26436",
+    "atlas": "d9337d8c-b884-4716-b47b-a38140eab43a",
+    "rect": [
+      2028,
+      2,
+      10,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      17
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

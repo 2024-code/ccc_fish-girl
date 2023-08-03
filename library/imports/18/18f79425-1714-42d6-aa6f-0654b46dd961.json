@@ -1,0 +1,272 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "slots_81",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "NQP/aC9DG3xXtisq4IQow+HvIpk",
+      "spine": "3.5.46",
+      "width": 120,
+      "height": 120
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "image 295",
+        "bone": "bone",
+        "attachment": "image 295"
+      }
+    ],
+    "skins": {
+      "default": {
+        "image 295": {
+          "image 295": {
+            "width": 120,
+            "height": 120
+          },
+          "image 297": {
+            "width": 120,
+            "height": 120
+          },
+          "image 299": {
+            "width": 120,
+            "height": 120
+          },
+          "image 301": {
+            "width": 120,
+            "height": 120
+          },
+          "image 303": {
+            "width": 120,
+            "height": 120
+          },
+          "image 305": {
+            "width": 120,
+            "height": 120
+          },
+          "image 307": {
+            "width": 120,
+            "height": 120
+          },
+          "image 309": {
+            "width": 120,
+            "height": 120
+          },
+          "image 311": {
+            "width": 120,
+            "height": 120
+          },
+          "image 313": {
+            "width": 120,
+            "height": 120
+          },
+          "image 315": {
+            "width": 120,
+            "height": 120
+          },
+          "image 317": {
+            "width": 120,
+            "height": 120
+          },
+          "image 319": {
+            "width": 120,
+            "height": 120
+          },
+          "image 321": {
+            "width": 120,
+            "height": 120
+          },
+          "image 323": {
+            "width": 120,
+            "height": 120
+          },
+          "image 325": {
+            "width": 120,
+            "height": 120
+          },
+          "image 327": {
+            "width": 120,
+            "height": 120
+          },
+          "image 329": {
+            "width": 120,
+            "height": 120
+          },
+          "image 331": {
+            "width": 120,
+            "height": 120
+          },
+          "image 333": {
+            "width": 120,
+            "height": 120
+          },
+          "image 335": {
+            "width": 120,
+            "height": 120
+          },
+          "image 337": {
+            "width": 120,
+            "height": 120
+          },
+          "image 339": {
+            "width": 120,
+            "height": 120
+          },
+          "image 341": {
+            "width": 120,
+            "height": 120
+          }
+        }
+      }
+    },
+    "animations": {
+      "ami3": {
+        "slots": {
+          "image 295": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "image 295"
+              },
+              {
+                "time": 0.1,
+                "name": "image 297"
+              },
+              {
+                "time": 0.2,
+                "name": "image 299"
+              },
+              {
+                "time": 0.3,
+                "name": "image 301"
+              },
+              {
+                "time": 0.4,
+                "name": "image 303"
+              },
+              {
+                "time": 0.5,
+                "name": "image 305"
+              },
+              {
+                "time": 0.5667,
+                "name": "image 307"
+              },
+              {
+                "time": 0.6333,
+                "name": "image 309"
+              },
+              {
+                "time": 0.7,
+                "name": "image 311"
+              },
+              {
+                "time": 0.7667,
+                "name": "image 313"
+              },
+              {
+                "time": 0.8333,
+                "name": "image 315"
+              },
+              {
+                "time": 0.9,
+                "name": "image 317"
+              },
+              {
+                "time": 0.9667,
+                "name": "image 319"
+              },
+              {
+                "time": 1.0333,
+                "name": "image 321"
+              },
+              {
+                "time": 1.1,
+                "name": "image 323"
+              },
+              {
+                "time": 1.2,
+                "name": "image 325"
+              },
+              {
+                "time": 1.3,
+                "name": "image 327"
+              },
+              {
+                "time": 1.4,
+                "name": "image 329"
+              },
+              {
+                "time": 1.5,
+                "name": "image 331"
+              },
+              {
+                "time": 1.6,
+                "name": "image 333"
+              },
+              {
+                "time": 1.7,
+                "name": "image 335"
+              },
+              {
+                "time": 1.8,
+                "name": "image 337"
+              },
+              {
+                "time": 1.9,
+                "name": "image 339"
+              },
+              {
+                "time": 2,
+                "name": "image 341"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nslots_81.png\nsize: 2048,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimage 295\n  rotate: false\n  xy: 2, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 297\n  rotate: false\n  xy: 2, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 299\n  rotate: false\n  xy: 1100, 134\n  size: 108, 110\n  orig: 120, 120\n  offset: 1, 0\n  index: -1\nimage 301\n  rotate: false\n  xy: 1550, 174\n  size: 109, 70\n  orig: 120, 120\n  offset: 2, 38\n  index: -1\nimage 303\n  rotate: false\n  xy: 1434, 169\n  size: 114, 75\n  orig: 120, 120\n  offset: 0, 45\n  index: -1\nimage 305\n  rotate: false\n  xy: 1312, 173\n  size: 120, 71\n  orig: 120, 120\n  offset: 0, 49\n  index: -1\nimage 307\n  rotate: false\n  xy: 124, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 309\n  rotate: false\n  xy: 124, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 311\n  rotate: false\n  xy: 978, 126\n  size: 120, 118\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 313\n  rotate: false\n  xy: 978, 7\n  size: 120, 117\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 315\n  rotate: false\n  xy: 856, 3\n  size: 120, 119\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 317\n  rotate: false\n  xy: 246, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 319\n  rotate: false\n  xy: 246, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 321\n  rotate: false\n  xy: 1210, 146\n  size: 100, 98\n  orig: 120, 120\n  offset: 6, 8\n  index: -1\nimage 323\n  rotate: false\n  xy: 1100, 38\n  size: 105, 94\n  orig: 120, 120\n  offset: 1, 9\n  index: -1\nimage 325\n  rotate: false\n  xy: 368, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 327\n  rotate: false\n  xy: 368, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 329\n  rotate: false\n  xy: 490, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 331\n  rotate: false\n  xy: 490, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 333\n  rotate: false\n  xy: 612, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 335\n  rotate: false\n  xy: 612, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 337\n  rotate: false\n  xy: 734, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 339\n  rotate: false\n  xy: 734, 2\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\nimage 341\n  rotate: false\n  xy: 856, 124\n  size: 120, 120\n  orig: 120, 120\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "748520b5-8d6f-4cde-b044-2cb194962931"
+    }
+  ],
+  "textureNames": [
+    "slots_81.png"
+  ],
+  "scale": 1
+}

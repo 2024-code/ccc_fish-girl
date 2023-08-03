@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "interface_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 1039,\r\n        \"y\": 1,\r\n        \"height\": 281,\r\n        \"name\": \"bj\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1039,\r\n        \"y\": 284,\r\n        \"height\": 281,\r\n        \"name\": \"sb\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1039,\r\n        \"y\": 567,\r\n        \"height\": 281,\r\n        \"name\": \"sl\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 232,\r\n        \"y\": 465,\r\n        \"height\": 120,\r\n        \"name\": \"play\",\r\n        \"x\": 1042\r\n    },\r\n    {\r\n        \"width\": 145,\r\n        \"y\": 479,\r\n        \"height\": 161,\r\n        \"name\": \"sheng\",\r\n        \"x\": 1276\r\n    },\r\n    {\r\n        \"width\": 324,\r\n        \"y\": 357,\r\n        \"height\": 106,\r\n        \"name\": \"up\",\r\n        \"x\": 1042\r\n    },\r\n    {\r\n        \"width\": 234,\r\n        \"y\": 357,\r\n        \"height\": 120,\r\n        \"name\": \"game\",\r\n        \"x\": 1368\r\n    },\r\n    {\r\n        \"width\": 325,\r\n        \"y\": 235,\r\n        \"height\": 120,\r\n        \"name\": \"lower\",\r\n        \"x\": 1042\r\n    },\r\n    {\r\n        \"width\": 146,\r\n        \"y\": 587,\r\n        \"height\": 158,\r\n        \"name\": \"li\",\r\n        \"x\": 1042\r\n    },\r\n    {\r\n        \"width\": 89,\r\n        \"y\": 479,\r\n        \"height\": 72,\r\n        \"name\": \"y\",\r\n        \"x\": 1511\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 553,\r\n        \"height\": 72,\r\n        \"name\": \"h\",\r\n        \"x\": 1511\r\n    },\r\n    {\r\n        \"width\": 688,\r\n        \"y\": 1,\r\n        \"height\": 232,\r\n        \"name\": \"hua\",\r\n        \"x\": 1042\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 465,\r\n        \"height\": 1,\r\n        \"name\": \"组-14\",\r\n        \"x\": 1276\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 479,\r\n        \"height\": 86,\r\n        \"name\": \"gx\",\r\n        \"x\": 1423\r\n    }],\r\n    \"imagePath\": \"interface_tex.png\",\r\n    \"name\": \"interface\"\r\n}",
+  "_texture": {
+    "__uuid__": "60ac2651-2794-4d19-9f38-a70cf75cdf45"
+  },
+  "texture": {
+    "__uuid__": "60ac2651-2794-4d19-9f38-a70cf75cdf45"
+  },
+  "_textureAtlasData": null
+}

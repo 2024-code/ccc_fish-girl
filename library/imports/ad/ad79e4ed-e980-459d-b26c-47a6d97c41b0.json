@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_blue",
+    "texture": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+    "atlas": "f9308275-4636-44b2-9ade-d867f5ee952e",
+    "rect": [
+      440,
+      2,
+      114,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      115
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

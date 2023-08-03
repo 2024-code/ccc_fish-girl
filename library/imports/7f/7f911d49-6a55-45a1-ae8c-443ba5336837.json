@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btRightMove_a",
+    "texture": "898b1254-36be-41b4-be97-d678a92bcd66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      65
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      106,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

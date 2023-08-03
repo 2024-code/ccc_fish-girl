@@ -1,0 +1,19 @@
+
+peach-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 7
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 90, 2
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1

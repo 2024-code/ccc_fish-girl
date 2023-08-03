@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "prompt_floor",
+    "texture": "da326ca7-7f47-4e5e-afde-be84448fbfdd",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      624,
+      80
+    ],
+    "offset": [
+      -9.5,
+      0
+    ],
+    "originalSize": [
+      647,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

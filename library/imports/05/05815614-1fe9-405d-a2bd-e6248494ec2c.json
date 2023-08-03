@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_chipbg",
+    "texture": "66de400c-5112-49b9-a7b0-7908eb704d5a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      31
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      34,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

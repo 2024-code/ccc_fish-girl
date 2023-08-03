@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_fish_bg",
+    "texture": "b0d32d90-b3b5-466b-bb68-72712c93e453",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1400,
+      640
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1400,
+      640
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "im_head_frame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Circleframe": {
+      "__uuid__": "64eef99d-fd70-4130-b535-f9880952eec1"
+    },
+    "Circleframe_touxiang": {
+      "__uuid__": "8f3f156a-ce0f-4f61-bd24-d9a2bfe9827a"
+    },
+    "head_mask": {
+      "__uuid__": "19859d41-8f1d-4fa0-b9fa-d5c39743ad44"
+    },
+    "sp_frame_0": {
+      "__uuid__": "7f36ea32-28cf-494e-86a7-fcff79821684"
+    },
+    "sp_frame_0_0": {
+      "__uuid__": "b54267fc-53dd-4802-9f5f-547c578834c6"
+    },
+    "sp_frame_0_0_0": {
+      "__uuid__": "c9178851-fae5-49b6-935f-5e8b66fd5e0b"
+    },
+    "sp_frame_1_0": {
+      "__uuid__": "782bc213-646b-4e0e-be2e-9f99cac1a792"
+    },
+    "sp_frame_2_0": {
+      "__uuid__": "7b6fe83b-6ec9-4df4-95ef-7b8a836581cd"
+    },
+    "sp_frame_3_0": {
+      "__uuid__": "b18343d8-df18-4ce2-82c2-d69bc6397eb0"
+    },
+    "sp_frame_4_0": {
+      "__uuid__": "e6836611-3cf2-4873-b04e-02062951324e"
+    },
+    "sp_frame_5_0": {
+      "__uuid__": "f6dc20ec-c152-41d8-bbb3-5eb90ed2cae8"
+    }
+  }
+}

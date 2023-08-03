@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Role-UI-Door",
+    "texture": "9df824b2-34dc-4912-8e9f-566620844d8e",
+    "atlas": "fce5b0ed-c392-4573-8620-212a119c3fa0",
+    "rect": [
+      208,
+      0,
+      206,
+      137
+    ],
+    "offset": [
+      2,
+      -1
+    ],
+    "originalSize": [
+      210,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

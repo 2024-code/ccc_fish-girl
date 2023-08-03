@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3d3f4f44-a43c-4772-90ba-1b8a4b93e325",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "slots_jackpot_mega": {
+      "ver": "1.0.4",
+      "uuid": "28329435-6359-4f36-be41-d66f82bf5b70",
+      "rawTextureUuid": "3d3f4f44-a43c-4772-90ba-1b8a4b93e325",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 1,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 82,
+      "height": 32,
+      "rawWidth": 86,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

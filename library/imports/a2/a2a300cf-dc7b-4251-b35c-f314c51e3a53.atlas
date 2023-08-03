@@ -1,0 +1,40 @@
+
+tanghulu-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_Point_A
+  rotate: false
+  xy: 131, 58
+  size: 2, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+icon_Point_B
+  rotate: false
+  xy: 60, 18
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+icon_prod
+  rotate: false
+  xy: 2, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+icon_tanghulu_A
+  rotate: false
+  xy: 60, 27
+  size: 34, 34
+  orig: 35, 34
+  offset: 1, 0
+  index: -1
+icon_tanghulu_B
+  rotate: false
+  xy: 96, 28
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

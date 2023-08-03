@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_fs_window_box",
+    "texture": "287ffbd0-782b-42b7-9077-043d82a3186f",
+    "atlas": "",
+    "rect": [
+      22,
+      10,
+      541,
+      274
+    ],
+    "offset": [
+      0.5,
+      3.5
+    ],
+    "originalSize": [
+      584,
+      301
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

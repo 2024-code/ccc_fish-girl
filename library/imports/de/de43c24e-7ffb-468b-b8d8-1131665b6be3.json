@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btRedCard",
+    "texture": "0ca9353d-8ce5-4215-8604-3258a56951cc",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      202,
+      203
+    ],
+    "offset": [
+      -5,
+      4.5
+    ],
+    "originalSize": [
+      220,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

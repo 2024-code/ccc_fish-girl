@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "CSDBAnimation0.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "CSCFLayer-baozha1-zi2": {
+      "__uuid__": "11823aec-0e96-4f5d-9b8c-d2fe18d3c51c"
+    },
+    "CSCFLayer-baozha1-zi1": {
+      "__uuid__": "ee71f0ea-8f19-46b3-a2a7-686dc4063c2e"
+    },
+    "CSCFLayer-baozha1-zi3": {
+      "__uuid__": "1ddd5b84-5db0-4edc-be7c-2fbb64bf20fb"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b01": {
+      "__uuid__": "9e99e96a-d79a-4b7d-a66e-36f943f93067"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b02": {
+      "__uuid__": "8e0a1630-60bd-4899-9640-c06eb7fd498b"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b03": {
+      "__uuid__": "aadca69f-2dd7-4e36-8a53-654c499f766d"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b04": {
+      "__uuid__": "075faef6-a604-4247-a47f-cb3eae987745"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b05": {
+      "__uuid__": "e1be7689-e918-450d-9799-0e470ebd1ae9"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b06": {
+      "__uuid__": "af00f054-3f1b-478c-862e-8d612224e3dd"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b07": {
+      "__uuid__": "0f511002-24f5-49d6-906a-c788c057c1ef"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b08": {
+      "__uuid__": "e1db3f98-9e16-4718-a68f-5a9618db7e55"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b09": {
+      "__uuid__": "be069cc4-527b-4ded-8d92-fb4f22f8621b"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b10": {
+      "__uuid__": "986ae100-e08f-4192-a556-a45b67981659"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b11": {
+      "__uuid__": "78ba6b23-9322-4124-bd68-2381e1f354b6"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b12": {
+      "__uuid__": "24036748-e68a-4837-b249-683ca6a56c81"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b13": {
+      "__uuid__": "4763c668-692b-46c5-a238-dadb6d007d5a"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b14": {
+      "__uuid__": "18793f2f-c8bf-4274-b84f-f9cb890f346b"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b15": {
+      "__uuid__": "255ec761-939b-495a-b009-2cddd8d56bcc"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b16": {
+      "__uuid__": "21bd8ed8-4a7e-4881-8176-176e05d658e5"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_b20": {
+      "__uuid__": "bbc491c5-aa49-4ca5-a57c-4a6fe3f75175"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_huomiao01": {
+      "__uuid__": "8d4ba674-9518-4d9b-a04f-b671bb398cb5"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_huomiao02": {
+      "__uuid__": "39671a69-e58a-4f97-9ccf-fec76b38a80e"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_huomiao03": {
+      "__uuid__": "bb09e271-8e00-44ec-b3ed-5f220929d612"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx": {
+      "__uuid__": "5e84af16-d807-4925-ab1a-e51c4206bc4e"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx02": {
+      "__uuid__": "d26ddf48-d356-4470-939d-867150ad188d"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx03": {
+      "__uuid__": "a03c4e08-67e0-4c30-8d4d-79080f042126"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx04": {
+      "__uuid__": "1f94a9f3-64bc-4cf9-8f84-d9d586d9994c"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx05": {
+      "__uuid__": "0e34daa0-dfdc-4602-8633-9729707691d7"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zdx06": {
+      "__uuid__": "06cd5dcc-6137-449c-bbc4-7c8d8f360056"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_xinguang01": {
+      "__uuid__": "c0b2ecf0-e763-4007-b4e2-2be11ba60078"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_xinguang02": {
+      "__uuid__": "60859b84-8765-44dd-b3a5-0440ff104234"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang01": {
+      "__uuid__": "43c0a195-7fd4-4ca5-aac1-3e775e06506d"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang02": {
+      "__uuid__": "b20b93db-e4d2-445e-8da5-7b68549ca6ee"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang03": {
+      "__uuid__": "edc4b9bc-be96-4c4a-a9f1-7b8794ae7340"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang04": {
+      "__uuid__": "d258a1be-ee5b-40b5-b494-3cdc9206f83d"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang05": {
+      "__uuid__": "5fd02554-01e3-4cfd-b13b-75676c2f4e0c"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang06": {
+      "__uuid__": "b43679e4-8eb4-49fa-9ca8-92af631d718a"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_saoguang07": {
+      "__uuid__": "1acbd034-67da-45d2-b9e2-1604b99f3736"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_zhadan": {
+      "__uuid__": "3ebf2216-413c-4e2b-beb3-fde114ae1b40"
+    },
+    "CSCFLayer-baozha1-ExpAnimation_hd02_zd_touying": {
+      "__uuid__": "3aafc8b1-1535-4478-a825-067fb5dff527"
+    }
+  }
+}

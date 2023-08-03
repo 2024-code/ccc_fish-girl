@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TriangleOrange",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.875,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "28a37e55-101a-4622-b2ee-49df0c7ed21e"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "b35d0a5d-0b34-468e-84e2-c2c47178ff03"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "28a37e55-101a-4622-b2ee-49df0c7ed21e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

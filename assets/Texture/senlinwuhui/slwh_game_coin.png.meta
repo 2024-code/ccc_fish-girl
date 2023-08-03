@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e626ee39-8e89-4a02-8a46-22389cd68bf0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 42,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_coin": {
+      "ver": "1.0.4",
+      "uuid": "fcc7e605-a474-47d0-bc3a-f0248c66fa30",
+      "rawTextureUuid": "e626ee39-8e89-4a02-8a46-22389cd68bf0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 42,
+      "rawWidth": 42,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

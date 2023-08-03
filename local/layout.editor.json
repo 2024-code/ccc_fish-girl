@@ -1,0 +1,148 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1552,
+      "height": 924,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ],
+            "height": 808.2000122070312,
+            "type": "panel",
+            "width": 204.9250030517578
+          },
+          {
+            "active": 0,
+            "children": [
+              "assets"
+            ],
+            "height": 808.2000122070312,
+            "type": "panel",
+            "width": 204.9250030517578
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 808.2000122070312,
+            "type": "panel",
+            "width": 614.7625122070312
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "inspector",
+                  "cocos-services"
+                ],
+                "height": 556,
+                "type": "panel",
+                "width": 504.8000183105469
+              },
+              {
+                "active": 0,
+                "children": [
+                  "timeline"
+                ],
+                "height": 266,
+                "type": "panel",
+                "width": 504.8000183105469
+              }
+            ],
+            "height": 825,
+            "type": "dock-v",
+            "width": 504.8000183105469
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "inspector",
+        "cocos-services",
+        "timeline"
+      ]
+    }
+  },
+  "panels": {
+    "preferences": {
+      "x": 663,
+      "y": 314,
+      "width": 600,
+      "height": 565
+    },
+    "node-library": {
+      "x": 802,
+      "y": 246,
+      "width": 316,
+      "height": 519
+    },
+    "cloud-function": {
+      "x": 424,
+      "y": 318,
+      "width": 316,
+      "height": 465
+    },
+    "store": {
+      "x": 452,
+      "y": 136,
+      "width": 1016,
+      "height": 739
+    },
+    "sprite-editor": {
+      "x": 816,
+      "y": 184,
+      "width": 516,
+      "height": 540
+    },
+    "project-settings": {
+      "x": 672,
+      "y": 236,
+      "width": 600,
+      "height": 568
+    },
+    "builder": {
+      "x": 555,
+      "y": 147,
+      "width": 516,
+      "height": 739
+    },
+    "im-plugin": {
+      "x": 452,
+      "y": 136,
+      "width": 1016,
+      "height": 739
+    },
+    "assets": {
+      "x": 324,
+      "y": 160,
+      "width": 1555,
+      "height": 882
+    },
+    "timeline": {
+      "x": 556,
+      "y": 248,
+      "width": 524,
+      "height": 340
+    }
+  },
+  "panelLabelWidth": {
+    "inspector": "23.5669%",
+    "preferences": null,
+    "builder": null,
+    "project-settings": null
+  }
+}

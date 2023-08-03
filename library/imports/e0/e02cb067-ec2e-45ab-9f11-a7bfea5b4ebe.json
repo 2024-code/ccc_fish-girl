@@ -1,0 +1,350 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cannon_barrel_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "maopaotai_add": {
+      "__uuid__": "bcf387eb-c3b9-4a50-8b47-6b248c7c418e"
+    },
+    "maopaotai_fazhen": {
+      "__uuid__": "4a8b0c27-0c43-4a56-b04c-ecfaf0d6e530"
+    },
+    "maopaotai_gold_bg": {
+      "__uuid__": "e1ad3aa2-99b3-4900-a6cc-7d5c7d9d0fd6"
+    },
+    "maopaotai_minus": {
+      "__uuid__": "628f3b38-44f3-4b24-9774-784360dad99f"
+    },
+    "maopaotai_shanziyou": {
+      "__uuid__": "6e23ff78-f0ee-4a6f-99de-5e882071a0a0"
+    },
+    "maopaotai_shanzizuo": {
+      "__uuid__": "71c93f27-5f5d-43c0-85dc-8b179efb3b38"
+    },
+    "maopaotai_shenzi": {
+      "__uuid__": "a20a8879-94fc-4f30-91de-d0f7b3cbc5c3"
+    },
+    "maopaotai_tou": {
+      "__uuid__": "4beaf7a5-1bb3-424a-9a40-49a8cb3c4d39"
+    },
+    "maopaotai_youshou": {
+      "__uuid__": "bfde5739-2b11-478b-9c5b-9064c8222f27"
+    },
+    "maopaotai_yuanbao": {
+      "__uuid__": "f9ff529d-55a3-4c66-9682-227880dd6df4"
+    },
+    "maopaotai_zuoshou": {
+      "__uuid__": "760e2830-079a-46c8-a607-0fd0be7efeb1"
+    },
+    "xianglupao_add": {
+      "__uuid__": "87002da7-f430-44ed-ab27-90b75b99241f"
+    },
+    "xianglupao_dizuo": {
+      "__uuid__": "6b15f05b-ad2f-4aa3-9dba-64b5b51e95b7"
+    },
+    "xianglupao_gold_bg": {
+      "__uuid__": "fb233dea-a5a1-46fb-bc22-61c8d4b17685"
+    },
+    "xianglupao_kaihuo": {
+      "__uuid__": "7adafa49-a415-409c-9038-ae67076472f1"
+    },
+    "xianglupao_minus": {
+      "__uuid__": "22900580-6746-4ce1-af1b-ac14560dce07"
+    },
+    "xianglupao_paoguan": {
+      "__uuid__": "06346e94-ced5-43cb-8ca9-90120c6af8a1"
+    },
+    "xianglupao_xulie01": {
+      "__uuid__": "abf59be9-da2f-4dc8-9869-2c87996a3fcf"
+    },
+    "xianglupao_xulie02": {
+      "__uuid__": "ce923758-1e2d-444e-874d-dbf55268761a"
+    },
+    "xianglupao_xulie03": {
+      "__uuid__": "65da78a1-5f0e-4f0c-b6d7-883306d782d6"
+    },
+    "xianglupao_xulie04": {
+      "__uuid__": "151ec8fb-70f6-40c7-8296-2a75ebf1a126"
+    },
+    "xianglupao_xulie05": {
+      "__uuid__": "4ada9b9e-129a-42b1-99cd-224294ca7db0"
+    },
+    "xianglupao_xulie06": {
+      "__uuid__": "fe368e39-13c8-4d47-9841-1f8e880acc53"
+    },
+    "xianglupao_xulie07": {
+      "__uuid__": "287d59c8-12b5-491c-959d-4754a079eb13"
+    },
+    "xianglupao_xulie08": {
+      "__uuid__": "188187f2-0b9c-4cf4-b6a0-1cf6eaff8d1e"
+    },
+    "xianglupao_xulie09": {
+      "__uuid__": "93b10b64-aae9-45bc-86ef-4ad5b2e14e4d"
+    },
+    "xianglupao_xulie10": {
+      "__uuid__": "82858a7e-84fb-4d31-9eca-be302b909240"
+    },
+    "xianglupao_xulie11": {
+      "__uuid__": "80fd152c-d74b-498b-817a-28ea2e04bc12"
+    },
+    "xianglupao_xulie12": {
+      "__uuid__": "1238c9e9-5c8c-40d6-9b69-20ed63cdfee0"
+    },
+    "xianglupao_xulie13": {
+      "__uuid__": "faf06868-a607-497c-9721-5c0824fd0859"
+    },
+    "xianglupao_xulie14": {
+      "__uuid__": "46566391-e0c1-4d0a-9ba8-bf3d35cb3733"
+    },
+    "xianglupao_xulie15": {
+      "__uuid__": "759f1682-67ac-4a0d-b423-ea135b562dae"
+    },
+    "xianglupao_yw": {
+      "__uuid__": "dd51ccdf-54a8-4438-ba1c-8d78ccdbf9f6"
+    },
+    "xianglupao_yw_01": {
+      "__uuid__": "a76c37ab-3e10-4c48-a48b-92ee1a88de71"
+    },
+    "xianglupao_yw_02": {
+      "__uuid__": "25b4b2d5-805e-4106-9cec-643d74ef31e7"
+    },
+    "xianglupao_yw_03": {
+      "__uuid__": "0452c38e-57b2-46a2-b297-a2cacfca7a5a"
+    },
+    "xianglupao_yw_04": {
+      "__uuid__": "d7f03bae-0965-494c-8b1d-d808173cb616"
+    },
+    "xianglupao_yw_05": {
+      "__uuid__": "b160c48b-4048-4313-9012-88df8a55da20"
+    },
+    "xianglupao_yw_06": {
+      "__uuid__": "971155d4-d438-41c5-bacb-c679103de4ec"
+    },
+    "xianglupao_yw_07": {
+      "__uuid__": "959bf38b-1dfd-494b-9cf8-42972b46d512"
+    },
+    "xianglupao_yw_08": {
+      "__uuid__": "41e86a4f-fc6e-4e4e-b7d6-5e197ef68212"
+    },
+    "xianglupao_yw_09": {
+      "__uuid__": "9c42c0f7-cf62-41fa-834f-699dfa29c71c"
+    },
+    "xianglupao_yw_10": {
+      "__uuid__": "925b64a5-1b1c-4574-85c0-b9393533cc6b"
+    },
+    "xianglupao_yw_11": {
+      "__uuid__": "5d963249-a94d-49a2-b3a1-42849963f166"
+    },
+    "xianglupao_yw_quan": {
+      "__uuid__": "eb8741e6-39a0-479a-ba71-2832b99b48bf"
+    },
+    "xianglupao_yw_zha": {
+      "__uuid__": "4fc48177-762f-4652-a708-6ffe729fa52e"
+    },
+    "xianglupao_zhuangshi01": {
+      "__uuid__": "c16950e2-be71-4930-9a1a-a45e52cd75ec"
+    },
+    "xianglupao_zhuangshi02": {
+      "__uuid__": "13f059b5-f470-46f0-96d6-0605a237ce5c"
+    },
+    "xianglupao_zhuangshi03": {
+      "__uuid__": "f3b968d2-a6f9-4ec0-850f-d4f165ab4fb8"
+    },
+    "xianglupao_zidan": {
+      "__uuid__": "22a3c430-5ee8-4c56-b441-6ca2af916c10"
+    },
+    "xianxiapao_add": {
+      "__uuid__": "f022cadc-0e1a-4711-a2a0-86b40a964854"
+    },
+    "xianxiapao_chibang": {
+      "__uuid__": "7ceb392c-2790-4d77-bb4e-23f66d3a60f0"
+    },
+    "xianxiapao_chibangguang": {
+      "__uuid__": "b4d94c28-ce7b-4049-99c1-04a5b596a6be"
+    },
+    "xianxiapao_di": {
+      "__uuid__": "c6fbe93b-c99a-46de-a1ce-1430e0e53573"
+    },
+    "xianxiapao_gold_bg": {
+      "__uuid__": "9e5b58fc-2241-4502-ac0d-a9e5c1c552f1"
+    },
+    "xianxiapao_minus": {
+      "__uuid__": "9f9815a6-c5df-47e8-a13d-b30809324c2d"
+    },
+    "xianxiapao_pg_guang01": {
+      "__uuid__": "b4009890-fdf3-4349-830f-60d7b3d27bf7"
+    },
+    "xianxiapao_pg_guang02": {
+      "__uuid__": "cb1d82d6-18ca-4753-8264-c01a0666f546"
+    },
+    "xianxiapao_pg_guang03": {
+      "__uuid__": "55aaa610-1ab8-489f-98d5-d6713320a2ad"
+    },
+    "xianxiapao_pg_guang04": {
+      "__uuid__": "5e8f9768-5ffe-4b4e-ac26-8dee4da8a6fc"
+    },
+    "xianxiapao_pg_guang05": {
+      "__uuid__": "0dae7354-5d72-4138-bf6b-defa3a1de92e"
+    },
+    "xianxiapao_pg_guang06": {
+      "__uuid__": "9b63979d-4240-4368-8880-daba80c28ee5"
+    },
+    "xianxiapao_pg_guang07": {
+      "__uuid__": "1572d114-7983-472d-8d02-8b871d4f00da"
+    },
+    "xianxiapao_pg_guang08": {
+      "__uuid__": "26b9e45b-7db9-4d56-83c2-c1723d11a8c1"
+    },
+    "xianxiapao_pg_guang09": {
+      "__uuid__": "70fd0e3b-d20b-4973-814d-3f45fef27acd"
+    },
+    "xianxiapao_pg_guang10": {
+      "__uuid__": "d75a133f-8631-46a3-88a5-3fbdeee16dc8"
+    },
+    "xianxiapao_pg_guang11": {
+      "__uuid__": "25cb1b7d-a997-4e37-9631-8eee0d3fe84c"
+    },
+    "xianxiapao_pg_guang12": {
+      "__uuid__": "11933c41-2071-45ff-92ab-66c8e33f4fcb"
+    },
+    "xianxiapao_pg_guang13": {
+      "__uuid__": "d8dded02-2abd-4f55-8e6b-bf1810f59e4a"
+    },
+    "xianxiapao_pg_guang14": {
+      "__uuid__": "25600650-5646-4b81-b27a-6914cb841d53"
+    },
+    "xianxiapao_pg_guang15": {
+      "__uuid__": "7cc7ea95-789c-49db-98f4-d07ea7768697"
+    },
+    "xianxiapao_xulie01": {
+      "__uuid__": "bfd8236e-4b5e-4de3-b502-41bf5e3e7a4f"
+    },
+    "xianxiapao_xulie02": {
+      "__uuid__": "5598028b-aebe-4b82-a0d0-367168ba2912"
+    },
+    "xianxiapao_xulie03": {
+      "__uuid__": "10c9a48c-0616-4357-8815-d0f77908e94f"
+    },
+    "xianxiapao_xulie04": {
+      "__uuid__": "507b5c4b-213f-4b5b-b32c-9fab0858565a"
+    },
+    "xianxiapao_xulie05": {
+      "__uuid__": "eba2df86-72f3-4a3e-b6a3-378988945d15"
+    },
+    "xianxiapao_xulie06": {
+      "__uuid__": "a4f3e99d-e1b4-44bf-9383-13f4abc5d2ef"
+    },
+    "xianxiapao_xulie07": {
+      "__uuid__": "788880c3-e156-4839-9173-920f132d75b5"
+    },
+    "xianxiapao_xulie08": {
+      "__uuid__": "64bd0508-97e1-469f-a351-f22cd9a081a8"
+    },
+    "xianxiapao_xulie09": {
+      "__uuid__": "8d699020-c1c6-4958-9b7b-d0253d2e74b6"
+    },
+    "xianxiapao_xulie10": {
+      "__uuid__": "df0ff5f6-adc6-4c4a-af5f-4d9dd1385646"
+    },
+    "xianxiapao_xulie11": {
+      "__uuid__": "a32fee0a-1cfd-463c-a5e6-2c668c14272e"
+    },
+    "xianxiapao_xulie12": {
+      "__uuid__": "abb7f9ea-beef-4538-b815-167fd0dd5df3"
+    },
+    "xianxiapao_xulie13": {
+      "__uuid__": "65ef952d-3c50-4145-9e31-53694593fb89"
+    },
+    "xianxiapao_xulie14": {
+      "__uuid__": "be35ffda-b741-4a25-b02b-f72538c8706e"
+    },
+    "xianxiapao_xulie15": {
+      "__uuid__": "ff65757b-b2a1-43be-af79-880b4dae0eaa"
+    },
+    "xianxiapao_yw": {
+      "__uuid__": "56a2bc29-b8c9-4170-b56e-4978606e0640"
+    },
+    "xianxiapao_yw_01": {
+      "__uuid__": "0ca5f18d-753c-4b13-9c43-7b0a8cb60cf9"
+    },
+    "xianxiapao_yw_02": {
+      "__uuid__": "eac802c8-d804-4c01-be2a-6b14af03b5a6"
+    },
+    "xianxiapao_yw_03": {
+      "__uuid__": "ca32339f-7a15-41c1-a5fc-f2760000d1fe"
+    },
+    "xianxiapao_yw_04": {
+      "__uuid__": "59bba338-7d44-43c9-9aed-39120813ea3f"
+    },
+    "xianxiapao_yw_05": {
+      "__uuid__": "586970a5-147b-4649-8a7a-81a4f2457fa0"
+    },
+    "xianxiapao_yw_06": {
+      "__uuid__": "d7eb5043-9fb8-4326-b081-ca0cf4d7a7b2"
+    },
+    "xianxiapao_yw_07": {
+      "__uuid__": "906fef57-9b63-430c-9895-57a7bc6fc3bb"
+    },
+    "xianxiapao_yw_08": {
+      "__uuid__": "1cd47955-e776-4d1c-9aee-0702ee974cec"
+    },
+    "xianxiapao_yw_09": {
+      "__uuid__": "c5f555ee-1144-4ff9-86c9-a02e33744b11"
+    },
+    "xianxiapao_yw_quan": {
+      "__uuid__": "171d457d-4b0f-4ed6-aba8-dd7755b6d169"
+    },
+    "xianxiapao_yw_quan01": {
+      "__uuid__": "3beeffea-07cf-4a2b-aeca-9e971c759dae"
+    },
+    "xianxiapao_zidan": {
+      "__uuid__": "dde546e6-6ca4-4b7b-929e-63f311fb582f"
+    },
+    "zhaocaimao_yw": {
+      "__uuid__": "19d5625b-831a-4358-bd44-dc63bd245bfb"
+    },
+    "zhaocaimao_yw_01": {
+      "__uuid__": "246b28aa-ea29-494f-9301-e3f0e54c3ac5"
+    },
+    "zhaocaimao_yw_02": {
+      "__uuid__": "6cedb6c4-4609-4c5d-8645-9f23032db41b"
+    },
+    "zhaocaimao_yw_03": {
+      "__uuid__": "90c48a9e-c4bc-4106-aa16-ae2fbcc5c61a"
+    },
+    "zhaocaimao_yw_04": {
+      "__uuid__": "e5fb5462-2c13-4b6f-ac40-5a7d409e0804"
+    },
+    "zhaocaimao_yw_05": {
+      "__uuid__": "38e7348d-6eee-4936-bae0-92b02876c182"
+    },
+    "zhaocaimao_yw_06": {
+      "__uuid__": "759f1bc6-98ad-46f3-abc4-ff9f51cf7513"
+    },
+    "zhaocaimao_yw_07": {
+      "__uuid__": "b19cbe85-945c-4db7-8fdc-1ca9933dd21b"
+    },
+    "zhaocaimao_yw_08": {
+      "__uuid__": "9b64b1bb-3936-4dca-8054-fa15374594c2"
+    },
+    "zhaocaimao_yw_09": {
+      "__uuid__": "86be8a1b-6d89-455c-9ba2-ad04c6eacd1f"
+    },
+    "zhaocaimao_yw_10": {
+      "__uuid__": "06397872-9556-4ec4-b250-e6b47126f1d0"
+    },
+    "zhaocaimao_yw_11": {
+      "__uuid__": "d7481bb8-89bf-451f-9004-7b62faf190a4"
+    },
+    "zhaocaimao_yw_12": {
+      "__uuid__": "090c8219-8518-474d-a935-7366aa8a3421"
+    },
+    "zhaocaimao_yw_quan": {
+      "__uuid__": "a6dc5c0e-5d76-497c-ba8c-0c80c2a3dc27"
+    },
+    "zhaocaimao_zidan": {
+      "__uuid__": "170c57ce-e057-452f-a741-5517aab80f83"
+    }
+  }
+}

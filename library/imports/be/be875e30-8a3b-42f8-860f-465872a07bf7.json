@@ -1,0 +1,389 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "slots_51",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "cD60DoRZOog6ETZBhhpwpS9V4QQ",
+      "spine": "3.5.46",
+      "width": 161.6,
+      "height": 222.2
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.01,
+        "scaleY": 1.01
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": -2.97,
+        "y": 37.62
+      }
+    ],
+    "slots": [
+      {
+        "name": "pjl0001",
+        "bone": "bone",
+        "attachment": "pjl0016"
+      },
+      {
+        "name": "shanguang_00102",
+        "bone": "root",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "pjl0001": {
+          "pjl0001": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0002": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0003": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0004": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0005": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0006": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0007": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0008": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0009": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0010": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0011": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0012": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0013": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0014": {
+            "width": 160,
+            "height": 220
+          },
+          "pjl0016": {
+            "width": 160,
+            "height": 220
+          }
+        },
+        "shanguang_00102": {
+          "shanguang_00102": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              64,
+              -64,
+              -64,
+              -64,
+              -64,
+              64,
+              64,
+              64
+            ],
+            "hull": 4
+          }
+        }
+      }
+    },
+    "animations": {
+      "ami3": {
+        "slots": {
+          "pjl0001": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "pjl0001"
+              },
+              {
+                "time": 0.1333,
+                "name": "pjl0002"
+              },
+              {
+                "time": 0.2667,
+                "name": "pjl0003"
+              },
+              {
+                "time": 0.4,
+                "name": "pjl0004"
+              },
+              {
+                "time": 0.5333,
+                "name": "pjl0005"
+              },
+              {
+                "time": 0.6333,
+                "name": "pjl0006"
+              },
+              {
+                "time": 0.7333,
+                "name": "pjl0007"
+              },
+              {
+                "time": 0.8333,
+                "name": "pjl0008"
+              },
+              {
+                "time": 0.9667,
+                "name": "pjl0009"
+              },
+              {
+                "time": 1.1,
+                "name": "pjl0010"
+              },
+              {
+                "time": 1.2,
+                "name": "pjl0011"
+              },
+              {
+                "time": 1.3333,
+                "name": "pjl0012"
+              },
+              {
+                "time": 1.4667,
+                "name": "pjl0013"
+              },
+              {
+                "time": 1.6,
+                "name": "pjl0014"
+              },
+              {
+                "time": 1.7333,
+                "name": "pjl0016"
+              },
+              {
+                "time": 1.8667,
+                "name": "pjl0003"
+              },
+              {
+                "time": 2,
+                "name": "pjl0002"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      },
+      "ami4": {
+        "slots": {
+          "pjl0001": {
+            "color": [
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4,
+                "name": "pjl0001"
+              },
+              {
+                "time": 0.6667,
+                "name": "pjl0001"
+              }
+            ]
+          },
+          "shanguang_00102": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "shanguang_00102"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0.4,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.4,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "shanguang_00102": {
+              "shanguang_00102": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.1667,
+                  "vertices": [
+                    149.67075,
+                    -149.67079,
+                    -149.67079,
+                    -149.67079,
+                    -149.67075,
+                    149.67079,
+                    149.67079,
+                    149.67079
+                  ]
+                },
+                {
+                  "time": 0.5,
+                  "vertices": [
+                    154.74727,
+                    -154.74731,
+                    -154.74731,
+                    -154.74731,
+                    -154.74727,
+                    154.74731,
+                    154.74731,
+                    154.74731
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0.5
+          },
+          {
+            "time": 0.6667
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nslots_51.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\npjl0001\n  rotate: true\n  xy: 151, 711\n  size: 137, 209\n  orig: 160, 220\n  offset: 14, 6\n  index: -1\npjl0002\n  rotate: false\n  xy: 149, 152\n  size: 137, 209\n  orig: 160, 220\n  offset: 14, 6\n  index: -1\npjl0003\n  rotate: false\n  xy: 288, 152\n  size: 137, 209\n  orig: 160, 220\n  offset: 14, 6\n  index: -1\npjl0004\n  rotate: true\n  xy: 211, 13\n  size: 137, 209\n  orig: 160, 220\n  offset: 14, 6\n  index: -1\npjl0005\n  rotate: true\n  xy: 363, 851\n  size: 143, 210\n  orig: 160, 220\n  offset: 8, 5\n  index: -1\npjl0006\n  rotate: true\n  xy: 575, 851\n  size: 143, 209\n  orig: 160, 220\n  offset: 8, 5\n  index: -1\npjl0007\n  rotate: false\n  xy: 2, 574\n  size: 144, 210\n  orig: 160, 220\n  offset: 7, 5\n  index: -1\npjl0008\n  rotate: true\n  xy: 151, 850\n  size: 144, 210\n  orig: 160, 220\n  offset: 7, 5\n  index: -1\npjl0009\n  rotate: false\n  xy: 2, 362\n  size: 144, 210\n  orig: 160, 220\n  offset: 7, 5\n  index: -1\npjl0010\n  rotate: false\n  xy: 2, 151\n  size: 145, 209\n  orig: 160, 220\n  offset: 6, 5\n  index: -1\npjl0011\n  rotate: false\n  xy: 2, 786\n  size: 147, 208\n  orig: 160, 220\n  offset: 4, 5\n  index: -1\npjl0012\n  rotate: true\n  xy: 786, 848\n  size: 146, 208\n  orig: 160, 220\n  offset: 5, 5\n  index: -1\npjl0013\n  rotate: true\n  xy: 2, 2\n  size: 147, 207\n  orig: 160, 220\n  offset: 4, 5\n  index: -1\npjl0014\n  rotate: false\n  xy: 148, 505\n  size: 145, 204\n  orig: 160, 220\n  offset: 6, 6\n  index: -1\npjl0016\n  rotate: true\n  xy: 148, 363\n  size: 140, 205\n  orig: 160, 220\n  offset: 11, 6\n  index: -1\nshanguang_00102\n  rotate: false\n  xy: 295, 581\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "175b9601-05a2-4b6d-89a5-80f7c6c78fbf"
+    }
+  ],
+  "textureNames": [
+    "slots_51.png"
+  ],
+  "scale": 1
+}

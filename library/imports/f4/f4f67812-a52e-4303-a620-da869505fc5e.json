@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "HelpBtnAndLine.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Back1": {
+      "__uuid__": "3862cebf-2de2-45cf-8ba7-f2433021ee52"
+    },
+    "Back2": {
+      "__uuid__": "f65746c4-dd65-4032-b5e4-8feeaade6580"
+    },
+    "Back3": {
+      "__uuid__": "8300237c-a42f-4b21-b39f-bcacc1b8c31d"
+    },
+    "HelpBGLine": {
+      "__uuid__": "37dba213-ae88-4869-8649-496e648ec0a2"
+    },
+    "HidePayLines1": {
+      "__uuid__": "0d64a4b1-641e-4dfa-aa53-b9419c8b72c1"
+    },
+    "HidePayLines2": {
+      "__uuid__": "db3005b5-ca30-42d8-9427-dcc390e8c423"
+    },
+    "HidePayLines3": {
+      "__uuid__": "ff6c29f0-c582-445a-97f3-a4fca73f0d60"
+    },
+    "ShowPayLines1": {
+      "__uuid__": "259c12d7-4c4e-4dec-ab03-c0ef9db49e7f"
+    },
+    "ShowPayLines2": {
+      "__uuid__": "079ad758-98b0-4c78-abc4-956c3f462335"
+    },
+    "ShowPayLines3": {
+      "__uuid__": "a0746964-60b4-4e9c-b27f-48f3d44c65b0"
+    }
+  }
+}

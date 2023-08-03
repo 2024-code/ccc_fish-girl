@@ -1,0 +1,76 @@
+
+ypticon.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0590
+  rotate: true
+  xy: 419, 44
+  size: 62, 64
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+1
+  rotate: false
+  xy: 227, 28
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+1a
+  rotate: false
+  xy: 182, 20
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 92, 11
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+slots_sign_1Bet_nor
+  rotate: false
+  xy: 182, 65
+  size: 77, 41
+  orig: 88, 51
+  offset: 7, 4
+  index: -1
+slots_sign_1Bet_sel
+  rotate: false
+  xy: 2, 55
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+slots_sign_4Bet_nor
+  rotate: false
+  xy: 261, 65
+  size: 77, 41
+  orig: 88, 51
+  offset: 7, 4
+  index: -1
+slots_sign_4Bet_sel
+  rotate: false
+  xy: 2, 2
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+slots_sign_5Bet_nor
+  rotate: false
+  xy: 340, 65
+  size: 77, 41
+  orig: 88, 51
+  offset: 7, 4
+  index: -1
+slots_sign_5Bet_sel
+  rotate: false
+  xy: 92, 55
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1

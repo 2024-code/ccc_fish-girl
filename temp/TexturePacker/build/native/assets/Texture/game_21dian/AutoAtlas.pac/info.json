@@ -1,0 +1,2505 @@
+{
+  "projectPath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "d6ad9e27-39fb-465a-9209-c3be8c729753": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470312909
+    },
+    "0e65efdf-6e33-4eb6-83e5-184d4fa5fc29": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "02e5b0d0-94e3-4eb4-8912-4aadc7861988": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313127
+    },
+    "0f34fba4-ddd5-4601-b34e-588d0c101c7f": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "0fd915d1-63eb-4445-9b3b-acc6f08d7df7": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "111c7944-eb29-4ae7-a83c-390efbba82a4": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "17360e92-2244-4cab-a034-476b01ee5590": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "17aece13-aeb9-4064-83a5-3acc93f36a79": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313127
+    },
+    "28527e96-e198-430b-86f4-350756acf779": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313127
+    },
+    "1b757b8a-5678-4131-ba8f-f75a74465eee": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "2066001f-eca1-4d3d-b913-869eee0af04e": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "208d6136-e816-41f3-89c9-39cf174dafff": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313127
+    },
+    "312707f6-172f-4db3-89ef-32251de5c205": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313127
+    },
+    "276680fe-dfc1-43fe-84a2-25fcabcae594": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "2b2fb41a-893e-4aac-8bf9-6863a240ce82": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "2be6964f-fa44-4e74-8bba-c7b704726322": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "2ca2daae-0c9d-41e2-893b-9c7dbd2bdde1": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "331d1db0-3390-4b3d-8af5-e48b9260a110": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "350d6243-c087-4066-8d2e-22403e33771a": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313143
+    },
+    "5cdba6b1-05ff-4452-9f43-a451de8d1bf0": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313143
+    },
+    "37a62286-ffe6-4825-ba44-b70e55c72313": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "3a434701-3458-4f5e-a7a0-2dbb00e10c89": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "3ade03bd-4f59-4d95-8301-a0e4a753104a": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313096
+    },
+    "e3bd2938-8484-41f6-b621-b9b8b2a4d4c7": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313096
+    },
+    "457fe3d6-2281-44b5-8e03-ee86d4c3b94c": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313159
+    },
+    "3083355b-3366-4e9b-b4b9-1bfaf2d03676": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313159
+    },
+    "467c6d5f-442d-4446-bb1c-cd725cca4c66": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313049
+    },
+    "a840ab5f-8940-4933-9860-28a371437e87": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313049
+    },
+    "4d2627a2-1a1d-4cfd-be9f-3dc00786ed68": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "aa9cee72-18be-4e30-b4a7-64bdc946b62d": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312987
+    },
+    "4fdf9bf8-7fdb-49c2-a0fe-b3f529fa9d6f": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "df974217-06a0-437b-a70a-02535661bd6d": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "51867450-5088-4d95-be5b-cf01dfba5c87": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312955
+    },
+    "59f6a8dd-486b-4586-a53d-5481b06aeec6": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312955
+    },
+    "527250c6-a6cb-451b-ab49-53108abf971d": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "5443cadf-ab4b-4039-8707-2eeb9365c23a": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "5940ee26-7aea-4af1-90f9-3a61d52d75e2": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "601e22e3-5a80-4802-be71-0195d2cfd81a": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "68cfd7a1-e3c3-4bc2-b268-10d78b4ff4f9": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "696e33b3-3f7c-4fee-a585-93ce3dc81e3a": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313034
+    },
+    "e98ab574-35fc-4805-a215-d4f447a880c1": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313034
+    },
+    "6bfff346-0944-4396-bebb-8b36d1b342e4": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "6d7d10b1-947b-4a54-aa8f-a228d66fa257": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "7138ea73-f65e-4011-ab22-dface58a91e9": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470313002
+    },
+    "b56b4e48-3b09-4984-8ca8-6c5e93708670": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470313002
+    },
+    "72cacf67-10cc-4db5-bb66-9bfa9667a959": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "756c7d2f-bedd-434f-913a-489a5fc73728": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "76fe69d6-98ff-48ac-9b64-14e4b8a1fa0f": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "791629e2-bba1-48f2-a77e-5e0d10182bb4": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312940
+    },
+    "28cf8a99-ffb6-4702-8f46-10043943116e": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312940
+    },
+    "79862db6-b6dd-41ae-a972-4b2174926cb4": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "7a2fec1e-35d2-4d3e-901b-dcd2734c636b": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313112
+    },
+    "70654695-e805-4e00-a203-a9609f1a1409": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313112
+    },
+    "7eece5c9-337f-4b65-adf0-d50afd4c9a81": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "807d6e02-f522-422d-a858-6fb806a4e530": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "809f1ecc-9994-4bef-abbc-7912c37d1bd2": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "87928cca-e13b-46ea-b9aa-3d4ea8c3e9a1": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "89186594-b15d-4f63-8d67-2a73975c7bf2": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "8b332a2f-ec5d-4dcd-8000-d8880db7880e": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313034
+    },
+    "83091ec4-fb5a-411e-97ba-bc36f0f3bd35": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313034
+    },
+    "8e6ad746-0843-44d2-850b-15f774ba34c6": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "918c016a-f38c-47c4-93e7-c8775bc6cb25": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313096
+    },
+    "d3cf8cbe-9a18-49ad-a11e-71f14c4bd0c5": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313096
+    },
+    "92cc4c0e-b756-4c59-aed6-8ba1b4c8b8c0": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "979cebbc-fd21-4b74-8ff1-b1b6028e85e2": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "9ba42a7c-4ecf-40f7-9ddc-e970d2f50df6": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "9e25ae07-e9c8-43f8-a169-6d03bc9dee1e": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "a44d617c-aeaa-4cdd-aacf-585962daf688": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "a632e0b2-329a-414b-9d54-6716824cdea0": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312909
+    },
+    "d3a33388-c076-43fd-82c2-aa2dc55ad971": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312909
+    },
+    "a9d2bd25-2dbb-4879-9ad0-d8d203bad7bc": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "02176a2a-fe8f-41c5-82e7-3e8569a53aaf": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "aa8354e3-e89c-4e1a-a963-2a7990348c03": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313018
+    },
+    "0493283f-6c8d-4b45-9f9a-571c44c7f8fc": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470313018
+    },
+    "aac81dfc-4ac7-41d4-a9d8-4dc335681bf5": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "ac8ff5a3-6824-4293-a9d9-a2c190e5490e": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "acfa6fc5-b3cb-40da-bdf3-11bd6c4169fd": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "ad79e4ed-e980-459d-b26c-47a6d97c41b0": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "af344106-eaff-4139-b3f7-1690c53c64de": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "b33756a5-539c-4af5-86d5-af59ee7b011d": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "b81d9071-a160-4658-bf29-f056f03bbbe7": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "bbd0ad88-169a-4cd1-b553-678bb607ab55": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "c0676564-129d-4d6b-be58-48ac751779fc": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "c4a0fe41-e9bd-4695-b7fa-bdbd43f536cd": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "c8b0446c-6681-4988-8a33-9b7098daf7b0": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "c9ffe3a3-f8e4-456b-8aaa-0005d780a160": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "a00cd349-cf44-48e7-941e-2f41e7a60607": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312971
+    },
+    "cb9d5839-e9f2-4ac2-b425-865d90e14b41": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312940
+    },
+    "202a0ec9-1576-4e19-961d-7dd189f259cd": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312940
+    },
+    "cbee9031-1d38-4516-a8d4-abcffe441437": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "cc506be6-1954-457f-998c-54813d105c10": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "cdfb4065-cd10-4aec-8dfb-bcfcea74876e": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "cf7fa5f1-f694-47a1-84f8-43d819097882": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "d027a792-afd1-4de8-b520-0b9837758c17": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "d13591ea-e64f-4c5c-8bb1-43762929f6ef": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "d2e739c2-5893-4edd-b1f8-13501df035ce": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "d47bfee5-455b-4365-b9ef-6fa5aaffbb9d": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "d55ffe30-ea1f-420f-9fe5-b1af4c0ef5a5": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "dcc61db9-60e1-4d3f-9202-156387fa5ade": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313002
+    },
+    "edc38fbd-3692-40a8-8c6b-7f63f5b338fc": {
+      "assetMtime": 1615547908000,
+      "metaMtime": 1690470313002
+    },
+    "dfbe99b7-e7c5-42cd-ada6-5aa36dbcdc69": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "e4f57370-742c-463e-8b04-ea3f88911377": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "e53942a8-4c6f-43e2-b8fa-30e549a2a52d": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "eeec459f-7fc1-4835-bdb3-d27cfd57d2a6": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470313002
+    },
+    "13eb42cb-16b0-41f6-b623-8c3dc4579302": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470313002
+    },
+    "f1ac0ccd-545a-4797-91d8-623d4f4948af": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470406149
+    },
+    "f3861707-e551-427b-8c07-2b2ff4bf3cb2": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    },
+    "f8f13bcf-0be5-4aef-a8d6-d4258961e68d": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312924
+    },
+    "5c2fc0b1-f50f-4687-a2b4-42a8752bc202": {
+      "assetMtime": 1615547910000,
+      "metaMtime": 1690470312924
+    },
+    "fed2483a-3f31-499e-827a-4d6c1d064edc": {
+      "assetMtime": 1615547911000,
+      "metaMtime": 1690470406171
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-3",
+    "width": 640,
+    "height": 703,
+    "ver": "1.2.1",
+    "uuid": "d6ad9e27-39fb-465a-9209-c3be8c729753",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "img_guizekuang_title",
+            "uuid": "696e33b3-3f7c-4fee-a585-93ce3dc81e3a",
+            "textureUuid": "e98ab574-35fc-4805-a215-d4f447a880c1",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612405_image_28.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 832,
+              "height": 542,
+              "rotatedWidth": 832,
+              "rotatedHeight": 542
+            },
+            "rawWidth": 832,
+            "rawHeight": 542,
+            "width": 838,
+            "height": 548,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/e9/e98ab574-35fc-4805-a215-d4f447a880c1.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 838,
+            "rotatedHeight": 548
+          },
+          {
+            "name": "DefaultFBProfilePic",
+            "uuid": "dcc61db9-60e1-4d3f-9202-156387fa5ade",
+            "textureUuid": "edc38fbd-3692-40a8-8c6b-7f63f5b338fc",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612414_image_76.png",
+            "trim": {
+              "x": 841,
+              "y": 3,
+              "width": 158,
+              "height": 152,
+              "rotatedWidth": 158,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 158,
+            "rawHeight": 152,
+            "width": 164,
+            "height": 158,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/ed/edc38fbd-3692-40a8-8c6b-7f63f5b338fc.png",
+            "x": 838,
+            "y": 0,
+            "rotatedWidth": 164,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "chip1",
+            "uuid": "dfbe99b7-e7c5-42cd-ada6-5aa36dbcdc69",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612414_image_77.png",
+            "trim": {
+              "x": 1005,
+              "y": 3,
+              "width": 12,
+              "height": 27,
+              "rotatedWidth": 12,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 12,
+            "rawHeight": 27,
+            "width": 18,
+            "height": 33,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 1002,
+            "y": 0,
+            "rotatedWidth": 18,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "play_bg",
+            "uuid": "8b332a2f-ec5d-4dcd-8000-d8880db7880e",
+            "textureUuid": "83091ec4-fb5a-411e-97ba-bc36f0f3bd35",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_43.png",
+            "trim": {
+              "x": 841,
+              "y": 161,
+              "width": 152,
+              "height": 80,
+              "rotatedWidth": 152,
+              "rotatedHeight": 80
+            },
+            "rawWidth": 152,
+            "rawHeight": 80,
+            "width": 158,
+            "height": 86,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/83/83091ec4-fb5a-411e-97ba-bc36f0f3bd35.png",
+            "x": 838,
+            "y": 158,
+            "rotatedWidth": 158,
+            "rotatedHeight": 86
+          },
+          {
+            "name": "chip0",
+            "uuid": "d47bfee5-455b-4365-b9ef-6fa5aaffbb9d",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612414_image_74.png",
+            "trim": {
+              "x": 999,
+              "y": 161,
+              "width": 20,
+              "height": 27,
+              "rotatedWidth": 20,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 20,
+            "rawHeight": 27,
+            "width": 26,
+            "height": 33,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 996,
+            "y": 158,
+            "rotatedWidth": 26,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "chip5",
+            "uuid": "cc506be6-1954-457f-998c-54813d105c10",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_68.png",
+            "trim": {
+              "x": 999,
+              "y": 194,
+              "width": 18,
+              "height": 27,
+              "rotatedWidth": 18,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 18,
+            "rawHeight": 27,
+            "width": 24,
+            "height": 33,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 996,
+            "y": 191,
+            "rotatedWidth": 24,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "player_win",
+            "uuid": "467c6d5f-442d-4446-bb1c-cd725cca4c66",
+            "textureUuid": "a840ab5f-8940-4933-9860-28a371437e87",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_19.png",
+            "trim": {
+              "x": 841,
+              "y": 247,
+              "width": 72,
+              "height": 132,
+              "rotatedWidth": 132,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 132,
+            "width": 78,
+            "height": 138,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/a8/a840ab5f-8940-4933-9860-28a371437e87.png",
+            "x": 838,
+            "y": 244,
+            "rotated": true,
+            "rotatedWidth": 138,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "shop_icon_1",
+            "uuid": "208d6136-e816-41f3-89c9-39cf174dafff",
+            "textureUuid": "312707f6-172f-4db3-89ef-32251de5c205",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_8.png",
+            "trim": {
+              "x": 979,
+              "y": 247,
+              "width": 40,
+              "height": 46,
+              "rotatedWidth": 40,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 102,
+            "rawHeight": 90,
+            "width": 46,
+            "height": 52,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/31/312707f6-172f-4db3-89ef-32251de5c205.png",
+            "x": 976,
+            "y": 244,
+            "rotatedWidth": 46,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "result_tie",
+            "uuid": "918c016a-f38c-47c4-93e7-c8775bc6cb25",
+            "textureUuid": "d3cf8cbe-9a18-49ad-a11e-71f14c4bd0c5",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_45.png",
+            "trim": {
+              "x": 841,
+              "y": 325,
+              "width": 72,
+              "height": 132,
+              "rotatedWidth": 132,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 132,
+            "width": 78,
+            "height": 138,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/d3/d3cf8cbe-9a18-49ad-a11e-71f14c4bd0c5.png",
+            "x": 838,
+            "y": 322,
+            "rotated": true,
+            "rotatedWidth": 138,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "banker_win",
+            "uuid": "a632e0b2-329a-414b-9d54-6716824cdea0",
+            "textureUuid": "d3a33388-c076-43fd-82c2-aa2dc55ad971",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_51.png",
+            "trim": {
+              "x": 841,
+              "y": 403,
+              "width": 72,
+              "height": 132,
+              "rotatedWidth": 132,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 132,
+            "width": 78,
+            "height": 138,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/d3/d3a33388-c076-43fd-82c2-aa2dc55ad971.png",
+            "x": 838,
+            "y": 400,
+            "rotated": true,
+            "rotatedWidth": 138,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "3_06",
+            "uuid": "0e65efdf-6e33-4eb6-83e5-184d4fa5fc29",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612400_image_0.png",
+            "trim": {
+              "x": 841,
+              "y": 481,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 838,
+            "y": 478,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "zhuowenzi",
+            "uuid": "457fe3d6-2281-44b5-8e03-ee86d4c3b94c",
+            "textureUuid": "3083355b-3366-4e9b-b4b9-1bfaf2d03676",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_18.png",
+            "trim": {
+              "x": 3,
+              "y": 551,
+              "width": 774,
+              "height": 262,
+              "rotatedWidth": 774,
+              "rotatedHeight": 262
+            },
+            "rawWidth": 776,
+            "rawHeight": 264,
+            "width": 780,
+            "height": 268,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/30/3083355b-3366-4e9b-b4b9-1bfaf2d03676.png",
+            "x": 0,
+            "y": 548,
+            "rotatedWidth": 780,
+            "rotatedHeight": 268
+          },
+          {
+            "name": "btn_tuichu",
+            "uuid": "c9ffe3a3-f8e4-456b-8aaa-0005d780a160",
+            "textureUuid": "a00cd349-cf44-48e7-941e-2f41e7a60607",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_65.png",
+            "trim": {
+              "x": 783,
+              "y": 551,
+              "width": 102,
+              "height": 51,
+              "rotatedWidth": 51,
+              "rotatedHeight": 102
+            },
+            "rawWidth": 102,
+            "rawHeight": 51,
+            "width": 108,
+            "height": 57,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/a0/a00cd349-cf44-48e7-941e-2f41e7a60607.png",
+            "x": 780,
+            "y": 548,
+            "rotated": true,
+            "rotatedWidth": 57,
+            "rotatedHeight": 108
+          },
+          {
+            "name": "ben_shezhi",
+            "uuid": "f8f13bcf-0be5-4aef-a8d6-d4258961e68d",
+            "textureUuid": "5c2fc0b1-f50f-4687-a2b4-42a8752bc202",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_83.png",
+            "trim": {
+              "x": 783,
+              "y": 659,
+              "width": 103,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 103
+            },
+            "rawWidth": 103,
+            "rawHeight": 50,
+            "width": 109,
+            "height": 56,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/5c/5c2fc0b1-f50f-4687-a2b4-42a8752bc202.png",
+            "x": 780,
+            "y": 656,
+            "rotated": true,
+            "rotatedWidth": 56,
+            "rotatedHeight": 109
+          },
+          {
+            "name": "3_11",
+            "uuid": "0f34fba4-ddd5-4601-b34e-588d0c101c7f",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612400_image_1.png",
+            "trim": {
+              "x": 839,
+              "y": 668,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 836,
+            "y": 665,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "s_betting_box",
+            "uuid": "7a2fec1e-35d2-4d3e-901b-dcd2734c636b",
+            "textureUuid": "70654695-e805-4e00-a203-a9609f1a1409",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612407_image_37.png",
+            "trim": {
+              "x": 3,
+              "y": 819,
+              "width": 200,
+              "height": 280,
+              "rotatedWidth": 280,
+              "rotatedHeight": 200
+            },
+            "rawWidth": 200,
+            "rawHeight": 280,
+            "width": 206,
+            "height": 286,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/70/70654695-e805-4e00-a203-a9609f1a1409.png",
+            "x": 0,
+            "y": 816,
+            "rotated": true,
+            "rotatedWidth": 286,
+            "rotatedHeight": 206
+          },
+          {
+            "name": "3_13",
+            "uuid": "0fd915d1-63eb-4445-9b3b-acc6f08d7df7",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612400_image_2.png",
+            "trim": {
+              "x": 289,
+              "y": 819,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 286,
+            "y": 816,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "3_05",
+            "uuid": "111c7944-eb29-4ae7-a83c-390efbba82a4",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612400_image_3.png",
+            "trim": {
+              "x": 422,
+              "y": 819,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 419,
+            "y": 816,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_01",
+            "uuid": "17360e92-2244-4cab-a034-476b01ee5590",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_4.png",
+            "trim": {
+              "x": 555,
+              "y": 819,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 552,
+            "y": 816,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "2_02",
+            "uuid": "1b757b8a-5678-4131-ba8f-f75a74465eee",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_6.png",
+            "trim": {
+              "x": 688,
+              "y": 819,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 685,
+            "y": 816,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "1_09",
+            "uuid": "2066001f-eca1-4d3d-b913-869eee0af04e",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_7.png",
+            "trim": {
+              "x": 821,
+              "y": 801,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 818,
+            "y": 798,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "common_web_btnClose",
+            "uuid": "aa8354e3-e89c-4e1a-a963-2a7990348c03",
+            "textureUuid": "0493283f-6c8d-4b45-9f9a-571c44c7f8fc",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_53.png",
+            "trim": {
+              "x": 821,
+              "y": 934,
+              "width": 80,
+              "height": 81,
+              "rotatedWidth": 80,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 80,
+            "rawHeight": 87,
+            "width": 86,
+            "height": 87,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/04/0493283f-6c8d-4b45-9f9a-571c44c7f8fc.png",
+            "x": 818,
+            "y": 931,
+            "rotatedWidth": 86,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "btn_help",
+            "uuid": "51867450-5088-4d95-be5b-cf01dfba5c87",
+            "textureUuid": "59f6a8dd-486b-4586-a53d-5481b06aeec6",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612404_image_22.png",
+            "trim": {
+              "x": 907,
+              "y": 934,
+              "width": 77,
+              "height": 70,
+              "rotatedWidth": 70,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 77,
+            "rawHeight": 70,
+            "width": 83,
+            "height": 76,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/59/59f6a8dd-486b-4586-a53d-5481b06aeec6.png",
+            "x": 904,
+            "y": 931,
+            "rotated": true,
+            "rotatedWidth": 76,
+            "rotatedHeight": 83
+          }
+        ],
+        "width": 1023,
+        "height": 1022,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "dragon_result_add_fnt",
+            "uuid": "eeec459f-7fc1-4835-bdb3-d27cfd57d2a6",
+            "textureUuid": "13eb42cb-16b0-41f6-b623-8c3dc4579302",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_80.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 242,
+              "height": 79,
+              "rotatedWidth": 242,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 256,
+            "rawHeight": 128,
+            "width": 248,
+            "height": 85,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/13/13eb42cb-16b0-41f6-b623-8c3dc4579302.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 248,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "1_05",
+            "uuid": "276680fe-dfc1-43fe-84a2-25fcabcae594",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_9.png",
+            "trim": {
+              "x": 251,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 248,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "3_10",
+            "uuid": "2b2fb41a-893e-4aac-8bf9-6863a240ce82",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_10.png",
+            "trim": {
+              "x": 3,
+              "y": 88,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 85,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_10",
+            "uuid": "2be6964f-fa44-4e74-8bba-c7b704726322",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612402_image_11.png",
+            "trim": {
+              "x": 438,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 435,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_04",
+            "uuid": "2ca2daae-0c9d-41e2-893b-9c7dbd2bdde1",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612402_image_12.png",
+            "trim": {
+              "x": 625,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 622,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "1_07",
+            "uuid": "331d1db0-3390-4b3d-8af5-e48b9260a110",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612402_image_13.png",
+            "trim": {
+              "x": 812,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 809,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "1_02",
+            "uuid": "37a62286-ffe6-4825-ba44-b70e55c72313",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612402_image_15.png",
+            "trim": {
+              "x": 3,
+              "y": 221,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 218,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_05",
+            "uuid": "3a434701-3458-4f5e-a7a0-2dbb00e10c89",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 408,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 405,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "3_01",
+            "uuid": "527250c6-a6cb-451b-ab49-53108abf971d",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612404_image_23.png",
+            "trim": {
+              "x": 3,
+              "y": 595,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 592,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "2_11",
+            "uuid": "5443cadf-ab4b-4039-8707-2eeb9365c23a",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612404_image_24.png",
+            "trim": {
+              "x": 3,
+              "y": 782,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 779,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_03",
+            "uuid": "5940ee26-7aea-4af1-90f9-3a61d52d75e2",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612404_image_25.png",
+            "trim": {
+              "x": 136,
+              "y": 221,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 133,
+            "y": 218,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "rePlay",
+            "uuid": "3ade03bd-4f59-4d95-8301-a0e4a753104a",
+            "textureUuid": "e3bd2938-8484-41f6-b621-b9b8b2a4d4c7",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_17.png",
+            "trim": {
+              "x": 190,
+              "y": 136,
+              "width": 124,
+              "height": 74,
+              "rotatedWidth": 124,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 124,
+            "rawHeight": 74,
+            "width": 130,
+            "height": 80,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/e3/e3bd2938-8484-41f6-b621-b9b8b2a4d4c7.png",
+            "x": 187,
+            "y": 133,
+            "rotatedWidth": 130,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "2_12",
+            "uuid": "601e22e3-5a80-4802-be71-0195d2cfd81a",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612405_image_26.png",
+            "trim": {
+              "x": 136,
+              "y": 408,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 133,
+            "y": 405,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "2_05",
+            "uuid": "68cfd7a1-e3c3-4bc2-b268-10d78b4ff4f9",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612405_image_27.png",
+            "trim": {
+              "x": 136,
+              "y": 595,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 133,
+            "y": 592,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "2_10",
+            "uuid": "6bfff346-0944-4396-bebb-8b36d1b342e4",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612405_image_29.png",
+            "trim": {
+              "x": 136,
+              "y": 782,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 133,
+            "y": 779,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_13",
+            "uuid": "6d7d10b1-947b-4a54-aa8f-a228d66fa257",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612406_image_30.png",
+            "trim": {
+              "x": 320,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 317,
+            "y": 133,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "3_08",
+            "uuid": "72cacf67-10cc-4db5-bb66-9bfa9667a959",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612406_image_32.png",
+            "trim": {
+              "x": 507,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 504,
+            "y": 133,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_12",
+            "uuid": "756c7d2f-bedd-434f-913a-489a5fc73728",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612406_image_33.png",
+            "trim": {
+              "x": 694,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 691,
+            "y": 133,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_07",
+            "uuid": "76fe69d6-98ff-48ac-9b64-14e4b8a1fa0f",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612406_image_34.png",
+            "trim": {
+              "x": 881,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 878,
+            "y": 133,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "1_13",
+            "uuid": "79862db6-b6dd-41ae-a972-4b2174926cb4",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612407_image_36.png",
+            "trim": {
+              "x": 269,
+              "y": 269,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 266,
+            "y": 266,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_09",
+            "uuid": "7eece5c9-337f-4b65-adf0-d50afd4c9a81",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612407_image_38.png",
+            "trim": {
+              "x": 456,
+              "y": 269,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 453,
+            "y": 266,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_13",
+            "uuid": "807d6e02-f522-422d-a858-6fb806a4e530",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612407_image_39.png",
+            "trim": {
+              "x": 643,
+              "y": 269,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 640,
+            "y": 266,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "3_03",
+            "uuid": "809f1ecc-9994-4bef-abbc-7912c37d1bd2",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_40.png",
+            "trim": {
+              "x": 830,
+              "y": 323,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 827,
+            "y": 320,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "1_01",
+            "uuid": "89186594-b15d-4f63-8d67-2a73975c7bf2",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_42.png",
+            "trim": {
+              "x": 269,
+              "y": 402,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 266,
+            "y": 399,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_03",
+            "uuid": "8e6ad746-0843-44d2-850b-15f774ba34c6",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_44.png",
+            "trim": {
+              "x": 456,
+              "y": 402,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 453,
+            "y": 399,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "1_06",
+            "uuid": "92cc4c0e-b756-4c59-aed6-8ba1b4c8b8c0",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_46.png",
+            "trim": {
+              "x": 643,
+              "y": 402,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 640,
+            "y": 399,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "3_04",
+            "uuid": "9ba42a7c-4ecf-40f7-9ddc-e970d2f50df6",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_48.png",
+            "trim": {
+              "x": 830,
+              "y": 456,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 827,
+            "y": 453,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_08",
+            "uuid": "9e25ae07-e9c8-43f8-a169-6d03bc9dee1e",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_49.png",
+            "trim": {
+              "x": 269,
+              "y": 589,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 266,
+            "y": 586,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_06",
+            "uuid": "a44d617c-aeaa-4cdd-aacf-585962daf688",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_50.png",
+            "trim": {
+              "x": 269,
+              "y": 776,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 266,
+            "y": 773,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "3_12",
+            "uuid": "ac8ff5a3-6824-4293-a9d9-a2c190e5490e",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612410_image_55.png",
+            "trim": {
+              "x": 402,
+              "y": 535,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 399,
+            "y": 532,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_09",
+            "uuid": "acfa6fc5-b3cb-40da-bdf3-11bd6c4169fd",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612410_image_56.png",
+            "trim": {
+              "x": 589,
+              "y": 535,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 586,
+            "y": 532,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "3_07",
+            "uuid": "af344106-eaff-4139-b3f7-1690c53c64de",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612410_image_58.png",
+            "trim": {
+              "x": 776,
+              "y": 589,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 773,
+            "y": 586,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_04",
+            "uuid": "b33756a5-539c-4af5-86d5-af59ee7b011d",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612411_image_59.png",
+            "trim": {
+              "x": 402,
+              "y": 722,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 399,
+            "y": 719,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "s_arrow",
+            "uuid": "350d6243-c087-4066-8d2e-22403e33771a",
+            "textureUuid": "5cdba6b1-05ff-4452-9f43-a451de8d1bf0",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612402_image_14.png",
+            "trim": {
+              "x": 402,
+              "y": 909,
+              "width": 111,
+              "height": 107,
+              "rotatedWidth": 107,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 112,
+            "rawHeight": 108,
+            "width": 117,
+            "height": 113,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/5c/5cdba6b1-05ff-4452-9f43-a451de8d1bf0.png",
+            "x": 399,
+            "y": 906,
+            "rotated": true,
+            "rotatedWidth": 113,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "frame",
+            "uuid": "17aece13-aeb9-4064-83a5-3acc93f36a79",
+            "textureUuid": "28527e96-e198-430b-86f4-350756acf779",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612401_image_5.png",
+            "trim": {
+              "x": 515,
+              "y": 909,
+              "width": 106,
+              "height": 106,
+              "rotatedWidth": 106,
+              "rotatedHeight": 106
+            },
+            "rawWidth": 106,
+            "rawHeight": 106,
+            "width": 112,
+            "height": 112,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/28/28527e96-e198-430b-86f4-350756acf779.png",
+            "x": 512,
+            "y": 906,
+            "rotatedWidth": 112,
+            "rotatedHeight": 112
+          },
+          {
+            "name": "1_11",
+            "uuid": "b81d9071-a160-4658-bf29-f056f03bbbe7",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612411_image_60.png",
+            "trim": {
+              "x": 535,
+              "y": 722,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 532,
+            "y": 719,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "btn_yaopai",
+            "uuid": "4fdf9bf8-7fdb-49c2-a0fe-b3f529fa9d6f",
+            "textureUuid": "df974217-06a0-437b-a70a-02535661bd6d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_21.png",
+            "trim": {
+              "x": 668,
+              "y": 668,
+              "width": 124,
+              "height": 74,
+              "rotatedWidth": 74,
+              "rotatedHeight": 124
+            },
+            "rawWidth": 124,
+            "rawHeight": 74,
+            "width": 130,
+            "height": 80,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/df/df974217-06a0-437b-a70a-02535661bd6d.png",
+            "x": 665,
+            "y": 665,
+            "rotated": true,
+            "rotatedWidth": 80,
+            "rotatedHeight": 130
+          },
+          {
+            "name": "double",
+            "uuid": "7138ea73-f65e-4011-ab22-dface58a91e9",
+            "textureUuid": "b56b4e48-3b09-4984-8ca8-6c5e93708670",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612406_image_31.png",
+            "trim": {
+              "x": 627,
+              "y": 909,
+              "width": 124,
+              "height": 74,
+              "rotatedWidth": 124,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 124,
+            "rawHeight": 74,
+            "width": 130,
+            "height": 80,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/b5/b56b4e48-3b09-4984-8ca8-6c5e93708670.png",
+            "x": 624,
+            "y": 906,
+            "rotatedWidth": 130,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "4_02",
+            "uuid": "bbd0ad88-169a-4cd1-b553-678bb607ab55",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612411_image_61.png",
+            "trim": {
+              "x": 748,
+              "y": 722,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 745,
+            "y": 719,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "1_04",
+            "uuid": "c0676564-129d-4d6b-be58-48ac751779fc",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612411_image_62.png",
+            "trim": {
+              "x": 881,
+              "y": 722,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 878,
+            "y": 719,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "btn_buyao",
+            "uuid": "791629e2-bba1-48f2-a77e-5e0d10182bb4",
+            "textureUuid": "28cf8a99-ffb6-4702-8f46-10043943116e",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612407_image_35.png",
+            "trim": {
+              "x": 757,
+              "y": 909,
+              "width": 124,
+              "height": 74,
+              "rotatedWidth": 124,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 124,
+            "rawHeight": 74,
+            "width": 130,
+            "height": 80,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/28/28cf8a99-ffb6-4702-8f46-10043943116e.png",
+            "x": 754,
+            "y": 906,
+            "rotatedWidth": 130,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "btn_baoxian",
+            "uuid": "cb9d5839-e9f2-4ac2-b425-865d90e14b41",
+            "textureUuid": "202a0ec9-1576-4e19-961d-7dd189f259cd",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_66.png",
+            "trim": {
+              "x": 887,
+              "y": 909,
+              "width": 124,
+              "height": 74,
+              "rotatedWidth": 124,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 124,
+            "rawHeight": 74,
+            "width": 130,
+            "height": 80,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/20/202a0ec9-1576-4e19-961d-7dd189f259cd.png",
+            "x": 884,
+            "y": 906,
+            "rotatedWidth": 130,
+            "rotatedHeight": 80
+          }
+        ],
+        "width": 1014,
+        "height": 1023,
+        "name": "AutoAtlas-2",
+        "imagePath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\AutoAtlas-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\compressed\\AutoAtlas-2"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "1_08",
+            "uuid": "c4a0fe41-e9bd-4695-b7fa-bdbd43f536cd",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612411_image_63.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "3_02",
+            "uuid": "c8b0446c-6681-4988-8a33-9b7098daf7b0",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_64.png",
+            "trim": {
+              "x": 3,
+              "y": 190,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 187,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "4_08",
+            "uuid": "cbee9031-1d38-4516-a8d4-abcffe441437",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_67.png",
+            "trim": {
+              "x": 136,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 133,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "1_10",
+            "uuid": "cdfb4065-cd10-4aec-8dfb-bcfcea74876e",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612412_image_69.png",
+            "trim": {
+              "x": 190,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 187,
+            "y": 133,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "1_12",
+            "uuid": "cf7fa5f1-f694-47a1-84f8-43d819097882",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612413_image_70.png",
+            "trim": {
+              "x": 3,
+              "y": 323,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 0,
+            "y": 320,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "bg_back",
+            "uuid": "d13591ea-e64f-4c5c-8bb1-43762929f6ef",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612413_image_72.png",
+            "trim": {
+              "x": 190,
+              "y": 323,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 187,
+            "y": 320,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_06",
+            "uuid": "d2e739c2-5893-4edd-b1f8-13501df035ce",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612413_image_73.png",
+            "trim": {
+              "x": 323,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 320,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_01",
+            "uuid": "d55ffe30-ea1f-420f-9fe5-b1af4c0ef5a5",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612414_image_75.png",
+            "trim": {
+              "x": 323,
+              "y": 136,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 181,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 320,
+            "y": 133,
+            "rotated": true,
+            "rotatedWidth": 187,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "2_07",
+            "uuid": "e4f57370-742c-463e-8b04-ea3f88911377",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612414_image_78.png",
+            "trim": {
+              "x": 377,
+              "y": 269,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 374,
+            "y": 266,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "1_03",
+            "uuid": "e53942a8-4c6f-43e2-b8fa-30e549a2a52d",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_79.png",
+            "trim": {
+              "x": 510,
+              "y": 3,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 507,
+            "y": 0,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "4_11",
+            "uuid": "f3861707-e551-427b-8c07-2b2ff4bf3cb2",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_82.png",
+            "trim": {
+              "x": 510,
+              "y": 190,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 507,
+            "y": 187,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "3_09",
+            "uuid": "fed2483a-3f31-499e-827a-4d6c1d064edc",
+            "textureUuid": "02e5b0d0-94e3-4eb4-8912-4aadc7861988",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_84.png",
+            "trim": {
+              "x": 510,
+              "y": 377,
+              "width": 127,
+              "height": 181,
+              "rotatedWidth": 127,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 127,
+            "rawHeight": 181,
+            "width": 133,
+            "height": 187,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02e5b0d0-94e3-4eb4-8912-4aadc7861988.png",
+            "x": 507,
+            "y": 374,
+            "rotatedWidth": 133,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "chip_select",
+            "uuid": "979cebbc-fd21-4b74-8ff1-b1b6028e85e2",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_47.png",
+            "trim": {
+              "x": 3,
+              "y": 456,
+              "width": 123,
+              "height": 123,
+              "rotatedWidth": 123,
+              "rotatedHeight": 123
+            },
+            "rawWidth": 123,
+            "rawHeight": 123,
+            "width": 129,
+            "height": 129,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 0,
+            "y": 453,
+            "rotatedWidth": 129,
+            "rotatedHeight": 129
+          },
+          {
+            "name": "chip_black",
+            "uuid": "4d2627a2-1a1d-4cfd-be9f-3dc00786ed68",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612403_image_20.png",
+            "trim": {
+              "x": 132,
+              "y": 456,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 114,
+              "rotatedHeight": 115
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 129,
+            "y": 453,
+            "rotatedWidth": 120,
+            "rotatedHeight": 121
+          },
+          {
+            "name": "chip_yellow",
+            "uuid": "87928cca-e13b-46ea-b9aa-3d4ea8c3e9a1",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612408_image_41.png",
+            "trim": {
+              "x": 252,
+              "y": 456,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 114,
+              "rotatedHeight": 115
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 249,
+            "y": 453,
+            "rotatedWidth": 120,
+            "rotatedHeight": 121
+          },
+          {
+            "name": "chip_red",
+            "uuid": "aac81dfc-4ac7-41d4-a9d8-4dc335681bf5",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612410_image_54.png",
+            "trim": {
+              "x": 372,
+              "y": 456,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 114,
+              "rotatedHeight": 115
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 369,
+            "y": 453,
+            "rotatedWidth": 120,
+            "rotatedHeight": 121
+          },
+          {
+            "name": "chip_blue",
+            "uuid": "ad79e4ed-e980-459d-b26c-47a6d97c41b0",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612410_image_57.png",
+            "trim": {
+              "x": 492,
+              "y": 564,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 115,
+              "rotatedHeight": 114
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 489,
+            "y": 561,
+            "rotated": true,
+            "rotatedWidth": 121,
+            "rotatedHeight": 120
+          },
+          {
+            "name": "chip_purple",
+            "uuid": "d027a792-afd1-4de8-b520-0b9837758c17",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612413_image_71.png",
+            "trim": {
+              "x": 132,
+              "y": 577,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 114,
+              "rotatedHeight": 115
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 129,
+            "y": 574,
+            "rotatedWidth": 120,
+            "rotatedHeight": 121
+          },
+          {
+            "name": "chip_green",
+            "uuid": "f1ac0ccd-545a-4797-91d8-623d4f4948af",
+            "textureUuid": "aa9cee72-18be-4e30-b4a7-64bdc946b62d",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612415_image_81.png",
+            "trim": {
+              "x": 3,
+              "y": 585,
+              "width": 114,
+              "height": 115,
+              "rotatedWidth": 114,
+              "rotatedHeight": 115
+            },
+            "rawWidth": 114,
+            "rawHeight": 115,
+            "width": 120,
+            "height": 121,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/aa/aa9cee72-18be-4e30-b4a7-64bdc946b62d.png",
+            "x": 0,
+            "y": 582,
+            "rotatedWidth": 120,
+            "rotatedHeight": 121
+          }
+        ],
+        "width": 640,
+        "height": 703,
+        "name": "AutoAtlas-3",
+        "imagePath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\AutoAtlas-3.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\game_21dian\\AutoAtlas.pac\\compressed\\AutoAtlas-3"
+        }
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "bg",
+        "uuid": "a9d2bd25-2dbb-4879-9ad0-d8d203bad7bc",
+        "textureUuid": "02176a2a-fe8f-41c5-82e7-3e8569a53aaf",
+        "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626612409_image_52.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1777,
+          "height": 999,
+          "rotatedWidth": 1777,
+          "rotatedHeight": 999
+        },
+        "rawWidth": 1777,
+        "rawHeight": 999,
+        "width": 1783,
+        "height": 1005,
+        "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/02/02176a2a-fe8f-41c5-82e7-3e8569a53aaf.jpg"
+      }
+    ]
+  }
+}

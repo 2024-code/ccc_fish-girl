@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_clearing_no3",
+    "texture": "0c462010-776b-45bb-ac7a-81474140a535",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      24
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      168,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

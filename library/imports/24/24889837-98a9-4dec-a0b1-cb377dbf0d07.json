@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battery_dead",
+    "texture": "21228d42-77c5-46ea-8f51-0569ed9f4a48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

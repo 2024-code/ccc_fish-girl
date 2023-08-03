@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "s_wheel.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "s_ball": {
+      "__uuid__": "d4c37ea6-9213-41c4-ae3d-88ff016b7cb3"
+    },
+    "s_bet_highlight": {
+      "__uuid__": "8064491a-a9f0-403e-818b-bd393ed2e90c"
+    },
+    "s_bet_highlight_glow": {
+      "__uuid__": "c742a7af-9830-475f-9ad3-3c7b9b0179e4"
+    },
+    "s_highlight_lose": {
+      "__uuid__": "b38c3644-b3a8-4009-acb8-53b91d7ddb91"
+    },
+    "s_highlight_win": {
+      "__uuid__": "4534b9f9-708a-43f8-9f62-838bfab70d51"
+    },
+    "s_shadow": {
+      "__uuid__": "4b66519e-b688-4c8a-a2c0-3d6d89e0417f"
+    },
+    "s_wheel_06": {
+      "__uuid__": "26065da0-ef70-4bd7-ae5e-20f53f19baba"
+    },
+    "s_wheel_12": {
+      "__uuid__": "1ddcd5e0-48ab-4457-ab4d-8b2148ddc79c"
+    },
+    "s_wheel_13": {
+      "__uuid__": "d2666023-754a-4f2a-8139-74c105aadd3f"
+    },
+    "s_wheel_15": {
+      "__uuid__": "3caa8ab0-36b7-4a0a-be88-57836aa049d5"
+    },
+    "s_wheel_16": {
+      "__uuid__": "1b5c5f66-95eb-4d5f-ad27-f6916d6ba287"
+    },
+    "s_wheel_17": {
+      "__uuid__": "5a8f679a-f18a-49f3-8fde-cbf266989190"
+    },
+    "s_wheel_18": {
+      "__uuid__": "9d2e15f9-c0de-425d-a33b-64ad12bddf22"
+    }
+  }
+}

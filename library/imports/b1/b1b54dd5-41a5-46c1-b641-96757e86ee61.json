@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Climbme",
+    "texture": "6a135cdf-984d-44ce-8ce9-9c9ad870fa3f",
+    "atlas": "b31dbe1e-a6f7-4299-9402-a67a259e2dc4",
+    "rect": [
+      1,
+      905,
+      67,
+      39
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      67,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

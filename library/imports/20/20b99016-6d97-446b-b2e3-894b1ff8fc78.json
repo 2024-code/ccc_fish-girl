@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "helpbg",
+    "texture": "008b5c12-c11e-4d70-8eba-dd2213c637be",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      208,
+      71
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      213,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

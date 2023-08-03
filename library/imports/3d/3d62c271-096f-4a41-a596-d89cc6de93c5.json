@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rwStart06",
+    "texture": "03db0207-3544-43bc-ac15-310ad8fe7dd9",
+    "atlas": "ff075a90-c85d-4b02-a040-6c852c764aaa",
+    "rect": [
+      795,
+      1138,
+      231,
+      186
+    ],
+    "offset": [
+      -101,
+      -5
+    ],
+    "originalSize": [
+      513,
+      262
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

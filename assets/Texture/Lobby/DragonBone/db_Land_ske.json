@@ -1,0 +1,351 @@
+{
+    "frameRate": 24,
+    "isGlobal": 0,
+    "armature": [{
+        "aabb": {
+            "width": 250,
+            "y": -125,
+            "height": 268.5832577974082,
+            "x": -125
+        },
+        "slot": [{
+            "displayIndex": -1,
+            "name": "连线机-拷贝-8",
+            "parent": "连线机-拷贝-8",
+            "color": {}
+        },
+        {
+            "displayIndex": -1,
+            "z": 1,
+            "name": "newLayer",
+            "parent": "newLayer",
+            "color": {}
+        },
+        {
+            "displayIndex": -1,
+            "z": 2,
+            "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+            "parent": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+            "color": {}
+        },
+        {
+            "displayIndex": -1,
+            "z": 3,
+            "name": "logo-拷贝",
+            "parent": "logo-拷贝",
+            "color": {}
+        },
+        {
+            "displayIndex": -1,
+            "z": 4,
+            "name": "圆角矩形-4",
+            "parent": "圆角矩形-4",
+            "color": {}
+        }],
+        "type": "MovieClip",
+        "ik": [],
+        "skin": [{
+            "name": "",
+            "slot": [{
+                "display": [{
+                    "type": "image",
+                    "name": "连线机-拷贝-8",
+                    "transform": {}
+                }],
+                "name": "连线机-拷贝-8"
+            },
+            {
+                "display": [{
+                    "type": "image",
+                    "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+                    "transform": {}
+                }],
+                "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658"
+            },
+            {
+                "display": [{
+                    "type": "image",
+                    "name": "圆角矩形-4",
+                    "transform": {}
+                }],
+                "name": "圆角矩形-4"
+            },
+            {
+                "display": [{
+                    "type": "image",
+                    "name": "组-4-拷贝-2",
+                    "transform": {}
+                },
+                {
+                    "type": "image",
+                    "name": "组-4-拷贝-2",
+                    "transform": {}
+                },
+                {
+                    "type": "image",
+                    "name": "组-4-拷贝-2",
+                    "transform": {}
+                }],
+                "name": "newLayer"
+            },
+            {
+                "display": [{
+                    "type": "image",
+                    "name": "logo-拷贝",
+                    "transform": {}
+                },
+                {
+                    "type": "image",
+                    "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+                    "transform": {}
+                }],
+                "name": "logo-拷贝"
+            }]
+        }],
+        "frameRate": 24,
+        "animation": [{
+            "frame": [],
+            "playTimes": 0,
+            "slot": [{
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "color": {}
+                }],
+                "name": "连线机-拷贝-8"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "color": {}
+                }],
+                "name": "logo-拷贝"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "color": {}
+                }],
+                "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "color": {}
+                }],
+                "name": "圆角矩形-4"
+            },
+            {
+                "frame": [{
+                    "displayIndex": 1,
+                    "duration": 12,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "displayIndex": 1,
+                    "duration": 0,
+                    "tweenEasing": null,
+                    "color": {}
+                }],
+                "name": "newLayer"
+            }],
+            "duration": 132,
+            "ffd": [],
+            "name": "db_Land",
+            "bone": [{
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "transform": {}
+                }],
+                "name": "root"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "transform": {}
+                }],
+                "name": "连线机-拷贝-8"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "transform": {
+                        "y": 75
+                    }
+                }],
+                "name": "logo-拷贝"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "transform": {
+                        "y": -0.46,
+                        "scX": 1.15,
+                        "scY": 1.11
+                    }
+                }],
+                "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658"
+            },
+            {
+                "frame": [{
+                    "duration": 132,
+                    "tweenEasing": null,
+                    "transform": {
+                        "y": -0.6,
+                        "scY": 1.01,
+                        "x": -0.6
+                    }
+                }],
+                "name": "圆角矩形-4"
+            },
+            {
+                "frame": [{
+                    "duration": 12,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": 35.0833,
+                        "scX": 0.5,
+                        "scY": 0.5,
+                        "x": 20.4304
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -13.9737,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -9.7208,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -13.9737,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -9.7208,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -13.9737,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 20,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "y": -9.7208,
+                        "x": 52.8265
+                    }
+                },
+                {
+                    "duration": 0,
+                    "tweenEasing": null,
+                    "transform": {
+                        "y": -13.9737,
+                        "x": 52.8265
+                    }
+                }],
+                "name": "newLayer"
+            }]
+        }],
+        "defaultActions": [{
+            "gotoAndPlay": "db_Land"
+        }],
+        "bone": [{
+            "name": "root",
+            "transform": {}
+        },
+        {
+            "transform": {},
+            "name": "连线机-拷贝-8",
+            "parent": "root"
+        },
+        {
+            "transform": {},
+            "name": "logo-拷贝",
+            "parent": "root"
+        },
+        {
+            "transform": {},
+            "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+            "parent": "root"
+        },
+        {
+            "transform": {},
+            "name": "圆角矩形-4",
+            "parent": "root"
+        },
+        {
+            "transform": {},
+            "name": "newLayer",
+            "parent": "root"
+        }],
+        "name": "db_Land"
+    }],
+    "name": "db_Land",
+    "version": "4.5"
+}

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button_menu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "lateralLayer_Left": {
+      "__uuid__": "3bb14c04-37dc-44e4-ab58-ce0c31a7ef2b"
+    },
+    "lateralLayer_Left_click": {
+      "__uuid__": "e98e6ac1-25c7-44de-a5c4-1579c5c3a3a9"
+    },
+    "lateralLayer_Map": {
+      "__uuid__": "008d28aa-0ef2-46e5-a112-942eeb173051"
+    },
+    "lateralLayer_Out1": {
+      "__uuid__": "d1b66d32-776b-43ec-a948-6c1583a0c71d"
+    },
+    "lateralLayer_Out2": {
+      "__uuid__": "33aaf9b8-dc9c-464b-b811-18cfc9a5ebb0"
+    },
+    "lateralLayer_Rule1": {
+      "__uuid__": "5750ce67-6842-4e8e-977e-d05c211f1434"
+    },
+    "lateralLayer_Rule2": {
+      "__uuid__": "3d7aaa67-63b8-416e-96a7-094359b07afe"
+    },
+    "lateralLayer_Setting1": {
+      "__uuid__": "ae66d0c1-11ce-489d-84b7-dd38ae63868c"
+    },
+    "lateralLayer_Setting2": {
+      "__uuid__": "53b96a86-5356-4fbd-bbd1-21ada881c003"
+    }
+  }
+}

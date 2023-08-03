@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_Taco-0105",
+    "texture": "0fec3324-b058-4a81-b3de-1e03e8b22fa3",
+    "atlas": "f48c2c30-34f8-4b3e-88ab-52686d8a7b10",
+    "rect": [
+      331,
+      1,
+      174,
+      331
+    ],
+    "offset": [
+      36,
+      152
+    ],
+    "originalSize": [
+      248,
+      635
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

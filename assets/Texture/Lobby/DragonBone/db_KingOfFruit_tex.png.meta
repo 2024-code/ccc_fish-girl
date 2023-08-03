@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "60f377a8-255e-4f8b-9412-c07659e8df0b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 339,
+  "platformSettings": {},
+  "subMetas": {
+    "db_KingOfFruit_tex": {
+      "ver": "1.0.4",
+      "uuid": "bf4e2173-6bfb-4408-aa1d-66e667a1d3c1",
+      "rawTextureUuid": "60f377a8-255e-4f8b-9412-c07659e8df0b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 253,
+      "height": 335,
+      "rawWidth": 256,
+      "rawHeight": 339,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

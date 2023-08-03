@@ -1,0 +1,83 @@
+{
+  "projectPath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "1816ac4f-2e10-4eee-90c4-300ffe15f413": {
+      "assetMtime": 1615546956000,
+      "metaMtime": 1690470322020
+    },
+    "3d8f9074-98a8-44ce-8044-e89650875c68": {
+      "assetMtime": 1615546957000,
+      "metaMtime": 1690470322192
+    },
+    "ddf28a12-07db-45ab-8e71-9033ed7b8ba0": {
+      "assetMtime": 1615546957000,
+      "metaMtime": 1690470322192
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "1816ac4f-2e10-4eee-90c4-300ffe15f413",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bt_Close",
+            "uuid": "3d8f9074-98a8-44ce-8044-e89650875c68",
+            "textureUuid": "ddf28a12-07db-45ab-8e71-9033ed7b8ba0",
+            "path": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\trimImages\\spritesheet_js_1690626618287_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/BaiduNetdiskDownload/优米/优米前端源码/library/imports/dd/ddf28a12-07db-45ab-8e71-9033ed7b8ba0.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          }
+        ],
+        "width": 72,
+        "height": 72,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\GrabBull\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\BaiduNetdiskDownload\\优米\\优米前端源码\\temp\\TexturePacker\\build\\native\\assets\\Texture\\GrabBull\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

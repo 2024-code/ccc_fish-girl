@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "05e3f79c-6569-4947-a79f-ff55add37009",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 46,
+  "height": 16,
+  "platformSettings": {},
+  "subMetas": {
+    "0_IcesnowPlist_20553": {
+      "ver": "1.0.4",
+      "uuid": "5dfd8549-898c-4305-bad2-659e1be3cf12",
+      "rawTextureUuid": "05e3f79c-6569-4947-a79f-ff55add37009",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 16,
+      "rawWidth": 46,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

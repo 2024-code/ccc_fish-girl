@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhuanpan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "paths": {
+      "zp_dizong": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": -360
+            }
+          ]
+        }
+      },
+      "zp_deng1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "eac84a2d-5ed4-4f6a-a17a-c7b62dc24dd7"
+                }
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": {
+                  "__uuid__": "a700192a-5047-43e4-bbe6-db5333538d7f"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "8cd40aba-e1b4-4a61-b232-b9aa3fad7928"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "88d74cc7-ce8c-457f-bb6d-2b03afaebf27"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "67d76810-96ab-4090-9344-5f051daccb53"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "04bebea0-32d7-4655-84fa-869369883369"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "e58faadf-8bd2-4949-b0c2-96174a05009d"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "3b67eb89-aa2b-4ee6-a470-ec04abf875a7"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "jiangjin": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 9
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 15
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

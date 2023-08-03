@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fahongbao",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 101
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 120
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 101
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 123
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 146
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 123
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "goalkeeper.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "goalkeeper_0001": {
+      "__uuid__": "df0a8880-a069-474c-9fea-328b24ff408e"
+    },
+    "goalkeeper_0002": {
+      "__uuid__": "38171a63-21dc-4634-aa38-3f8fb98b904d"
+    },
+    "goalkeeper_0004": {
+      "__uuid__": "afce8918-aa91-4523-95d0-cf826510bdb8"
+    },
+    "goalkeeper_0005": {
+      "__uuid__": "6703ba86-96fa-44cd-9d71-8412cc378beb"
+    },
+    "goalkeeper_0007": {
+      "__uuid__": "662a2755-7c26-443d-9b1b-939724c3e265"
+    },
+    "goalkeeper_0008": {
+      "__uuid__": "6a3032db-9641-45a4-ad18-779f1789cf76"
+    },
+    "goalkeeper_0010": {
+      "__uuid__": "e5b95c72-95ee-454c-92bb-de7f313a8436"
+    },
+    "goalkeeper_0011": {
+      "__uuid__": "1e197b14-6405-450d-b36a-39e1bcb4c1b4"
+    },
+    "goalkeeper_0013": {
+      "__uuid__": "8239915f-53be-4f40-91b2-57a6a97baf5f"
+    },
+    "goalkeeper_0014": {
+      "__uuid__": "f4bcc90b-ba94-415c-903d-a1d48be6ad6d"
+    },
+    "goalkeeper_0016": {
+      "__uuid__": "683882f1-b7c7-4b2c-a522-e9a5e25c81fb"
+    },
+    "goalkeeper_0017": {
+      "__uuid__": "1dc144b0-404b-4137-b2d8-09c401764c2e"
+    },
+    "goalkeeper_0019": {
+      "__uuid__": "dd3a4a30-0310-48b2-8ebf-5d2f88dfebef"
+    },
+    "goalkeeper_0020": {
+      "__uuid__": "94f6fadb-8043-409c-a8a0-d2aff044a8f9"
+    },
+    "goalkeeper_0022": {
+      "__uuid__": "831392f8-4ee2-4761-84ae-864d9583f6dd"
+    },
+    "goalkeeper_0023": {
+      "__uuid__": "e6a09f5c-c58c-4211-becf-7f86b801d3d6"
+    },
+    "goalkeeper_0025": {
+      "__uuid__": "615e5e18-0a38-4930-88b2-f5193475afc3"
+    },
+    "goalkeeper_0026": {
+      "__uuid__": "0ed33e88-dfc3-4fa2-a648-10042b50798e"
+    },
+    "goalkeeper_0028": {
+      "__uuid__": "c1c91fd5-8c16-40b4-b4a9-70834f6efd04"
+    },
+    "goalkeeper_0029": {
+      "__uuid__": "8caa596e-1b0d-4819-8eb6-b9324c4a2339"
+    },
+    "goalkeeper_0031": {
+      "__uuid__": "7a19f651-5afd-49ed-ba6a-609ef73e3952"
+    },
+    "goalkeeper_0032": {
+      "__uuid__": "ec937ab6-f958-40d6-8645-4daee796686a"
+    },
+    "goalkeeper_0034": {
+      "__uuid__": "ed926da6-154c-4c44-b068-d1c76a2e9fca"
+    },
+    "goalkeeper_0035": {
+      "__uuid__": "81a8d1f7-f54c-46a0-b13d-779aaac42bb2"
+    },
+    "goalkeeper_0037": {
+      "__uuid__": "2377be37-b067-4115-a2a9-9d456fe01e72"
+    },
+    "goalkeeper_0038": {
+      "__uuid__": "f115b33d-7101-4a14-8516-466b270e3598"
+    },
+    "goalkeeper_0040": {
+      "__uuid__": "7f4209ac-7144-4d34-8cf2-e617b56c20db"
+    },
+    "goalkeeper_0041": {
+      "__uuid__": "91ed0da6-6c51-43d6-a267-9e5ea295545b"
+    },
+    "goalkeeper_0043": {
+      "__uuid__": "b194560e-7db3-443a-a8ad-841139c6dc55"
+    },
+    "goalkeeper_0044": {
+      "__uuid__": "3dc1d3bd-ec39-4b62-9937-e25d2a27a274"
+    },
+    "goalkeeper_0046": {
+      "__uuid__": "5789c194-d968-4f92-ab30-5cba4479e2b6"
+    },
+    "goalkeeper_0047": {
+      "__uuid__": "0f8bf1e1-2f3e-45cf-9a63-711f901455da"
+    },
+    "goalkeeper_0049": {
+      "__uuid__": "e252d350-964d-49f9-81af-7c89cfc3c597"
+    },
+    "goalkeeper_0050": {
+      "__uuid__": "13ab682c-6d8c-469c-919b-758fda8fa782"
+    },
+    "goalkeeper_0052": {
+      "__uuid__": "2f95173e-4cea-4542-a072-2e9272cfe625"
+    },
+    "goalkeeper_0053": {
+      "__uuid__": "484deac6-5ba2-4dea-96e7-8e178e3cfa3e"
+    },
+    "goalkeeper_0055": {
+      "__uuid__": "ca7db02a-5df9-4bbe-9fc6-17685aede0df"
+    },
+    "goalkeeper_0056": {
+      "__uuid__": "4e289eaa-63a9-4c86-8b60-1d9195befb06"
+    },
+    "goalkeeper_0058": {
+      "__uuid__": "f162e8f4-2445-4b4b-8f1b-ff3c844370da"
+    },
+    "goalkeeper_0059": {
+      "__uuid__": "ba63da0d-6997-422c-8284-295c8bc8c348"
+    },
+    "goalkeeper_0061": {
+      "__uuid__": "17751d0d-e3c6-4904-8cff-591b7d253be1"
+    },
+    "goalkeeper_0062": {
+      "__uuid__": "5bea73e8-6c4a-4fbe-9e6a-f3a1281c0542"
+    },
+    "goalkeeper_0064": {
+      "__uuid__": "c90185c1-0ef4-4ad5-b7d3-7f22592ef304"
+    },
+    "goalkeeper_0065": {
+      "__uuid__": "be40df6d-4558-4eb0-94cc-78a65547493d"
+    },
+    "goalkeeper_0067": {
+      "__uuid__": "a9de6cf9-0d8d-46ff-9103-905068c0c8bd"
+    },
+    "goalkeeper_0068": {
+      "__uuid__": "94151dbc-3ef6-40f4-9ba4-415bf94824fc"
+    },
+    "goalkeeper_0070": {
+      "__uuid__": "cab29ad9-3f88-4d52-9290-db65436ca309"
+    },
+    "goalkeeper_0071": {
+      "__uuid__": "90db81b4-496e-44b7-8109-e6ddd8502710"
+    },
+    "goalkeeper_0073": {
+      "__uuid__": "182f1457-e472-4a1b-9158-c40c4336f8b9"
+    },
+    "goalkeeper_0074": {
+      "__uuid__": "f48e8f0f-52f1-4ee7-86f6-ec9fe8948dcf"
+    }
+  }
+}

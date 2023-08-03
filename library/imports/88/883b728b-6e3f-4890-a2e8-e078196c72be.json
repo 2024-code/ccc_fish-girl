@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_LvBuXiDiaoChan.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slots_1": {
+      "__uuid__": "aa94a184-e075-4870-bec1-6ced8e6f5356"
+    },
+    "slots_2": {
+      "__uuid__": "ff7e8eb9-449d-4826-8ab2-cbd67eba9fc8"
+    },
+    "slots_3": {
+      "__uuid__": "87c74106-897a-4e3e-a252-2dd2bc05a97d"
+    },
+    "slots_4": {
+      "__uuid__": "44c3d305-512f-49f5-85d0-3f4e2b335460"
+    },
+    "slots_5": {
+      "__uuid__": "7c85584c-5dbd-4395-af48-64163d40ab48"
+    },
+    "slots_51": {
+      "__uuid__": "5e007010-fb69-46a9-8908-9f6c7843f0f3"
+    },
+    "slots_6": {
+      "__uuid__": "5326182d-52f1-4008-9c7d-50c46c61f22c"
+    },
+    "slots_7": {
+      "__uuid__": "0d38ccff-3528-4e8f-9e77-962e6d25cf7d"
+    },
+    "slots_71": {
+      "__uuid__": "3c29e21c-7180-4b20-b2cb-11cb29452070"
+    },
+    "slots_8": {
+      "__uuid__": "74ab386c-5eba-42d8-909d-0afb9cc84180"
+    },
+    "slots_81": {
+      "__uuid__": "82af070d-2c24-4830-acd3-280b9883d3e0"
+    },
+    "slots_82": {
+      "__uuid__": "dcb21777-a302-42c9-912d-d8e09e6bdf95"
+    },
+    "slots_9": {
+      "__uuid__": "0d1c4d73-8a34-4c2f-9b7d-135bad0f7f5b"
+    },
+    "slots_f51": {
+      "__uuid__": "85f044d9-c74f-4a5e-aeb4-f8b01714361d"
+    },
+    "slots_fnt_fs": {
+      "__uuid__": "b5a70875-f1f8-47b8-be9d-bb86416a1372"
+    },
+    "slots_frame_51": {
+      "__uuid__": "e48ed0ab-8442-4e8d-a86c-d8ef0d9fa555"
+    },
+    "slots_frame_51_fs": {
+      "__uuid__": "b48cddd0-2acf-48c1-b9ad-c5e8bd566b11"
+    },
+    "slots_fs_btn_again_nor": {
+      "__uuid__": "18dd0c13-ae19-41b3-b73d-0d78bf40c153"
+    },
+    "slots_fs_btn_again_press": {
+      "__uuid__": "474d92a7-983b-4b74-86ea-2daa31ad4af9"
+    },
+    "slots_fs_btn_begin_nor": {
+      "__uuid__": "7cbf4107-8730-4913-b94c-13a0ab27769b"
+    },
+    "slots_fs_btn_begin_press": {
+      "__uuid__": "9d00ac56-eace-458d-959e-19e21cf150c5"
+    },
+    "slots_fs_btn_end_nor": {
+      "__uuid__": "5946f96a-2f9b-41d1-bf31-2fc7c26be2ec"
+    },
+    "slots_fs_btn_end_press": {
+      "__uuid__": "786dc757-19d1-4882-a7fa-0169e23d516b"
+    },
+    "slots_jackpot_bar": {
+      "__uuid__": "e5a92b65-a737-4522-b053-e70d802622ee"
+    },
+    "slots_jackpot_bar_fs": {
+      "__uuid__": "a2bf7412-6353-45e7-b2cf-12bf89f4e4ce"
+    },
+    "slots_jackpot_medium": {
+      "__uuid__": "d4fe4de9-c762-4d64-8db5-7805a98ab692"
+    },
+    "slots_jackpot_mega": {
+      "__uuid__": "51cab998-a345-45cb-881d-acb786d76f07"
+    },
+    "slots_jackpot_minor": {
+      "__uuid__": "f4cf0902-2c48-4f7d-80b7-245610957974"
+    },
+    "slots_loadbar": {
+      "__uuid__": "b53976f4-a57a-45ec-80c0-674c6613afa0"
+    },
+    "slots_loadbar_bg": {
+      "__uuid__": "d0d95b53-7003-4904-ba65-ec521c85028d"
+    },
+    "slots_mask_big": {
+      "__uuid__": "8bb33472-1842-42e6-8bcb-6d3b313683c8"
+    },
+    "slots_mask_rise": {
+      "__uuid__": "f2327029-63b7-4b8e-9261-9d9138c4b230"
+    },
+    "slots_mask_small": {
+      "__uuid__": "ec3c806b-83cc-479c-89a0-6b6941260650"
+    },
+    "slots_ptable_btn_close_nor": {
+      "__uuid__": "5990d886-5800-4b58-b00a-c247686d9d1f"
+    },
+    "slots_ptable_btn_close_press": {
+      "__uuid__": "7cc632e3-b7d2-42b5-b90c-8890fae6f33d"
+    },
+    "slots_ptable_btn_next_nor": {
+      "__uuid__": "0e7b9f9a-3275-4444-ad9e-b9e364e4018b"
+    },
+    "slots_ptable_btn_next_press": {
+      "__uuid__": "6392d7ed-bc9d-4c82-801a-ca4504a2a64e"
+    },
+    "slots_ptable_btn_return_nor": {
+      "__uuid__": "3ea5845c-b9f2-485d-868a-3f705de4e022"
+    },
+    "slots_ptable_btn_return_press": {
+      "__uuid__": "32de6d85-8359-4248-9e29-404d2b675982"
+    },
+    "slots_select_fs1_1": {
+      "__uuid__": "b7f0e9be-7059-490a-83ad-3631b7ef76a2"
+    },
+    "slots_select_fs1_2": {
+      "__uuid__": "d0c06498-618b-4952-893f-137c908262eb"
+    },
+    "slots_select_fs1_3": {
+      "__uuid__": "17cd04ea-4175-4de4-bb3b-bcf20055fd7f"
+    },
+    "slots_select_fs2_1": {
+      "__uuid__": "a457cf1d-9774-4e97-b977-4b853d21b4a4"
+    },
+    "slots_select_fs2_2": {
+      "__uuid__": "5053438c-f62c-4ca1-9ea7-197bc749594d"
+    },
+    "slots_select_fs2_3": {
+      "__uuid__": "b89c7dd1-11f2-4122-a495-df35f17db378"
+    }
+  }
+}

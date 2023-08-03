@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_fs_btn_begin_press",
+    "texture": "c25eb730-d392-460b-ac4a-558cdf152aa6",
+    "atlas": "9acc973b-4c3e-4f42-89ba-cdd087df324c",
+    "rect": [
+      72,
+      2,
+      241,
+      68
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      249,
+      72
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bigHall_tips.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bigHallVip_Sign_1lines": {
+      "__uuid__": "2e18524f-08c0-4343-a9a1-0678205eff49"
+    },
+    "bigHallVip_Sign_243ways": {
+      "__uuid__": "72453496-2014-41df-acb1-7d7bffdde53c"
+    },
+    "bigHallVip_Sign_25lines": {
+      "__uuid__": "c75686f8-b740-4443-bde6-ebbd4fbf2ad6"
+    },
+    "bigHallVip_Sign_50lines": {
+      "__uuid__": "35f3346a-07bf-4621-a8cb-59a4e739029d"
+    },
+    "bigHallVip_Sign_9lines": {
+      "__uuid__": "da4fd43c-e714-447b-bef6-65ecfcb2c02c"
+    },
+    "bigHallVip_Sign_mildly": {
+      "__uuid__": "b730785c-a4be-4748-a07f-7c989dd798d9"
+    },
+    "bigHallVip_Sign_moderate": {
+      "__uuid__": "f2e2e3bb-c75c-448b-9241-6c705e04a5c0"
+    },
+    "bigHallVip_Sign_severe": {
+      "__uuid__": "3c1cea98-1826-4adc-b50d-9948303b29e3"
+    },
+    "bigHallVip_font_becomeVip": {
+      "__uuid__": "738a856f-c1fb-4188-8178-5d5e5224371f"
+    },
+    "bigHall_Sign_1lines": {
+      "__uuid__": "c2c23d5b-6d0e-4559-8748-e4711ab215d2"
+    },
+    "bigHall_Sign_243ways": {
+      "__uuid__": "74b39289-6b8a-43d8-a0e9-4e4dbcf7cd09"
+    },
+    "bigHall_Sign_25lines": {
+      "__uuid__": "8f98bd5f-5631-4006-96a9-f566c543fb5e"
+    },
+    "bigHall_Sign_50lines": {
+      "__uuid__": "82036deb-e7fe-443d-8cf4-e1b390707473"
+    },
+    "bigHall_Sign_9lines": {
+      "__uuid__": "0318c6ac-2a81-4138-9f05-2290d39bc844"
+    },
+    "bigHall_Sign_mildly": {
+      "__uuid__": "bd31ace0-2412-4964-aff5-d4a44e543f05"
+    },
+    "bigHall_Sign_moderate": {
+      "__uuid__": "ff80669a-6d9f-4727-b927-c0e902b29cbe"
+    },
+    "bigHall_Sign_severe": {
+      "__uuid__": "6a8aa690-f612-4452-9db0-ecbb123214fd"
+    },
+    "bigHall_font_001": {
+      "__uuid__": "28f284ec-5569-4900-8fec-641296d2fa64"
+    },
+    "bigHall_font_002": {
+      "__uuid__": "e1e9c831-8d49-44f8-a033-9acf449d47c4"
+    },
+    "bigHall_icon_004": {
+      "__uuid__": "e68593ea-a183-4652-8ecc-3df8ac395499"
+    },
+    "bigHall_icon_005": {
+      "__uuid__": "2b1ee613-b32e-4343-b6a2-a243a7d36e98"
+    },
+    "bigHall_icon_005_1": {
+      "__uuid__": "d31529e9-afb0-4bfb-964a-b77a2dbbd819"
+    },
+    "bigHall_icon_006": {
+      "__uuid__": "a82c13c4-d649-4917-9056-88521ed22fbe"
+    },
+    "bigHall_icon_007": {
+      "__uuid__": "2bb393e7-9f65-4b1e-80cf-74b96341d389"
+    },
+    "bigHall_icon_change": {
+      "__uuid__": "716ddb97-e87c-410c-80bb-cfb316696acc"
+    },
+    "bigHall_pic_888": {
+      "__uuid__": "51d2497c-71ee-490a-bee2-a36440f1f485"
+    },
+    "bigwinner_font_winner": {
+      "__uuid__": "c93ab403-81a2-4f24-a828-794f7ca25be6"
+    },
+    "email_font_email": {
+      "__uuid__": "c441fc60-64f5-456a-8540-94b6db127b74"
+    },
+    "font_bindingPhone_m": {
+      "__uuid__": "ce3c25e7-8ed9-42d3-a899-475dd79482af"
+    },
+    "font_binding_m": {
+      "__uuid__": "83d7b6ce-3a3a-4484-8642-1447160261cf"
+    },
+    "gameHistory_font_history": {
+      "__uuid__": "89badc56-d322-49b9-9677-350df4032b28"
+    },
+    "gift_font_gift": {
+      "__uuid__": "bf8b9cba-6467-44fb-af73-452d7287058f"
+    },
+    "gift_font_giftitem": {
+      "__uuid__": "b41b4717-d95e-4581-8a7f-6ed56b0dcb62"
+    },
+    "gift_tips": {
+      "__uuid__": "7700fd4c-3084-47e0-975f-3253a28a1357"
+    },
+    "icon_comingSoon": {
+      "__uuid__": "43aa121b-5a83-4474-a96b-e228fc266cbe"
+    },
+    "info_btn_bindingCellPhone_disabled": {
+      "__uuid__": "c874f158-c931-4d89-8d16-02875ca1245d"
+    },
+    "info_btn_bindingCellPhone_nor": {
+      "__uuid__": "deb300dd-c7eb-43f6-ae35-d0dd36765763"
+    },
+    "info_btn_bindingCellPhone_pressed": {
+      "__uuid__": "b64b763b-a428-4696-aa64-6781d6de99e4"
+    },
+    "wealth_font_wealth": {
+      "__uuid__": "8fc3a292-c030-4429-9021-b17ede1754f5"
+    }
+  }
+}

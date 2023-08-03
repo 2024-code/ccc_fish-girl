@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sdbgj_game_panel_chip_bg",
+    "texture": "9e83b462-ea7d-4c29-93ed-d973500e4f49",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      68,
+      65
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      69,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

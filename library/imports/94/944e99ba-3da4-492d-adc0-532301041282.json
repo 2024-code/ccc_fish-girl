@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "db_KingOfFruit_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 1,\r\n        \"y\": 4,\r\n        \"height\": 1,\r\n        \"name\": \"qidai-拷贝2\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"frameX\": 0,\r\n        \"y\": 1,\r\n        \"frameY\": -1,\r\n        \"frameWidth\": 250,\r\n        \"width\": 250,\r\n        \"frameHeight\": 250,\r\n        \"height\": 248,\r\n        \"name\": \"连线机-拷贝-6_1\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 7,\r\n        \"height\": 1,\r\n        \"name\": \"qidai-拷贝3\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"width\": 157,\r\n        \"y\": 251,\r\n        \"height\": 56,\r\n        \"name\": \"logo-拷贝(1)\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 10,\r\n        \"height\": 1,\r\n        \"name\": \"圆角矩形-4\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 1,\r\n        \"height\": 1,\r\n        \"name\": \"logo-拷贝\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"width\": 18,\r\n        \"y\": 309,\r\n        \"height\": 18,\r\n        \"name\": \"图层-558\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 251,\r\n        \"height\": 86,\r\n        \"name\": \"图层-1\",\r\n        \"x\": 160\r\n    }],\r\n    \"imagePath\": \"db_KingOfFruit_tex.png\",\r\n    \"name\": \"db_KingOfFruit\"\r\n}",
+  "_texture": {
+    "__uuid__": "60f377a8-255e-4f8b-9412-c07659e8df0b"
+  },
+  "texture": {
+    "__uuid__": "60f377a8-255e-4f8b-9412-c07659e8df0b"
+  },
+  "_textureAtlasData": null
+}

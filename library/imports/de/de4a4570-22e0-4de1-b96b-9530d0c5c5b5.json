@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shop_weixin_1",
+    "texture": "9eaa7ccf-c9d4-486a-a947-e10c154ae856",
+    "atlas": "202ec5c5-06b8-41c7-a340-b99aaf9e4519",
+    "rect": [
+      860,
+      513,
+      213,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      69
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

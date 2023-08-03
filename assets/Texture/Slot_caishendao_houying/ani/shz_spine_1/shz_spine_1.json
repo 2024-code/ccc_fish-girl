@@ -1,0 +1,94 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "face", "parent": "root", "length": 40.26, "x": -25.77, "y": -78.94, "rotation": 70.89 },
+	{ "name": "ear", "parent": "face", "length": 5.94, "x": 88.57, "y": 29.63, "rotation": 20.7 },
+	{ "name": "eyes", "parent": "face", "length": 8.26, "x": 94.5, "y": 10.1, "rotation": 2.25 },
+	{ "name": "meimao", "parent": "face", "length": 8.57, "x": 105.96, "y": 10.3 },
+	{ "name": "mouth", "parent": "face", "length": 7.76, "x": 66.23, "y": 12.46 },
+	{ "name": "nose", "parent": "face", "length": 6.88, "x": 84.09, "y": 11.73, "rotation": 0.45 },
+	{ "name": "ponit", "parent": "face", "x": 113.58, "y": 11.89 }
+],
+"slots": [
+	{ "name": "icon_milefo_ears", "bone": "ear", "attachment": "icon_milefo_ears" },
+	{ "name": "icon_milefo_face", "bone": "face", "attachment": "icon_milefo_face" },
+	{ "name": "icon_molefo_point", "bone": "ponit", "attachment": "icon_molefo_point" },
+	{ "name": "icon_milefo_brow", "bone": "meimao", "attachment": "icon_milefo_brow" },
+	{ "name": "icon_milefo_nose", "bone": "nose", "attachment": "icon_milefo_nose" },
+	{ "name": "icon_molefo_eyes", "bone": "eyes", "attachment": "icon_molefo_eyes" },
+	{ "name": "icon_molefo_mouth", "bone": "mouth", "attachment": "icon_molefo_mouth" }
+],
+"skins": {
+	"default": {
+		"icon_milefo_brow": {
+			"icon_milefo_brow": { "x": -2.48, "y": -1.85, "rotation": -70.89, "width": 38, "height": 16 }
+		},
+		"icon_milefo_ears": {
+			"icon_milefo_ears": { "x": -14.28, "y": 2.99, "rotation": -91.59, "width": 25, "height": 45 }
+		},
+		"icon_milefo_face": {
+			"icon_milefo_face": { "x": 86.82, "y": -1.55, "rotation": -70.89, "width": 74, "height": 74 }
+		},
+		"icon_milefo_nose": {
+			"icon_milefo_nose": { "x": -2, "y": 0.42, "rotation": -71.34, "width": 21, "height": 14 }
+		},
+		"icon_molefo_eyes": {
+			"icon_molefo_eyes": { "x": -0.52, "y": -5.39, "rotation": -73.14, "width": 35, "height": 8 }
+		},
+		"icon_molefo_mouth": {
+			"icon_molefo_mouth": { "x": 7.76, "y": -12.11, "rotation": -70.89, "width": 50, "height": 29 }
+		},
+		"icon_molefo_point": {
+			"icon_molefo_point": { "x": -1.13, "y": -0.34, "rotation": -70.89, "width": 6, "height": 9 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"face": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0666, "angle": 0.1 },
+					{ "time": 0.3, "angle": 4.1 },
+					{ "time": 0.5333, "angle": 9.1 },
+					{ "time": 0.8, "angle": 4.1 },
+					{ "time": 1, "angle": 0.1 },
+					{ "time": 1.0666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -5.11, "y": 2.53 },
+					{ "time": 0.5333, "x": -8.11, "y": 4.53 },
+					{ "time": 0.8, "x": -5.11, "y": 2.53 },
+					{ "time": 1.0666, "x": 0, "y": 0 }
+				]
+			},
+			"meimao": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2666, "x": 1.71, "y": -0.33 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 1.71, "y": -0.33 },
+					{ "time": 1.0666, "x": 0, "y": 0 }
+				]
+			},
+			"eyes": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4, "x": 1, "y": 1 },
+					{ "time": 0.5333, "x": 0.7, "y": 1 },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			},
+			"ponit": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5333, "x": 3.21, "y": -0.22 },
+					{ "time": 1.0666, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

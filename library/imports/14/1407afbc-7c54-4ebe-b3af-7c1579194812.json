@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_reels_bkg_normal",
+    "texture": "08609591-e2d2-49b6-8810-fd144ccc4c86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      152
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameViewLayer-label_total",
+    "texture": "7c5f9193-1a14-4727-9232-f040c5177bc0",
+    "atlas": "49556278-a12f-4554-b556-2ee6298a6719",
+    "rect": [
+      416,
+      286,
+      67,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      35
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

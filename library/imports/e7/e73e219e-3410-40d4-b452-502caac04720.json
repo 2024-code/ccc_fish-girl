@@ -1,0 +1,125 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_HongLouChunMeng.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slots_1": {
+      "__uuid__": "c555cf82-be0c-4f10-ab44-dee8911c6925"
+    },
+    "slots_2": {
+      "__uuid__": "586dcf3a-c615-471c-8c49-2afedb2941b0"
+    },
+    "slots_3": {
+      "__uuid__": "a3420779-9e5e-4e7b-860e-91c7b60224cd"
+    },
+    "slots_4": {
+      "__uuid__": "304b686b-2af8-477b-a2be-267f513277de"
+    },
+    "slots_5": {
+      "__uuid__": "ceb3b1be-2c26-4582-95eb-c7afa395d13b"
+    },
+    "slots_51_1": {
+      "__uuid__": "ff916fd0-2ba0-41c1-bd69-daea6bc33651"
+    },
+    "slots_51_2": {
+      "__uuid__": "e23207d5-ac56-475a-98ad-efe8ec80a2e0"
+    },
+    "slots_51_3": {
+      "__uuid__": "60417bd0-595c-467b-8e38-0d79ce3eab5d"
+    },
+    "slots_51_fs_1": {
+      "__uuid__": "05b9150a-92f8-4d07-b62b-b5d470f1d872"
+    },
+    "slots_51_fs_2": {
+      "__uuid__": "38549655-4d89-4cb7-8ef9-16cb9da215eb"
+    },
+    "slots_51_fs_3": {
+      "__uuid__": "b60534c5-fca2-4fd0-b86e-59d6f189bdb6"
+    },
+    "slots_6": {
+      "__uuid__": "75eb8ac3-fb02-4b6b-82be-0e930bdef8b4"
+    },
+    "slots_71": {
+      "__uuid__": "46375d3f-ac76-4ddc-8240-6e3e881cf895"
+    },
+    "slots_fnt_fs": {
+      "__uuid__": "65e76ae4-ad7b-4920-89c6-fdf3eb2c2967"
+    },
+    "slots_fnt_fs_1": {
+      "__uuid__": "162db2c3-f083-40c4-9517-1c97ef9ef1e4"
+    },
+    "slots_fnt_select": {
+      "__uuid__": "2e8b1382-679f-41c8-8f00-43e9f420a37b"
+    },
+    "slots_fnt_select_1": {
+      "__uuid__": "58a9a4bf-f655-4332-9c90-87aecdd50e59"
+    },
+    "slots_fs_back_dec": {
+      "__uuid__": "f54990be-923b-4e5a-a160-666a89e7f44a"
+    },
+    "slots_fs_btn_again_nor": {
+      "__uuid__": "914f4a87-c739-4ffb-aac5-703e7b00395c"
+    },
+    "slots_fs_btn_again_press": {
+      "__uuid__": "3d0c883e-bb68-4d4f-92a0-08a58d0f8a02"
+    },
+    "slots_fs_btn_begin_nor": {
+      "__uuid__": "cf8d7688-5d25-4ee8-8d01-5714e44bb5d5"
+    },
+    "slots_fs_btn_begin_press": {
+      "__uuid__": "862e1ce2-6a14-4af6-a9f8-54403a9c9894"
+    },
+    "slots_fs_btn_end_nor": {
+      "__uuid__": "54ba664f-06f0-45ee-a091-90e6fdd820fc"
+    },
+    "slots_fs_btn_end_press": {
+      "__uuid__": "0225aa50-dfd5-4908-bc7e-d1a8f261ac13"
+    },
+    "slots_jackpot_bar": {
+      "__uuid__": "f4efd7b9-b707-4a58-a5d1-64ed1acd4880"
+    },
+    "slots_jackpot_bar_fs": {
+      "__uuid__": "efebb49e-5e49-4304-9e52-73b019c0616f"
+    },
+    "slots_jackpot_medium": {
+      "__uuid__": "3284e735-472a-49a1-8284-ca363f532730"
+    },
+    "slots_jackpot_mega": {
+      "__uuid__": "8adb6c69-e99c-430a-8c6d-e177412f1d8b"
+    },
+    "slots_jackpot_minor": {
+      "__uuid__": "90815b98-10bb-4163-81dc-7adb28b7572d"
+    },
+    "slots_ptable_btn_close_nor": {
+      "__uuid__": "e6adf4cb-262e-4a8f-bf35-f3fdd5852933"
+    },
+    "slots_ptable_btn_close_press": {
+      "__uuid__": "57df0e97-dab6-4892-944d-b9089edf4464"
+    },
+    "slots_ptable_btn_next_nor": {
+      "__uuid__": "bdcd1c42-d92b-4f20-bfd7-a6abb3f5190c"
+    },
+    "slots_ptable_btn_next_press": {
+      "__uuid__": "d770d7ff-c504-42f7-8b30-3ee28b5a701c"
+    },
+    "slots_ptable_btn_return_nor": {
+      "__uuid__": "c9909e9b-3455-4a10-bf72-730d5941b77c"
+    },
+    "slots_ptable_btn_return_press": {
+      "__uuid__": "5b948f92-9b48-4f03-ad19-2002a2747b63"
+    },
+    "slots_select_flower_1": {
+      "__uuid__": "ce6a419b-a245-48e7-91eb-6aef07c6a94d"
+    },
+    "slots_select_flower_2": {
+      "__uuid__": "50716e6b-33cf-4896-a049-69c62974ac5e"
+    },
+    "slots_select_flower_3": {
+      "__uuid__": "0a5d50ba-b48a-4495-9976-c7016ccc3fcb"
+    },
+    "slots_select_flower_4": {
+      "__uuid__": "1906ccd8-4eb8-428e-b0a5-893a07503e1e"
+    }
+  }
+}

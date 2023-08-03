@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blue_shadow",
+    "texture": "11b84568-e1b2-4f97-8f91-5c570c51a2e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      16,
+      19,
+      18,
+      20
+    ]
+  }
+}

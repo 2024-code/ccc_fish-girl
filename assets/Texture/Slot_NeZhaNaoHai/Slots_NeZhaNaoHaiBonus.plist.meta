@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "8e248bed-55bf-4717-99cc-8e3a3a2430b8",
+  "rawTextureUuid": "cc543c18-c951-46c1-8f0f-3bc876a3e3a3",
+  "size": {
+    "width": 404,
+    "height": 63
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "slots_bonus_btn_end_nor.png": {
+      "ver": "1.0.4",
+      "uuid": "0e70a525-ca2e-450d-bd23-b9ce83121a01",
+      "rawTextureUuid": "cc543c18-c951-46c1-8f0f-3bc876a3e3a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 204,
+      "height": 59,
+      "rawWidth": 204,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "slots_bonus_btn_end_press.png": {
+      "ver": "1.0.4",
+      "uuid": "6013a502-509a-4efd-99b6-755de41ef3f9",
+      "rawTextureUuid": "cc543c18-c951-46c1-8f0f-3bc876a3e3a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 208,
+      "trimY": 2,
+      "width": 194,
+      "height": 57,
+      "rawWidth": 194,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

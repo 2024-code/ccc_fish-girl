@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_fnt_select",
+    "texture": "47110f95-adae-4612-b8c7-403f5c549f83",
+    "atlas": "43b61cde-f45b-485b-945c-8f054d052d3e",
+    "rect": [
+      1039,
+      655,
+      94,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      26
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

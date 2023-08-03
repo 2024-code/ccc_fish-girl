@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "jiesuan_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"name\": \"jiesuan\",\r\n    \"SubTexture\": [{\r\n        \"width\": 1,\r\n        \"y\": 1,\r\n        \"height\": 1,\r\n        \"name\": \"组-24\",\r\n        \"x\": 1011\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 1,\r\n        \"height\": 1,\r\n        \"name\": \"形状-1\",\r\n        \"x\": 1008\r\n    },\r\n    {\r\n        \"y\": 1,\r\n        \"frameX\": 0,\r\n        \"frameHeight\": 107,\r\n        \"frameY\": -2,\r\n        \"width\": 178,\r\n        \"frameWidth\": 179,\r\n        \"height\": 104,\r\n        \"name\": \"图层-71\",\r\n        \"x\": 828\r\n    },\r\n    {\r\n        \"y\": 1,\r\n        \"frameX\": -6,\r\n        \"frameHeight\": 327,\r\n        \"frameY\": -3,\r\n        \"width\": 333,\r\n        \"frameWidth\": 349,\r\n        \"height\": 324,\r\n        \"name\": \"图层-65\",\r\n        \"x\": 493\r\n    },\r\n    {\r\n        \"y\": 327,\r\n        \"frameX\": -2,\r\n        \"frameHeight\": 164,\r\n        \"frameY\": 0,\r\n        \"width\": 404,\r\n        \"frameWidth\": 409,\r\n        \"height\": 164,\r\n        \"name\": \"图层-61\",\r\n        \"x\": 493\r\n    },\r\n    {\r\n        \"width\": 204,\r\n        \"y\": 445,\r\n        \"height\": 107,\r\n        \"name\": \"图层-68\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"y\": 445,\r\n        \"frameX\": -2,\r\n        \"frameHeight\": 102,\r\n        \"frameY\": -1,\r\n        \"width\": 206,\r\n        \"frameWidth\": 209,\r\n        \"height\": 101,\r\n        \"name\": \"图层-63\",\r\n        \"x\": 207\r\n    },\r\n    {\r\n        \"width\": 490,\r\n        \"y\": 1,\r\n        \"height\": 254,\r\n        \"name\": \"win\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"y\": 257,\r\n        \"frameX\": 0,\r\n        \"frameHeight\": 254,\r\n        \"frameY\": -66,\r\n        \"width\": 490,\r\n        \"frameWidth\": 490,\r\n        \"height\": 186,\r\n        \"name\": \"lose\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 36,\r\n        \"y\": 107,\r\n        \"height\": 36,\r\n        \"name\": \"star\",\r\n        \"x\": 828\r\n    }],\r\n    \"imagePath\": \"jiesuan_tex.png\"\r\n}",
+  "_texture": {
+    "__uuid__": "e02d6528-1f87-4e52-a5f3-c37d1190f140"
+  },
+  "texture": {
+    "__uuid__": "e02d6528-1f87-4e52-a5f3-c37d1190f140"
+  },
+  "_textureAtlasData": null
+}

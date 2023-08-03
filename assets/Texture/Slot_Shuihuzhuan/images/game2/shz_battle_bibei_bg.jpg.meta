@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b80c319b-53cb-4452-8d4c-54e50b5ef903",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1334,
+  "height": 750,
+  "platformSettings": {},
+  "subMetas": {
+    "shz_battle_bibei_bg": {
+      "ver": "1.0.4",
+      "uuid": "f66675db-8edb-4db8-8740-f2feb1785da4",
+      "rawTextureUuid": "b80c319b-53cb-4452-8d4c-54e50b5ef903",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1334,
+      "height": 750,
+      "rawWidth": 1334,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

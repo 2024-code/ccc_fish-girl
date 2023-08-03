@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Configuration",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "loginIp": "http://198.177.123.127:13000",
+    "isUpdate": 1,
+    "lobbySelect": 0,
+    "guest": "abc",
+    "exchangeRate": 100,
+    "versionArray": [
+      "3.0",
+      "1.0",
+      "1.0",
+      "1.0",
+      "1.0",
+      "1.0",
+      "1.0"
+    ],
+    "showGame": 0,
+    "withdraw": 0,
+    "iosUpdate": 1000,
+    "iosPay": 1,
+    "versionCode": "k23ak3((932k2k!*2c23kk_1.1"
+  }
+}

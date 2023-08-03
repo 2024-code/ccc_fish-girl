@@ -1,0 +1,263 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "T-REXPist.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "T-REXPist-2066_01": {
+      "__uuid__": "1cc62ea8-c420-4fb6-84c6-77bb1149b5e5"
+    },
+    "T-REXPist-2066_02": {
+      "__uuid__": "d0cea725-ee5a-4b93-a1c2-8c7d465af5c9"
+    },
+    "T-REXPist-2066_03": {
+      "__uuid__": "e21ed0ee-441e-43ca-92b5-f88403a64d88"
+    },
+    "T-REXPist-2066_04": {
+      "__uuid__": "9ca91c64-d3ff-4dd0-b05c-3b487ee5736f"
+    },
+    "T-REXPist-2066AutoPlay_01": {
+      "__uuid__": "a29f62eb-a723-4c06-9215-3f81c8b442b2"
+    },
+    "T-REXPist-2066AutoPlay_02": {
+      "__uuid__": "315c5191-ef1e-49e7-bdf6-ff5c00d1192d"
+    },
+    "T-REXPist-2066AutoPlay_03": {
+      "__uuid__": "3da3f410-32bb-4add-97de-246011ad0d6a"
+    },
+    "T-REXPist-2066Bet_01": {
+      "__uuid__": "beca9856-d61f-4ec8-a71f-74e13408b5d6"
+    },
+    "T-REXPist-2066Bet_02": {
+      "__uuid__": "5ed58a65-859f-4354-95ac-571d3eeec7a2"
+    },
+    "T-REXPist-2066Down_01": {
+      "__uuid__": "6335ea61-47b7-4fd0-a108-aaab6d90991f"
+    },
+    "T-REXPist-2066Down_02": {
+      "__uuid__": "5eb28838-2eb1-465f-9d8d-1da946cbdfaf"
+    },
+    "T-REXPist-2066Down_03": {
+      "__uuid__": "d4501fc5-8264-4f2d-8e87-14e1348d3d65"
+    },
+    "T-REXPist-2066LineBtn01_1": {
+      "__uuid__": "af90461a-e3a8-4d6f-b829-0aafbfea9c92"
+    },
+    "T-REXPist-2066LineBtn01_2": {
+      "__uuid__": "3a533889-eb5b-4990-8b86-af3489ae2f48"
+    },
+    "T-REXPist-2066LineBtn02_1": {
+      "__uuid__": "3db37fd7-3fa6-4b51-a7df-93604348405a"
+    },
+    "T-REXPist-2066LineBtn02_2": {
+      "__uuid__": "8fe636ce-bd67-47a5-86f9-a64ee495f931"
+    },
+    "T-REXPist-2066LineBtn03_1": {
+      "__uuid__": "8e542454-31f2-4329-800d-d2160a63f4d1"
+    },
+    "T-REXPist-2066LineBtn03_2": {
+      "__uuid__": "92cc8a12-d960-498f-9b12-64853b53b021"
+    },
+    "T-REXPist-2066LineBtn04_1": {
+      "__uuid__": "4ce7728f-7e9d-4cbd-9646-e4317c635420"
+    },
+    "T-REXPist-2066LineBtn04_2": {
+      "__uuid__": "b8bc971f-90a2-4d7f-9230-9c0f6453b524"
+    },
+    "T-REXPist-2066LineBtn05_1": {
+      "__uuid__": "b664f3f8-64c5-4d1a-a81e-122676766401"
+    },
+    "T-REXPist-2066LineBtn05_2": {
+      "__uuid__": "27599082-12cf-407a-bf6c-b69839b87c99"
+    },
+    "T-REXPist-2066LineBtn06_1": {
+      "__uuid__": "7738dedd-930b-4ab2-b5cd-8c0f16a733ba"
+    },
+    "T-REXPist-2066LineBtn06_2": {
+      "__uuid__": "0d8c33b4-c103-4f95-a12a-3df64f674365"
+    },
+    "T-REXPist-2066LineBtn07_1": {
+      "__uuid__": "08a45a54-23af-4408-bcad-0e69963ddeec"
+    },
+    "T-REXPist-2066LineBtn07_2": {
+      "__uuid__": "26142e14-7470-4be7-8a71-6575ce0c64d1"
+    },
+    "T-REXPist-2066LineBtn08_1": {
+      "__uuid__": "b4a0c51f-dbf6-4698-be08-792e7c312f4e"
+    },
+    "T-REXPist-2066LineBtn08_2": {
+      "__uuid__": "ab128e4f-b5ea-4a2b-9f81-b7a5c1a1e2a7"
+    },
+    "T-REXPist-2066LineBtn09_1": {
+      "__uuid__": "8ae77a3d-97f7-4651-bff6-7c7caa270e89"
+    },
+    "T-REXPist-2066LineBtn09_2": {
+      "__uuid__": "c5e29cd5-5744-42b8-bdea-e126185a5676"
+    },
+    "T-REXPist-2066LineBtn10_1": {
+      "__uuid__": "ee3ede92-8400-4e7c-a32e-7eb15513dbf5"
+    },
+    "T-REXPist-2066LineBtn10_2": {
+      "__uuid__": "d04ac426-60d0-4c2a-9e6a-47171b4c4a07"
+    },
+    "T-REXPist-2066LineBtn11_1": {
+      "__uuid__": "75d618fd-a972-496d-91cb-ad9b1e837ec8"
+    },
+    "T-REXPist-2066LineBtn11_2": {
+      "__uuid__": "d1fbd64d-a3dd-430d-b6f2-2979ca146ec4"
+    },
+    "T-REXPist-2066LineBtn12_1": {
+      "__uuid__": "e91bb440-446f-4e19-99d6-a890b2e8bce7"
+    },
+    "T-REXPist-2066LineBtn12_2": {
+      "__uuid__": "fc5b64d5-d340-4fe5-8de3-b5ceace67456"
+    },
+    "T-REXPist-2066LineBtn13_1": {
+      "__uuid__": "9351b201-2a55-46d3-8d6a-db647eb388dd"
+    },
+    "T-REXPist-2066LineBtn13_2": {
+      "__uuid__": "35dc898e-1b09-40d5-a926-b274d57f8f85"
+    },
+    "T-REXPist-2066LineBtn14_1": {
+      "__uuid__": "8ba15ec5-d296-450d-b92e-819bbad7e09e"
+    },
+    "T-REXPist-2066LineBtn14_2": {
+      "__uuid__": "c05e485b-d43c-42c9-8227-4aa5c37c4cdf"
+    },
+    "T-REXPist-2066LineBtn15_1": {
+      "__uuid__": "3e53ed28-c75d-4a12-ac2d-112f007c3293"
+    },
+    "T-REXPist-2066LineBtn15_2": {
+      "__uuid__": "d2823e07-8774-481e-ae69-026dfaf851ed"
+    },
+    "T-REXPist-2066LineBtn16_1": {
+      "__uuid__": "74e436f6-0c16-4c5e-b226-87eee1bab295"
+    },
+    "T-REXPist-2066LineBtn16_2": {
+      "__uuid__": "5092b792-b629-4c04-9d1d-173bc24f104d"
+    },
+    "T-REXPist-2066LineBtn17_1": {
+      "__uuid__": "449a0078-3203-48c7-a147-fa3707b34f61"
+    },
+    "T-REXPist-2066LineBtn17_2": {
+      "__uuid__": "b85f2340-1667-45b0-ad9a-7238e4adad3e"
+    },
+    "T-REXPist-2066LineBtn18_1": {
+      "__uuid__": "64ac9edc-cdad-4efc-a340-9ad0663648dd"
+    },
+    "T-REXPist-2066LineBtn18_2": {
+      "__uuid__": "5d19f58c-9020-4ee6-839c-472d3b9abbd5"
+    },
+    "T-REXPist-2066LineBtn19_1": {
+      "__uuid__": "fb1acd1e-f963-4a40-8672-a86a69063cef"
+    },
+    "T-REXPist-2066LineBtn19_2": {
+      "__uuid__": "972ea29e-3793-4490-bece-3987bd74b0cc"
+    },
+    "T-REXPist-2066LineBtn20_1": {
+      "__uuid__": "3a2a1de4-abde-48ca-9153-4a5d3b581fc4"
+    },
+    "T-REXPist-2066LineBtn20_2": {
+      "__uuid__": "6b0a5934-99c5-42b2-890a-d912bd7330ba"
+    },
+    "T-REXPist-2066LineBtn21_1": {
+      "__uuid__": "12760d77-1cf3-4b9c-9792-c2663417f73b"
+    },
+    "T-REXPist-2066LineBtn21_2": {
+      "__uuid__": "dc25c3a3-1e99-470c-b964-f0b90747cfa9"
+    },
+    "T-REXPist-2066LineBtn22_1": {
+      "__uuid__": "ba99ffbb-68cb-4506-9270-0be5ab2ca444"
+    },
+    "T-REXPist-2066LineBtn22_2": {
+      "__uuid__": "0090db7f-eaa8-4f60-8b46-962ebace1bf5"
+    },
+    "T-REXPist-2066LineBtn23_1": {
+      "__uuid__": "df68c92d-11b5-47ea-9f2b-3b5b89db82ab"
+    },
+    "T-REXPist-2066LineBtn23_2": {
+      "__uuid__": "c9fe215b-f3a3-47eb-8f8a-bf87f1cfec9d"
+    },
+    "T-REXPist-2066LineBtn24_1": {
+      "__uuid__": "75120911-4fab-48a3-9560-d7a358ed6c13"
+    },
+    "T-REXPist-2066LineBtn24_2": {
+      "__uuid__": "4fd3aff1-c451-4dc8-ac46-d142ac936499"
+    },
+    "T-REXPist-2066LineBtn25_1": {
+      "__uuid__": "b504d5ad-f9c8-42a4-a95e-9ff8ac07b70e"
+    },
+    "T-REXPist-2066LineBtn25_2": {
+      "__uuid__": "e460e375-79bc-4189-ac0e-f4accf7f071f"
+    },
+    "T-REXPist-2066Lines_01": {
+      "__uuid__": "42a1dd7d-d3dc-4373-8e22-8fa98d4785b8"
+    },
+    "T-REXPist-2066Lines_02": {
+      "__uuid__": "5736c108-fb00-4f3e-a37c-7bd262187fdd"
+    },
+    "T-REXPist-2066Prompt02_01": {
+      "__uuid__": "7a967161-3a46-4c94-8a48-88d1394a082d"
+    },
+    "T-REXPist-2066Prompt02_02": {
+      "__uuid__": "6707b617-d8a3-44af-938c-8bda41faf8b8"
+    },
+    "T-REXPist-2066Prompt02_03": {
+      "__uuid__": "383bc555-6376-4c76-8722-323547ffb319"
+    },
+    "T-REXPist-2066Prompt02_04": {
+      "__uuid__": "4cc579ec-b9c0-4d34-881c-9af80ccb1025"
+    },
+    "T-REXPist-2066Prompt02_05": {
+      "__uuid__": "0d886e84-18a3-434b-8702-5156d8221b1f"
+    },
+    "T-REXPist-2066Prompt02_06": {
+      "__uuid__": "76d80952-2b4f-4945-b1d8-3ad8eb4a15ab"
+    },
+    "T-REXPist-2066ReturnBtn1": {
+      "__uuid__": "0ac8ea68-8675-4c93-b072-0309e8b97afd"
+    },
+    "T-REXPist-2066ReturnBtn2": {
+      "__uuid__": "4ef9e68c-41c6-4cf3-a334-0fda78441c53"
+    },
+    "T-REXPist-2066ReturnBtn3": {
+      "__uuid__": "78e24504-cbe9-4310-9ea7-20cde5a4531c"
+    },
+    "T-REXPist-2066Spin_01": {
+      "__uuid__": "28521e73-1318-4d5b-a20b-4fdeefc5d8c2"
+    },
+    "T-REXPist-2066Spin_02": {
+      "__uuid__": "ee4e4298-483c-482e-a48b-418c0eb83928"
+    },
+    "T-REXPist-2066Spin_03": {
+      "__uuid__": "f9f46868-e83b-464c-83cb-dd3a2aa517e8"
+    },
+    "T-REXPist-2066Stop_01": {
+      "__uuid__": "deeca933-2fbd-4757-a92e-ccade428bc0b"
+    },
+    "T-REXPist-2066Stop_02": {
+      "__uuid__": "bf2fed5a-0a49-4cfb-aa23-f24c715874c1"
+    },
+    "T-REXPist-2066Stop_03": {
+      "__uuid__": "ed31e5d0-27eb-447d-a2fe-003ba56382a0"
+    },
+    "T-REXPist-2066StopAuto_01": {
+      "__uuid__": "735cffbb-7184-4cab-aef0-47efb75e90f8"
+    },
+    "T-REXPist-2066StopAuto_02": {
+      "__uuid__": "db88f063-7d60-40f6-a179-d3f1134271c8"
+    },
+    "T-REXPist-2066StopAuto_03": {
+      "__uuid__": "1e7eb8e3-b8e3-43ef-a1ef-94d519ae101f"
+    },
+    "T-REXPist-2066Up_01": {
+      "__uuid__": "123312b3-ba12-46cf-980f-b152e05372be"
+    },
+    "T-REXPist-2066Up_02": {
+      "__uuid__": "2568f4a1-22ad-471a-a05c-8507c730773c"
+    },
+    "T-REXPist-2066Up_03": {
+      "__uuid__": "35d3ac05-28ea-41c1-b677-2ce8b81e5b12"
+    }
+  }
+}

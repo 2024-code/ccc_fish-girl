@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_02_surprise_01",
+    "texture": "f8be7374-2c08-49bc-987c-14726c35c133",
+    "atlas": "",
+    "rect": [
+      12,
+      28,
+      356,
+      352
+    ],
+    "offset": [
+      -10,
+      -4
+    ],
+    "originalSize": [
+      400,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_start",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "bones": [
+      {
+        "name": "root",
+        "x": -1.18,
+        "y": 10.13
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 22.79,
+        "x": -0.15,
+        "y": -14.29,
+        "rotation": 86.39
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "length": 22.79,
+        "x": -0.15,
+        "y": -14.29,
+        "rotation": 86.39
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "length": 22.79,
+        "x": -0.15,
+        "y": -14.29,
+        "rotation": 86.39
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg",
+        "bone": "bone3",
+        "attachment": "bg"
+      },
+      {
+        "name": "bca1",
+        "bone": "bone2",
+        "attachment": "bca1",
+        "additive": true
+      },
+      {
+        "name": "bac",
+        "bone": "bone",
+        "attachment": "bac",
+        "additive": true
+      }
+    ],
+    "skins": {
+      "default": {
+        "bac": {
+          "bac": {
+            "x": 6.57,
+            "y": -3.06,
+            "rotation": -86.39,
+            "width": 502,
+            "height": 95
+          }
+        },
+        "bca1": {
+          "bca1": {
+            "x": 16.55,
+            "y": -2.43,
+            "rotation": -86.39,
+            "width": 502,
+            "height": 95
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": 47.56,
+            "y": 30.08,
+            "rotation": -86.39,
+            "width": 563,
+            "height": 209
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6666,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6666,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "slots": {
+          "bac": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bac"
+              },
+              {
+                "time": 0.3333,
+                "name": "bac"
+              },
+              {
+                "time": 0.6666,
+                "name": "bac"
+              },
+              {
+                "time": 1,
+                "name": "bac"
+              },
+              {
+                "time": 1.3333,
+                "name": "bac"
+              },
+              {
+                "time": 1.6666,
+                "name": "bac"
+              },
+              {
+                "time": 2,
+                "name": "bac"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6666,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6666,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "bca1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bca1"
+              },
+              {
+                "time": 0.3333,
+                "name": "bca1"
+              },
+              {
+                "time": 0.6666,
+                "name": "bca1"
+              },
+              {
+                "time": 1,
+                "name": "bca1"
+              },
+              {
+                "time": 1.3333,
+                "name": "bca1"
+              },
+              {
+                "time": 1.6666,
+                "name": "bca1"
+              },
+              {
+                "time": 2,
+                "name": "bca1"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6666,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.6666,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nanim_start-1.png\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbac\n  rotate: false\n  xy: 2, 2\n  size: 502, 95\n  orig: 502, 95\n  offset: 0, 0\n  index: -1\nbca1\n  rotate: false\n  xy: 2, 2\n  size: 502, 95\n  orig: 502, 95\n  offset: 0, 0\n  index: -1\nbg\n  rotate: false\n  xy: 2, 99\n  size: 563, 209\n  orig: 563, 209\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9f265f78-e189-4cd4-a0cf-4217cd0d708c"
+    }
+  ],
+  "textureNames": [
+    "anim_start-1.png"
+  ],
+  "scale": 1
+}

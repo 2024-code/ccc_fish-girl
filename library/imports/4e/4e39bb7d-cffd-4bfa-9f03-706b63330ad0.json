@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BounsBG ",
+    "texture": "f2262e2b-2d46-404a-adb2-dfaa3117efac",
+    "atlas": "57abc3e9-96dc-45fb-8c7a-939b6cf39379",
+    "rect": [
+      1,
+      1,
+      800,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      600
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

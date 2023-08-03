@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dt_bag_icon_flow",
+    "texture": "030b61d5-9a8c-44cc-9108-394f48dfa5d4",
+    "atlas": "e69ba0e2-ff18-43c0-ae2b-759ab0d38aa8",
+    "rect": [
+      142,
+      2,
+      40,
+      29
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      40,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

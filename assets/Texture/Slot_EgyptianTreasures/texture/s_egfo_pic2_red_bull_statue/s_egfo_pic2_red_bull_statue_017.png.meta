@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "28af332a-90d2-41ef-ae21-f7d1b28d584c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_pic2_red_bull_statue_017": {
+      "ver": "1.0.4",
+      "uuid": "7916f7a3-ecab-4b4c-9979-32ef640f6497",
+      "rawTextureUuid": "28af332a-90d2-41ef-ae21-f7d1b28d584c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": 11,
+      "trimX": 29,
+      "trimY": 9,
+      "width": 307,
+      "height": 309,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

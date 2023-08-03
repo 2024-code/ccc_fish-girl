@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kucunBg",
+    "texture": "6a8999de-6b4c-404e-9f08-12e4ca5248f5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      400,
+      195
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      401,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

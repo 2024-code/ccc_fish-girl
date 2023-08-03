@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_LblDragon-0112",
+    "texture": "122d1b73-36b1-4519-a625-69b83004f567",
+    "atlas": "b2c7b940-ea7d-446b-841e-cdc04f8bd844",
+    "rect": [
+      1643,
+      256,
+      384,
+      245
+    ],
+    "offset": [
+      58,
+      0
+    ],
+    "originalSize": [
+      500,
+      245
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

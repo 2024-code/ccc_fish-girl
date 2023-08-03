@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_addgold1",
+    "texture": "89b45290-8ddf-4bf5-8b79-b5153807e16d",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      34,
+      36
+    ],
+    "offset": [
+      1.5,
+      0.5
+    ],
+    "originalSize": [
+      37,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

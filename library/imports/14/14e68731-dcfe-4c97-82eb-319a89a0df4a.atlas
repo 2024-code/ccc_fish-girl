@@ -1,0 +1,209 @@
+
+slots_7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0001
+  rotate: false
+  xy: 2, 210
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0002
+  rotate: false
+  xy: 171, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0003
+  rotate: false
+  xy: 2, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0004
+  rotate: false
+  xy: 301, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0005
+  rotate: false
+  xy: 431, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0006
+  rotate: false
+  xy: 561, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0007
+  rotate: false
+  xy: 691, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0008
+  rotate: false
+  xy: 821, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0009
+  rotate: false
+  xy: 132, 210
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0010
+  rotate: false
+  xy: 132, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0011
+  rotate: false
+  xy: 262, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0012
+  rotate: false
+  xy: 262, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0013
+  rotate: false
+  xy: 392, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0014
+  rotate: false
+  xy: 392, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0015
+  rotate: false
+  xy: 522, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a0016
+  rotate: false
+  xy: 522, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 652, 238
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 340
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: true
+  xy: 951, 380
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+gui01
+  rotate: false
+  xy: 262, 60
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+gui01Light
+  rotate: false
+  xy: 652, 130
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+gui01a
+  rotate: false
+  xy: 781, 242
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+gui02
+  rotate: false
+  xy: 781, 289
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+gui02Light
+  rotate: false
+  xy: 781, 323
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+gui03
+  rotate: true
+  xy: 318, 59
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+gui03Light
+  rotate: false
+  xy: 208, 20
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+gui04
+  rotate: false
+  xy: 652, 186
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+gui05
+  rotate: false
+  xy: 108, 9
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+gui05Light
+  rotate: false
+  xy: 2, 2
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1

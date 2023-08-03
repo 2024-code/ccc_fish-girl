@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_bg_view",
+    "texture": "edd6680b-6b15-496f-969d-24321cf8ad63",
+    "atlas": "",
+    "rect": [
+      1,
+      9,
+      951,
+      551
+    ],
+    "offset": [
+      0.5,
+      -4.5
+    ],
+    "originalSize": [
+      952,
+      560
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

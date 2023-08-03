@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "SwimItems-1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "6": {
+      "__uuid__": "e583e5fa-9c6c-4ccd-9967-a15145c90aeb"
+    },
+    "9": {
+      "__uuid__": "c3f4ac7d-ca17-41a1-bad1-953bbfcda698"
+    },
+    "10": {
+      "__uuid__": "a6d39a54-fada-41a2-8061-0408fdfb8b8f"
+    },
+    "nv_18": {
+      "__uuid__": "1068f9f1-fdeb-439f-bac2-2c8ba4196f77"
+    },
+    "xyj_zu_2_1": {
+      "__uuid__": "ce9f1463-d380-465a-822b-6432a853a475"
+    },
+    "nv_29": {
+      "__uuid__": "76cefc96-c1ca-4f03-b19c-06c6f02a0399"
+    },
+    "nv_12": {
+      "__uuid__": "f59e0e95-7b49-411c-8d1f-7971ce81a198"
+    },
+    "nv_21": {
+      "__uuid__": "4802a9f6-1dbb-426d-ba47-9099f57743df"
+    },
+    "1-scatter": {
+      "__uuid__": "017c10e7-8966-444b-a925-074238064d01"
+    },
+    "nv_01": {
+      "__uuid__": "e39ca76b-7fde-4d05-b0c3-500d5e316e0f"
+    },
+    "nv_05": {
+      "__uuid__": "c6c7f74f-c21e-4f9c-96e6-f28a324b0701"
+    },
+    "nv_02": {
+      "__uuid__": "f89ef8e9-73bd-473d-a04a-47c5d1e008cd"
+    },
+    "nv_23": {
+      "__uuid__": "8f953a43-c2f9-4019-a0c7-30a0fd76c327"
+    },
+    "nv_03": {
+      "__uuid__": "e1fbf863-193e-4edc-83c7-f91873d43fa1"
+    },
+    "nv_17": {
+      "__uuid__": "e4d0c086-dfc7-4f90-b3fc-81fc5e09958c"
+    },
+    "nv_08": {
+      "__uuid__": "635e488a-835d-4eac-a676-39f34f5a4046"
+    },
+    "nv_11": {
+      "__uuid__": "d78fbd17-ee2f-4a88-bebd-ad0cd4d69812"
+    },
+    "nv_19": {
+      "__uuid__": "e7f1da11-0464-4a57-b266-ae2206304949"
+    },
+    "0-glow": {
+      "__uuid__": "249e89b3-a930-4efb-a2c6-679faee10c79"
+    },
+    "0-bonus": {
+      "__uuid__": "61ca0fac-1365-413b-8014-12f7663f40f6"
+    },
+    "nv_07": {
+      "__uuid__": "eb8e20fb-d5a8-4aa8-8e47-ebaf0072b890"
+    },
+    "xyj_zu_1_1": {
+      "__uuid__": "b60f04c3-48ad-4cf8-9288-4d46af3f8308"
+    },
+    "nv_22": {
+      "__uuid__": "a5576fe5-3403-4e63-ae36-357bf74c7fbc"
+    },
+    "nv_28": {
+      "__uuid__": "4a9e8fca-1669-4d93-aa45-5817439201e1"
+    },
+    "xyj_zu_4_1": {
+      "__uuid__": "55ef3ab8-db59-410f-b869-9f2f94daff34"
+    },
+    "nv_27": {
+      "__uuid__": "31da8cff-e466-4732-a044-a90ac0126c9c"
+    },
+    "nv_26": {
+      "__uuid__": "3d89b834-cc34-4bca-a1fc-8d5c0d7ad07d"
+    },
+    "xyj_zu_6_1": {
+      "__uuid__": "0faaf8d3-a36a-4222-97d2-1e5e6467e511"
+    },
+    "2-wild": {
+      "__uuid__": "d98f5d5d-c726-4428-97cf-67146d6b55f9"
+    },
+    "0-icon": {
+      "__uuid__": "afb1382f-d606-41f9-b84e-68297086ab46"
+    },
+    "nv_09": {
+      "__uuid__": "d4bd35c6-27c9-4790-b5e7-29b7364043f9"
+    },
+    "nv_25": {
+      "__uuid__": "84ab9efa-2322-49ef-aae9-ae491043ae05"
+    },
+    "nv_16": {
+      "__uuid__": "d4412fbf-de5d-4ba5-8a11-082098fc35e0"
+    },
+    "nv_20": {
+      "__uuid__": "66df1836-106d-49d5-bc55-da954564191e"
+    },
+    "nv_10": {
+      "__uuid__": "84df0e37-3c66-4f58-948a-eca34c092e96"
+    },
+    "nv_30": {
+      "__uuid__": "9bd7ac32-d380-4868-9473-f1600edb4fd3"
+    },
+    "xyj_zu_3_1": {
+      "__uuid__": "acd093ed-6fbd-4ae8-9214-530e4dc0fb49"
+    },
+    "xyj_zu_5_1": {
+      "__uuid__": "498cac98-9437-4ea3-b85f-dd57c67ad691"
+    },
+    "nv_04": {
+      "__uuid__": "37fffdc7-80e2-4aff-8a86-8e090e88922f"
+    },
+    "xyj_zu_11_1": {
+      "__uuid__": "58cfcc20-1688-4049-bccc-ad25f57ccdba"
+    },
+    "nv_13": {
+      "__uuid__": "4038f5ff-034d-4c61-8e02-d3bae263e5d4"
+    },
+    "nv_14": {
+      "__uuid__": "d4adca79-3ffe-4c9e-8260-a5dffca549b4"
+    },
+    "nv_24": {
+      "__uuid__": "1fa099aa-9134-43a1-97a0-a5f19bcdaf8d"
+    },
+    "nv_06": {
+      "__uuid__": "dd56827d-0c23-40fa-8797-858537efb20d"
+    },
+    "xyj_zu_7_1": {
+      "__uuid__": "357bb2ef-804a-4304-b7bb-4d207eaa2d70"
+    },
+    "xyj_zu_8_1": {
+      "__uuid__": "521ae0cc-74c8-4cd8-9059-6721662886e4"
+    },
+    "2-kuang": {
+      "__uuid__": "8667072f-25ee-43b4-a6e3-23a0777af341"
+    },
+    "nv_15": {
+      "__uuid__": "5d9a2ba2-daa2-4f22-89de-95f3f7f0d885"
+    }
+  }
+}

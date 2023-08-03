@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_FSTransition_scroll",
+    "texture": "96d50da4-571b-441a-8edb-d3dd930d6f2b",
+    "atlas": "",
+    "rect": [
+      3,
+      5,
+      1384,
+      399
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      1390,
+      414
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

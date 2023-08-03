@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "saima02.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_track_045": {
+      "__uuid__": "12825872-08af-44b2-a671-79b8f341d972"
+    },
+    "bg_track_046": {
+      "__uuid__": "6a966885-f971-49ee-8a0b-1335ee962a7f"
+    },
+    "bg_track_047": {
+      "__uuid__": "11a8bee6-091d-40be-8521-1cc1005ade0e"
+    },
+    "bg_track_048": {
+      "__uuid__": "91bc70e7-13f2-4770-8c52-e0b85ec3ddf2"
+    },
+    "bg_track_049": {
+      "__uuid__": "9e61c7a9-ac93-4218-9245-525e41098bc4"
+    },
+    "bg_track_050": {
+      "__uuid__": "4e0ba118-874a-46e5-b46b-a127010c8352"
+    },
+    "bg_track_051": {
+      "__uuid__": "c8758e43-b586-4176-a476-26f579919026"
+    },
+    "bg_track_052": {
+      "__uuid__": "a62f0ae6-00a8-4824-8e28-2cd79a247b19"
+    },
+    "bg_track_053": {
+      "__uuid__": "2e82d928-8b26-4f69-8d07-9a7e754e3ae3"
+    },
+    "bg_track_054": {
+      "__uuid__": "8d0e3ab2-e0d3-40b6-88a2-ad764ed3bd3e"
+    },
+    "bg_track_055": {
+      "__uuid__": "e01a8f30-6265-4fcf-b6ac-fca6b147562c"
+    },
+    "bg_track_056": {
+      "__uuid__": "141ce4ff-c8e2-43d2-9075-474dc82f5a12"
+    },
+    "bg_track_057": {
+      "__uuid__": "6ffb5ee2-e2ec-4cd3-9fbf-0326fb7f588f"
+    },
+    "bg_track_058": {
+      "__uuid__": "ab8aefe1-56e8-41ab-8e3b-d16b0c960858"
+    },
+    "bg_track_059": {
+      "__uuid__": "13872d02-6ff5-46f4-865b-15dee3310769"
+    },
+    "bg_track_060": {
+      "__uuid__": "2b72554c-92b8-40b2-b6d6-3aa53abe0dd8"
+    },
+    "bg_track_061": {
+      "__uuid__": "a9ff418c-63af-4967-b829-1b116ae91453"
+    },
+    "bg_track_062": {
+      "__uuid__": "b8c8872b-ecd4-4613-bf92-77f269321ac0"
+    },
+    "bg_track_063": {
+      "__uuid__": "e07a2ab4-a31b-496c-acbe-14c33862f86d"
+    },
+    "bg_track_064": {
+      "__uuid__": "6d248b21-a188-4854-a2ce-353323560ccb"
+    },
+    "bg_track_065": {
+      "__uuid__": "0b0c2a99-3a6f-44d9-b58e-3ee6ce90a3f5"
+    },
+    "bg_track_066": {
+      "__uuid__": "9a3c306d-1643-4598-8e05-ed9b1400dabb"
+    },
+    "bg_track_067": {
+      "__uuid__": "3655419b-869c-4b43-946d-679e137a473a"
+    },
+    "bg_track_068": {
+      "__uuid__": "0fe75ed4-6802-44b5-b6db-398b380bdcee"
+    },
+    "bg_track_069": {
+      "__uuid__": "993b09e7-8b36-4e91-bdbb-789b883ed809"
+    },
+    "bg_track_070": {
+      "__uuid__": "850cd3bb-d5d9-4c7b-93dc-d1fe599bde92"
+    },
+    "bg_track_071": {
+      "__uuid__": "50f39b72-6b29-4990-b106-7305251b3340"
+    },
+    "bg_track_072": {
+      "__uuid__": "932da46e-1ce6-48ee-97db-d0659889ad32"
+    },
+    "bg_track_073": {
+      "__uuid__": "f69b7ccf-7462-4a71-b7ec-9a2f08d6abef"
+    },
+    "bg_track_074": {
+      "__uuid__": "469434f2-76e5-4f79-b81f-5cf45e12b669"
+    },
+    "bg_track_075": {
+      "__uuid__": "678d65eb-d90f-4117-b464-00bc0c30f428"
+    },
+    "bg_track_076": {
+      "__uuid__": "9838ec5c-0910-4323-928f-baf9b740f3d8"
+    },
+    "bg_track_077": {
+      "__uuid__": "43fb3c77-8495-41f2-b7be-54565945aa4d"
+    },
+    "bg_track_078": {
+      "__uuid__": "a14de3b9-a438-464e-b4e8-b9c267b16621"
+    },
+    "bg_track_079": {
+      "__uuid__": "0caf66a4-4ed0-490d-9180-6d92c3712d48"
+    },
+    "bg_track_080": {
+      "__uuid__": "3301e796-bf73-4a8e-8b31-059f6bf81402"
+    },
+    "bg_track_081": {
+      "__uuid__": "002ebbeb-8fe8-4432-8140-347e299ef73a"
+    },
+    "bg_track_082": {
+      "__uuid__": "ef28240b-e57e-421d-ba51-fbbdd34566b1"
+    },
+    "bg_track_083": {
+      "__uuid__": "759d2960-081c-4cd8-9a46-93b001389d02"
+    },
+    "bg_track_084": {
+      "__uuid__": "3fe8dca1-c76f-4fc6-85bb-549745536dcf"
+    },
+    "bg_track_085": {
+      "__uuid__": "eb8e2a3f-847f-40eb-ac15-297d951eaae3"
+    },
+    "bg_track_086": {
+      "__uuid__": "b7565862-8938-4930-b75f-c9e2865964e1"
+    },
+    "bg_track_087": {
+      "__uuid__": "68e0464f-1fac-4d6d-83c9-7bd8e6bc7851"
+    },
+    "bg_track_088": {
+      "__uuid__": "677c1240-2d54-4ff4-8e51-0cee4d87f722"
+    },
+    "bg_track_089": {
+      "__uuid__": "27fea9df-ef16-403c-8514-53393a9a917d"
+    }
+  }
+}

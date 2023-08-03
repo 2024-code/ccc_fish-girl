@@ -1,0 +1,43 @@
+{
+    "SubTexture": [{
+        "frameX": 0,
+        "y": 1,
+        "frameY": -1,
+        "frameWidth": 250,
+        "width": 250,
+        "frameHeight": 250,
+        "height": 248,
+        "name": "连线机-拷贝-8",
+        "x": 1
+    },
+    {
+        "width": 141,
+        "y": 251,
+        "height": 217,
+        "name": "组-4-拷贝-2",
+        "x": 1
+    },
+    {
+        "width": 213,
+        "y": 242,
+        "height": 218,
+        "name": "e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658",
+        "x": 253
+    },
+    {
+        "width": 153,
+        "y": 462,
+        "height": 56,
+        "name": "logo-拷贝",
+        "x": 144
+    },
+    {
+        "width": 242,
+        "y": 1,
+        "height": 239,
+        "name": "圆角矩形-4",
+        "x": 253
+    }],
+    "imagePath": "db_Land_tex.png",
+    "name": "db_Land"
+}

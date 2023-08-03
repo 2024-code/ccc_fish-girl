@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6d4f86e5-5859-4fa3-bfca-9eef9b434c68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 388,
+  "height": 129,
+  "platformSettings": {},
+  "subMetas": {
+    "slots_jackpot_bar": {
+      "ver": "1.0.4",
+      "uuid": "3d1915c9-74ae-4e89-b2ce-9281b3599d4c",
+      "rawTextureUuid": "6d4f86e5-5859-4fa3-bfca-9eef9b434c68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 12,
+      "trimX": 6,
+      "trimY": 13,
+      "width": 382,
+      "height": 79,
+      "rawWidth": 388,
+      "rawHeight": 129,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jian",
+    "texture": "378cc023-e92f-43fe-a8ec-b5369c60ff6c",
+    "atlas": "",
+    "rect": [
+      29,
+      26,
+      45,
+      44
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      101,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

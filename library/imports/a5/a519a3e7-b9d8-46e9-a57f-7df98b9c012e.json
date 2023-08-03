@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "playerinfo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_1": {
+      "__uuid__": "7d3ba759-83a4-42e3-a0d2-4cc3676bc9bb"
+    },
+    "btn_2": {
+      "__uuid__": "3f7a3783-3953-4048-9085-34b00a24d4f4"
+    },
+    "close": {
+      "__uuid__": "bf9bf487-d525-4d83-a012-e2ae7c409747"
+    },
+    "edit_1": {
+      "__uuid__": "b5b56a39-d77b-40e1-a217-8303876cb84c"
+    },
+    "edit_2": {
+      "__uuid__": "df921a95-fb1e-47e7-b629-055c1c65bc35"
+    },
+    "edit_3": {
+      "__uuid__": "21992f53-c8d4-434b-bc85-07a2a6b2c4fa"
+    },
+    "face_box": {
+      "__uuid__": "996a2ab8-d3bd-4174-9710-464455acbde1"
+    },
+    "face_mask": {
+      "__uuid__": "ba8fc793-6abb-4e50-a34f-59f7e90e3cd5"
+    },
+    "icon3": {
+      "__uuid__": "594f61b8-58e8-48b7-89bb-2761b65071f1"
+    },
+    "icon_1": {
+      "__uuid__": "86fe9dae-e535-41c7-a709-41f800f98d45"
+    },
+    "icon_2": {
+      "__uuid__": "0e58659e-f34b-46ef-83bd-08b64c8244e1"
+    },
+    "left_bg": {
+      "__uuid__": "6f9b0d5d-ccdc-437f-97f0-772b27f3cc2a"
+    }
+  }
+}

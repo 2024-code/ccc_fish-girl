@@ -1,0 +1,188 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "10_lblAnglerFish_1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-10_lblAnglerFish-0001": {
+      "__uuid__": "c29508f4-9641-4a2e-95d8-bb1fcf67f4db"
+    },
+    "atlas-10_lblAnglerFish-0003": {
+      "__uuid__": "cca7ca2d-45cb-4f86-bd87-04f6b43ee0fb"
+    },
+    "atlas-10_lblAnglerFish-0005": {
+      "__uuid__": "b78ee0c9-2029-4e34-9b05-9dc56cd79009"
+    },
+    "atlas-10_lblAnglerFish-0007": {
+      "__uuid__": "63bc7e94-8d08-4ef2-b524-ed24d22608f0"
+    },
+    "atlas-10_lblAnglerFish-0009": {
+      "__uuid__": "ba37a9d3-6cb9-46c1-a067-2ad6a1f0ac71"
+    },
+    "atlas-10_lblAnglerFish-0011": {
+      "__uuid__": "48738752-ddee-4e35-a8f9-36d7f3bc0fd8"
+    },
+    "atlas-10_lblAnglerFish-0013": {
+      "__uuid__": "f9a0f296-09ed-4953-8767-c734fe2db72d"
+    },
+    "atlas-10_lblAnglerFish-0015": {
+      "__uuid__": "e48076eb-fcab-471d-bc06-707fac4fdab0"
+    },
+    "atlas-10_lblAnglerFish-0017": {
+      "__uuid__": "32ceff1c-d42a-41f2-94f2-fa87b1e75a8c"
+    },
+    "atlas-10_lblAnglerFish-0019": {
+      "__uuid__": "42b1a0c0-7de0-4068-b08c-270446202ba1"
+    },
+    "atlas-10_lblAnglerFish-0021": {
+      "__uuid__": "a922cc36-fe39-4152-9f57-dc58884da25b"
+    },
+    "atlas-10_lblAnglerFish-0023": {
+      "__uuid__": "9d4a91ef-82a1-496e-85ce-aa4af4e0318a"
+    },
+    "atlas-10_lblAnglerFish-0025": {
+      "__uuid__": "1d81a1a3-cd8b-4135-9216-e0ee178bf33f"
+    },
+    "atlas-10_lblAnglerFish-0027": {
+      "__uuid__": "3548ad10-c34b-42c9-a556-d9ec3d663d76"
+    },
+    "atlas-10_lblAnglerFish-0029": {
+      "__uuid__": "ba627f8c-de7f-4dd6-9282-d19a39f8c32f"
+    },
+    "atlas-10_lblAnglerFish-0031": {
+      "__uuid__": "666f090a-ddfd-4052-9f81-f115870aa01f"
+    },
+    "atlas-10_lblAnglerFish-0033": {
+      "__uuid__": "55d2768d-b441-42bb-8798-b17a4c1ea3f9"
+    },
+    "atlas-10_lblAnglerFish-0035": {
+      "__uuid__": "f8f4e5ff-50d1-4aef-9532-e5dce6a20c4a"
+    },
+    "atlas-10_lblAnglerFish-0037": {
+      "__uuid__": "18a5d2a6-a815-4fe9-9d6b-757df7b87099"
+    },
+    "atlas-10_lblAnglerFish-0039": {
+      "__uuid__": "7c91b81b-4094-4090-b076-c886a86d799b"
+    },
+    "atlas-10_lblAnglerFish-0041": {
+      "__uuid__": "6966743f-1bc8-402e-8a22-2d9559b9f981"
+    },
+    "atlas-10_lblAnglerFish-0043": {
+      "__uuid__": "8f648de8-85d5-435e-9460-ab67aed3ede9"
+    },
+    "atlas-10_lblAnglerFish-0045": {
+      "__uuid__": "3909db30-2740-47dd-b3ef-48515381ed15"
+    },
+    "atlas-10_lblAnglerFish-0047": {
+      "__uuid__": "05e677fa-6b23-4ba5-84a0-ee04550a36e9"
+    },
+    "atlas-10_lblAnglerFish-0049": {
+      "__uuid__": "56018bf1-325a-4c0b-b688-dace6846b3eb"
+    },
+    "atlas-10_lblAnglerFish-0051": {
+      "__uuid__": "f2628cee-67ba-47ac-ba42-a8699ef1b360"
+    },
+    "atlas-10_lblAnglerFish-0053": {
+      "__uuid__": "9949c68d-5862-47ab-9046-440866a60d13"
+    },
+    "atlas-10_lblAnglerFish-0055": {
+      "__uuid__": "02ce6d43-a3d0-42d2-bcd3-b086fb93c2a3"
+    },
+    "atlas-10_lblAnglerFish-0057": {
+      "__uuid__": "1766a686-f5b0-4f54-9e35-e3a70d4ab527"
+    },
+    "atlas-10_lblAnglerFish-0059": {
+      "__uuid__": "65e96e31-043d-45e6-8dcc-766fd3f637ba"
+    },
+    "atlas-10_lblAnglerFish-0061": {
+      "__uuid__": "13aabc21-a207-4883-80ce-0d6b8bc52c6e"
+    },
+    "atlas-10_lblAnglerFish-0063": {
+      "__uuid__": "53d5d996-9787-4a6f-b117-176897e42506"
+    },
+    "atlas-10_lblAnglerFish-0065": {
+      "__uuid__": "283994b0-7956-43de-8d03-5f98eb9f8a3b"
+    },
+    "atlas-10_lblAnglerFish-0067": {
+      "__uuid__": "fd77757c-c60d-43d6-ae6a-9a8bfa62055e"
+    },
+    "atlas-10_lblAnglerFish-0069": {
+      "__uuid__": "c23f791c-10cf-4c89-a883-bee8fa0bae9a"
+    },
+    "atlas-10_lblAnglerFish-0071": {
+      "__uuid__": "87e68cf4-e9c7-4440-acf3-4045b1a7e504"
+    },
+    "atlas-10_lblAnglerFish-0073": {
+      "__uuid__": "f6edd43e-8ca6-43c7-8e9b-50de79c1bf1b"
+    },
+    "atlas-10_lblAnglerFish-0075": {
+      "__uuid__": "34cf58bd-27f6-4a16-a8d3-943bb260d89b"
+    },
+    "atlas-10_lblAnglerFish-0077": {
+      "__uuid__": "86d73e3e-12ab-40ee-a7ea-8a0dccb0637d"
+    },
+    "atlas-10_lblAnglerFish-0079": {
+      "__uuid__": "a6193bab-6016-4f61-9caa-e8984a17ed1b"
+    },
+    "atlas-10_lblAnglerFish-0081": {
+      "__uuid__": "4efacb99-5f86-4f27-a7a7-e3f4ce3cbc2f"
+    },
+    "atlas-10_lblAnglerFish-0083": {
+      "__uuid__": "1a3ee7f3-17cf-40a7-9ed0-74e44934e405"
+    },
+    "atlas-10_lblAnglerFish-0085": {
+      "__uuid__": "6afd0cc5-d0c9-412f-8d91-d8323d163640"
+    },
+    "atlas-10_lblAnglerFish-0087": {
+      "__uuid__": "84e3caa8-a448-472f-85ed-1a5678a3a1c3"
+    },
+    "atlas-10_lblAnglerFish-0089": {
+      "__uuid__": "7dd33352-4edb-4734-afc2-e2e5a8be0d50"
+    },
+    "atlas-10_lblAnglerFish-0091": {
+      "__uuid__": "ce2d2967-9183-4349-9b63-f4e8e0ec4e06"
+    },
+    "atlas-10_lblAnglerFish-0093": {
+      "__uuid__": "15cf816d-4240-4116-806a-8a9b940c4c4a"
+    },
+    "atlas-10_lblAnglerFish-0095": {
+      "__uuid__": "fd1f8c9e-abea-4489-9761-58b1109a9d16"
+    },
+    "atlas-10_lblAnglerFish-0097": {
+      "__uuid__": "67defb79-d948-4cc9-a19b-9f117e306400"
+    },
+    "atlas-10_lblAnglerFish-0099": {
+      "__uuid__": "99ed6fc5-954f-4fc7-a0be-8c11de4019bf"
+    },
+    "atlas-10_lblAnglerFish-0101": {
+      "__uuid__": "7fd4525d-47bd-4712-a714-9518c2b3d607"
+    },
+    "atlas-10_lblAnglerFish-0103": {
+      "__uuid__": "4f2c1125-7567-49c6-875b-cf7ad1bd8a39"
+    },
+    "atlas-10_lblAnglerFish-0105": {
+      "__uuid__": "b8471037-5b04-40f1-ae5c-46eaa517e32b"
+    },
+    "atlas-10_lblAnglerFish-0107": {
+      "__uuid__": "26445d42-6cd2-4aa4-8161-9b714115d677"
+    },
+    "atlas-10_lblAnglerFish-0109": {
+      "__uuid__": "de8f3c47-1185-4855-ba2c-e5c5dafd97b2"
+    },
+    "atlas-10_lblAnglerFish-0111": {
+      "__uuid__": "6d38ff0f-8629-44bd-8037-8db518949c91"
+    },
+    "atlas-10_lblAnglerFish-0113": {
+      "__uuid__": "a43d7220-a1ec-4b88-a31f-85ba7388972a"
+    },
+    "atlas-10_lblAnglerFish-0115": {
+      "__uuid__": "85202814-6912-4783-85a7-b31b4b8b3f9a"
+    },
+    "atlas-10_lblAnglerFish-0117": {
+      "__uuid__": "4bf35ecb-8a19-41af-9903-081f26dd57c7"
+    },
+    "atlas-10_lblAnglerFish-0119": {
+      "__uuid__": "5d43cf63-cb20-4881-87f5-bfb547a07b1e"
+    }
+  }
+}

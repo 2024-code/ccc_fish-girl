@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_11_overlay",
+    "texture": "df23c287-b3a2-40ba-958f-eed7f7106d99",
+    "atlas": "",
+    "rect": [
+      11,
+      22,
+      233,
+      189
+    ],
+    "offset": [
+      2.5,
+      8.5
+    ],
+    "originalSize": [
+      250,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

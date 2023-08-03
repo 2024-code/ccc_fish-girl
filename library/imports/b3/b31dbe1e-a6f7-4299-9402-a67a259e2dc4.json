@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Bouns1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BG": {
+      "__uuid__": "5be46de4-5d60-4675-9441-809d7d85f357"
+    },
+    "Blank": {
+      "__uuid__": "9d62b535-ce6b-448f-b1e3-aa5df2de164c"
+    },
+    "Climbme": {
+      "__uuid__": "b1b54dd5-41a5-46c1-b641-96757e86ee61"
+    },
+    "Close_01": {
+      "__uuid__": "e342f679-4326-424b-a90d-c63127254446"
+    },
+    "Close_02": {
+      "__uuid__": "4987106e-f2a4-4055-8ead-32ebc7d4808f"
+    },
+    "Hive": {
+      "__uuid__": "3127d340-461e-4604-8af0-f12348548335"
+    },
+    "Honey": {
+      "__uuid__": "945f9255-00af-474a-99fb-679ad339af96"
+    },
+    "Start_01": {
+      "__uuid__": "e575fc24-f55f-4e9d-9d14-aea2b23f40ca"
+    },
+    "Start_02": {
+      "__uuid__": "8ce6bb47-afd4-4eca-8fbf-9919a6b85f49"
+    },
+    "Tree_01": {
+      "__uuid__": "15b09931-9385-4352-99e7-d70ac9fecfe1"
+    },
+    "Tree_02": {
+      "__uuid__": "21c57b6e-0628-4fb3-88f1-5d284d917d5c"
+    },
+    "Tree_03": {
+      "__uuid__": "0739bc7a-2662-4d1f-9655-2c1eac00983b"
+    },
+    "Tree_04": {
+      "__uuid__": "99fb404b-e713-450a-a975-3c6780186f85"
+    },
+    "Tree_05": {
+      "__uuid__": "122e28f4-e944-4a09-a6a7-774603c6ac56"
+    }
+  }
+}

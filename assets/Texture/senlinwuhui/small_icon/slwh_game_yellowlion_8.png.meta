@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "38019158-d19e-460e-9e81-cfb31ff219c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_yellowlion_8": {
+      "ver": "1.0.4",
+      "uuid": "4e767e2b-e5dc-46c4-bed0-15c23512b330",
+      "rawTextureUuid": "38019158-d19e-460e-9e81-cfb31ff219c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 6,
+      "trimX": 73,
+      "trimY": 61,
+      "width": 110,
+      "height": 122,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

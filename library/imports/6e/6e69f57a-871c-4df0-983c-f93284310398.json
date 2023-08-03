@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cunfen",
+    "texture": "d9e9b0a8-9823-4ec8-a19a-fce58ac67aa5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      107,
+      53
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      110,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

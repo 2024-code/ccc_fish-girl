@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bet.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bet0": {
+      "__uuid__": "ab6eef88-0d2e-443d-8a23-ec754798e919"
+    },
+    "bet1": {
+      "__uuid__": "508750d0-2d57-4056-bc69-620bf7835fb5"
+    },
+    "bet2": {
+      "__uuid__": "ae86b8df-7b9e-4b90-914d-77d4c88f060d"
+    },
+    "bet3": {
+      "__uuid__": "e45d88bd-860f-4a85-b679-5fce6f9788a6"
+    },
+    "bet4": {
+      "__uuid__": "5646c4e2-cd1c-4e40-98e0-5a8d33e7d1c0"
+    },
+    "bet5": {
+      "__uuid__": "e086ff97-cdb6-43d9-8687-0d754152be14"
+    },
+    "bet6": {
+      "__uuid__": "cd62d8be-8071-4934-a82c-e411c52a0b0e"
+    },
+    "bet7": {
+      "__uuid__": "f07709c4-96da-4dca-8436-16c87fecbb44"
+    },
+    "bet8": {
+      "__uuid__": "8faf1224-fcdb-44cc-a159-6aec826b1db1"
+    },
+    "bet9": {
+      "__uuid__": "5d3b08a1-b197-43e5-8699-ce1c0ca65d84"
+    },
+    "betchip1": {
+      "__uuid__": "0d2e1897-5547-4f75-b16e-64de85a26feb"
+    },
+    "betchip2": {
+      "__uuid__": "804de908-812a-4d01-846a-ff762923c6fd"
+    },
+    "betchip3": {
+      "__uuid__": "deb4d363-c2d3-4e54-8aff-0c37c99a0597"
+    },
+    "betchip4": {
+      "__uuid__": "bc34cd02-c4f7-481b-837c-db2e2781e8d0"
+    },
+    "betchip5": {
+      "__uuid__": "ce3a4ab3-0851-4517-af28-f6704f1d733a"
+    },
+    "betchip6": {
+      "__uuid__": "77924bde-86e0-4fde-ad4c-fbee17243846"
+    }
+  }
+}

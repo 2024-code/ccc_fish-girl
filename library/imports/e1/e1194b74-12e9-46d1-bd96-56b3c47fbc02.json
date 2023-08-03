@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_skin",
+    "texture": "56a0576d-fda2-489c-8a73-cbcd161cff5e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      233,
+      339
+    ],
+    "offset": [
+      -9.5,
+      84.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

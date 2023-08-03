@@ -1,0 +1,542 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ypticon",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "XL0eOsgtFef0Y+CLuLFUzCQnogQ",
+      "spine": "3.5.46",
+      "width": 99.28,
+      "height": 51.07
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "bone",
+        "x": 40,
+        "y": 11.18
+      },
+      {
+        "name": "bone3",
+        "parent": "bone",
+        "x": -1.18,
+        "y": -0.3,
+        "scaleX": 0.44,
+        "scaleY": 0.44
+      },
+      {
+        "name": "bone4",
+        "parent": "bone",
+        "x": -1.18,
+        "y": -0.3,
+        "scaleX": 0.398,
+        "scaleY": 0.398
+      }
+    ],
+    "slots": [
+      {
+        "name": "bone4",
+        "bone": "bone4",
+        "attachment": "1a"
+      },
+      {
+        "name": "bone5",
+        "bone": "bone3",
+        "color": "ffffff58",
+        "attachment": "0590",
+        "blend": "additive"
+      },
+      {
+        "name": "slots_sign_1Bet_nor",
+        "bone": "bone2",
+        "attachment": "01a"
+      },
+      {
+        "name": "slots_sign_1Bet_nor3",
+        "bone": "bone2"
+      },
+      {
+        "name": "slots_sign_1Bet_nor2",
+        "bone": "bone2",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "bone4": {
+          "1": {
+            "width": 35,
+            "height": 35
+          },
+          "1a": {
+            "width": 43,
+            "height": 43
+          }
+        },
+        "bone5": {
+          "1": {
+            "width": 35,
+            "height": 35
+          },
+          "0590": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        "slots_sign_1Bet_nor2": {
+          "light": {
+            "width": 78,
+            "height": 42
+          }
+        }
+      },
+      "01": {
+        "slots_sign_1Bet_nor": {
+          "01a": {
+            "name": "slots_sign_1Bet_nor",
+            "width": 88,
+            "height": 51
+          }
+        },
+        "slots_sign_1Bet_nor3": {
+          "01b": {
+            "name": "slots_sign_1Bet_sel",
+            "width": 88,
+            "height": 51
+          }
+        }
+      },
+      "02": {
+        "slots_sign_1Bet_nor": {
+          "01a": {
+            "name": "slots_sign_4Bet_nor",
+            "width": 88,
+            "height": 51
+          }
+        },
+        "slots_sign_1Bet_nor3": {
+          "01b": {
+            "name": "slots_sign_4Bet_sel",
+            "width": 88,
+            "height": 51
+          }
+        }
+      },
+      "03": {
+        "slots_sign_1Bet_nor": {
+          "01a": {
+            "name": "slots_sign_5Bet_nor",
+            "width": 88,
+            "height": 51
+          }
+        },
+        "slots_sign_1Bet_nor3": {
+          "01b": {
+            "name": "slots_sign_5Bet_sel",
+            "width": 88,
+            "height": 51
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "bone4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1"
+              }
+            ]
+          },
+          "bone5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff58",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.1667,
+                "color": "ffffff58",
+                "curve": [
+                  0,
+                  0.34,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1"
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "01a"
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.606,
+                "y": 0.606
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.782,
+                "y": 0.782,
+                "curve": [
+                  0,
+                  0.22,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "x": 1.193,
+                "y": 1.193,
+                "curve": [
+                  0.25,
+                  0,
+                  1,
+                  0.79
+                ]
+              },
+              {
+                "time": 0.8,
+                "x": 1.01,
+                "y": 1.01,
+                "curve": [
+                  0,
+                  0.13,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.3333,
+                "x": 1.193,
+                "y": 1.193,
+                "curve": [
+                  0.25,
+                  0,
+                  1,
+                  0.85
+                ]
+              },
+              {
+                "time": 1.8333,
+                "x": 0.94,
+                "y": 0.94,
+                "curve": [
+                  0,
+                  0.14,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.1667,
+                "x": 1.239,
+                "y": 1.239,
+                "curve": [
+                  0,
+                  0.25,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3,
+                "x": 1.38,
+                "y": 1.38
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      },
+      "animation2": {
+        "slots": {
+          "bone4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1a"
+              }
+            ]
+          },
+          "bone5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "light"
+              }
+            ]
+          },
+          "slots_sign_1Bet_nor3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "01b"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.606,
+                "y": 0.606
+              },
+              {
+                "time": 0.5,
+                "x": 0.563,
+                "y": 0.563
+              },
+              {
+                "time": 1,
+                "x": 0.606,
+                "y": 0.606
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.441,
+                "y": 0.441,
+                "curve": [
+                  0,
+                  0.22,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "x": 1.193,
+                "y": 1.193,
+                "curve": [
+                  0.25,
+                  0,
+                  1,
+                  0.79
+                ]
+              },
+              {
+                "time": 1,
+                "x": 1.427,
+                "y": 1.427
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nypticon.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0590\n  rotate: true\n  xy: 419, 44\n  size: 62, 64\n  orig: 64, 64\n  offset: 1, 0\n  index: -1\n1\n  rotate: false\n  xy: 227, 28\n  size: 35, 35\n  orig: 35, 35\n  offset: 0, 0\n  index: -1\n1a\n  rotate: false\n  xy: 182, 20\n  size: 43, 43\n  orig: 43, 43\n  offset: 0, 0\n  index: -1\nlight\n  rotate: false\n  xy: 92, 11\n  size: 78, 42\n  orig: 78, 42\n  offset: 0, 0\n  index: -1\nslots_sign_1Bet_nor\n  rotate: false\n  xy: 182, 65\n  size: 77, 41\n  orig: 88, 51\n  offset: 7, 4\n  index: -1\nslots_sign_1Bet_sel\n  rotate: false\n  xy: 2, 55\n  size: 88, 51\n  orig: 88, 51\n  offset: 0, 0\n  index: -1\nslots_sign_4Bet_nor\n  rotate: false\n  xy: 261, 65\n  size: 77, 41\n  orig: 88, 51\n  offset: 7, 4\n  index: -1\nslots_sign_4Bet_sel\n  rotate: false\n  xy: 2, 2\n  size: 88, 51\n  orig: 88, 51\n  offset: 0, 0\n  index: -1\nslots_sign_5Bet_nor\n  rotate: false\n  xy: 340, 65\n  size: 77, 41\n  orig: 88, 51\n  offset: 7, 4\n  index: -1\nslots_sign_5Bet_sel\n  rotate: false\n  xy: 92, 55\n  size: 88, 51\n  orig: 88, 51\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "1e4010cc-cf01-456d-b6bc-393408b6c128"
+    }
+  ],
+  "textureNames": [
+    "ypticon.png"
+  ],
+  "scale": 1
+}

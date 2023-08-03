@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_loadbar_bg",
+    "texture": "b070d50b-66ac-4524-83d5-ba5f260a167e",
+    "atlas": "dcba961b-8168-4840-b936-17b5cb67fa0d",
+    "rect": [
+      2,
+      368,
+      276,
+      33
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      276,
+      37
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

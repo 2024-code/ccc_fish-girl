@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ScatterWin",
+    "texture": "3302a2b3-1b36-4f20-9556-4a850bf19296",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      98,
+      15
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      101,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

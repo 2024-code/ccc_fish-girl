@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "reward.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "rwLoop01": {
+      "__uuid__": "992c8d82-a84d-4887-88f1-0ea7f864f266"
+    },
+    "rwLoop02": {
+      "__uuid__": "3bbe3eff-97a7-4daf-96b9-2612cc01b6d1"
+    },
+    "rwLoop03": {
+      "__uuid__": "fab98d67-677a-4465-b118-501fa35a298b"
+    },
+    "rwLoop04": {
+      "__uuid__": "c0ce31ea-ad67-4d93-a9bb-28071c29a0fe"
+    },
+    "rwLoop05": {
+      "__uuid__": "ae16010b-7396-4fbc-9bfe-000746547854"
+    },
+    "rwLoop06": {
+      "__uuid__": "93425836-5bd1-48a8-a86f-b9ba529962af"
+    },
+    "rwLoop07": {
+      "__uuid__": "dea6f07b-8d55-47e4-8e16-05708cbf2f35"
+    },
+    "rwLoop08": {
+      "__uuid__": "3cd3b7b1-9693-431d-8892-987803bc7e56"
+    },
+    "rwLoop09": {
+      "__uuid__": "6f6e10a1-2d47-43da-afae-7c61128db7b8"
+    },
+    "rwStart01": {
+      "__uuid__": "66ec49fe-3442-4419-a550-feafb982f77e"
+    },
+    "rwStart02": {
+      "__uuid__": "1310f78b-3495-485e-a95e-df00bbd7043c"
+    },
+    "rwStart03": {
+      "__uuid__": "188e42e1-3aa6-4ffe-820c-48027fe57b0d"
+    },
+    "rwStart04": {
+      "__uuid__": "f2a60f6e-cec1-4da7-ab72-4236a7fbdb15"
+    },
+    "rwStart05": {
+      "__uuid__": "f13fbd0c-e26c-4e7a-b87f-bd41bf29ee59"
+    },
+    "rwStart06": {
+      "__uuid__": "3d62c271-096f-4a41-a596-d89cc6de93c5"
+    },
+    "rwStart07": {
+      "__uuid__": "136a5dff-a707-4830-ba86-03a3a4b21142"
+    },
+    "rwStart08": {
+      "__uuid__": "44ac2c15-a69c-46ce-950c-a0f55a98dff5"
+    },
+    "rwStart09": {
+      "__uuid__": "42a8fe5b-7c3c-46d1-9c0a-3548b54061e9"
+    },
+    "rwStart10": {
+      "__uuid__": "e4b463df-770a-4610-99bd-31ccc5061c51"
+    },
+    "rwStart11": {
+      "__uuid__": "50443675-343f-4bb1-b1dd-ffbb1594e9de"
+    },
+    "rwStart12": {
+      "__uuid__": "8cc7f083-56f0-48d6-9914-543662a0a5bc"
+    },
+    "rwStart13": {
+      "__uuid__": "215cce95-e4b7-4e3d-a872-9bc9027d821a"
+    },
+    "rwStart14": {
+      "__uuid__": "6f67d464-5795-4502-acbd-6fb113353dd1"
+    },
+    "rwStart15": {
+      "__uuid__": "31c5539f-f5bd-4602-bf6e-7e382277cb05"
+    },
+    "rwStart16": {
+      "__uuid__": "0838b4c1-82d6-4297-8621-90f0006b542f"
+    },
+    "rwStart17": {
+      "__uuid__": "790e45fe-fceb-4d87-b888-af19361f09e2"
+    },
+    "rwStart18": {
+      "__uuid__": "a5fd7bbc-4bbf-42ee-9910-382686326719"
+    },
+    "rwStart19": {
+      "__uuid__": "79fbba00-d310-4f67-8c47-64ebe2eda034"
+    }
+  }
+}

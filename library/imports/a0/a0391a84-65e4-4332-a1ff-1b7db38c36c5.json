@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "login.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "caidai": {
+      "__uuid__": "5b277a85-4e4f-4cb5-8b92-9aea3b6cdc57"
+    },
+    "close_1": {
+      "__uuid__": "0e9c1327-f8c5-4589-a114-784600faffe0"
+    },
+    "close_2": {
+      "__uuid__": "63cf9741-67c8-465f-81d4-929ac2c5296b"
+    },
+    "cn_btn_dl1": {
+      "__uuid__": "fe2a2bf3-a334-41a2-b3f3-53549925e6c6"
+    },
+    "cn_btn_dl2": {
+      "__uuid__": "42fad05e-707c-4557-b5f5-f4cf5e7911f4"
+    },
+    "cn_btn_login1": {
+      "__uuid__": "0be7a2f6-e616-45b3-8509-416ae42f73e9"
+    },
+    "cn_btn_login2": {
+      "__uuid__": "7b24ebf8-f8ec-45a1-a7b7-bac0fcfcc066"
+    },
+    "cn_btn_reg1": {
+      "__uuid__": "265f6b93-6974-4252-8e50-569ab3d21d94"
+    },
+    "cn_btn_reg2": {
+      "__uuid__": "c4f87de8-dd0c-41bc-a26b-32d574a5a310"
+    },
+    "cn_btn_wxlogin1": {
+      "__uuid__": "7b4f7eb1-965e-4191-acc6-ac903fd85ed9"
+    },
+    "cn_btn_wxlogin2": {
+      "__uuid__": "003f5436-f757-4afa-8c49-8bb7c32a4d7a"
+    },
+    "cn_btn_yk1": {
+      "__uuid__": "058cb2cb-9618-44d2-b3d8-780cd075a2c7"
+    },
+    "cn_btn_yk2": {
+      "__uuid__": "7f985d25-db33-4dee-9ede-2bb9f43410b9"
+    },
+    "cn_btn_zc1": {
+      "__uuid__": "b970216b-ccd8-474b-bffd-2b16edf39d7d"
+    },
+    "cn_btn_zc2": {
+      "__uuid__": "e75ef07a-eaec-457b-a442-5f527a137e18"
+    },
+    "cn_text_denglu": {
+      "__uuid__": "2c293ef6-5304-484f-b9b6-e7c62d259c19"
+    },
+    "cn_text_mima": {
+      "__uuid__": "03048378-441b-45fd-a0d5-a3cb38a7db05"
+    },
+    "cn_text_zcmima": {
+      "__uuid__": "d7aa44a4-c5fd-4b79-8e99-070ff5a58284"
+    },
+    "cn_text_zhanghao": {
+      "__uuid__": "bf09d2e8-f5e3-461a-9e0c-aa65b788ed2b"
+    },
+    "cn_text_zhuce": {
+      "__uuid__": "f5de12a2-addf-4891-a7ec-c5b0d8045949"
+    },
+    "en_btn_dl1": {
+      "__uuid__": "338b9a72-d2c7-4fca-ae73-8c0a36b89263"
+    },
+    "en_btn_dl2": {
+      "__uuid__": "e11854d7-26ac-4cf4-a143-9c8a9f907c50"
+    },
+    "en_btn_login1": {
+      "__uuid__": "84224f46-39b3-42b9-836f-265137b8c9af"
+    },
+    "en_btn_login2": {
+      "__uuid__": "b5ebf216-3dd5-478c-948e-c8365435a487"
+    },
+    "en_btn_reg1": {
+      "__uuid__": "bec3490d-891f-48e2-824a-d3590c363626"
+    },
+    "en_btn_reg2": {
+      "__uuid__": "078a481e-b50c-408d-a48a-3efceaaf0e0f"
+    },
+    "en_btn_wxlogin1": {
+      "__uuid__": "07272a79-52fd-4782-a5fb-48d7db2512f6"
+    },
+    "en_btn_wxlogin2": {
+      "__uuid__": "88fe78a1-6461-4f97-9a8e-461670eeca05"
+    },
+    "en_btn_yk1": {
+      "__uuid__": "30b4956b-5363-49a5-b0d9-cc882baa18ca"
+    },
+    "en_btn_yk2": {
+      "__uuid__": "07c0ac86-bb44-4a97-ae2f-36a442a62880"
+    },
+    "en_btn_zc1": {
+      "__uuid__": "fa8649f5-cca8-489b-a07a-4346cdf552c2"
+    },
+    "en_btn_zc2": {
+      "__uuid__": "81d44a4c-3b87-48ae-81cb-61466afa8809"
+    },
+    "en_text_denglu": {
+      "__uuid__": "1ffcad1c-658a-4d9b-a039-149518cda9fb"
+    },
+    "en_text_mima": {
+      "__uuid__": "ae2cf8ac-e50c-47f5-ba31-6b411ad5bfc1"
+    },
+    "en_text_zcmima": {
+      "__uuid__": "8a1a2588-a2a3-4f74-b5ad-eb12febcf9c1"
+    },
+    "en_text_zhanghao": {
+      "__uuid__": "e920c1b4-c321-4b9e-8dfb-68f531849db4"
+    },
+    "en_text_zhuce": {
+      "__uuid__": "b7ad085f-e56f-4c58-95b3-7f36f8839dcc"
+    },
+    "girl_1": {
+      "__uuid__": "58cfc28a-5429-421f-8d44-3fd4a0a4b888"
+    },
+    "girl_2": {
+      "__uuid__": "316d23cb-ead8-4400-a140-5c0910fc90c8"
+    },
+    "gold": {
+      "__uuid__": "f7c7628c-6c33-4dfb-92e3-82f53fc050e8"
+    },
+    "gold2": {
+      "__uuid__": "90d9bda3-6a0f-4eab-8640-de21772e6995"
+    },
+    "inputbox": {
+      "__uuid__": "6d993c6c-7c2a-4b2a-af50-54e6ce38be72"
+    },
+    "logo_hg": {
+      "__uuid__": "aa129eb2-fc4f-47c9-9200-4f0a6dc41858"
+    },
+    "logo_text": {
+      "__uuid__": "9594cb33-6622-421f-9f93-c10d27d26322"
+    },
+    "loufang": {
+      "__uuid__": "8d60795d-c026-45a8-b297-076741187797"
+    },
+    "zhuzi_left": {
+      "__uuid__": "a4bf0c50-21f2-4b46-bf2d-d3f4d49a7fa7"
+    },
+    "zhuzi_right": {
+      "__uuid__": "6dff58ac-4b46-48cd-96fc-d906c54ad885"
+    }
+  }
+}

@@ -1,0 +1,669 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "slots_51_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "QZte1SOow5MSRFTxmJ8o0nxXVcc",
+      "spine": "3.5.46",
+      "width": 170,
+      "height": 159
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "y": -10
+      }
+    ],
+    "slots": [
+      {
+        "name": "0",
+        "bone": "bone2",
+        "attachment": "a1"
+      },
+      {
+        "name": "WILD_ANI_00000",
+        "bone": "bone",
+        "attachment": "WILD_ANI_00029"
+      }
+    ],
+    "skins": {
+      "default": {
+        "0": {
+          "0": {
+            "width": 146,
+            "height": 137
+          },
+          "A2": {
+            "width": 146,
+            "height": 137
+          },
+          "A3": {
+            "width": 146,
+            "height": 137
+          },
+          "A4": {
+            "width": 146,
+            "height": 137
+          },
+          "A5": {
+            "width": 146,
+            "height": 137
+          },
+          "a1": {
+            "width": 146,
+            "height": 137
+          }
+        },
+        "WILD_ANI_00000": {
+          "WILD_ANI_00000": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00001": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00002": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00003": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00004": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00005": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00006": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00007": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00008": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00009": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00010": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00011": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00012": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00013": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00014": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00015": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00016": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00017": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00018": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00019": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00020": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00021": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00022": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00023": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00024": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00025": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00026": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00027": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00028": {
+            "width": 170,
+            "height": 159
+          },
+          "WILD_ANI_00029": {
+            "width": 170,
+            "height": 159
+          }
+        }
+      }
+    },
+    "animations": {
+      "ami3": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "a1"
+              }
+            ]
+          },
+          "WILD_ANI_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "WILD_ANI_00000"
+              },
+              {
+                "time": 0.0667,
+                "name": "WILD_ANI_00001"
+              },
+              {
+                "time": 0.1333,
+                "name": "WILD_ANI_00002"
+              },
+              {
+                "time": 0.2,
+                "name": "WILD_ANI_00003"
+              },
+              {
+                "time": 0.3,
+                "name": "WILD_ANI_00004"
+              },
+              {
+                "time": 0.4,
+                "name": "WILD_ANI_00005"
+              },
+              {
+                "time": 0.4667,
+                "name": "WILD_ANI_00006"
+              },
+              {
+                "time": 0.5333,
+                "name": "WILD_ANI_00007"
+              },
+              {
+                "time": 0.6,
+                "name": "WILD_ANI_00008"
+              },
+              {
+                "time": 0.6667,
+                "name": "WILD_ANI_00009"
+              },
+              {
+                "time": 0.7333,
+                "name": "WILD_ANI_00010"
+              },
+              {
+                "time": 0.8,
+                "name": "WILD_ANI_00011"
+              },
+              {
+                "time": 0.8667,
+                "name": "WILD_ANI_00012"
+              },
+              {
+                "time": 0.9333,
+                "name": "WILD_ANI_00013"
+              },
+              {
+                "time": 1,
+                "name": "WILD_ANI_00014"
+              },
+              {
+                "time": 1.0667,
+                "name": "WILD_ANI_00015"
+              },
+              {
+                "time": 1.1333,
+                "name": "WILD_ANI_00016"
+              },
+              {
+                "time": 1.2,
+                "name": "WILD_ANI_00017"
+              },
+              {
+                "time": 1.2667,
+                "name": "WILD_ANI_00018"
+              },
+              {
+                "time": 1.3333,
+                "name": "WILD_ANI_00019"
+              },
+              {
+                "time": 1.4,
+                "name": "WILD_ANI_00020"
+              },
+              {
+                "time": 1.4667,
+                "name": "WILD_ANI_00021"
+              },
+              {
+                "time": 1.5333,
+                "name": "WILD_ANI_00022"
+              },
+              {
+                "time": 1.6,
+                "name": "WILD_ANI_00023"
+              },
+              {
+                "time": 1.6667,
+                "name": "WILD_ANI_00024"
+              },
+              {
+                "time": 1.7333,
+                "name": "WILD_ANI_00025"
+              },
+              {
+                "time": 1.8,
+                "name": "WILD_ANI_00026"
+              },
+              {
+                "time": 1.8667,
+                "name": "WILD_ANI_00027"
+              },
+              {
+                "time": 1.9333,
+                "name": "WILD_ANI_00028"
+              },
+              {
+                "time": 2,
+                "name": "WILD_ANI_00029"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5667,
+                "x": 1.071,
+                "y": 1.071
+              },
+              {
+                "time": 1.1667,
+                "x": 0.859,
+                "y": 0.859
+              },
+              {
+                "time": 1.6333,
+                "x": 1.047,
+                "y": 1.047
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "ami4": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "a1"
+              }
+            ]
+          },
+          "WILD_ANI_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "WILD_ANI_00000"
+              },
+              {
+                "time": 0.1,
+                "name": "WILD_ANI_00029"
+              },
+              {
+                "time": 0.2,
+                "name": "WILD_ANI_00028"
+              },
+              {
+                "time": 0.3,
+                "name": "WILD_ANI_00027"
+              },
+              {
+                "time": 0.4,
+                "name": "WILD_ANI_00026"
+              },
+              {
+                "time": 0.5,
+                "name": "WILD_ANI_00025"
+              },
+              {
+                "time": 0.6,
+                "name": "WILD_ANI_00024"
+              },
+              {
+                "time": 0.7,
+                "name": "WILD_ANI_00025"
+              },
+              {
+                "time": 0.8,
+                "name": "WILD_ANI_00026"
+              },
+              {
+                "time": 0.9,
+                "name": "WILD_ANI_00027"
+              },
+              {
+                "time": 1,
+                "name": "WILD_ANI_00028"
+              },
+              {
+                "time": 1.1,
+                "name": "WILD_ANI_00029"
+              },
+              {
+                "time": 1.2,
+                "name": "WILD_ANI_00000"
+              },
+              {
+                "time": 1.2667,
+                "name": "WILD_ANI_00029"
+              },
+              {
+                "time": 1.3667,
+                "name": "WILD_ANI_00028"
+              },
+              {
+                "time": 1.4333,
+                "name": "WILD_ANI_00027"
+              },
+              {
+                "time": 1.5333,
+                "name": "WILD_ANI_00026"
+              },
+              {
+                "time": 1.6,
+                "name": "WILD_ANI_00025"
+              },
+              {
+                "time": 1.6667,
+                "name": "WILD_ANI_00024"
+              },
+              {
+                "time": 1.7667,
+                "name": "WILD_ANI_00025"
+              },
+              {
+                "time": 1.8333,
+                "name": "WILD_ANI_00026"
+              },
+              {
+                "time": 1.9333,
+                "name": "WILD_ANI_00027"
+              },
+              {
+                "time": 2,
+                "name": "WILD_ANI_00028"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.047,
+                "y": 1.047
+              },
+              {
+                "time": 1.2,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6,
+                "x": 1.047,
+                "y": 1.047
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nslots_51_1.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0\n  rotate: false\n  xy: 678, 187\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\nA2\n  rotate: false\n  xy: 842, 348\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\nA3\n  rotate: false\n  xy: 842, 211\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\nA4\n  rotate: false\n  xy: 678, 50\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\nA5\n  rotate: false\n  xy: 824, 74\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\nWILD_ANI_00000\n  rotate: false\n  xy: 862, 646\n  size: 156, 159\n  orig: 170, 159\n  offset: 9, 0\n  index: -1\nWILD_ANI_00001\n  rotate: false\n  xy: 862, 807\n  size: 160, 159\n  orig: 170, 159\n  offset: 9, 0\n  index: -1\nWILD_ANI_00002\n  rotate: false\n  xy: 518, 165\n  size: 158, 157\n  orig: 170, 159\n  offset: 8, 2\n  index: -1\nWILD_ANI_00003\n  rotate: false\n  xy: 518, 324\n  size: 166, 159\n  orig: 170, 159\n  offset: 4, 0\n  index: -1\nWILD_ANI_00004\n  rotate: false\n  xy: 346, 2\n  size: 162, 159\n  orig: 170, 159\n  offset: 8, 0\n  index: -1\nWILD_ANI_00005\n  rotate: false\n  xy: 690, 485\n  size: 166, 159\n  orig: 170, 159\n  offset: 4, 0\n  index: -1\nWILD_ANI_00006\n  rotate: false\n  xy: 2, 807\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00007\n  rotate: false\n  xy: 2, 646\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00008\n  rotate: false\n  xy: 174, 807\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00009\n  rotate: false\n  xy: 2, 485\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00010\n  rotate: false\n  xy: 174, 646\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00011\n  rotate: false\n  xy: 346, 807\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00012\n  rotate: false\n  xy: 2, 324\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00013\n  rotate: false\n  xy: 174, 485\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00014\n  rotate: false\n  xy: 346, 646\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00015\n  rotate: false\n  xy: 518, 807\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00016\n  rotate: false\n  xy: 2, 163\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00017\n  rotate: false\n  xy: 174, 324\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00018\n  rotate: false\n  xy: 346, 485\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00019\n  rotate: false\n  xy: 518, 646\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00020\n  rotate: false\n  xy: 690, 807\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00021\n  rotate: false\n  xy: 2, 2\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00022\n  rotate: false\n  xy: 174, 163\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00023\n  rotate: false\n  xy: 346, 324\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00024\n  rotate: false\n  xy: 518, 485\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00025\n  rotate: false\n  xy: 690, 646\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00026\n  rotate: false\n  xy: 174, 2\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00027\n  rotate: false\n  xy: 346, 163\n  size: 170, 159\n  orig: 170, 159\n  offset: 0, 0\n  index: -1\nWILD_ANI_00028\n  rotate: false\n  xy: 686, 324\n  size: 154, 159\n  orig: 170, 159\n  offset: 8, 0\n  index: -1\nWILD_ANI_00029\n  rotate: false\n  xy: 858, 485\n  size: 154, 159\n  orig: 170, 159\n  offset: 10, 0\n  index: -1\na1\n  rotate: true\n  xy: 510, 17\n  size: 144, 135\n  orig: 146, 137\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "ba2543b2-592e-421e-bc8c-5f6b0474b72f"
+    }
+  ],
+  "textureNames": [
+    "slots_51_1.png"
+  ],
+  "scale": 1
+}

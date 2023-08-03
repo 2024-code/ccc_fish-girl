@@ -1,0 +1,19 @@
+
+bag-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 94, 46
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1

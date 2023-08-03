@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_CaiYuanGunGunFreeSpinGame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Slots_fs_hand": {
+      "__uuid__": "061aa4d7-c2cf-4091-b736-25eaae6a1c92"
+    },
+    "slots_fs_bg_muti": {
+      "__uuid__": "4b2ce493-0d63-4b12-913f-5fc9a0d8c648"
+    },
+    "slots_fs_btn_sur_nor": {
+      "__uuid__": "bbc68f43-cc19-47de-86f8-cbac71d2a02a"
+    },
+    "slots_fs_btn_sur_press": {
+      "__uuid__": "6fab93c8-3327-4412-ba8b-0c7b68ad1942"
+    },
+    "slots_muti_number_choose_1": {
+      "__uuid__": "fb7fc3dc-e3bd-49d9-8409-db912f93b50f"
+    },
+    "slots_muti_number_choose_10": {
+      "__uuid__": "c421cb4e-5965-4c00-92c2-c63f91076144"
+    },
+    "slots_muti_number_choose_2": {
+      "__uuid__": "6d525f35-030c-483d-a561-784f627c9edc"
+    },
+    "slots_muti_number_choose_3": {
+      "__uuid__": "6f7f62fb-862b-4eac-98bf-51f85d1dc93f"
+    },
+    "slots_muti_number_choose_5": {
+      "__uuid__": "541c1667-030a-4043-bbaa-95a28ec786f2"
+    },
+    "slots_muti_number_passed_1": {
+      "__uuid__": "7adf14dc-2f52-4069-912b-53bca47abe9f"
+    },
+    "slots_muti_number_passed_10": {
+      "__uuid__": "5dede3a9-13f6-4d4b-a3e3-f189bf03431e"
+    },
+    "slots_muti_number_passed_2": {
+      "__uuid__": "0c1d4cdf-35e0-4595-88ff-dc07bd4ba064"
+    },
+    "slots_muti_number_passed_3": {
+      "__uuid__": "5ac4c184-34d6-4c98-9102-955a168db9fe"
+    },
+    "slots_muti_number_passed_5": {
+      "__uuid__": "4d16f137-aab6-4384-b584-014d0df32e32"
+    },
+    "slots_muti_number_wait_1": {
+      "__uuid__": "d1ca99a3-d650-414c-a09e-39604ceaeb5e"
+    },
+    "slots_muti_number_wait_10": {
+      "__uuid__": "4149d63e-d787-436f-b206-97b3a4846117"
+    },
+    "slots_muti_number_wait_2": {
+      "__uuid__": "0b0b35cf-da12-4d35-ab40-33b790b34898"
+    },
+    "slots_muti_number_wait_3": {
+      "__uuid__": "745dc342-f5c9-4193-a0da-713414948b1c"
+    },
+    "slots_muti_number_wait_5": {
+      "__uuid__": "53573a32-3604-4930-87db-1f5733248fe1"
+    }
+  }
+}

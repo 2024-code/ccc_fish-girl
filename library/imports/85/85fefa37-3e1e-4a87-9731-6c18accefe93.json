@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roma",
+    "texture": "d8e49300-653d-4fd9-b55f-0648a1fefdbb",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      209,
+      185
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      211,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

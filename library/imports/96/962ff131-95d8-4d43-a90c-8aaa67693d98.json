@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "db_Mall_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"name\": \"db_Mall\",\r\n    \"SubTexture\": [{\r\n        \"width\": 197,\r\n        \"y\": 1,\r\n        \"height\": 135,\r\n        \"name\": \"icon_cz\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 138,\r\n        \"height\": 86,\r\n        \"name\": \"图层-611\",\r\n        \"x\": 1\r\n    }],\r\n    \"imagePath\": \"db_Mall_tex.png\"\r\n}",
+  "_texture": {
+    "__uuid__": "560c8073-6402-4dab-82c0-630de6179a7e"
+  },
+  "texture": {
+    "__uuid__": "560c8073-6402-4dab-82c0-630de6179a7e"
+  },
+  "_textureAtlasData": null
+}

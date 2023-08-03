@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mingci_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 17.966666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -461
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": 68
+        },
+        {
+          "frame": 8.65,
+          "value": 145
+        },
+        {
+          "frame": 10,
+          "value": -43
+        },
+        {
+          "frame": 14.483333333333333,
+          "value": -199
+        },
+        {
+          "frame": 16.2,
+          "value": -100
+        },
+        {
+          "frame": 18,
+          "value": 4800
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 16.23,
+      "func": "onAnimEvent_ZhongDian",
+      "params": []
+    }
+  ]
+}

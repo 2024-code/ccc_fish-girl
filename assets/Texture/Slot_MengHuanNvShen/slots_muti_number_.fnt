@@ -1,0 +1,20 @@
+info face="slots_muti_number_" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=96 base=26 scaleW=512 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="slots_muti_number_.png"
+chars count=14
+char id=48 x=77 y=89 width=76 height=91 xoffset=0 yoffset=6 xadvance=68 page=0 chnl=0 letter="0"
+char id=49 x=303 y=0 width=56 height=88 xoffset=0 yoffset=8 xadvance=48 page=0 chnl=0 letter="1"
+char id=50 x=301 y=92 width=71 height=89 xoffset=0 yoffset=7 xadvance=63 page=0 chnl=0 letter="2"
+char id=51 x=230 y=0 width=72 height=91 xoffset=0 yoffset=6 xadvance=64 page=0 chnl=0 letter="3"
+char id=52 x=0 y=0 width=77 height=88 xoffset=0 yoffset=8 xadvance=69 page=0 chnl=0 letter="4"
+char id=53 x=154 y=0 width=75 height=98 xoffset=0 yoffset=0 xadvance=67 page=0 chnl=0 letter="5"
+char id=54 x=154 y=99 width=73 height=91 xoffset=0 yoffset=6 xadvance=65 page=0 chnl=0 letter="6"
+char id=55 x=78 y=0 width=72 height=88 xoffset=0 yoffset=8 xadvance=64 page=0 chnl=0 letter="7"
+char id=56 x=0 y=89 width=76 height=106 xoffset=0 yoffset=-8 xadvance=68 page=0 chnl=0 letter="8"
+char id=57 x=228 y=99 width=72 height=101 xoffset=0 yoffset=7 xadvance=64 page=0 chnl=0 letter="9"
+char id=120 x=77 y=181 width=71 height=69 xoffset=0 yoffset=15 xadvance=63 page=0 chnl=0 letter="x"
+char id=43 x=301 y=182 width=67 height=67 xoffset=0 yoffset=16 xadvance=59 page=0 chnl=0 letter="+"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=60 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=480 page=0 chnl=0 letter="	"
+
+kernings count=0

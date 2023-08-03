@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "BsUI.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Black_01": {
+      "__uuid__": "776efa87-1eab-48f2-92ee-c9c131883267"
+    },
+    "Black_02": {
+      "__uuid__": "cc822e8e-bef7-4f24-addb-7799dcd99ae9"
+    },
+    "Black_03": {
+      "__uuid__": "19a5b84c-31ec-4a91-b856-c70145d0170a"
+    },
+    "Card_01": {
+      "__uuid__": "3b4416bf-650b-454b-baf7-f0303b85e10b"
+    },
+    "Card_02": {
+      "__uuid__": "b9589de0-568f-439d-bdfd-626ba7e065ad"
+    },
+    "Card_03": {
+      "__uuid__": "9988f500-4316-4ef1-b429-a26f18bc4200"
+    },
+    "Card_04": {
+      "__uuid__": "449cb518-9358-4032-befb-1067719fdb29"
+    },
+    "Card_05": {
+      "__uuid__": "04682085-1d8d-4867-b432-e8759c9616f0"
+    },
+    "Collect_01": {
+      "__uuid__": "84c5d4a7-7101-4baf-bed4-ab1a1c7a3289"
+    },
+    "Collect_02": {
+      "__uuid__": "e57fefd7-8aeb-4a7b-ae7e-ade6feaa3d40"
+    },
+    "GambleBG": {
+      "__uuid__": "402493fe-c99e-43e0-bcdb-b36dcb0fd455"
+    },
+    "Red_01": {
+      "__uuid__": "6cd1a463-0d71-406b-a0a2-6591f522aa05"
+    },
+    "Red_02": {
+      "__uuid__": "28c50576-279a-46dd-baf0-4387e7a643fb"
+    },
+    "Red_03": {
+      "__uuid__": "c05f378e-1d31-482b-9463-ae6c65f4584f"
+    },
+    "dealer_wins": {
+      "__uuid__": "14768031-b2d9-4f53-8ce3-8a6981e48b03"
+    }
+  }
+}

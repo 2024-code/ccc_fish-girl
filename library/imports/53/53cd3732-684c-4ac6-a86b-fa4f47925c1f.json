@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_AnglerFish-0101",
+    "texture": "2014480b-e863-4ebf-b97f-f37f4e32b08b",
+    "atlas": "99f84192-379d-49b6-91a5-6b8054245d61",
+    "rect": [
+      1,
+      653,
+      390,
+      516
+    ],
+    "offset": [
+      -45,
+      -37
+    ],
+    "originalSize": [
+      480,
+      590
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

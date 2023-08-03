@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_fs_btn_end_nor",
+    "texture": "75fd6798-0d29-4842-b866-0900543b8fcb",
+    "atlas": "e6d40af1-3c78-41c2-8113-27aa7bc38d73",
+    "rect": [
+      64,
+      1312,
+      246,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      60
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

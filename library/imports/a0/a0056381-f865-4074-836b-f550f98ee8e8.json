@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuihuzhuan",
+    "texture": "2bafe2d5-a5e6-46fe-99ae-5d21aa639b25",
+    "atlas": "b22da308-76cf-4488-b9b5-86728ecd3422",
+    "rect": [
+      800,
+      800,
+      200,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

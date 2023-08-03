@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "db_Land_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"frameX\": 0,\r\n        \"y\": 1,\r\n        \"frameY\": -1,\r\n        \"frameWidth\": 250,\r\n        \"width\": 250,\r\n        \"frameHeight\": 250,\r\n        \"height\": 248,\r\n        \"name\": \"连线机-拷贝-8\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 141,\r\n        \"y\": 251,\r\n        \"height\": 217,\r\n        \"name\": \"组-4-拷贝-2\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 213,\r\n        \"y\": 242,\r\n        \"height\": 218,\r\n        \"name\": \"e1cf213b3eff459852aa47b9803e2be064cb7b1a241b5-esk2CT_fw658\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"width\": 153,\r\n        \"y\": 462,\r\n        \"height\": 56,\r\n        \"name\": \"logo-拷贝\",\r\n        \"x\": 144\r\n    },\r\n    {\r\n        \"width\": 242,\r\n        \"y\": 1,\r\n        \"height\": 239,\r\n        \"name\": \"圆角矩形-4\",\r\n        \"x\": 253\r\n    }],\r\n    \"imagePath\": \"db_Land_tex.png\",\r\n    \"name\": \"db_Land\"\r\n}",
+  "_texture": {
+    "__uuid__": "95ea400e-e0d8-4144-9ce9-26b0c5ebbbc1"
+  },
+  "texture": {
+    "__uuid__": "95ea400e-e0d8-4144-9ce9-26b0c5ebbbc1"
+  },
+  "_textureAtlasData": null
+}

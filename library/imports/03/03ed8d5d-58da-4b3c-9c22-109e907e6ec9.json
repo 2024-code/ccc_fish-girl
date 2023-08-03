@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dt_bag_icon_roomcard",
+    "texture": "030b61d5-9a8c-44cc-9108-394f48dfa5d4",
+    "atlas": "e69ba0e2-ff18-43c0-ae2b-759ab0d38aa8",
+    "rect": [
+      252,
+      2,
+      38,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

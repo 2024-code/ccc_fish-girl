@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huodeTxt",
+    "texture": "5d606f05-80aa-40fb-bb9d-5b68f8f3530b",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      63,
+      33
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      68,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

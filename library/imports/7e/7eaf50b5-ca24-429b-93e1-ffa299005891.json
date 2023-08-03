@@ -1,0 +1,206 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_casino_club_3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "club_fjlb_bar_bg": {
+      "__uuid__": "bcec297f-2d90-4674-989e-0667721f048a"
+    },
+    "club_fjlb_bar_green": {
+      "__uuid__": "57bdc85f-8809-4819-bb45-a45737ca8a7c"
+    },
+    "club_fjlb_bg_head": {
+      "__uuid__": "7f25de96-6e08-44b2-91ff-bbaf1be775a3"
+    },
+    "club_fjlb_bg_headd": {
+      "__uuid__": "5db09e68-6a5c-44a3-ac8e-97cdf35bf0b8"
+    },
+    "club_fjlb_bg_yx": {
+      "__uuid__": "531b28ba-c377-42c4-a082-452994eb0441"
+    },
+    "club_fjlb_btn_cjfj": {
+      "__uuid__": "cdafb75d-06ae-4b3b-a4c4-fe87dbeb5727"
+    },
+    "club_fjlb_btn_fhfj": {
+      "__uuid__": "affe3dcf-5873-4438-9ce0-0ca0c1e15876"
+    },
+    "club_fjlb_btn_orange": {
+      "__uuid__": "7bd38de4-e907-4d19-ab6e-100e9e4265f7"
+    },
+    "club_fjlb_img_bkjr": {
+      "__uuid__": "67f0e335-2d83-4046-8847-dc25c956d8cc"
+    },
+    "club_fjlb_img_by": {
+      "__uuid__": "6f132929-3fed-4f6a-871a-78965252603f"
+    },
+    "club_fjlb_img_ccmj": {
+      "__uuid__": "1e2ddffe-cc97-495e-9828-e4cc435bcfe3"
+    },
+    "club_fjlb_img_cjps": {
+      "__uuid__": "e8b9b705-59f0-49b5-af16-4e1eea8ad653"
+    },
+    "club_fjlb_img_ddwj": {
+      "__uuid__": "d4612137-5fb5-4787-ba8c-8ce625793fce"
+    },
+    "club_fjlb_img_erddz": {
+      "__uuid__": "b0cc6e62-e486-4620-827e-594f354824ce"
+    },
+    "club_fjlb_img_erdz": {
+      "__uuid__": "1e14e7b5-77c5-4464-a817-3983336ffc6a"
+    },
+    "club_fjlb_img_fhfj": {
+      "__uuid__": "77e9f627-39b7-485e-8685-da615ff554fa"
+    },
+    "club_fjlb_img_fjgl": {
+      "__uuid__": "172d3f3a-9cf1-4aae-a2ad-96955c63ba79"
+    },
+    "club_fjlb_img_fkps": {
+      "__uuid__": "bde44230-8752-48f1-92b7-dc8c1d2857f9"
+    },
+    "club_fjlb_img_fz": {
+      "__uuid__": "d7c57117-aa5c-4386-9efb-844cc2700916"
+    },
+    "club_fjlb_img_htgl": {
+      "__uuid__": "333db967-4d99-4914-9dd2-026c60675d3b"
+    },
+    "club_fjlb_img_hy": {
+      "__uuid__": "851ea715-4cd7-4895-804c-711ed219bad0"
+    },
+    "club_fjlb_img_kjr": {
+      "__uuid__": "c3e0b591-ed8f-4f50-a8af-7275968c55fc"
+    },
+    "club_fjlb_img_kztr": {
+      "__uuid__": "0abbd2da-19ea-46fe-be16-f609d951f26a"
+    },
+    "club_fjlb_img_lb": {
+      "__uuid__": "bbbba5ed-07e6-4353-acc6-a1625adb71fd"
+    },
+    "club_fjlb_img_lzddz": {
+      "__uuid__": "a92733b7-7b21-45b4-bc13-f0bfd3b1f963"
+    },
+    "club_fjlb_img_qqhemj": {
+      "__uuid__": "c8cb8faf-e123-4a6c-a305-ddf755d5de4a"
+    },
+    "club_fjlb_img_qzps": {
+      "__uuid__": "ffb128dc-3ee3-4ea1-8010-7b29111c3844"
+    },
+    "club_fjlb_img_srddz": {
+      "__uuid__": "415561ef-12a0-48a0-8f08-ec0dfb829b41"
+    },
+    "club_fjlb_img_symj": {
+      "__uuid__": "0b235ae9-60f2-427b-9215-3dab52742656"
+    },
+    "club_fjlb_img_tdh": {
+      "__uuid__": "981d1966-06a0-481b-97e1-ac06abde5fa2"
+    },
+    "club_fjlb_img_wjtxk": {
+      "__uuid__": "ef3ab638-7080-46f0-a3ff-c0abdcb09d0c"
+    },
+    "club_fjlb_img_wk": {
+      "__uuid__": "9511a507-1a78-49f7-bd5b-9d691e6eaf51"
+    },
+    "club_fjlb_img_xlch": {
+      "__uuid__": "3102ce42-d2dd-4842-91df-6c51dc1ba41a"
+    },
+    "club_fjlb_img_xzdd": {
+      "__uuid__": "29d165d8-f43d-4fd1-a7b1-cbcbceb133e9"
+    },
+    "club_fjlb_img_yellowlk": {
+      "__uuid__": "37a54229-ec95-48c1-acfb-ace557786172"
+    },
+    "club_fjlb_img_zj": {
+      "__uuid__": "f31b47af-1dd5-45e3-9937-dafa9f6fc483"
+    },
+    "club_fjlb_img_zmd": {
+      "__uuid__": "840848e4-3272-439f-90a5-ae28ff2a00c0"
+    },
+    "club_fjlb_txt_bydjz": {
+      "__uuid__": "9490ffc1-5b29-4b97-9dda-bd64576be687"
+    },
+    "club_fjlb_txt_ccmj": {
+      "__uuid__": "ffd7a05b-ed1d-475f-b3f7-109145325ec0"
+    },
+    "club_fjlb_txt_cjps": {
+      "__uuid__": "3d3225d9-bb5c-449a-8bb7-a987522a9b33"
+    },
+    "club_fjlb_txt_erddz": {
+      "__uuid__": "42136f06-4d52-488b-9ab1-dc25ee26ea90"
+    },
+    "club_fjlb_txt_erdz": {
+      "__uuid__": "7b781df6-f698-4e51-bc94-84fb176d03d9"
+    },
+    "club_fjlb_txt_fkps": {
+      "__uuid__": "325029ce-3b64-43a5-9e75-19d7075dc8b9"
+    },
+    "club_fjlb_txt_lzddz": {
+      "__uuid__": "1c899a2a-471d-48fb-899e-fa96c5cb8efc"
+    },
+    "club_fjlb_txt_qqhemj": {
+      "__uuid__": "2c5fd82e-447a-455c-a826-0516f6edc7bd"
+    },
+    "club_fjlb_txt_qzps": {
+      "__uuid__": "04fb0369-b946-4c17-957c-59e6bcdf6593"
+    },
+    "club_fjlb_txt_srddz": {
+      "__uuid__": "834cd99d-8ce9-4461-af96-9bc591ae73e6"
+    },
+    "club_fjlb_txt_sykt": {
+      "__uuid__": "c1cce6a6-fce2-498d-a5ee-2fc533619c60"
+    },
+    "club_fjlb_txt_symj": {
+      "__uuid__": "0f1bcfe8-f8ed-4d30-a5bf-5639804fa2cc"
+    },
+    "club_fjlb_txt_symt": {
+      "__uuid__": "c1512ede-63a6-4155-939b-3dd93d1b4d43"
+    },
+    "club_fjlb_txt_tdh": {
+      "__uuid__": "cb2d4cf5-0f80-4603-bdb3-4b35044dd133"
+    },
+    "club_fjlb_txt_xlch": {
+      "__uuid__": "ed02b1a0-3b03-4ddd-872c-8f32b3911c29"
+    },
+    "club_fjlb_txt_xzdd": {
+      "__uuid__": "135a4165-8d33-4712-84e1-22549eb63b9d"
+    },
+    "club_pjcx_bg_data": {
+      "__uuid__": "e7e8b836-0118-43b6-9033-940c6913d947"
+    },
+    "club_pjcx_bg_xl": {
+      "__uuid__": "30e08823-9223-4749-b5bc-acf2aca3bc86"
+    },
+    "club_pjcx_btn_data": {
+      "__uuid__": "274fef6e-4aa0-4fcc-a338-127041f4ec11"
+    },
+    "club_pjcx_img_xl": {
+      "__uuid__": "c2c9ccac-e533-4227-a0d8-ff0679f2f36a"
+    },
+    "club_title_myscore": {
+      "__uuid__": "29d8da00-d617-472f-bea5-68213e10c5f6"
+    },
+    "club_title_paijucheck": {
+      "__uuid__": "e8442055-90c8-47a7-99fa-55ae9d7c436c"
+    },
+    "club_title_xiangqjl": {
+      "__uuid__": "8859d76e-bbd9-488f-a2dd-853e9691ea15"
+    },
+    "club_xqjl_img_headfram": {
+      "__uuid__": "c59184e3-98a1-4921-9cc6-4b04b62cdffa"
+    },
+    "club_ylc_bg_yellowbar": {
+      "__uuid__": "1a21066b-dd72-4471-b9a7-454fb5ce25aa"
+    },
+    "club_zj_bg_infobar": {
+      "__uuid__": "b155b17c-9a87-49e4-8ee2-6ab4bf6ec0e6"
+    },
+    "club_zj_btn_lx": {
+      "__uuid__": "238a881a-4ad0-40fa-9a4c-33f23b5c137d"
+    },
+    "club_zj_img_headfram": {
+      "__uuid__": "e1d23b1c-99a3-434b-afd3-1149695c75f5"
+    },
+    "club_zj_img_yin": {
+      "__uuid__": "d66424c7-41e0-45d3-8b61-ab32cc66472d"
+    }
+  }
+}

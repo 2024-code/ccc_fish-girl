@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_flames_loop_01",
+    "texture": "9276eb31-7af4-40be-9bff-9fcd7b6e0698",
+    "atlas": "",
+    "rect": [
+      25,
+      12,
+      611,
+      199
+    ],
+    "offset": [
+      2,
+      0.5
+    ],
+    "originalSize": [
+      657,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

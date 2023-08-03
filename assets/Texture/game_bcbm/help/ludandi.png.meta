@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "af498bb3-38a3-43d8-afd7-d5ef83325135",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1047,
+  "height": 607,
+  "platformSettings": {},
+  "subMetas": {
+    "ludandi": {
+      "ver": "1.0.4",
+      "uuid": "b0b26418-0d32-432d-a615-ff0274d263ff",
+      "rawTextureUuid": "af498bb3-38a3-43d8-afd7-d5ef83325135",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1047,
+      "height": 607,
+      "rawWidth": 1047,
+      "rawHeight": 607,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

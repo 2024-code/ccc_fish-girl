@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bn_card",
+    "texture": "8f09855d-7ccc-414d-b08e-b30a96b3c62a",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      78,
+      81
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      82,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

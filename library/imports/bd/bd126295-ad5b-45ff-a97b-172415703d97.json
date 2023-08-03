@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_SpiderCrab-0027",
+    "texture": "e04f0725-18b1-4930-922b-990d20fc5dc7",
+    "atlas": "192a0aad-da47-4944-b2a9-c04b47003da3",
+    "rect": [
+      635,
+      293,
+      283,
+      232
+    ],
+    "offset": [
+      9,
+      -56
+    ],
+    "originalSize": [
+      303,
+      344
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

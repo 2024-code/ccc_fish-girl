@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cannon_barrel",
+    "texture": "1dd6932f-03d4-4470-9dbb-68b2b9832a5d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      2046,
+      2046
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

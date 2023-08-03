@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_runner_msg",
+    "texture": "d176c85d-f277-4b3e-a325-c66c5bcdc2ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

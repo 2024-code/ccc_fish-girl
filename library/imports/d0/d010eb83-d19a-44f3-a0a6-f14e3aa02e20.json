@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "dengdai_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 37,\r\n        \"y\": 44,\r\n        \"height\": 38,\r\n        \"name\": \"zheng\",\r\n        \"x\": 42\r\n    },\r\n    {\r\n        \"width\": 37,\r\n        \"y\": 1,\r\n        \"height\": 41,\r\n        \"name\": \"zai\",\r\n        \"x\": 42\r\n    },\r\n    {\r\n        \"width\": 37,\r\n        \"y\": 1,\r\n        \"height\": 40,\r\n        \"name\": \"xun\",\r\n        \"x\": 81\r\n    },\r\n    {\r\n        \"width\": 39,\r\n        \"y\": 45,\r\n        \"height\": 41,\r\n        \"name\": \"zhao\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 38,\r\n        \"y\": 88,\r\n        \"height\": 39,\r\n        \"name\": \"wan\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 39,\r\n        \"y\": 1,\r\n        \"height\": 42,\r\n        \"name\": \"ban\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 35,\r\n        \"y\": 43,\r\n        \"height\": 41,\r\n        \"name\": \"zhong\",\r\n        \"x\": 81\r\n    },\r\n    {\r\n        \"width\": 10,\r\n        \"y\": 84,\r\n        \"height\": 14,\r\n        \"name\": \".\",\r\n        \"x\": 42\r\n    }],\r\n    \"imagePath\": \"dengdai_tex.png\",\r\n    \"name\": \"dengdai\"\r\n}",
+  "_texture": {
+    "__uuid__": "ec3e0ac9-4ea8-48fb-9511-24ddadbbfb58"
+  },
+  "texture": {
+    "__uuid__": "ec3e0ac9-4ea8-48fb-9511-24ddadbbfb58"
+  },
+  "_textureAtlasData": null
+}

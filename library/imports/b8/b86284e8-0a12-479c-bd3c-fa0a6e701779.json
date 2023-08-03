@@ -1,0 +1,182 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lbl_King_Lacoste_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-lbl_King_Lacoste-0001": {
+      "__uuid__": "67cd0d26-b117-4abe-87ec-6b8d637fd5f0"
+    },
+    "atlas-lbl_King_Lacoste-0003": {
+      "__uuid__": "769601dc-8c3c-456d-a3cc-fb8d525ef6c9"
+    },
+    "atlas-lbl_King_Lacoste-0005": {
+      "__uuid__": "7ae2a50c-4d0e-4218-bd56-75513e1274ff"
+    },
+    "atlas-lbl_King_Lacoste-0017": {
+      "__uuid__": "3eba2516-c34b-4126-9099-935997def8c5"
+    },
+    "atlas-lbl_King_Lacoste-0019": {
+      "__uuid__": "51e87e0c-7feb-4b97-9c62-1ca1a89975ae"
+    },
+    "atlas-lbl_King_Lacoste-0021": {
+      "__uuid__": "495cf083-3257-4568-900e-256359ec4bd9"
+    },
+    "atlas-lbl_King_Lacoste-0025": {
+      "__uuid__": "0fc22cd7-dc73-499b-a359-996b0f29a223"
+    },
+    "atlas-lbl_King_Lacoste-0027": {
+      "__uuid__": "131e5ebd-4751-4a4f-8cb0-80b1787eb34b"
+    },
+    "atlas-lbl_King_Lacoste-0031": {
+      "__uuid__": "a2c20422-f267-4069-9940-d6942ecfedf7"
+    },
+    "atlas-lbl_King_Lacoste-0033": {
+      "__uuid__": "69bea256-9066-4a8c-b0d6-af146d8f55a4"
+    },
+    "atlas-lbl_King_Lacoste-0037": {
+      "__uuid__": "9c505693-1b36-4c55-86ea-62b9b35c1ef6"
+    },
+    "atlas-lbl_King_Lacoste-0039": {
+      "__uuid__": "7363208c-ecaf-484f-9212-3489984aed88"
+    },
+    "atlas-lbl_King_Lacoste-0047": {
+      "__uuid__": "d465e941-513c-47ac-994d-0010a46c71fc"
+    },
+    "atlas-lbl_King_Lacoste-0053": {
+      "__uuid__": "896a5e93-8e12-4030-807e-6835fc822837"
+    },
+    "atlas-lbl_King_Lacoste-0075": {
+      "__uuid__": "880ef1cc-0948-4102-8d0b-e0b008b665e9"
+    },
+    "atlas-lbl_King_Lacoste-0077": {
+      "__uuid__": "d3753802-fb10-48ae-b10b-22074e150bef"
+    },
+    "atlas-lbl_King_Lacoste-0079": {
+      "__uuid__": "5633d0d9-0cc0-4ab6-ac54-09139599515d"
+    },
+    "atlas-lbl_King_Lacoste-0081": {
+      "__uuid__": "6005500c-ee78-4282-a7cc-99404d89a4a8"
+    },
+    "atlas-lbl_King_Lacoste-0083": {
+      "__uuid__": "d0af2fef-7568-4410-aa4a-5b77d0ef04a4"
+    },
+    "atlas-lbl_King_Lacoste-0087": {
+      "__uuid__": "b49b46bc-ab17-4c6f-9b70-b1752d2f9eeb"
+    },
+    "atlas-lbl_King_Lacoste-0089": {
+      "__uuid__": "96da4cba-8fc4-4de2-8c29-0c9f16d9f5b5"
+    },
+    "atlas-lbl_King_Lacoste-0093": {
+      "__uuid__": "dabc0a10-10a4-4132-b272-8b0a6b4a37ae"
+    },
+    "atlas-lbl_King_Lacoste-0095": {
+      "__uuid__": "5f16496c-7313-4299-8faf-dc70f6298a75"
+    },
+    "atlas-lbl_King_Lacoste-0097": {
+      "__uuid__": "f056baf0-d8fe-42ce-b5f1-18792936e7e0"
+    },
+    "atlas-lbl_King_Lacoste-0099": {
+      "__uuid__": "0cc4ef33-4f43-40c8-b249-c48dcdff659c"
+    },
+    "atlas-lbl_King_Lacoste-0103": {
+      "__uuid__": "f0bdcae8-99be-4e11-bc4d-d8217d4a7c57"
+    },
+    "atlas-lbl_King_Lacoste-0105": {
+      "__uuid__": "65f69660-ee19-424c-b446-067f752be733"
+    },
+    "atlas-lbl_King_Lacoste-0111": {
+      "__uuid__": "8bb791e9-0e21-401f-a956-9a13d5b48f75"
+    },
+    "atlas-lbl_King_Lacoste-0113": {
+      "__uuid__": "a13a5dba-2139-45f8-af95-a722e7835842"
+    },
+    "atlas-lbl_King_Lacoste-0117": {
+      "__uuid__": "ec703c14-7f18-4528-83a3-25a7a3b479e7"
+    },
+    "atlas-lbl_King_Lacoste-0121": {
+      "__uuid__": "9d73bee7-18dc-4feb-931d-df3a42c062b4"
+    },
+    "atlas-lbl_King_Lacoste-0127": {
+      "__uuid__": "1355a59b-293c-4263-b232-b0f1bdc9a93d"
+    },
+    "atlas-lbl_King_Lacoste-0131": {
+      "__uuid__": "23d98544-df06-4cba-8145-b09b30cf4bf9"
+    },
+    "atlas-lbl_King_Lacoste-0133": {
+      "__uuid__": "119a258b-7529-443b-b8a1-db796b0d211e"
+    },
+    "atlas-lbl_King_Lacoste-0139": {
+      "__uuid__": "e8befbea-8de1-4889-9c5d-c3c77a63e7d7"
+    },
+    "atlas-lbl_King_Lacoste-0141": {
+      "__uuid__": "56747d08-a933-4747-b616-c8135bde0ebe"
+    },
+    "atlas-lbl_King_Lacoste-0143": {
+      "__uuid__": "bd02abff-e0c6-46b9-8fed-c5cec0757668"
+    },
+    "atlas-lbl_King_Lacoste-0145": {
+      "__uuid__": "db9bcb14-4677-4f30-93da-3afbfbb070fc"
+    },
+    "atlas-lbl_King_Lacoste-0147": {
+      "__uuid__": "b1cb008c-5766-4445-b6a8-e56626bec5a5"
+    },
+    "atlas-lbl_King_Lacoste-0151": {
+      "__uuid__": "6ab51a25-1dd7-4ed6-8c0d-c9aea9afa3f7"
+    },
+    "atlas-lbl_King_Lacoste-0153": {
+      "__uuid__": "2d89a45d-2ee2-4903-83e6-a545f2b32489"
+    },
+    "atlas-lbl_King_Lacoste-0155": {
+      "__uuid__": "49af471a-d3b9-4cf1-967f-7130e508b7f0"
+    },
+    "atlas-lbl_King_Lacoste-0157": {
+      "__uuid__": "4fb5a348-7334-47e0-84fe-a21b97ea1cdb"
+    },
+    "atlas-lbl_King_Lacoste-0165": {
+      "__uuid__": "d08a56e7-d047-4c41-9e19-27a0f3fd34c9"
+    },
+    "atlas-lbl_King_Lacoste-0167": {
+      "__uuid__": "33473798-31af-46d4-8e8e-814e3580c38a"
+    },
+    "atlas-lbl_King_Lacoste-0169": {
+      "__uuid__": "d15059c7-d7bb-4cf6-b72d-2460c7efb907"
+    },
+    "atlas-lbl_King_Lacoste-0173": {
+      "__uuid__": "40a9a667-7193-4504-8773-87fc196524e9"
+    },
+    "atlas-lbl_King_Lacoste-0175": {
+      "__uuid__": "d8ac08ad-3bce-4873-8e9f-8ffa2b6d0cef"
+    },
+    "atlas-lbl_King_Lacoste-0191": {
+      "__uuid__": "924c0455-6bf6-49b9-82cb-f77143f8a261"
+    },
+    "atlas-lbl_King_Lacoste-0193": {
+      "__uuid__": "f65c275b-72b2-4a22-8895-be1c5d134744"
+    },
+    "atlas-lbl_King_Lacoste-0207": {
+      "__uuid__": "efcac4dd-5901-4a0f-9763-9dc4bb8cbf23"
+    },
+    "atlas-lbl_King_Lacoste-0209": {
+      "__uuid__": "6268a020-eedb-4e18-a612-9c7f7402c426"
+    },
+    "atlas-lbl_King_Lacoste-0217": {
+      "__uuid__": "0b955c49-1ae3-451f-9cbe-920deaf65d17"
+    },
+    "atlas-lbl_King_Lacoste-0219": {
+      "__uuid__": "dc2bd890-74c9-4ce3-bd9a-0107aa1944a9"
+    },
+    "atlas-lbl_King_Lacoste-0221": {
+      "__uuid__": "6585e92f-8ad9-49ff-8306-550946cd152e"
+    },
+    "atlas-lbl_King_Lacoste-0223": {
+      "__uuid__": "c10a1963-ada0-4d2d-a146-8b6942c0d79e"
+    },
+    "atlas-lbl_King_Lacoste-0229": {
+      "__uuid__": "277bbb47-bb9c-45ae-8e82-85ac7c7f3b7e"
+    },
+    "atlas-lbl_King_Lacoste-0235": {
+      "__uuid__": "336c0ee8-9ee1-4fb2-8bbd-ff6c5c77b7e1"
+    }
+  }
+}

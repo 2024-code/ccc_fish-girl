@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ipadmini",
+    "texture": "bd85ab0e-8ccf-4c0e-8090-d86377f6bee3",
+    "atlas": "",
+    "rect": [
+      25,
+      33,
+      111,
+      113
+    ],
+    "offset": [
+      0.5,
+      -9.5
+    ],
+    "originalSize": [
+      160,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

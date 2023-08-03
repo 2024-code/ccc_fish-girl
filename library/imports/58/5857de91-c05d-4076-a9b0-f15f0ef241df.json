@@ -1,0 +1,200 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shz_spine_6",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 29.46,
+        "x": -0.41,
+        "y": -9.16,
+        "rotation": 85.91
+      },
+      {
+        "name": "bone2",
+        "parent": "bone",
+        "length": 17.11,
+        "x": 44.11,
+        "y": 17.03,
+        "rotation": 150.1
+      }
+    ],
+    "slots": [
+      {
+        "name": "body",
+        "bone": "bone",
+        "attachment": "body"
+      },
+      {
+        "name": "rope",
+        "bone": "bone2",
+        "attachment": "rope"
+      }
+    ],
+    "skins": {
+      "default": {
+        "body": {
+          "body": {
+            "x": 25.23,
+            "y": -2.47,
+            "rotation": -85.91,
+            "width": 90,
+            "height": 95
+          }
+        },
+        "rope": {
+          "rope": {
+            "x": 17.82,
+            "y": -6.85,
+            "rotation": 123.97,
+            "width": 35,
+            "height": 51
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": 17.31
+              },
+              {
+                "time": 1.6666,
+                "angle": 0
+              }
+            ]
+          },
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": -2.64
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6666,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.9,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1,
+                "x": 1.079,
+                "y": 1
+              },
+              {
+                "time": 1.6666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "body": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "body"
+              },
+              {
+                "time": 0.6666,
+                "name": "body"
+              },
+              {
+                "time": 1.1,
+                "name": "body"
+              },
+              {
+                "time": 1.6666,
+                "name": "body"
+              }
+            ]
+          },
+          "rope": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "rope"
+              },
+              {
+                "time": 0.3333,
+                "name": "rope"
+              },
+              {
+                "time": 1,
+                "name": "rope"
+              },
+              {
+                "time": 1.6666,
+                "name": "rope"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbag-1.png\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbody\n  rotate: false\n  xy: 2, 2\n  size: 90, 95\n  orig: 90, 95\n  offset: 0, 0\n  index: -1\nrope\n  rotate: false\n  xy: 94, 46\n  size: 35, 51\n  orig: 35, 51\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "225e9ceb-839a-4974-9819-854bd444d3e5"
+    }
+  ],
+  "textureNames": [
+    "bag-1.png"
+  ],
+  "scale": 1
+}

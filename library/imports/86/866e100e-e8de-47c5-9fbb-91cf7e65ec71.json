@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_01_excite_10",
+    "texture": "86cf3105-df5a-42c3-89f9-08e51f269c2d",
+    "atlas": "",
+    "rect": [
+      0,
+      24,
+      333,
+      272
+    ],
+    "offset": [
+      0,
+      -10.5
+    ],
+    "originalSize": [
+      333,
+      299
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

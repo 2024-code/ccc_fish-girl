@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pl_lose_num",
+    "texture": "489b995a-9dcb-4a24-bf29-a484459b558b",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      438,
+      37
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      444,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

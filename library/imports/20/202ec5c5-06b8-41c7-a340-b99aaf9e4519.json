@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Shop.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "alipay": {
+      "__uuid__": "d9376eb5-8877-447a-9940-392438b065bb"
+    },
+    "btn_chongzhi": {
+      "__uuid__": "8a155ffe-4039-407b-997d-f94c6cc1555f"
+    },
+    "btn_shop_alipay_0": {
+      "__uuid__": "0698e82e-a737-464e-872d-5ad480568c60"
+    },
+    "btn_shop_alipay_1": {
+      "__uuid__": "28c04a70-fb84-47f2-839a-5b2fee5f0459"
+    },
+    "btn_shop_daili_0": {
+      "__uuid__": "79b29aef-2c33-45de-955c-0f42d1e6400e"
+    },
+    "btn_shop_daili_1": {
+      "__uuid__": "5eec29e3-851d-432b-bd22-478a004d1fd8"
+    },
+    "btn_shop_recharge1_0": {
+      "__uuid__": "08ace6c9-81fd-474b-bb40-75cc589ee654"
+    },
+    "btn_shop_union_0": {
+      "__uuid__": "0582d2fa-ce38-4b5e-bab8-1a8d58c9818f"
+    },
+    "btn_shop_union_1": {
+      "__uuid__": "25c25595-7e66-46df-ae82-abb93f7a1d75"
+    },
+    "btn_shop_weixin_0": {
+      "__uuid__": "081c38f7-e5fe-4545-92df-497b8f0c993d"
+    },
+    "btn_shop_weixin_1": {
+      "__uuid__": "de4a4570-22e0-4de1-b96b-9530d0c5c5b5"
+    },
+    "cz_label_czje": {
+      "__uuid__": "9540ab0f-07ec-4ef8-a194-abd45d8325c6"
+    },
+    "daili_weixin_label": {
+      "__uuid__": "9518ed13-62d1-4443-aa3c-be79b0d69364"
+    },
+    "hall_charge_agent_name_font": {
+      "__uuid__": "98498047-203b-499d-9169-789949964d6c"
+    },
+    "hall_charge_btn_accept": {
+      "__uuid__": "5859ab4d-10e7-4fc6-9bfb-bfb3e79c8658"
+    },
+    "hall_charge_btn_accept_gray": {
+      "__uuid__": "65a45d4e-fd05-488b-a85c-34a66cef7d63"
+    },
+    "hall_charge_btn_add": {
+      "__uuid__": "9ec4b51e-a799-47c9-80e8-4655041ed0f7"
+    },
+    "hall_charge_btn_add_dark": {
+      "__uuid__": "3fabab06-95ea-4deb-9d12-fc8b339ce731"
+    },
+    "hall_charge_btn_copy": {
+      "__uuid__": "c121ba48-6346-4a5f-83e9-88f8e88751a2"
+    },
+    "hall_charge_id_font": {
+      "__uuid__": "229454db-7ea3-4d2c-95ed-1cfad7c2bda9"
+    },
+    "hall_charge_sub_title_bg": {
+      "__uuid__": "ff44e94c-3d4a-41e8-87b6-3fc27aa9e756"
+    },
+    "hall_charge_title": {
+      "__uuid__": "9e3266b2-8e6e-4348-996e-c5cce99fd2be"
+    },
+    "hall_charge_title_uuu_bg": {
+      "__uuid__": "80516245-c2c7-4cbc-9a44-052d2108a487"
+    },
+    "hall_charge_title_vip_logo": {
+      "__uuid__": "fcc07826-80f6-4441-9056-243258c64ada"
+    },
+    "hall_charge_vip_report_reward": {
+      "__uuid__": "9c4f74ac-e1d6-4f9f-9265-aae1f985fff6"
+    },
+    "hall_charge_zfm_inputbg": {
+      "__uuid__": "3a4ce1ad-5e2d-4885-946c-7c52c4aebffd"
+    },
+    "hall_office_charge_window_title": {
+      "__uuid__": "49d4a3d5-b2f1-4df9-8646-227225e3dab3"
+    },
+    "hall_pc_gift_icon_bright": {
+      "__uuid__": "43c4d08e-d902-4f2f-8e9b-3baa4facfbcf"
+    },
+    "hall_pc_gift_icon_dark": {
+      "__uuid__": "41837e1c-6d72-45b8-99a7-c3e4142f0741"
+    },
+    "hall_proxy_toushu_btn": {
+      "__uuid__": "107701ad-84c8-40bb-9602-9b37f2aee589"
+    },
+    "img_shop_alipay": {
+      "__uuid__": "7e12d29c-d822-402d-a014-5af44828101a"
+    },
+    "img_shop_qq": {
+      "__uuid__": "576d0101-59f2-423c-9d79-3d74e34d8238"
+    },
+    "img_shop_quick": {
+      "__uuid__": "2b6d4e05-a07c-4f02-b596-20baaf914386"
+    },
+    "img_shop_wechat": {
+      "__uuid__": "85651946-7b24-4fd9-aa66-216b529d7b81"
+    },
+    "shop_item_daili_bg_1": {
+      "__uuid__": "0abf3f5e-ce73-4045-ad06-96076fd9aa3d"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_playfield_frame_right",
+    "texture": "303729bd-3b8b-47dc-be20-91802756ca06",
+    "atlas": "",
+    "rect": [
+      1590,
+      156,
+      11,
+      588
+    ],
+    "offset": [
+      707,
+      49.5
+    ],
+    "originalSize": [
+      1777,
+      999
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

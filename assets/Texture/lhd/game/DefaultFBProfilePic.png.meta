@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1bb3f506-65a6-44d8-8003-b4d312d0a8ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 158,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "DefaultFBProfilePic": {
+      "ver": "1.0.4",
+      "uuid": "4678b417-31a3-4e92-8c69-bd270d28414a",
+      "rawTextureUuid": "1bb3f506-65a6-44d8-8003-b4d312d0a8ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 158,
+      "height": 152,
+      "rawWidth": 158,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "武器1_攻击状态",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "64441f85-4fcc-4dcc-8d50-f8ec9a7cfae8"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "c6f210e4-0b78-404e-b855-09c65e06c287"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "06771dd2-fc39-483f-8b36-da84dafc519a"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "abf5eb71-0f13-4cfd-92ea-b77474512eda"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ef52a81f-6cc3-405b-9f4d-db2412303fdd"
+            }
+          },
+          {
+            "frame": 0.20833333333333334,
+            "value": {
+              "__uuid__": "74a77004-c778-443d-85c3-9cb70321b890"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e34574a7-df1c-4753-ac64-a6ac2a2ce4cd"
+            }
+          },
+          {
+            "frame": 0.2916666666666667,
+            "value": {
+              "__uuid__": "5a89a172-e4f9-494e-ae35-2a11e2ff71e5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "69a7f7aa-b04a-4098-ab38-639f8e6ef044"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "ce864063-f0b7-4ac9-b6ce-c4b80b8ee6d9"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "0e7accf7-5c7b-4743-bef0-b916e326f8b7"
+            }
+          },
+          {
+            "frame": 0.4583333333333333,
+            "value": {
+              "__uuid__": "f02adadb-6945-449e-a4d1-7d3b78e015e6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3fd5d73e-2595-4e41-a4c0-8868d1044f06"
+            }
+          },
+          {
+            "frame": 0.5416666666666666,
+            "value": {
+              "__uuid__": "ee08952b-4514-4e1a-85be-7995080788fc"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "d551ed5a-320d-47da-af37-3faa650207ed"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "6bcb7b52-bbb7-4b44-85d9-204585b22421"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "1cc114e0-afe4-46b7-8543-3331fc00e9f0"
+            }
+          },
+          {
+            "frame": 0.7083333333333334,
+            "value": {
+              "__uuid__": "d3446891-ad90-4199-86a5-807df907b5b9"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "aafa5427-5f85-4ddc-85c8-02a1b74507cd"
+            }
+          },
+          {
+            "frame": 0.7916666666666666,
+            "value": {
+              "__uuid__": "4ef864e0-2cbc-4ada-8db0-20647bec9c4d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

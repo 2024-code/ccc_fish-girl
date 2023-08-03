@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game1_stop_1",
+    "texture": "86a06632-2f86-4f21-8aee-c139ee88c65f",
+    "atlas": "",
+    "rect": [
+      6,
+      3,
+      166,
+      96
+    ],
+    "offset": [
+      1,
+      2.5
+    ],
+    "originalSize": [
+      176,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

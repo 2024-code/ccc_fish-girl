@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shangfen",
+    "texture": "e48ecc9b-5f43-4574-abd8-6e608dd32911",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      96,
+      96
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      98,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ho_setting.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ho_setting_bg": {
+      "__uuid__": "54e6f187-2651-4724-83f2-fb4cc52b37a3"
+    },
+    "ho_setting_close": {
+      "__uuid__": "b2bc3bdf-8248-4e73-a038-525d533afaff"
+    },
+    "ho_setting_music": {
+      "__uuid__": "310aa287-4bec-428d-b86f-8abed9872332"
+    },
+    "ho_setting_off": {
+      "__uuid__": "0a4227fb-938c-45e4-b1d6-74384a6e261b"
+    },
+    "ho_setting_on": {
+      "__uuid__": "2621801f-6ec1-40b5-9305-779f72a25970"
+    },
+    "ho_setting_sound": {
+      "__uuid__": "c033a914-e903-4a00-8bd3-afb47f4ed518"
+    },
+    "ho_setting_title": {
+      "__uuid__": "3a9967aa-b7b9-41d9-ae2e-20867f765988"
+    }
+  }
+}

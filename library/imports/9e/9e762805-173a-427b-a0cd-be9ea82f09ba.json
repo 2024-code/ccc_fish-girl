@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_turn",
+    "texture": "ff0a8784-4f91-4ba8-bfee-50c661bb9316",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_egyptian_king_32",
+    "texture": "4d21bd2d-87e4-4293-ba30-8d2e85f18564",
+    "atlas": "",
+    "rect": [
+      18,
+      47,
+      294,
+      256
+    ],
+    "offset": [
+      -9.5,
+      -0.5
+    ],
+    "originalSize": [
+      349,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

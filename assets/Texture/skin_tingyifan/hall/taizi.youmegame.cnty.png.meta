@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "aa87f071-c072-4361-aefe-d4165f2655dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 270,
+  "height": 270,
+  "platformSettings": {},
+  "subMetas": {
+    "taizi.youmegame.cnty": {
+      "ver": "1.0.4",
+      "uuid": "7f1c728c-9817-4386-9861-a7c14e12efe3",
+      "rawTextureUuid": "aa87f071-c072-4361-aefe-d4165f2655dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 270,
+      "height": 270,
+      "rawWidth": 270,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

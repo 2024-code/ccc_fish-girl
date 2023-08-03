@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "balance",
+    "texture": "804bdde3-375c-4414-9992-f828c1c21aaa",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      207,
+      95
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      214,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

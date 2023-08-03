@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GoldRain",
+    "texture": "80b61432-df95-49dd-8fdf-c179a7f1d7a5",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      391,
+      193
+    ],
+    "offset": [
+      -57.5,
+      27.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

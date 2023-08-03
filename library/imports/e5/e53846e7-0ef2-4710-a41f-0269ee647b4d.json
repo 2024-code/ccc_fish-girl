@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_Big_Butterfly-0099",
+    "texture": "140fb4b2-8734-458d-92ff-e13fdf414d7e",
+    "atlas": "a4f100f7-e7b0-429a-b4f3-96fa6bb38d83",
+    "rect": [
+      1,
+      1287,
+      119,
+      251
+    ],
+    "offset": [
+      11,
+      -8
+    ],
+    "originalSize": [
+      141,
+      267
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

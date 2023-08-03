@@ -1,0 +1,188 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "07_lblmantaray_1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-07_lblmantaray-0001": {
+      "__uuid__": "4f1eef84-d977-460e-a32c-d06080b1cf61"
+    },
+    "atlas-07_lblmantaray-0003": {
+      "__uuid__": "7c71c452-5ee4-498e-8e26-55609dfd8a16"
+    },
+    "atlas-07_lblmantaray-0005": {
+      "__uuid__": "bd931465-e781-486d-ba57-69e2b2f922be"
+    },
+    "atlas-07_lblmantaray-0007": {
+      "__uuid__": "6a5313de-90ef-4be5-bc96-85f6bb60faef"
+    },
+    "atlas-07_lblmantaray-0009": {
+      "__uuid__": "5c8aa230-9203-45fa-8938-5190a45e9056"
+    },
+    "atlas-07_lblmantaray-0011": {
+      "__uuid__": "ac553acf-a603-422a-9774-2bd574fdb3cd"
+    },
+    "atlas-07_lblmantaray-0013": {
+      "__uuid__": "3c112e02-1b3f-4d36-8a9c-53c2a8b07e59"
+    },
+    "atlas-07_lblmantaray-0015": {
+      "__uuid__": "5a54c021-077b-48a6-bb24-9156382430a3"
+    },
+    "atlas-07_lblmantaray-0017": {
+      "__uuid__": "487d45b8-20be-441a-9b1c-7513875d675c"
+    },
+    "atlas-07_lblmantaray-0019": {
+      "__uuid__": "6dabef35-5698-4ae6-8c15-3b216c259d43"
+    },
+    "atlas-07_lblmantaray-0021": {
+      "__uuid__": "0dcd7bdc-8657-4077-b0a7-ea4f6628e412"
+    },
+    "atlas-07_lblmantaray-0023": {
+      "__uuid__": "825b85d6-3763-4da2-9472-0deeb084cfbe"
+    },
+    "atlas-07_lblmantaray-0025": {
+      "__uuid__": "fc8c029a-d3fa-4388-ad6a-91870d39c110"
+    },
+    "atlas-07_lblmantaray-0027": {
+      "__uuid__": "f869aedf-8da2-4fb6-91e6-bb62656b0fb5"
+    },
+    "atlas-07_lblmantaray-0029": {
+      "__uuid__": "4c0b6a16-ad1d-4721-a69c-9371b220283b"
+    },
+    "atlas-07_lblmantaray-0031": {
+      "__uuid__": "8b201b4b-02b5-4f26-bf32-c15d31f8421a"
+    },
+    "atlas-07_lblmantaray-0033": {
+      "__uuid__": "89d0662c-ce04-41c3-b7b8-c41dfcec63ba"
+    },
+    "atlas-07_lblmantaray-0035": {
+      "__uuid__": "6e51f876-cff5-4bf0-8d11-b80b1fc3536e"
+    },
+    "atlas-07_lblmantaray-0037": {
+      "__uuid__": "2279420c-5733-4ba4-8468-1f3f41f24737"
+    },
+    "atlas-07_lblmantaray-0039": {
+      "__uuid__": "37ef7519-2db1-4164-9755-a05834a44d79"
+    },
+    "atlas-07_lblmantaray-0041": {
+      "__uuid__": "ff3c923e-b83b-4201-859c-dd501a02876c"
+    },
+    "atlas-07_lblmantaray-0043": {
+      "__uuid__": "dee93499-f62d-4218-9a4f-883f5b7b6b5f"
+    },
+    "atlas-07_lblmantaray-0045": {
+      "__uuid__": "54581e20-6d76-45c0-b5c8-585ab0a1b8cc"
+    },
+    "atlas-07_lblmantaray-0047": {
+      "__uuid__": "ceaa32f2-8599-4ddd-b24c-a5b9e0cdfc4a"
+    },
+    "atlas-07_lblmantaray-0049": {
+      "__uuid__": "11df05de-3e4f-49fd-92ab-9bb0243892d8"
+    },
+    "atlas-07_lblmantaray-0051": {
+      "__uuid__": "9d84af6b-3697-418a-a76b-962b614d4ade"
+    },
+    "atlas-07_lblmantaray-0053": {
+      "__uuid__": "5752d54c-6555-4ac9-a4f2-f6abbfaf1caa"
+    },
+    "atlas-07_lblmantaray-0055": {
+      "__uuid__": "e6492ff1-3058-4413-813b-8c923293bf52"
+    },
+    "atlas-07_lblmantaray-0057": {
+      "__uuid__": "2cff2e1c-c53d-4f99-b711-bb96307a2ed5"
+    },
+    "atlas-07_lblmantaray-0059": {
+      "__uuid__": "c3cc776a-ea10-4143-b540-f3c8cc7ca212"
+    },
+    "atlas-07_lblmantaray-0061": {
+      "__uuid__": "f0baa520-3337-45bd-9628-6ac60b2496fd"
+    },
+    "atlas-07_lblmantaray-0063": {
+      "__uuid__": "a6759ac5-f1bb-40a2-8e39-3f32906cf879"
+    },
+    "atlas-07_lblmantaray-0065": {
+      "__uuid__": "14386a1f-6393-47af-b059-4e46bb755cbe"
+    },
+    "atlas-07_lblmantaray-0067": {
+      "__uuid__": "b49117f2-6710-4ce1-908b-9cc57ab76ede"
+    },
+    "atlas-07_lblmantaray-0069": {
+      "__uuid__": "a48c99e8-2101-4b67-a85a-722b474600f7"
+    },
+    "atlas-07_lblmantaray-0071": {
+      "__uuid__": "75827a2d-c71b-4d45-b1f9-5972fe227360"
+    },
+    "atlas-07_lblmantaray-0073": {
+      "__uuid__": "3609f3fc-a299-455b-95c9-a0af10de5daa"
+    },
+    "atlas-07_lblmantaray-0075": {
+      "__uuid__": "482537c5-1e62-4481-b919-87f049e6e388"
+    },
+    "atlas-07_lblmantaray-0077": {
+      "__uuid__": "12431bc2-007c-4197-8f4d-2a88523dc3ef"
+    },
+    "atlas-07_lblmantaray-0079": {
+      "__uuid__": "f75d48f3-e669-4fbe-9f74-4749429d5540"
+    },
+    "atlas-07_lblmantaray-0081": {
+      "__uuid__": "07702d0a-6161-48b4-921b-2988c6788e77"
+    },
+    "atlas-07_lblmantaray-0083": {
+      "__uuid__": "44f2fdd0-4052-46f7-ae16-053c55b3b35c"
+    },
+    "atlas-07_lblmantaray-0085": {
+      "__uuid__": "da8c9649-1cff-40d3-b255-bda7a12f484b"
+    },
+    "atlas-07_lblmantaray-0087": {
+      "__uuid__": "d68bbbfc-d727-4318-88c9-edfb1b92de97"
+    },
+    "atlas-07_lblmantaray-0089": {
+      "__uuid__": "2deda4cd-a371-46b6-bea6-621b55c395d6"
+    },
+    "atlas-07_lblmantaray-0091": {
+      "__uuid__": "32f5bf9d-ba0d-4c16-93a9-e145716ca7f5"
+    },
+    "atlas-07_lblmantaray-0093": {
+      "__uuid__": "99dce761-51cb-4884-8876-7f7a13041275"
+    },
+    "atlas-07_lblmantaray-0095": {
+      "__uuid__": "1921c3c5-5035-4d6b-af06-d4531d1760c6"
+    },
+    "atlas-07_lblmantaray-0097": {
+      "__uuid__": "7f6bf005-072f-45d6-b85c-48864c99b916"
+    },
+    "atlas-07_lblmantaray-0099": {
+      "__uuid__": "a63f0257-d57a-4e21-bf3e-4f9d2842c147"
+    },
+    "atlas-07_lblmantaray-0101": {
+      "__uuid__": "9c4bb947-8bc6-41e4-ac76-41f4967c4383"
+    },
+    "atlas-07_lblmantaray-0103": {
+      "__uuid__": "e2f90f21-24ce-4243-b133-9019833ebdff"
+    },
+    "atlas-07_lblmantaray-0105": {
+      "__uuid__": "6d67af15-4449-4193-8a95-91150d4773bf"
+    },
+    "atlas-07_lblmantaray-0107": {
+      "__uuid__": "396ff1a4-5d65-476f-956d-f66a72f35915"
+    },
+    "atlas-07_lblmantaray-0109": {
+      "__uuid__": "ed61ad5b-eb14-4b65-8be8-3a035bfaf842"
+    },
+    "atlas-07_lblmantaray-0111": {
+      "__uuid__": "e4a11625-73b0-4c24-bd94-2a609f18d880"
+    },
+    "atlas-07_lblmantaray-0113": {
+      "__uuid__": "698f80e4-8805-4202-b0f0-b260e6f208f5"
+    },
+    "atlas-07_lblmantaray-0115": {
+      "__uuid__": "ba762210-9bb0-41ad-98eb-049781cd1054"
+    },
+    "atlas-07_lblmantaray-0117": {
+      "__uuid__": "3d5f901d-bfec-4fb9-a069-9b803e94b9ad"
+    },
+    "atlas-07_lblmantaray-0119": {
+      "__uuid__": "fd510393-f194-4f00-8b34-fafba69cf4aa"
+    }
+  }
+}

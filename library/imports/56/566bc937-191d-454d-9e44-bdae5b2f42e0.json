@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "red_light_turn.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "hg_01": {
+      "__uuid__": "ce495fc0-cb7c-44ca-8719-3dea1a5553eb"
+    },
+    "hg_02": {
+      "__uuid__": "c36c804d-ad88-4a3b-a2b3-c330ce6ccd12"
+    },
+    "hg_03": {
+      "__uuid__": "bbf27795-98ad-484d-a82a-117af9b8770a"
+    },
+    "hg_04": {
+      "__uuid__": "d96895e3-e7a3-45aa-bb97-23baf672906e"
+    },
+    "hg_05": {
+      "__uuid__": "4287f64a-97b8-4c08-9a49-da1a0ac71807"
+    },
+    "hg_06": {
+      "__uuid__": "0ed9253d-6d89-45be-b0af-02e3dcb5df52"
+    },
+    "hg_07": {
+      "__uuid__": "6627a88e-d1d4-4f1e-8503-fee3fa7b2f57"
+    },
+    "hg_08": {
+      "__uuid__": "50624e86-1f45-4b37-97e6-59568683f228"
+    },
+    "hg_09": {
+      "__uuid__": "e8423382-dfd4-45b5-9898-843970e44bd8"
+    },
+    "hg_10": {
+      "__uuid__": "0393b540-33f7-4d4a-b17b-fb23316f01fd"
+    }
+  }
+}

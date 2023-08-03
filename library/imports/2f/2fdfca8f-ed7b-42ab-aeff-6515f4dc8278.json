@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Slots_ZhuYeDao.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slots_0": {
+      "__uuid__": "e5978fba-9849-4378-a3cb-a5ae80533c34"
+    },
+    "slots_1": {
+      "__uuid__": "6b9194d6-2bc6-47d6-a6e5-07a327b10b5e"
+    },
+    "slots_2": {
+      "__uuid__": "a47fd07d-7b89-4cf7-9c6f-752c461c1ab7"
+    },
+    "slots_3": {
+      "__uuid__": "551f89a9-60d1-4f6a-9e26-eee2bf4deeb9"
+    },
+    "slots_4": {
+      "__uuid__": "84bbea5c-87ed-4643-b929-57b48793b9bb"
+    },
+    "slots_5": {
+      "__uuid__": "af7dea55-fd13-4419-bcea-ab375fe2758c"
+    },
+    "slots_6": {
+      "__uuid__": "53ca6ae6-dca1-4602-816e-851efb78f696"
+    },
+    "slots_7": {
+      "__uuid__": "7c1c5351-a9e2-4efc-8002-4fde86404299"
+    },
+    "slots_8": {
+      "__uuid__": "22672330-1c04-4633-a9c0-e05fca9b60bc"
+    },
+    "slots_bet_back": {
+      "__uuid__": "3f3eb4f1-77f2-45bc-838e-1164675714d6"
+    },
+    "slots_bet_back_win": {
+      "__uuid__": "5efe7a6d-e598-4ed9-aef2-881f15d0a967"
+    },
+    "slots_bet_bg_totalbet": {
+      "__uuid__": "e6b80a7c-c4c1-47d1-b4ed-2ae93a974c64"
+    },
+    "slots_bet_btn_betone_nor": {
+      "__uuid__": "a58cae6c-31eb-4371-9059-db28952384de"
+    },
+    "slots_bet_btn_betone_press": {
+      "__uuid__": "f706d678-5015-4bd8-9b80-997db8a83206"
+    },
+    "slots_bet_btn_betthree_nor": {
+      "__uuid__": "e6ff1a80-3488-4b50-8d1b-babbce020e33"
+    },
+    "slots_bet_btn_betthree_press": {
+      "__uuid__": "af93f41e-50cf-459c-9ffb-0437b2e6582e"
+    },
+    "slots_bet_btn_bettwo_nor": {
+      "__uuid__": "bc3da2c4-fe89-443a-969b-eff8926ef24a"
+    },
+    "slots_bet_btn_bettwo_press": {
+      "__uuid__": "8cdd2e82-05e6-4bc9-a53e-265f277ada6e"
+    },
+    "slots_bet_icon": {
+      "__uuid__": "dca6eb3f-97b1-40bf-898b-95d9fa5273c8"
+    },
+    "slots_bet_number_1": {
+      "__uuid__": "7e3599fc-50bb-4fbd-bff2-b0b0ee691d4c"
+    },
+    "slots_bet_number_1_choose": {
+      "__uuid__": "e148d6f1-063f-4e2e-85d4-50a93278ff5b"
+    },
+    "slots_bet_number_2": {
+      "__uuid__": "cd6afa55-abda-49cb-956a-ca0e58859447"
+    },
+    "slots_bet_number_2_choose": {
+      "__uuid__": "18c038d8-3b17-40af-8e37-280bb2bb7b9f"
+    },
+    "slots_bet_number_3": {
+      "__uuid__": "17a8b054-f69c-4965-83a8-5ebf34755f72"
+    },
+    "slots_bet_number_3_choose": {
+      "__uuid__": "a6342105-39ce-4a97-8a5e-cd0ac408ace5"
+    },
+    "slots_ptable_btn_close_nor": {
+      "__uuid__": "38ee3d6f-8551-4929-8f57-4203c26e544b"
+    },
+    "slots_ptable_btn_close_press": {
+      "__uuid__": "c5e66ff7-b021-4c08-9d6e-6b26a4bd5505"
+    },
+    "slots_ptable_btn_next_nor": {
+      "__uuid__": "f25a0368-cb8d-4b2b-aa6c-e56ce8e331ea"
+    },
+    "slots_ptable_btn_next_press": {
+      "__uuid__": "10b4dd42-e503-4972-9c2a-6f6eaa3da84b"
+    },
+    "slots_ptable_btn_return_nor": {
+      "__uuid__": "3ee22545-59d8-456e-a9fa-8b6c3b0085fa"
+    },
+    "slots_ptable_btn_return_press": {
+      "__uuid__": "a6b7c843-dce4-4c04-bd42-1a75193c7ebd"
+    }
+  }
+}

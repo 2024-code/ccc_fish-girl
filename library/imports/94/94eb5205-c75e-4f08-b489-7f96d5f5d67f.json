@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "im_head.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "head_animal_11": {
+      "__uuid__": "09c2a250-f7e6-4cb2-896c-58e6738c19a5"
+    },
+    "head_female_0": {
+      "__uuid__": "26491ccb-6f38-476c-b085-f7f9719f3927"
+    },
+    "head_female_1": {
+      "__uuid__": "016a53d9-ef5d-4383-96cd-c42a96c4baf6"
+    },
+    "head_female_2": {
+      "__uuid__": "382a2e0e-e2e8-4255-8503-5f21f2fa6c8c"
+    },
+    "head_kuang": {
+      "__uuid__": "61f72d82-82e2-47c7-9cf3-cb23b9458c02"
+    },
+    "man_0": {
+      "__uuid__": "9d9a0096-c391-4ae1-9a29-bf8854bc6e5f"
+    },
+    "man_0_0": {
+      "__uuid__": "e574c22c-709f-4fdc-9f61-967254cc401a"
+    },
+    "man_0_1": {
+      "__uuid__": "d55d98d9-ec6d-47c3-90cc-9c3369eacbc9"
+    },
+    "man_1": {
+      "__uuid__": "190f4fc7-7e7f-4859-b171-a6bd36ec09d8"
+    },
+    "man_1_0": {
+      "__uuid__": "93aeba0a-e062-4504-8e2c-ddc4764f238d"
+    },
+    "man_1_1": {
+      "__uuid__": "11e06567-8d75-47e5-9313-86079c0d404c"
+    },
+    "man_2": {
+      "__uuid__": "021f46ef-a628-4a85-a4fa-b83697bd42f0"
+    },
+    "man_2_0": {
+      "__uuid__": "cca1930f-4c2e-4989-8c7a-355ba152a872"
+    },
+    "man_2_1": {
+      "__uuid__": "9fe5c542-8d7f-462a-99c3-fe7089e11521"
+    },
+    "man_3": {
+      "__uuid__": "b769e991-b14e-40f4-a901-f13b8df538da"
+    },
+    "man_3_0": {
+      "__uuid__": "a2e0b047-26bb-4d83-9f79-1439335b0174"
+    },
+    "man_3_1": {
+      "__uuid__": "14ca27f0-6acc-44e9-9bb6-79ba89d420d6"
+    },
+    "man_4": {
+      "__uuid__": "ca7b38b8-c1c1-4479-a92c-306c24e49ee7"
+    },
+    "man_4_0": {
+      "__uuid__": "03640df1-f234-4115-ab97-faeacb1f7799"
+    },
+    "man_4_1": {
+      "__uuid__": "dc7afa7a-13fb-453a-b855-70e4b794a028"
+    },
+    "man_5": {
+      "__uuid__": "118f5ca6-67d4-4cd5-8068-17a03fbc3a01"
+    },
+    "man_5_0": {
+      "__uuid__": "2761cf5a-7f76-4086-bf65-9253e9db5506"
+    },
+    "man_5_1": {
+      "__uuid__": "c78a28f9-150f-4241-ae3d-f55f567ad62a"
+    },
+    "man_6": {
+      "__uuid__": "082e78dd-e0f3-48f7-bff1-f0271e3a467f"
+    },
+    "man_6_0": {
+      "__uuid__": "ece2de97-f6be-413a-bbc8-d211b0e81137"
+    },
+    "man_6_1": {
+      "__uuid__": "4b8c9a95-cae5-45be-89db-eaaa4406878d"
+    },
+    "man_7": {
+      "__uuid__": "fdf6c582-c337-4259-9fa0-b8cbdc331030"
+    },
+    "man_7_0": {
+      "__uuid__": "8f18308f-db3c-45ab-a590-1c7c469e7318"
+    },
+    "man_7_1": {
+      "__uuid__": "5da67744-fd1f-4d73-9cc6-8676aa2d048b"
+    },
+    "women_0": {
+      "__uuid__": "730abc59-dbd3-42f0-8c50-236fe9ed3056"
+    },
+    "women_0_0": {
+      "__uuid__": "194676be-c99f-4bce-baba-6ceee5f6abe0"
+    },
+    "women_0_1": {
+      "__uuid__": "55b21ceb-bdf6-4f87-9646-6b2af9d09423"
+    },
+    "women_1": {
+      "__uuid__": "32d63bd5-1807-4239-a6bb-6c4950edd2e7"
+    },
+    "women_1_0": {
+      "__uuid__": "44cd40f0-f5c8-4b12-a34c-8948356817bc"
+    },
+    "women_1_1": {
+      "__uuid__": "f1120299-dea6-46be-ad82-f1807f5c3e80"
+    },
+    "women_2": {
+      "__uuid__": "733f11f8-f37c-4133-b9de-3c752812059b"
+    },
+    "women_2_0": {
+      "__uuid__": "17ad68ef-1230-4162-aed1-6dc17ac3ef24"
+    },
+    "women_2_1": {
+      "__uuid__": "97d582d4-5140-4bae-b299-d8a516e232ff"
+    },
+    "women_3": {
+      "__uuid__": "ef5b9d26-2686-499e-bdd1-390c72e997ce"
+    },
+    "women_3_0": {
+      "__uuid__": "8d710ff7-6454-49b3-a793-ea8216e4ffcc"
+    },
+    "women_3_1": {
+      "__uuid__": "7e8c15c5-25fb-432b-ba11-0d1d1e0ed2df"
+    },
+    "women_4": {
+      "__uuid__": "cf310537-e36c-4846-82db-dc5081637be0"
+    },
+    "women_4_0": {
+      "__uuid__": "b3dfb8d4-8f59-4020-81d3-89b6163ae041"
+    },
+    "women_4_1": {
+      "__uuid__": "3f917cef-e16c-4daa-88e9-b73a7d1ad03d"
+    },
+    "women_5": {
+      "__uuid__": "cbb7ff28-6345-481b-b65d-e047a48a71d2"
+    },
+    "women_5_0": {
+      "__uuid__": "d1f82a8a-13d1-453f-8630-a5f5f49303ca"
+    },
+    "women_5_1": {
+      "__uuid__": "2e62d2bf-c202-4cdd-aa6e-fb6d50985248"
+    },
+    "women_6": {
+      "__uuid__": "61c25b08-3982-4de8-a790-2e9c22a207a7"
+    },
+    "women_6_0": {
+      "__uuid__": "a96e9513-f455-4f0b-b952-c18cd9a3a9b6"
+    },
+    "women_6_1": {
+      "__uuid__": "21a97ff4-63c2-4ec6-a436-1a9fd7999b9d"
+    },
+    "women_7": {
+      "__uuid__": "c5ac2b8f-ea87-4a6d-b294-850ca73abcca"
+    },
+    "women_7_0": {
+      "__uuid__": "4603e28b-e476-4c21-9be9-2f405025cf65"
+    },
+    "women_7_1": {
+      "__uuid__": "4b24af61-c465-40e9-b01d-05b0352f5917"
+    }
+  }
+}

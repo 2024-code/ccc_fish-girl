@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Languages.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "activity_en": {
+      "__uuid__": "12a2ac18-850c-4f8b-9639-fe210c3fd90a"
+    },
+    "activity_my": {
+      "__uuid__": "dc23d10e-8edd-4589-8f80-e028889579ba"
+    },
+    "activity_vn": {
+      "__uuid__": "7f9beea9-14a2-4b22-8cc4-32548c385363"
+    },
+    "activity_zh": {
+      "__uuid__": "730f61bb-9871-4037-a9df-5287ada2d0b7"
+    },
+    "bank_en": {
+      "__uuid__": "9824e2d7-f994-4071-87ac-9c83bfded9c6"
+    },
+    "bank_my": {
+      "__uuid__": "86f95063-405f-4763-891e-f9cec946aae4"
+    },
+    "bank_vn": {
+      "__uuid__": "a95bc3cb-f53d-4da7-9f78-24aa17a1e8e6"
+    },
+    "bank_zh": {
+      "__uuid__": "0b024821-9e2a-48b6-9225-422c6fe6af59"
+    },
+    "exchange_en": {
+      "__uuid__": "f7a374cc-7db5-432a-9558-97a4a3377c1c"
+    },
+    "exchange_my": {
+      "__uuid__": "15963773-77c1-4786-8c59-f9d4bf82fede"
+    },
+    "exchange_vn": {
+      "__uuid__": "b56d63af-1ee7-4d41-9523-404e0b30a17f"
+    },
+    "exchange_zh": {
+      "__uuid__": "6dedacd1-1fb8-43e3-bbd4-2f6b54b51f4a"
+    },
+    "mail_en": {
+      "__uuid__": "2165a9c8-35db-4009-8a4f-afbf644d524c"
+    },
+    "mail_my": {
+      "__uuid__": "03f3f0ad-f31e-4465-b53f-f9e96c520b23"
+    },
+    "mail_vn": {
+      "__uuid__": "1526ee7d-262c-4128-8800-8bb532afb8fb"
+    },
+    "mail_zh": {
+      "__uuid__": "56813b58-a9c7-4426-9029-329fc964a99c"
+    },
+    "rank_en": {
+      "__uuid__": "334e2c59-4bc4-45b3-911f-72f04b938190"
+    },
+    "rank_my": {
+      "__uuid__": "4b45e976-8688-4a2f-80b7-fbc22f4b1fbe"
+    },
+    "rank_vn": {
+      "__uuid__": "ebe85f57-8585-4cfd-8eb3-7f480e18ef1d"
+    },
+    "rank_zh": {
+      "__uuid__": "62c69fdb-600c-46e1-9bb7-7969dd5d4a57"
+    },
+    "tesk_en": {
+      "__uuid__": "6d5cb5da-4d1c-43f0-b74b-c9ff15987f7b"
+    },
+    "tesk_my": {
+      "__uuid__": "898ca4d4-fc46-4993-ae35-81bdc0094c13"
+    },
+    "tesk_vn": {
+      "__uuid__": "6898af3b-1743-4a65-a9dd-6a95f5567d7f"
+    },
+    "tesk_zh": {
+      "__uuid__": "8c9399b9-47c1-4a1b-8a06-d6921770c3ce"
+    }
+  }
+}

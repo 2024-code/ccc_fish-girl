@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_bg_bonus_end",
+    "texture": "7e4e4332-76e0-4da7-b9b4-d473b17ae6ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1135,
+      501
+    ],
+    "offset": [
+      -0.5,
+      11
+    ],
+    "originalSize": [
+      1136,
+      523
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

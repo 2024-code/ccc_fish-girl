@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "233c94cd-9056-4753-ae87-46724baf0681",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Slots_nezaBGami": {
+      "ver": "1.0.4",
+      "uuid": "43f40566-62ea-4a05-ba8a-c60ddb320a02",
+      "rawTextureUuid": "233c94cd-9056-4753-ae87-46724baf0681",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 64,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 121,
+      "height": 122,
+      "rawWidth": 128,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

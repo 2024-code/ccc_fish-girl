@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "442cb514-0bdc-403d-9abc-a60a537ecf76",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_yellowmonkey_8": {
+      "ver": "1.0.4",
+      "uuid": "baf3334c-600d-4af1-88a8-9225dcca97d7",
+      "rawTextureUuid": "442cb514-0bdc-403d-9abc-a60a537ecf76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5.5,
+      "trimX": 73,
+      "trimY": 62,
+      "width": 110,
+      "height": 121,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

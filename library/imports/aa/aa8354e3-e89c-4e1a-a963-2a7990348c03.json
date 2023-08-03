@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_web_btnClose",
+    "texture": "0493283f-6c8d-4b45-9f9a-571c44c7f8fc",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      80,
+      81
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      80,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "exitTxt",
+    "texture": "e6c0dbc1-1e38-470e-a327-bc93ee079415",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      583,
+      160
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      584,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

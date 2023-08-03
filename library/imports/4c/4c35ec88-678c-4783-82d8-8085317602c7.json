@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PromptWild",
+    "texture": "da978946-d0a2-4db7-9078-544918e99b5c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      139,
+      44
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      140,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

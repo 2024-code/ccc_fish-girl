@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_bar",
+    "texture": "5ceeefb5-8fca-4b18-a9b1-cdf6dcd26436",
+    "atlas": "d9337d8c-b884-4716-b47b-a38140eab43a",
+    "rect": [
+      350,
+      1560,
+      176,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

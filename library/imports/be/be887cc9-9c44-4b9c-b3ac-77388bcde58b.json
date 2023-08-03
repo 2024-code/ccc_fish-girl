@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "trend.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "blue_bg": {
+      "__uuid__": "8639f14e-4f2b-413c-b0d4-adfcea77aaaf"
+    },
+    "dragon_d": {
+      "__uuid__": "8a6baa86-c7f1-4c2d-96f0-470d32264ac5"
+    },
+    "icon_dragon": {
+      "__uuid__": "84572837-0f7b-4e5d-94c0-83caec49deef"
+    },
+    "icon_tiger": {
+      "__uuid__": "852f2c25-7e49-49e5-baf7-5ecc9f5011ae"
+    },
+    "recent_bg": {
+      "__uuid__": "a2f6dcf8-3a2a-44e3-832c-8e4e528cec6d"
+    },
+    "red_bg": {
+      "__uuid__": "482b8791-0546-4e0a-8a25-20416c6cfaa3"
+    },
+    "tie_d": {
+      "__uuid__": "0302264c-0aad-40eb-8589-2341fa4676c6"
+    },
+    "tiger_d": {
+      "__uuid__": "7e696a13-5c12-42c9-b2c0-78195fd12cba"
+    },
+    "trend_box": {
+      "__uuid__": "9fe6f5c6-7bd2-4748-91d5-2bc4b21c3a13"
+    }
+  }
+}

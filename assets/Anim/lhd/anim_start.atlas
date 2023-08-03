@@ -1,0 +1,26 @@
+
+anim_start-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bac
+  rotate: false
+  xy: 2, 2
+  size: 502, 95
+  orig: 502, 95
+  offset: 0, 0
+  index: -1
+bca1
+  rotate: false
+  xy: 2, 2
+  size: 502, 95
+  orig: 502, 95
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 99
+  size: 563, 209
+  orig: 563, 209
+  offset: 0, 0
+  index: -1

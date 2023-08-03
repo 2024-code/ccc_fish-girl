@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhongjiang_tex",
+    "texture": "00003fe1-fbc7-4272-8b11-d4a98cb89ca1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      488,
+      529
+    ],
+    "offset": [
+      -11,
+      246.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

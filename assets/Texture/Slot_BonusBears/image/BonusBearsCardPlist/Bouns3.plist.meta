@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "18ddc63d-c1f5-4571-8874-8560605ebea2",
+  "rawTextureUuid": "2cad1110-dd89-407c-b2e9-a8f351391c71",
+  "size": {
+    "width": 802,
+    "height": 962
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Bouns.jpg": {
+      "ver": "1.0.4",
+      "uuid": "054c75ec-d33a-4a04-a7d9-10eefe590610",
+      "rawTextureUuid": "2cad1110-dd89-407c-b2e9-a8f351391c71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 800,
+      "height": 600,
+      "rawWidth": 800,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "instructions.png": {
+      "ver": "1.0.4",
+      "uuid": "10130ec8-d9d7-43a6-82f7-6e189cc21655",
+      "rawTextureUuid": "2cad1110-dd89-407c-b2e9-a8f351391c71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 602,
+      "width": 735,
+      "height": 359,
+      "rawWidth": 735,
+      "rawHeight": 359,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

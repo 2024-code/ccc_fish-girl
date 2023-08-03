@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "corner_circle_red",
+    "texture": "0cf45a9c-be8a-4450-b945-6e97aba04b44",
+    "atlas": "e688d59f-b958-498f-8cab-7d7419a2cca5",
+    "rect": [
+      294,
+      45,
+      20,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

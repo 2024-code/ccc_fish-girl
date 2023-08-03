@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "paixing_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 298,\r\n        \"y\": 153,\r\n        \"height\": 29,\r\n        \"name\": \"未标题-1\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 242,\r\n        \"y\": 1,\r\n        \"height\": 150,\r\n        \"name\": \"图层-716\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 251,\r\n        \"height\": 1,\r\n        \"name\": \"图层-555\",\r\n        \"x\": 10\r\n    },\r\n    {\r\n        \"width\": 86,\r\n        \"y\": 1,\r\n        \"height\": 86,\r\n        \"name\": \"图层-1\",\r\n        \"x\": 245\r\n    },\r\n    {\r\n        \"width\": 127,\r\n        \"y\": 184,\r\n        \"height\": 62,\r\n        \"name\": \"顺子\",\r\n        \"x\": 130\r\n    },\r\n    {\r\n        \"width\": 127,\r\n        \"y\": 184,\r\n        \"height\": 62,\r\n        \"name\": \"连对\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 248,\r\n        \"height\": 1,\r\n        \"name\": \"15\",\r\n        \"x\": 7\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 251,\r\n        \"height\": 1,\r\n        \"name\": \"22\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 248,\r\n        \"height\": 1,\r\n        \"name\": \"21\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 251,\r\n        \"height\": 1,\r\n        \"name\": \"25\",\r\n        \"x\": 4\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 254,\r\n        \"height\": 1,\r\n        \"name\": \"5\",\r\n        \"x\": 4\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 248,\r\n        \"height\": 1,\r\n        \"name\": \"24\",\r\n        \"x\": 4\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 248,\r\n        \"height\": 1,\r\n        \"name\": \"20\",\r\n        \"x\": 10\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 251,\r\n        \"height\": 1,\r\n        \"name\": \"18\",\r\n        \"x\": 7\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 254,\r\n        \"height\": 1,\r\n        \"name\": \"19\",\r\n        \"x\": 7\r\n    },\r\n    {\r\n        \"width\": 1,\r\n        \"y\": 254,\r\n        \"height\": 1,\r\n        \"name\": \"23\",\r\n        \"x\": 1\r\n    }],\r\n    \"imagePath\": \"paixing_tex.png\",\r\n    \"name\": \"paixing\"\r\n}",
+  "_texture": {
+    "__uuid__": "2613d040-7d1b-41b2-9de9-152d5ac31974"
+  },
+  "texture": {
+    "__uuid__": "2613d040-7d1b-41b2-9de9-152d5ac31974"
+  },
+  "_textureAtlasData": null
+}

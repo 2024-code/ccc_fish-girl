@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_win_fx_19",
+    "texture": "06e91a8d-b6ef-4ec5-9ee4-dadf38ce1ba5",
+    "atlas": "",
+    "rect": [
+      57,
+      65,
+      386,
+      373
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      500,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

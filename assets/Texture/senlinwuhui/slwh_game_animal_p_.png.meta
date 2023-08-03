@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bc4348f4-15b5-4d52-ab2d-d4cb4657cc62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "slwh_game_animal_p_": {
+      "ver": "1.0.4",
+      "uuid": "b0b1f221-7138-414f-a451-f5565b3fa324",
+      "rawTextureUuid": "bc4348f4-15b5-4d52-ab2d-d4cb4657cc62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 7,
+      "trimY": 10,
+      "width": 67,
+      "height": 81,
+      "rawWidth": 81,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

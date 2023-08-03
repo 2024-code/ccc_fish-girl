@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish50_move1",
+    "texture": "2350918f-7e0b-4d41-a694-00ca52834cbe",
+    "atlas": "8149e3df-692e-4a44-b579-0c5ca363301e",
+    "rect": [
+      153,
+      2,
+      145,
+      128
+    ],
+    "offset": [
+      -7,
+      0
+    ],
+    "originalSize": [
+      165,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

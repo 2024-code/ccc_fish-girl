@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>NewIndianMythFreeWild/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{273,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{273,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{409,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{409,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{681,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{681,384},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+			<key>NewIndianMythFreeWild/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{817,1},{134,381}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,381}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NewIndianMythFreeWild.png</string>
+			<key>realTextureFileName</key>
+			<string>NewIndianMythFreeWild.png</string>
+			<key>size</key>
+			<string>{952,766}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>952</integer>
+			<key>height</key>
+			<integer>766</integer>
+		</dict>
+	</dict>
+</plist>

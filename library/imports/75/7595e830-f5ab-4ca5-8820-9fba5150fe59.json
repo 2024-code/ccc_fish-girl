@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ruler_pdk_bg",
+    "texture": "d522b160-d14a-41df-b3c1-aeea0cc14a01",
+    "atlas": "",
+    "rect": [
+      38,
+      11,
+      775,
+      1611
+    ],
+    "offset": [
+      -6.5,
+      10
+    ],
+    "originalSize": [
+      864,
+      1653
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

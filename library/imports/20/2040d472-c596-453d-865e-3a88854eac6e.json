@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dragWild",
+    "texture": "bdff8dbb-fe4a-4bb7-9f35-90933d82b7a2",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1020,
+      1018
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

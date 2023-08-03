@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_mask_small",
+    "texture": "c25eb730-d392-460b-ac4a-558cdf152aa6",
+    "atlas": "9acc973b-4c3e-4f42-89ba-cdd087df324c",
+    "rect": [
+      540,
+      2,
+      148,
+      226
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      162,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

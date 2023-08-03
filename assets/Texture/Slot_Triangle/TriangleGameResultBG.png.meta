@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "667bd12b-06d3-4b67-94c0-688ecc7e3b1d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 684,
+  "height": 440,
+  "platformSettings": {},
+  "subMetas": {
+    "TriangleGameResultBG": {
+      "ver": "1.0.4",
+      "uuid": "aba94399-5d36-4786-a783-6b30577a6365",
+      "rawTextureUuid": "667bd12b-06d3-4b67-94c0-688ecc7e3b1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 683,
+      "height": 437,
+      "rawWidth": 684,
+      "rawHeight": 440,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

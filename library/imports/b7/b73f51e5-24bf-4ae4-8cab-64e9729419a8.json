@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_cloud_logo",
+    "texture": "edb92ee6-a589-4871-b435-d7738f50ce2c",
+    "atlas": "",
+    "rect": [
+      4,
+      6,
+      291,
+      132
+    ],
+    "offset": [
+      -20,
+      2.5
+    ],
+    "originalSize": [
+      339,
+      149
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

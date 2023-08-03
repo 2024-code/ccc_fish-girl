@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btBlackCard",
+    "texture": "2669c552-8942-41c9-9bc1-b8fa727bf8e2",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      202,
+      203
+    ],
+    "offset": [
+      -5,
+      4.5
+    ],
+    "originalSize": [
+      220,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

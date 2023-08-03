@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Back To Game_c",
+    "texture": "06bd0bca-c3e0-44d9-a284-3a067e1b7b6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      62
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      380,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

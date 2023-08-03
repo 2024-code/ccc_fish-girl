@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game1_hide_2",
+    "texture": "f7799759-7486-4f0a-a454-51a5429e47de",
+    "atlas": "",
+    "rect": [
+      5,
+      1,
+      55,
+      64
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      63,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

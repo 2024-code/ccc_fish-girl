@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battery_charging",
+    "texture": "e2dac460-f4d4-4c86-b0fc-6912916df3ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

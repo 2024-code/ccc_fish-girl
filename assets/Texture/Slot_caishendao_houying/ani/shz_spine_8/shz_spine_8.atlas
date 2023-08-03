@@ -1,0 +1,33 @@
+
+oldman-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hat
+  rotate: false
+  xy: 2, 2
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+icon_milefo_face
+  rotate: false
+  xy: 2, 49
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+icon_milefo_nose
+  rotate: false
+  xy: 79, 94
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+icon_molefo_eyes
+  rotate: true
+  xy: 79, 61
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Y_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{648,630},{322,301}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{322,301}</string>
+			</dict>
+			<key>Y_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{664,318},{332,310}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{332,310}</string>
+			</dict>
+			<key>Y_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{664,1},{328,315}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{328,315}</string>
+			</dict>
+			<key>Y_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{339,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{339,309}</string>
+			</dict>
+			<key>Y_0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,312},{326,319}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{326,319}</string>
+			</dict>
+			<key>Y_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{329,329},{317,317}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{317,317}</string>
+			</dict>
+			<key>Y_0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,648},{298,322}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{298,322}</string>
+			</dict>
+			<key>Y_0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,633},{309,321}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{309,321}</string>
+			</dict>
+			<key>Y_0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{342,1},{320,326}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,326}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TriangleCircle1.png</string>
+			<key>realTextureFileName</key>
+			<string>TriangleCircle1.png</string>
+			<key>size</key>
+			<string>{997,971}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>997</integer>
+			<key>height</key>
+			<integer>971</integer>
+		</dict>
+	</dict>
+</plist>

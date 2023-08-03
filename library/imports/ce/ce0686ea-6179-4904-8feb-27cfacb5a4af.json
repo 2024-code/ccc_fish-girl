@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goBtn",
+    "texture": "f2662f77-cfcf-45a3-a4ce-8339a0d60add",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      107
+    ],
+    "capInsets": [
+      15,
+      11,
+      15,
+      11
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diaochan_big_b",
+    "texture": "38bd5e49-4996-4e2d-8b23-b5b04ad2e09c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      245,
+      111
+    ],
+    "offset": [
+      -3.5,
+      6.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "db_Fish_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"frameX\": 0,\r\n        \"y\": 1,\r\n        \"frameY\": -1,\r\n        \"frameWidth\": 250,\r\n        \"width\": 250,\r\n        \"frameHeight\": 250,\r\n        \"height\": 248,\r\n        \"name\": \"buyu_1\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 208,\r\n        \"y\": 1,\r\n        \"height\": 206,\r\n        \"name\": \"ca177c09eb82f45c6d42ce00c2f48450\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"width\": 210,\r\n        \"y\": 209,\r\n        \"height\": 75,\r\n        \"name\": \"logo\",\r\n        \"x\": 253\r\n    },\r\n    {\r\n        \"frameX\": -3,\r\n        \"y\": 251,\r\n        \"frameY\": -4,\r\n        \"frameWidth\": 128,\r\n        \"width\": 122,\r\n        \"frameHeight\": 128,\r\n        \"height\": 120,\r\n        \"name\": \"1\",\r\n        \"x\": 1\r\n    }],\r\n    \"imagePath\": \"db_Fish_tex.png\",\r\n    \"name\": \"db_Fish\"\r\n}",
+  "_texture": {
+    "__uuid__": "e91128c6-f7cf-4b00-a50f-b3d72b536335"
+  },
+  "texture": {
+    "__uuid__": "e91128c6-f7cf-4b00-a50f-b3d72b536335"
+  },
+  "_textureAtlasData": null
+}

@@ -1,0 +1,118 @@
+
+slots_82.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+STR7065_0
+  rotate: true
+  xy: 750, 203
+  size: 51, 168
+  orig: 51, 168
+  offset: 0, 0
+  index: -1
+STR7065_1
+  rotate: true
+  xy: 750, 150
+  size: 51, 168
+  orig: 51, 168
+  offset: 0, 0
+  index: -1
+STR7065_2
+  rotate: true
+  xy: 2, 52
+  size: 51, 168
+  orig: 51, 168
+  offset: 0, 0
+  index: -1
+STR7065_3
+  rotate: true
+  xy: 172, 57
+  size: 51, 168
+  orig: 51, 168
+  offset: 0, 0
+  index: -1
+STR7065_4
+  rotate: true
+  xy: 750, 97
+  size: 51, 168
+  orig: 51, 168
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 105
+  size: 162, 149
+  orig: 164, 151
+  offset: 1, 1
+  index: -1
+bglight
+  rotate: true
+  xy: 473, 121
+  size: 133, 134
+  orig: 135, 136
+  offset: 1, 1
+  index: -1
+fire
+  rotate: false
+  xy: 326, 122
+  size: 145, 132
+  orig: 147, 134
+  offset: 1, 1
+  index: -1
+guang-2
+  rotate: false
+  xy: 2, 2
+  size: 59, 48
+  orig: 66, 54
+  offset: 2, 5
+  index: -1
+kuang
+  rotate: false
+  xy: 166, 110
+  size: 158, 144
+  orig: 160, 146
+  offset: 1, 1
+  index: -1
+qiangLight
+  rotate: false
+  xy: 609, 132
+  size: 139, 122
+  orig: 141, 124
+  offset: 1, 1
+  index: -1
+qiangan
+  rotate: false
+  xy: 105, 13
+  size: 41, 37
+  orig: 43, 39
+  offset: 1, 1
+  index: -1
+qiangmao
+  rotate: false
+  xy: 63, 4
+  size: 40, 46
+  orig: 42, 48
+  offset: 1, 1
+  index: -1
+qiangtou
+  rotate: false
+  xy: 920, 167
+  size: 96, 87
+  orig: 98, 89
+  offset: 1, 1
+  index: -1
+shanguang_00047
+  rotate: false
+  xy: 920, 101
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shanguang_00111
+  rotate: false
+  xy: 609, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

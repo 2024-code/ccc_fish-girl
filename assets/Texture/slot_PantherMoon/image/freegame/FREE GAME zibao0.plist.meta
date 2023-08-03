@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "e2a54053-13a7-452e-8e04-ad3648aacf5f",
+  "rawTextureUuid": "14856083-c199-4915-b043-6b2de8d8ec28",
+  "size": {
+    "width": 1024,
+    "height": 1024
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "ALL wins x3.png": {
+      "ver": "1.0.4",
+      "uuid": "21f8502c-ebd4-4df8-a775-74b976d1aa6a",
+      "rawTextureUuid": "14856083-c199-4915-b043-6b2de8d8ec28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 124,
+      "rawWidth": 880,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "15 FREEGAMES.png": {
+      "ver": "1.0.4",
+      "uuid": "17548e01-511b-4af6-9d40-de19e467e3f7",
+      "rawTextureUuid": "14856083-c199-4915-b043-6b2de8d8ec28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 126,
+      "width": 880,
+      "height": 124,
+      "rawWidth": 880,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

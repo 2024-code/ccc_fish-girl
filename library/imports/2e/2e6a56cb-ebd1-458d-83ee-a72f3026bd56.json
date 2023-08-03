@@ -1,0 +1,383 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "King_GoldDragon_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-King_GoldDragon-0017": {
+      "__uuid__": "8c593199-d5c6-4f21-8087-75c8c8468265"
+    },
+    "atlas-King_GoldDragon-0019": {
+      "__uuid__": "278afcc8-3924-4044-813e-ba9173539e46"
+    },
+    "atlas-King_GoldDragon-0021": {
+      "__uuid__": "583a7a8a-2f58-4ef3-a76f-163805dbc9ce"
+    },
+    "atlas-King_GoldDragon-0023": {
+      "__uuid__": "69c5e1f9-ab44-4524-b738-d2cbcf1892b0"
+    },
+    "atlas-King_GoldDragon-0027": {
+      "__uuid__": "2715e0d1-0f3c-4b4e-a32a-ba43c65d5dbd"
+    },
+    "atlas-King_GoldDragon-0031": {
+      "__uuid__": "b553271c-f7ed-4f31-a8d3-53441e71c020"
+    },
+    "atlas-King_GoldDragon-0035": {
+      "__uuid__": "ac7f0f92-b4fd-4a52-8afe-91d065de8877"
+    },
+    "atlas-King_GoldDragon-0037": {
+      "__uuid__": "c4692fee-79a6-4dc5-8b3d-5323899b8a98"
+    },
+    "atlas-King_GoldDragon-0039": {
+      "__uuid__": "1c72e0d9-187f-4b3e-bd2e-9179be1af3be"
+    },
+    "atlas-King_GoldDragon-0041": {
+      "__uuid__": "513b8505-5429-417a-bcfd-42898d06ab5c"
+    },
+    "atlas-King_GoldDragon-0043": {
+      "__uuid__": "94fc616c-ec33-4660-ae3f-5d0844652c27"
+    },
+    "atlas-King_GoldDragon-0045": {
+      "__uuid__": "47850e80-0cc3-43e8-bfc1-79a4848562bc"
+    },
+    "atlas-King_GoldDragon-0047": {
+      "__uuid__": "8b5095f8-0227-4b73-952c-bdec6eabdeee"
+    },
+    "atlas-King_GoldDragon-0049": {
+      "__uuid__": "aeaeafa2-857f-47ac-a62b-e842e95a4c7d"
+    },
+    "atlas-King_GoldDragon-0051": {
+      "__uuid__": "779ae6da-1ae0-4885-b3cf-2f3e870c2b1d"
+    },
+    "atlas-King_GoldDragon-0053": {
+      "__uuid__": "8dbb897b-234b-498e-951f-b67dfc56ab81"
+    },
+    "atlas-King_GoldDragon-0057": {
+      "__uuid__": "d04ee6aa-ef5b-45b7-87fc-4d32fc3eebbe"
+    },
+    "atlas-King_GoldDragon-0059": {
+      "__uuid__": "f65a8dc0-c873-4330-affb-68088ba96a75"
+    },
+    "atlas-King_GoldDragon-0071": {
+      "__uuid__": "a209abac-ebce-40e1-b4b1-e8be7bfc2749"
+    },
+    "atlas-King_GoldDragon-0073": {
+      "__uuid__": "200480e8-d916-4e87-8356-61f126649f10"
+    },
+    "atlas-King_GoldDragon-0075": {
+      "__uuid__": "f8be9a2a-414b-4900-a00e-0a00611aa933"
+    },
+    "atlas-King_GoldDragon-0077": {
+      "__uuid__": "4d86b6a3-7f51-4371-9cfd-b23afa77aae1"
+    },
+    "atlas-King_GoldDragon-0079": {
+      "__uuid__": "0ef84695-0d7d-4857-8873-e953640243bd"
+    },
+    "atlas-King_GoldDragon-0081": {
+      "__uuid__": "ee0167b5-1f2b-4929-9325-d915c9581ce8"
+    },
+    "atlas-King_GoldDragon-0083": {
+      "__uuid__": "56862c32-cab6-47f0-9c19-dbf28de7510b"
+    },
+    "atlas-King_GoldDragon-0085": {
+      "__uuid__": "09f2b359-a3fa-4903-ab45-fcc48f5aeac4"
+    },
+    "atlas-King_GoldDragon-0087": {
+      "__uuid__": "dd3d5c85-40a4-416d-9013-258c3742e663"
+    },
+    "atlas-King_GoldDragon-0089": {
+      "__uuid__": "552d37d7-5d5d-496c-8292-db831f56d93d"
+    },
+    "atlas-King_GoldDragon-0091": {
+      "__uuid__": "7de4ab91-4276-493c-8cad-fda5ac3e1192"
+    },
+    "atlas-King_GoldDragon-0093": {
+      "__uuid__": "94d62e98-c020-409a-af57-6d8eb9e3eef8"
+    },
+    "atlas-King_GoldDragon-0095": {
+      "__uuid__": "dacac1db-3c6c-4ae7-8944-d42aad1774e4"
+    },
+    "atlas-King_GoldDragon-0097": {
+      "__uuid__": "a04f8cfd-f363-45fe-9ebe-3e951090a8a5"
+    },
+    "atlas-King_GoldDragon-0099": {
+      "__uuid__": "1de52e6e-ebdf-49d9-acc3-b0fabd699af2"
+    },
+    "atlas-King_GoldDragon-0103": {
+      "__uuid__": "a84fcf4a-c7ce-4d60-9e66-7c377a01c486"
+    },
+    "atlas-King_GoldDragon-0105": {
+      "__uuid__": "0ed148e1-b788-4a6f-b72a-a311e4c1f7a7"
+    },
+    "atlas-King_GoldDragon-0107": {
+      "__uuid__": "169d15f2-e78a-4014-9baa-fe817fb9becc"
+    },
+    "atlas-King_GoldDragon-0109": {
+      "__uuid__": "0651ac87-3d05-47aa-a33c-b2f267355306"
+    },
+    "atlas-King_GoldDragon-0111": {
+      "__uuid__": "0c1cd1aa-e0ff-4739-a27d-08a8b97e0563"
+    },
+    "atlas-King_GoldDragon-0113": {
+      "__uuid__": "5f7ca1b4-2ca5-4ebf-8fe6-cefb9c17c700"
+    },
+    "atlas-King_GoldDragon-0115": {
+      "__uuid__": "1383853c-e0ff-4f0f-977f-d00b7db78abd"
+    },
+    "atlas-King_GoldDragon-0117": {
+      "__uuid__": "0cd8aaab-6e09-4a0e-b690-9823a0a23d7f"
+    },
+    "atlas-King_GoldDragon-0119": {
+      "__uuid__": "c84a093f-2d58-4d5b-86fd-4bcf43f95092"
+    },
+    "atlas-King_GoldDragon-0121": {
+      "__uuid__": "272fd5cf-293b-40d8-871a-8435373fb481"
+    },
+    "atlas-King_GoldDragon-0123": {
+      "__uuid__": "1f4fda3d-7152-43cd-a941-f34c7650a999"
+    },
+    "atlas-King_GoldDragon-0125": {
+      "__uuid__": "e19834e6-d734-4d36-914d-8d9e0e724963"
+    },
+    "atlas-King_GoldDragon-0127": {
+      "__uuid__": "b14617fc-07b6-4e99-b5f2-1644bdfb889e"
+    },
+    "atlas-King_GoldDragon-0129": {
+      "__uuid__": "27796ab9-776c-4cd3-8c98-40651519e320"
+    },
+    "atlas-King_GoldDragon-0131": {
+      "__uuid__": "c69580e5-c3ea-4827-b8cc-b35e1f5a2f90"
+    },
+    "atlas-King_GoldDragon-0133": {
+      "__uuid__": "2ec62344-f5c8-4f60-802f-860afd56e3ec"
+    },
+    "atlas-King_GoldDragon-0135": {
+      "__uuid__": "f02edd8d-e472-4232-8f51-a35d7c3d8e40"
+    },
+    "atlas-King_GoldDragon-0137": {
+      "__uuid__": "8f28de19-d282-4a3c-8e92-11d2e4e15587"
+    },
+    "atlas-King_GoldDragon-0139": {
+      "__uuid__": "ab07da9c-a651-4085-a59b-28064ab3cf3b"
+    },
+    "atlas-King_GoldDragon-0141": {
+      "__uuid__": "da0842df-f9c3-43af-abe6-1d5de0968a08"
+    },
+    "atlas-King_GoldDragon-0143": {
+      "__uuid__": "a0fcb89b-d8aa-4106-b8a2-4bf57bb87084"
+    },
+    "atlas-King_GoldDragon-0147": {
+      "__uuid__": "d01bf1d6-8523-4c52-8058-3f6c551a1fe1"
+    },
+    "atlas-King_GoldDragon-0149": {
+      "__uuid__": "7e7dd50b-d156-4243-811d-c8c10b63746f"
+    },
+    "atlas-King_GoldDragon-0151": {
+      "__uuid__": "2fe4fe64-7746-4fea-81e8-8dcbebc0362f"
+    },
+    "atlas-King_GoldDragon-0153": {
+      "__uuid__": "0a795491-c971-456c-9c9e-30b4696c1556"
+    },
+    "atlas-King_GoldDragon-0155": {
+      "__uuid__": "b91d5ca0-7e44-4bba-8b17-058dba4c9d0e"
+    },
+    "atlas-King_GoldDragon-0157": {
+      "__uuid__": "5bf5b24f-8841-4d18-ab7e-4b90a77490b7"
+    },
+    "atlas-King_GoldDragon-0159": {
+      "__uuid__": "e6da545c-4ee0-4a6d-bb74-9415e3d71c0c"
+    },
+    "atlas-King_GoldDragon-0161": {
+      "__uuid__": "6582b3e8-2310-4e77-b39b-97544fad8fca"
+    },
+    "atlas-King_GoldDragon-0163": {
+      "__uuid__": "4c561bb8-6828-4aa1-b99f-e3e3d30111cb"
+    },
+    "atlas-King_GoldDragon-0165": {
+      "__uuid__": "566556cc-732e-4b60-8533-d8918b9573f8"
+    },
+    "atlas-King_GoldDragon-0167": {
+      "__uuid__": "495d4634-6885-4a0c-8edb-b3a3bebbafe7"
+    },
+    "atlas-King_GoldDragon-0169": {
+      "__uuid__": "63ec5438-01fd-406f-bea9-d54bc6c9e8b3"
+    },
+    "atlas-King_GoldDragon-0171": {
+      "__uuid__": "821c3b7d-f229-483d-b5b6-4f270f40d1f9"
+    },
+    "atlas-King_GoldDragon-0173": {
+      "__uuid__": "1ca09d17-00b6-4ca8-aad7-b8b7c5d9937b"
+    },
+    "atlas-King_GoldDragon-0175": {
+      "__uuid__": "c9d19daa-0da5-4320-bf24-759971190787"
+    },
+    "atlas-King_GoldDragon-0179": {
+      "__uuid__": "ded30356-66c9-47fd-96b5-85f20e7cbecf"
+    },
+    "atlas-King_GoldDragon-0181": {
+      "__uuid__": "639ec7aa-f371-4d6d-8fae-453bc6a0d3eb"
+    },
+    "atlas-King_GoldDragon-0269": {
+      "__uuid__": "d9645296-b39d-4e2b-9b99-a36794212cf1"
+    },
+    "atlas-King_GoldDragon-0271": {
+      "__uuid__": "8b4c7f6e-5417-4a1e-8f08-e109e6fa5eec"
+    },
+    "atlas-King_GoldDragon-0311": {
+      "__uuid__": "73b9e947-d764-48c2-ab71-37e276234e81"
+    },
+    "atlas-King_GoldDragon-0313": {
+      "__uuid__": "6506d71d-70d9-461e-8582-5be1ccc35411"
+    },
+    "atlas-King_GoldDragon-0315": {
+      "__uuid__": "9ed4d756-cc3f-4730-b84d-55625b121b8e"
+    },
+    "atlas-King_GoldDragon-0327": {
+      "__uuid__": "8a858fc1-7077-4d8e-85a5-08d011634f56"
+    },
+    "atlas-King_GoldDragon-0329": {
+      "__uuid__": "525c0ea9-bb57-4906-99db-a2af290bf0a2"
+    },
+    "atlas-King_GoldDragon-0331": {
+      "__uuid__": "3da43c19-317b-4f22-b906-5dd32284a4f7"
+    },
+    "atlas-King_GoldDragon-0333": {
+      "__uuid__": "3391c81e-2ae2-4d61-8ef8-4c010fc81b4d"
+    },
+    "atlas-King_GoldDragon-0349": {
+      "__uuid__": "267878ea-4089-4b07-a231-c4e5a6508ca8"
+    },
+    "atlas-King_GoldDragon-0351": {
+      "__uuid__": "fef55753-7da0-4f74-8cdb-9ca67575830a"
+    },
+    "atlas-King_GoldDragon-0355": {
+      "__uuid__": "cfc58a70-0d8d-4c74-8704-7354c1d9b41d"
+    },
+    "atlas-King_GoldDragon-0357": {
+      "__uuid__": "01299ba4-759b-4f16-bf1b-03da4d5f9a30"
+    },
+    "atlas-King_GoldDragon-0359": {
+      "__uuid__": "fb68e76d-d448-4850-9103-75876a84df80"
+    },
+    "atlas-King_GoldDragon-0361": {
+      "__uuid__": "aed0f155-1880-4ab5-87be-7562fe3a7eb0"
+    },
+    "atlas-King_GoldDragon-0363": {
+      "__uuid__": "042f23c3-55d8-45d3-b7a1-02e85875e894"
+    },
+    "atlas-King_GoldDragon-0365": {
+      "__uuid__": "93e385f5-bb3b-44f1-af89-db888fe445f8"
+    },
+    "atlas-King_GoldDragon-0367": {
+      "__uuid__": "da281513-ebf5-4dba-a409-5c396036daa7"
+    },
+    "atlas-King_GoldDragon-0369": {
+      "__uuid__": "29f904a7-2d8f-485a-9077-5ed8fbfd5861"
+    },
+    "atlas-King_GoldDragon-0371": {
+      "__uuid__": "621f4f33-8a97-4bc9-acb9-8f5988a1cd3b"
+    },
+    "atlas-King_GoldDragon-0373": {
+      "__uuid__": "721a8bff-45df-4099-8a40-efa61af19a69"
+    },
+    "atlas-King_GoldDragon-0375": {
+      "__uuid__": "bfcdb31a-386b-4ea4-ac6f-15dd177d4431"
+    },
+    "atlas-King_GoldDragon-0377": {
+      "__uuid__": "b85b73b4-864d-486e-8192-d716be039ae0"
+    },
+    "atlas-King_GoldDragon-0379": {
+      "__uuid__": "36fdf11b-714d-41ae-9ab9-0fcd368cfe77"
+    },
+    "atlas-King_GoldDragon-0381": {
+      "__uuid__": "f48d86c2-62aa-45e4-bd72-3e79874f3a2c"
+    },
+    "atlas-King_GoldDragon-0383": {
+      "__uuid__": "9820af6c-7325-4728-a304-044bb145124b"
+    },
+    "atlas-King_GoldDragon-0385": {
+      "__uuid__": "2ef368c4-361d-4674-82b8-4ca42cfc8e40"
+    },
+    "atlas-King_GoldDragon-0387": {
+      "__uuid__": "89727a2b-c8bf-45f7-b2b2-537da1c67077"
+    },
+    "atlas-King_GoldDragon-0389": {
+      "__uuid__": "dc01c6a2-5052-4801-a605-9b2d653d4db0"
+    },
+    "atlas-King_GoldDragon-0391": {
+      "__uuid__": "6616df42-6ec9-4898-adb6-a05fd7be18f5"
+    },
+    "atlas-King_GoldDragon-0393": {
+      "__uuid__": "41393518-3134-409d-aec1-76a92d282cf8"
+    },
+    "atlas-King_GoldDragon-0395": {
+      "__uuid__": "7fac3b2e-eec8-4245-8370-b3b37b33d233"
+    },
+    "atlas-King_GoldDragon-0397": {
+      "__uuid__": "460b0ac4-b39d-45b6-85f5-82669abb5b14"
+    },
+    "atlas-King_GoldDragon-0401": {
+      "__uuid__": "4d292683-8e16-46e9-9d21-7ae0c6dae7c0"
+    },
+    "atlas-King_GoldDragon-0403": {
+      "__uuid__": "1cf13320-e16f-45ca-9471-a8ba344897e4"
+    },
+    "atlas-King_GoldDragon-0405": {
+      "__uuid__": "0a500bd8-b73a-4c9e-a0b7-31bfca9f8606"
+    },
+    "atlas-King_GoldDragon-0407": {
+      "__uuid__": "acaa9145-cc19-4a0b-853e-fe1e4c00ea49"
+    },
+    "atlas-King_GoldDragon-0409": {
+      "__uuid__": "8bec8039-66bf-45a9-8951-9fba8cf04b9a"
+    },
+    "atlas-King_GoldDragon-0411": {
+      "__uuid__": "e16f0f31-629f-49f9-9a50-83237563cab3"
+    },
+    "atlas-King_GoldDragon-0413": {
+      "__uuid__": "a16c765a-6beb-4b07-8e78-2d309cfd7d1b"
+    },
+    "atlas-King_GoldDragon-0415": {
+      "__uuid__": "ea4d28e4-25f5-4fa8-9b59-d889c6566a53"
+    },
+    "atlas-King_GoldDragon-0417": {
+      "__uuid__": "e36caed1-db9c-4ef5-a8eb-ed1a95a0305d"
+    },
+    "atlas-King_GoldDragon-0425": {
+      "__uuid__": "2bff0753-ca07-4e7f-8133-24e99ddecc2b"
+    },
+    "atlas-King_GoldDragon-0427": {
+      "__uuid__": "0511016a-dde7-409f-ad6a-db0ca7f9ccb8"
+    },
+    "atlas-King_GoldDragon-0429": {
+      "__uuid__": "10f7ac34-e21f-4461-b75d-9f5f714d38d1"
+    },
+    "atlas-King_GoldDragon-0431": {
+      "__uuid__": "bcdf9c2b-4877-4749-8ecb-8671e5c5b6ac"
+    },
+    "atlas-King_GoldDragon-0437": {
+      "__uuid__": "d086e26f-a215-4c07-a659-d6dabea57191"
+    },
+    "atlas-King_GoldDragon-0439": {
+      "__uuid__": "cc217564-9d1a-458a-b1bf-3da14ca1f971"
+    },
+    "atlas-King_GoldDragon-0441": {
+      "__uuid__": "d7b6777f-9ae7-466a-969e-faa37019b297"
+    },
+    "atlas-King_GoldDragon-0443": {
+      "__uuid__": "95eb72c0-6a72-4ea0-8a8c-517ae8864bb4"
+    },
+    "atlas-King_GoldDragon-0449": {
+      "__uuid__": "1ea3f208-7c6f-4d22-9d51-43a5e08a9597"
+    },
+    "atlas-King_GoldDragon-0451": {
+      "__uuid__": "a0f7278c-2b05-4cfc-ad13-14d592865433"
+    },
+    "atlas-King_GoldDragon-0453": {
+      "__uuid__": "4b159593-52c3-4268-91c4-8112a7e32fc1"
+    },
+    "atlas-King_GoldDragon-0455": {
+      "__uuid__": "c9118bff-fa8e-43ab-adc6-61df141f86af"
+    }
+  }
+}

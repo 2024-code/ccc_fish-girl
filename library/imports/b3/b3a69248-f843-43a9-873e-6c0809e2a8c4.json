@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "court_0003",
+    "texture": "f287293b-745a-4deb-b818-6533b6e2df94",
+    "atlas": "8dd4c381-6dd8-4933-b0ca-51a777d85342",
+    "rect": [
+      1550,
+      2,
+      170,
+      160
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      170,
+      170
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

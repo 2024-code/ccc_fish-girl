@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shz_scoreBg",
+    "texture": "5566bc33-fe6c-4546-8e8f-9d3515792cbe",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      295,
+      51
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      296,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

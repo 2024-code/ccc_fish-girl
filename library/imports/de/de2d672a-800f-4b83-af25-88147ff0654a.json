@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "image_ping",
+    "texture": "268cbdf9-8101-4858-beef-0cb5096ab721",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      124,
+      100
+    ],
+    "offset": [
+      2,
+      -1
+    ],
+    "originalSize": [
+      128,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

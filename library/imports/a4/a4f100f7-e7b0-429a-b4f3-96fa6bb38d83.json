@@ -1,0 +1,188 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lbl_Big_Butterfly_1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-lbl_Big_Butterfly-0001": {
+      "__uuid__": "0f9d2b96-c7cb-41c6-8b09-7b4a372a6b85"
+    },
+    "atlas-lbl_Big_Butterfly-0003": {
+      "__uuid__": "7b0304c7-0e7b-4483-8e27-f2431bc90390"
+    },
+    "atlas-lbl_Big_Butterfly-0005": {
+      "__uuid__": "bb92940f-7d59-4e0d-b218-0a8b6a74e013"
+    },
+    "atlas-lbl_Big_Butterfly-0007": {
+      "__uuid__": "9c955770-ee05-40a7-b682-662dddb34a7a"
+    },
+    "atlas-lbl_Big_Butterfly-0009": {
+      "__uuid__": "00beb053-a6fc-42a6-9492-59dcea6629ef"
+    },
+    "atlas-lbl_Big_Butterfly-0011": {
+      "__uuid__": "0e18682c-964d-4de3-829f-454158ee1e9e"
+    },
+    "atlas-lbl_Big_Butterfly-0013": {
+      "__uuid__": "05c709e4-4cd1-4223-b12b-72fcabe58ae4"
+    },
+    "atlas-lbl_Big_Butterfly-0015": {
+      "__uuid__": "8264c143-39bd-435d-a1ec-83eef0017d48"
+    },
+    "atlas-lbl_Big_Butterfly-0017": {
+      "__uuid__": "87a9af1d-8755-4e2d-b7b4-f7d15d10675d"
+    },
+    "atlas-lbl_Big_Butterfly-0019": {
+      "__uuid__": "b5d0ac7d-d925-4c56-a2bc-eaf4ccb5079f"
+    },
+    "atlas-lbl_Big_Butterfly-0021": {
+      "__uuid__": "a0eed395-cbbd-460e-abd4-a13cc419455a"
+    },
+    "atlas-lbl_Big_Butterfly-0023": {
+      "__uuid__": "f8aeab79-40a4-45f1-8aa1-595d1cb04720"
+    },
+    "atlas-lbl_Big_Butterfly-0025": {
+      "__uuid__": "72e56c73-8614-42c2-87fb-84720d136749"
+    },
+    "atlas-lbl_Big_Butterfly-0027": {
+      "__uuid__": "99a0b711-ceb1-4e6b-8f4d-338c8ccbe81b"
+    },
+    "atlas-lbl_Big_Butterfly-0029": {
+      "__uuid__": "457b0912-ebf6-4c24-aaf9-e32eaf7003f4"
+    },
+    "atlas-lbl_Big_Butterfly-0031": {
+      "__uuid__": "b67f5d30-16f2-46c7-889d-873ddcb2f5ce"
+    },
+    "atlas-lbl_Big_Butterfly-0033": {
+      "__uuid__": "08db24f5-6eef-469a-8edc-1a0bd1d0258e"
+    },
+    "atlas-lbl_Big_Butterfly-0035": {
+      "__uuid__": "1015b565-b354-431f-8b49-454f24587999"
+    },
+    "atlas-lbl_Big_Butterfly-0037": {
+      "__uuid__": "cc30029f-6c2d-41be-95cc-074451e4b3cb"
+    },
+    "atlas-lbl_Big_Butterfly-0039": {
+      "__uuid__": "13fc40f3-675f-4421-853b-102d2bfb4c35"
+    },
+    "atlas-lbl_Big_Butterfly-0041": {
+      "__uuid__": "688b4866-2473-4036-b37b-6eaee2cf3f09"
+    },
+    "atlas-lbl_Big_Butterfly-0043": {
+      "__uuid__": "e0ec5494-9a17-4b8a-b35f-230aa7a265df"
+    },
+    "atlas-lbl_Big_Butterfly-0045": {
+      "__uuid__": "f3dd56c9-4649-4635-8d09-375ddc2f4a1d"
+    },
+    "atlas-lbl_Big_Butterfly-0047": {
+      "__uuid__": "c484da3b-43ca-48aa-8529-4d8a5bd720db"
+    },
+    "atlas-lbl_Big_Butterfly-0049": {
+      "__uuid__": "1e1c4f7e-9ffb-4948-abf0-a37bac26d4c1"
+    },
+    "atlas-lbl_Big_Butterfly-0051": {
+      "__uuid__": "c822772a-9edd-48f1-b80c-4fc20587f462"
+    },
+    "atlas-lbl_Big_Butterfly-0053": {
+      "__uuid__": "81b71b52-19c2-414e-8376-f58c0643eb57"
+    },
+    "atlas-lbl_Big_Butterfly-0055": {
+      "__uuid__": "4674833a-e106-4bef-980f-465973945f6c"
+    },
+    "atlas-lbl_Big_Butterfly-0057": {
+      "__uuid__": "2fee79f5-ea7b-4700-b67b-c20c831a69bf"
+    },
+    "atlas-lbl_Big_Butterfly-0059": {
+      "__uuid__": "cdfe2cff-8527-40d3-b604-16abf7c05b8f"
+    },
+    "atlas-lbl_Big_Butterfly-0061": {
+      "__uuid__": "201b5569-063b-4427-ad13-23e85996868c"
+    },
+    "atlas-lbl_Big_Butterfly-0063": {
+      "__uuid__": "5f334725-a9b0-4cbb-8d22-d37b8bc73bc8"
+    },
+    "atlas-lbl_Big_Butterfly-0065": {
+      "__uuid__": "a419f6e4-4a86-42d6-8ec5-43a70fda6d0c"
+    },
+    "atlas-lbl_Big_Butterfly-0067": {
+      "__uuid__": "6a84a103-0b96-4924-bfcd-c5482cf0526d"
+    },
+    "atlas-lbl_Big_Butterfly-0069": {
+      "__uuid__": "74deaf06-ad81-45ba-9634-f2e8afe417a1"
+    },
+    "atlas-lbl_Big_Butterfly-0071": {
+      "__uuid__": "6b88557b-7236-4f66-aea8-f48812b8d726"
+    },
+    "atlas-lbl_Big_Butterfly-0073": {
+      "__uuid__": "e1e7a08a-5981-4f6c-b5bc-8b2725c97b58"
+    },
+    "atlas-lbl_Big_Butterfly-0075": {
+      "__uuid__": "294273bd-3dd2-4f60-a443-31e6d5f8879d"
+    },
+    "atlas-lbl_Big_Butterfly-0077": {
+      "__uuid__": "f63cf3d7-5da2-4c8b-bd46-39b1637e0a1c"
+    },
+    "atlas-lbl_Big_Butterfly-0079": {
+      "__uuid__": "4a44fc62-2685-43eb-8d04-8882ee64f605"
+    },
+    "atlas-lbl_Big_Butterfly-0081": {
+      "__uuid__": "525fb71e-47da-4499-9dc1-31536d220a37"
+    },
+    "atlas-lbl_Big_Butterfly-0083": {
+      "__uuid__": "6f99f675-acc0-4ff6-90eb-033843b99590"
+    },
+    "atlas-lbl_Big_Butterfly-0085": {
+      "__uuid__": "253ecfa9-dbe2-4247-8e13-cb8f2cfd88f1"
+    },
+    "atlas-lbl_Big_Butterfly-0087": {
+      "__uuid__": "30ee3d06-4f30-49a1-854a-306389a3935d"
+    },
+    "atlas-lbl_Big_Butterfly-0089": {
+      "__uuid__": "c6c217c9-0923-4973-aa6c-9e8cf9f078c9"
+    },
+    "atlas-lbl_Big_Butterfly-0091": {
+      "__uuid__": "12f5e1bf-10df-4cd9-a39e-9ae62298f147"
+    },
+    "atlas-lbl_Big_Butterfly-0093": {
+      "__uuid__": "7a165b76-35ff-4d06-a820-6fa6bb2de9c6"
+    },
+    "atlas-lbl_Big_Butterfly-0095": {
+      "__uuid__": "5991b246-eb86-4a3d-82a4-7414881d6cc8"
+    },
+    "atlas-lbl_Big_Butterfly-0097": {
+      "__uuid__": "65c4bb94-044f-44b1-af38-126565aa8030"
+    },
+    "atlas-lbl_Big_Butterfly-0099": {
+      "__uuid__": "e53846e7-0ef2-4710-a41f-0269ee647b4d"
+    },
+    "atlas-lbl_Big_Butterfly-0101": {
+      "__uuid__": "9ec1fe54-5122-4d04-af4a-4bde715c17cb"
+    },
+    "atlas-lbl_Big_Butterfly-0103": {
+      "__uuid__": "ecb1c6f9-5dd1-48b1-99d0-bc21327d11fd"
+    },
+    "atlas-lbl_Big_Butterfly-0105": {
+      "__uuid__": "4ff8f1b3-d45c-42e6-8abe-5d47eeff310b"
+    },
+    "atlas-lbl_Big_Butterfly-0107": {
+      "__uuid__": "f9709bd3-80a9-48bb-bb6c-473a2f681e68"
+    },
+    "atlas-lbl_Big_Butterfly-0109": {
+      "__uuid__": "c05bd5df-ee15-451c-897d-d2b6b9bc3da1"
+    },
+    "atlas-lbl_Big_Butterfly-0111": {
+      "__uuid__": "076eecda-e0ce-40e8-86c5-2ce24eab2f72"
+    },
+    "atlas-lbl_Big_Butterfly-0113": {
+      "__uuid__": "2e20e54c-de56-4aa8-bd93-b6258b13800c"
+    },
+    "atlas-lbl_Big_Butterfly-0115": {
+      "__uuid__": "f9f29c1c-17b9-4745-bcdf-1cde4c01647c"
+    },
+    "atlas-lbl_Big_Butterfly-0117": {
+      "__uuid__": "3022f51b-7c51-4e91-b851-c5c05ec6cb11"
+    },
+    "atlas-lbl_Big_Butterfly-0119": {
+      "__uuid__": "4fcef57b-bf19-4acf-9b98-8b361fdfa71c"
+    }
+  }
+}

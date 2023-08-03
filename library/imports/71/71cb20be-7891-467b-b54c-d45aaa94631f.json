@@ -1,0 +1,185 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "game.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "banker_bg": {
+      "__uuid__": "c991b45c-c8fa-4e95-87ab-d5c38d59e754"
+    },
+    "bt_list_bg": {
+      "__uuid__": "a7f6ccd5-5939-45c1-a87a-813801f8efc2"
+    },
+    "btn_apply_banker_0": {
+      "__uuid__": "b70b978b-6fdf-48a8-acdf-aee0007d5bdb"
+    },
+    "btn_apply_banker_1": {
+      "__uuid__": "123b7ffa-1516-4d29-9548-832762a29cc6"
+    },
+    "btn_applylist_0": {
+      "__uuid__": "4855454e-97b8-4e25-8e64-0060a9e86415"
+    },
+    "btn_applylist_1": {
+      "__uuid__": "14c974fd-b471-4c7d-8bfb-40ce3b266511"
+    },
+    "btn_cancel_apply_0": {
+      "__uuid__": "b9cbf458-6e84-44b5-897f-7df8d21314ab"
+    },
+    "btn_cancel_apply_1": {
+      "__uuid__": "c1526d33-7635-47cd-8510-99f75921b3f6"
+    },
+    "btn_cancel_banker_0": {
+      "__uuid__": "8a4644b8-5f26-4a76-81a6-830bb5111708"
+    },
+    "btn_cancel_banker_1": {
+      "__uuid__": "e0024036-6280-4891-8fc0-9c1686ccf6f2"
+    },
+    "btn_return_0": {
+      "__uuid__": "9fba3747-7183-479b-8db7-e71980b6bf24"
+    },
+    "btn_return_1": {
+      "__uuid__": "008b6dc7-530b-4d6a-912d-777a85266655"
+    },
+    "btn_robbanker_0": {
+      "__uuid__": "7d20aef4-3694-43d7-a474-50c583b2bb5f"
+    },
+    "btn_robbanker_1": {
+      "__uuid__": "0382eebc-6062-4fcf-9fcd-083c7d9a6624"
+    },
+    "btn_set_0": {
+      "__uuid__": "59b29f92-7a5a-45a7-94d7-51b69b281aa9"
+    },
+    "btn_set_1": {
+      "__uuid__": "99e62762-fdce-4756-a3be-b763af7a540f"
+    },
+    "btn_userlist_0": {
+      "__uuid__": "df03fc4a-6a6a-446c-93dc-842a605be789"
+    },
+    "btn_userlist_1": {
+      "__uuid__": "57ab6552-f182-4b73-bafb-29e2a2aa73c9"
+    },
+    "btn_xiala1": {
+      "__uuid__": "8e469c66-bd8c-474d-8eba-cf3cf3ead0f7"
+    },
+    "btn_xiala2": {
+      "__uuid__": "12c49d77-66f7-41d7-ba25-b68853bda6f4"
+    },
+    "game_ludan1_ping": {
+      "__uuid__": "87c226e8-2765-405c-a716-4b9cc7d2bbfc"
+    },
+    "game_ludan1_xian": {
+      "__uuid__": "aaa614e4-b02e-4ceb-a142-e2d79d5664dd"
+    },
+    "game_ludan1_zhuang": {
+      "__uuid__": "76f9a9e6-99d2-4734-b2cf-3e6bcd23312f"
+    },
+    "game_ludan_down": {
+      "__uuid__": "f2cf4553-1ca0-4450-9688-3f838d068fed"
+    },
+    "game_ludan_up": {
+      "__uuid__": "1a2e91bb-f2d9-4084-a45f-7a3282dc33a7"
+    },
+    "gameend_background": {
+      "__uuid__": "ea69e02a-44df-45f2-b2dc-98309dea9ada"
+    },
+    "player_bg": {
+      "__uuid__": "8248ff61-ebd8-4368-a7a7-47a4ea67f153"
+    },
+    "player_info": {
+      "__uuid__": "46a12417-e8bd-4420-b8ee-eb3b2669349b"
+    },
+    "player_vip": {
+      "__uuid__": "21d79399-c339-40b3-acc8-3f8ea4a16a6a"
+    },
+    "puck_hei": {
+      "__uuid__": "1af9987c-dbc5-431b-b866-5fabba242ed8"
+    },
+    "puck_hong": {
+      "__uuid__": "89f9fbba-6fe4-46ec-9e65-8d0ebad01689"
+    },
+    "result_0": {
+      "__uuid__": "c9605696-ecd2-45ec-bd46-852afeba78ef"
+    },
+    "result_11": {
+      "__uuid__": "e95919bc-a631-4e8c-9e58-95e6ad8875e0"
+    },
+    "result_2": {
+      "__uuid__": "ac8f3bff-8f78-483f-87c9-91e7403369b4"
+    },
+    "result_3": {
+      "__uuid__": "3ca4000b-a869-435f-8995-82b78851dd19"
+    },
+    "result_4": {
+      "__uuid__": "e1de9a74-4b6e-4894-b901-7735aee0ad0b"
+    },
+    "result_5": {
+      "__uuid__": "57c5ded3-aaad-45ab-baa5-aa0fc8d2eb89"
+    },
+    "result_6": {
+      "__uuid__": "d54fec5e-5c00-42cb-855d-2ded47e4d080"
+    },
+    "room_button_bank": {
+      "__uuid__": "5a2c8170-66c9-483b-a4be-fc0b72c45e59"
+    },
+    "room_button_bank_1": {
+      "__uuid__": "41b624c9-dcf8-4d47-be28-e09c7cb09de9"
+    },
+    "room_chip_2_0": {
+      "__uuid__": "c9def94b-f4e0-4b3a-9f9e-c08396e81b30"
+    },
+    "room_chip_3_0": {
+      "__uuid__": "620f15bb-88b5-4c4a-9f0d-37cd50ed0355"
+    },
+    "room_chip_4_0": {
+      "__uuid__": "2565e3b7-4d25-4f3a-8471-dd730820fa1e"
+    },
+    "room_chip_5_0": {
+      "__uuid__": "ee584891-767e-462a-8a76-4f45b42bf0b1"
+    },
+    "room_chip_6_0": {
+      "__uuid__": "1f59ae8b-4773-4cec-8d9b-d96135408854"
+    },
+    "room_chip_7_0": {
+      "__uuid__": "ff321e49-48ec-4979-95c6-6ba51171ac5d"
+    },
+    "room_single_lose": {
+      "__uuid__": "91001a62-4dd4-4f42-addc-b9ce3a29551a"
+    },
+    "sitdown_effect": {
+      "__uuid__": "cd295320-74b4-4274-afb8-79d55e42cceb"
+    },
+    "sp_applylist_bg": {
+      "__uuid__": "e5d0a9fa-7648-427e-8212-023748df5898"
+    },
+    "sp_banker": {
+      "__uuid__": "63ccff03-fe4a-4cdc-a864-00204af31c15"
+    },
+    "sp_gold": {
+      "__uuid__": "512c0eb0-d67c-4c58-a3c5-f73d0a103840"
+    },
+    "sp_jetton_bg": {
+      "__uuid__": "1c4c958c-0d2c-4c45-82e1-4a59c17097be"
+    },
+    "sp_line": {
+      "__uuid__": "f216889b-d826-4d0d-a1a2-ea38ea6bf25f"
+    },
+    "sp_rob": {
+      "__uuid__": "4190fb76-c35d-4dc3-b4a0-8f3f61cdeba6"
+    },
+    "sp_time_bg": {
+      "__uuid__": "a013f97e-5dc8-49db-ac37-0e425c748e8d"
+    },
+    "sp_tip_1": {
+      "__uuid__": "d2b6039c-427b-46f3-8031-75ddae15f6ef"
+    },
+    "sp_tip_2": {
+      "__uuid__": "4f0ae18e-223e-4456-b878-15f80ac2472f"
+    },
+    "sp_tip_3": {
+      "__uuid__": "28f3b5c8-77d2-4cb7-a57e-ae842ba139e8"
+    },
+    "sp_userlist_bg": {
+      "__uuid__": "703251da-d155-4aa2-aea8-12b12a50324e"
+    }
+  }
+}

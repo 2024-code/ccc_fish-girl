@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gameui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "s_bet_hover_additive": {
+      "__uuid__": "5941d8da-32e6-470f-9c44-28033bf80ade"
+    },
+    "s_button_label": {
+      "__uuid__": "9dfb0e2e-0e63-4e7a-a5f5-050d16281c7c"
+    },
+    "s_buttons_bar": {
+      "__uuid__": "d40a637f-cbeb-431a-b8b6-556ff369d797"
+    },
+    "s_chip_minus": {
+      "__uuid__": "1ff5cf7b-fde4-4cfc-9029-f2ef39a99ece"
+    },
+    "s_chip_minus_active": {
+      "__uuid__": "4516f30c-23fa-441a-b2a8-f7ff8c1cbb48"
+    },
+    "s_chip_plus": {
+      "__uuid__": "9f92e9b8-0f79-4e2a-ab71-3519ce28911d"
+    },
+    "s_chip_plus_active": {
+      "__uuid__": "3530ca8e-b931-443d-a15d-40e18ee6a5dd"
+    },
+    "s_circle": {
+      "__uuid__": "b4566c7c-5334-4a08-9f81-200a37ead239"
+    },
+    "s_clear_bet": {
+      "__uuid__": "14e64c2e-106f-4b46-8d7f-5ce5763cb35f"
+    },
+    "s_clear_bet_hover": {
+      "__uuid__": "3d043521-5ca4-4997-b3bc-8cf5d940c0aa"
+    },
+    "s_logo": {
+      "__uuid__": "bef02dcf-8e3e-4a3a-89bd-992228ad288d"
+    },
+    "s_new_bet": {
+      "__uuid__": "a2088694-4fbb-4ae2-bd83-5572350d0276"
+    },
+    "s_new_bet_hover": {
+      "__uuid__": "cfcb4383-74c1-4d6e-965f-b4f027484da6"
+    },
+    "s_number_fx_lose": {
+      "__uuid__": "3c14c02f-5cea-48fc-a1bc-fadfdccbf809"
+    },
+    "s_number_fx_win": {
+      "__uuid__": "e58f2cd3-7c47-480a-b3fb-4dc95d83a9ab"
+    },
+    "s_rebet": {
+      "__uuid__": "05f65506-53fe-4933-b816-2edbfc92b081"
+    },
+    "s_rebet_hover": {
+      "__uuid__": "a552cf7d-5785-4f1e-a8b1-91fb93b7b268"
+    },
+    "s_result_black": {
+      "__uuid__": "6cc6a198-3dd3-4f96-a138-de2069b985af"
+    },
+    "s_result_green": {
+      "__uuid__": "12641b5e-e714-4a57-ae1e-9aff7841d3aa"
+    },
+    "s_result_red": {
+      "__uuid__": "e74b1e4f-faac-4954-ad63-c620ecfd0ae9"
+    },
+    "s_special_bet": {
+      "__uuid__": "c1347c94-4572-4c35-bd26-f4e81db7d5df"
+    },
+    "s_special_bet_hover": {
+      "__uuid__": "2e404594-3a33-45ea-8234-36eb3d7c56ad"
+    },
+    "s_special_bets_bg": {
+      "__uuid__": "5ed15474-4b2e-423b-a2ec-8af8d3f7568b"
+    },
+    "s_special_bets_frame": {
+      "__uuid__": "1fa8c817-4fd7-450f-9303-24cf6ef576ca"
+    },
+    "s_spin": {
+      "__uuid__": "9357a059-9b23-4518-ac22-05849ef3bd8b"
+    },
+    "s_spin_hover": {
+      "__uuid__": "bf183ae4-b839-4c1d-84cd-ea10a82ed166"
+    },
+    "s_table_colors_00": {
+      "__uuid__": "5e344f15-7aeb-4f9b-be5c-1a7dc9ff90b3"
+    },
+    "s_table_colors_01": {
+      "__uuid__": "be51e541-2ecd-44f2-93c5-b018e9e48c00"
+    },
+    "s_turbo_spin": {
+      "__uuid__": "855ff48d-3ffc-45ee-a5ef-6481bd1e80f2"
+    },
+    "s_turbo_spin_hover": {
+      "__uuid__": "fef8b2ca-86a7-4b00-ad01-cc566b34daa6"
+    },
+    "s_zero_hover_additive": {
+      "__uuid__": "d6680e06-6563-40af-bcb6-6fb693d8da55"
+    }
+  }
+}

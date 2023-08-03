@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slwh_game_animal_m",
+    "texture": "e7279f79-778d-46c8-8feb-e75951dae8cf",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      81,
+      78
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      81,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

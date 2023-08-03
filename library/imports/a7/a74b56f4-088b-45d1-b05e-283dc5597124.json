@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_03_banner_blurred",
+    "texture": "0f6e0351-cbc2-4541-8cf1-d2f10a2b2bdc",
+    "atlas": "",
+    "rect": [
+      157,
+      280,
+      272,
+      204
+    ],
+    "offset": [
+      -7,
+      -82
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

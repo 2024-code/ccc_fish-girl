@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "9de68001-e417-4042-8fc4-47ae9fc73f31",
+  "rawTextureUuid": "448f6ddc-f642-444c-a6d6-9ee93a4233b9",
+  "size": {
+    "width": 507,
+    "height": 526
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "waterWave_0.png": {
+      "ver": "1.0.4",
+      "uuid": "6b843596-3a0e-48fd-a023-a47facf31849",
+      "rawTextureUuid": "448f6ddc-f642-444c-a6d6-9ee93a4233b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": true,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 264,
+      "width": 260,
+      "height": 503,
+      "rawWidth": 260,
+      "rawHeight": 503,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "waterWave_1.png": {
+      "ver": "1.0.4",
+      "uuid": "a6e901ea-9c75-4c6f-ba4d-3dcca69a6a28",
+      "rawTextureUuid": "448f6ddc-f642-444c-a6d6-9ee93a4233b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": true,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 260,
+      "height": 503,
+      "rawWidth": 260,
+      "rawHeight": 503,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

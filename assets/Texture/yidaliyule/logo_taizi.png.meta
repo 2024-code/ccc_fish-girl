@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1b0b0b19-cf5d-4710-8839-8cf529119479",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 403,
+  "height": 182,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_taizi": {
+      "ver": "1.0.4",
+      "uuid": "c128a6e1-75dd-469e-b9d0-e8f704a6b842",
+      "rawTextureUuid": "1b0b0b19-cf5d-4710-8839-8cf529119479",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 18.5,
+      "trimX": 1,
+      "trimY": 14,
+      "width": 401,
+      "height": 117,
+      "rawWidth": 403,
+      "rawHeight": 182,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

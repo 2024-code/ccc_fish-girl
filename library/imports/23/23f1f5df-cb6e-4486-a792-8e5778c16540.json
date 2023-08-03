@@ -1,0 +1,299 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "IrishLuck01.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "10MoreFreeGames": {
+      "__uuid__": "8116a9d0-d49d-472a-b066-b9189f3260af"
+    },
+    "AutoStart_01": {
+      "__uuid__": "7005cc74-27ff-4332-bab0-3cc10eb4adec"
+    },
+    "AutoStart_02": {
+      "__uuid__": "0602a62e-c22e-43bf-a368-e91368c6fdce"
+    },
+    "AutoStart_03": {
+      "__uuid__": "7f6bf521-3fcb-4969-9bd2-e21534b1e0ca"
+    },
+    "AutoStop_01": {
+      "__uuid__": "500ad643-ba8d-498b-8fb6-f8c13f0ed00d"
+    },
+    "AutoStop_02": {
+      "__uuid__": "7b88b0f4-60f3-448e-a69e-d90ecf3ecb4f"
+    },
+    "AutoStop_03": {
+      "__uuid__": "7b287618-4703-41e7-a6bd-3836ad8b97f9"
+    },
+    "BG00": {
+      "__uuid__": "298ed685-60cd-4b64-82e1-cb2290a368b3"
+    },
+    "Back_01": {
+      "__uuid__": "2184c4a2-c5d8-4db8-aa93-729efc24ab1f"
+    },
+    "Back_02": {
+      "__uuid__": "535522fb-4d9d-4cca-94db-57ce078581ba"
+    },
+    "ClickToStart_01": {
+      "__uuid__": "2f3778fa-c155-4a42-b5b7-01bb7b9c0adb"
+    },
+    "ClickToStart_02": {
+      "__uuid__": "d3c67a7a-d2c1-48dd-9a11-53f385ca44d4"
+    },
+    "ClickToStart_03": {
+      "__uuid__": "d07177a4-128f-4592-b7d8-146c3416d907"
+    },
+    "Continue_01": {
+      "__uuid__": "c2c9bdf5-0eea-4433-8e9e-2e60c2ec206a"
+    },
+    "Continue_03": {
+      "__uuid__": "135ba97d-8f25-4d11-b7e5-3aca85e07f9d"
+    },
+    "Dowan_01": {
+      "__uuid__": "c66e5c83-dd71-4f41-9d77-671466fa78ca"
+    },
+    "Dowan_02": {
+      "__uuid__": "965b3ca7-f47e-4c44-a91b-56bee3dac668"
+    },
+    "Dowan_03": {
+      "__uuid__": "f691ef9d-8ded-465f-b70a-59d4591e66bc"
+    },
+    "Frame": {
+      "__uuid__": "c844f2da-213f-40ac-81ec-c5893b36c00d"
+    },
+    "FreeGamepic": {
+      "__uuid__": "95091615-a183-4ccd-bc60-350fbd1039f7"
+    },
+    "GameMenuBtn1": {
+      "__uuid__": "475244c5-d6c3-4639-9bd1-7641e9604a4f"
+    },
+    "GameMenuBtn2": {
+      "__uuid__": "d150cde4-726f-4f4e-8792-0e1421ce000b"
+    },
+    "IrishLuckpic": {
+      "__uuid__": "b682d5db-114d-4e4d-9a78-67e827f2cbb1"
+    },
+    "LineBtn01_1": {
+      "__uuid__": "4efc9069-5e81-4a71-9e30-bc8ae6e86845"
+    },
+    "LineBtn01_2": {
+      "__uuid__": "47f251dd-8a41-4a70-920d-9a591ed2a848"
+    },
+    "LineBtn02_1": {
+      "__uuid__": "35784855-1dce-4591-8e2f-220cc5ac816d"
+    },
+    "LineBtn02_2": {
+      "__uuid__": "3a7234c1-5d65-49fa-bf0e-cbd165f477c3"
+    },
+    "LineBtn03_1": {
+      "__uuid__": "c412b375-594a-426b-9509-7c50e0feccda"
+    },
+    "LineBtn03_2": {
+      "__uuid__": "75564523-c7b6-4749-a2fe-1fab4625cb9e"
+    },
+    "LineBtn04_1": {
+      "__uuid__": "d4fc4d53-5d6a-4b95-86c4-0313eb7a2034"
+    },
+    "LineBtn04_2": {
+      "__uuid__": "0db3581c-4064-4cd0-a8c4-aba6f66d78d0"
+    },
+    "LineBtn05_1": {
+      "__uuid__": "fbf68dea-5551-4971-a0d8-78de7510fdd0"
+    },
+    "LineBtn05_2": {
+      "__uuid__": "7a3af740-f241-4d1a-aba2-3c0168bbc192"
+    },
+    "LineBtn06_1": {
+      "__uuid__": "43d4a57c-77e2-4fbc-bb4e-099f1b3bc208"
+    },
+    "LineBtn06_2": {
+      "__uuid__": "b1666e24-8931-4e74-9516-e3216f98e3ee"
+    },
+    "LineBtn07_1": {
+      "__uuid__": "43339c84-2277-4d10-88b6-4baa81aafc10"
+    },
+    "LineBtn07_2": {
+      "__uuid__": "377e757f-f2a0-4791-b272-046d1d99a9b8"
+    },
+    "LineBtn08_1": {
+      "__uuid__": "6fdc099f-c1b4-4941-ba71-20b46fc9bcf7"
+    },
+    "LineBtn08_2": {
+      "__uuid__": "08ff9c25-8359-453d-8fec-9dcee843a57d"
+    },
+    "LineBtn09_1": {
+      "__uuid__": "6cce6134-f84c-487f-846a-f3cdc151e4dc"
+    },
+    "LineBtn09_2": {
+      "__uuid__": "da6342c8-afc1-437a-9df0-e0716899d810"
+    },
+    "LineBtn10_1": {
+      "__uuid__": "7c847b26-cd2b-4f67-a57f-40b97d8cbe07"
+    },
+    "LineBtn10_2": {
+      "__uuid__": "69135781-df4c-45f2-a8c5-2cc7a1acdf3d"
+    },
+    "LineBtn11_1": {
+      "__uuid__": "dda8b6c3-b144-44df-a861-8d9fe2260cfb"
+    },
+    "LineBtn11_2": {
+      "__uuid__": "6a4ffadd-d77b-4ec3-90d5-289d67058e81"
+    },
+    "LineBtn12_1": {
+      "__uuid__": "705bf874-6f26-4cdb-a6bc-1dbaaae1c05d"
+    },
+    "LineBtn12_2": {
+      "__uuid__": "9531d947-07a2-4e62-b66d-f9a649b30c4b"
+    },
+    "LineBtn13_1": {
+      "__uuid__": "fb3cd067-fab4-47dc-92d5-e66c1c3be5bd"
+    },
+    "LineBtn13_2": {
+      "__uuid__": "e4c7ba95-f3cf-4fd0-abb2-3f6aacbcdae4"
+    },
+    "LineBtn14_1": {
+      "__uuid__": "465b3990-7d47-4129-9d95-708a7bc1d1b8"
+    },
+    "LineBtn14_2": {
+      "__uuid__": "8e7982a4-c80b-42f8-8a56-0a8ff4c6fceb"
+    },
+    "LineBtn15_1": {
+      "__uuid__": "b5e9e41d-a033-4440-8ec1-3523aaa648c9"
+    },
+    "LineBtn15_2": {
+      "__uuid__": "eafd3b9e-c962-414e-b526-e302a75abe31"
+    },
+    "LineBtn16_1": {
+      "__uuid__": "d17681e2-f1bf-48af-b964-b851b859ea68"
+    },
+    "LineBtn16_2": {
+      "__uuid__": "905afbd8-2562-4d65-889d-f4220ecd12f5"
+    },
+    "LineBtn17_1": {
+      "__uuid__": "810df626-0bf1-4aac-8e77-6ef15d0b1f1c"
+    },
+    "LineBtn17_2": {
+      "__uuid__": "8b295ce2-200b-4a58-a8f1-d1f394eaec2e"
+    },
+    "LineBtn18_1": {
+      "__uuid__": "2d30e0a5-667f-4a90-a76f-ee7ba1a32b24"
+    },
+    "LineBtn18_2": {
+      "__uuid__": "94cd0202-cfc7-42a2-9592-ae1880b44758"
+    },
+    "LineBtn19_1": {
+      "__uuid__": "8ca3feb9-0cb2-40d5-8653-1c8a2486fdb4"
+    },
+    "LineBtn19_2": {
+      "__uuid__": "f248ad23-1a35-4b91-a5ba-5fed16f98867"
+    },
+    "LineBtn20_1": {
+      "__uuid__": "d24830a5-4595-4c9e-99a7-b087c9ba4a88"
+    },
+    "LineBtn20_2": {
+      "__uuid__": "65ce2692-ae4e-4aca-a86e-64f1f4c471cf"
+    },
+    "LineBtn21_1": {
+      "__uuid__": "6e274309-ab90-4631-a156-cad07b8f81f4"
+    },
+    "LineBtn21_2": {
+      "__uuid__": "6cad9260-9411-432b-b8af-5f4812170e8f"
+    },
+    "LineBtn22_1": {
+      "__uuid__": "fb853850-b176-4123-b3dc-f96042108c9a"
+    },
+    "LineBtn22_2": {
+      "__uuid__": "91084de9-348b-4a11-8496-9bfe8969c9e0"
+    },
+    "LineBtn23_1": {
+      "__uuid__": "e6bc8db3-fd9b-475f-8aa6-4a656278aa8e"
+    },
+    "LineBtn23_2": {
+      "__uuid__": "315cd3d4-0b11-40ea-a8ed-5af5bbac6aea"
+    },
+    "LineBtn24_1": {
+      "__uuid__": "1da89829-0b56-4ac9-9b6e-9a000649fcf6"
+    },
+    "LineBtn24_2": {
+      "__uuid__": "fef9e059-34ef-4f52-927d-4485b86c6dd8"
+    },
+    "LineBtn25_1": {
+      "__uuid__": "9a2605a5-23f6-49e1-ad4d-d9c5e8299350"
+    },
+    "LineBtn25_2": {
+      "__uuid__": "23b1416e-ee35-40e1-80e8-826f3b44edd2"
+    },
+    "LineBtn26_1": {
+      "__uuid__": "6e3f7230-2e26-4a64-92b6-c91ee9cef0c2"
+    },
+    "LineBtn26_2": {
+      "__uuid__": "a0b20f7c-5f3a-4aeb-b3cb-86bc0ebb26b4"
+    },
+    "LineBtn27_1": {
+      "__uuid__": "81e54d79-f0ee-43c6-aed3-e9e785a43e41"
+    },
+    "LineBtn27_2": {
+      "__uuid__": "a7915201-3875-4341-a3c2-8da17f3fa18b"
+    },
+    "LineBtn28_1": {
+      "__uuid__": "efa6409c-99d3-4f48-b215-ecb8a54d4d8c"
+    },
+    "LineBtn28_2": {
+      "__uuid__": "132a72aa-5968-4df1-85ab-fc9d0a26fbc0"
+    },
+    "LineBtn29_1": {
+      "__uuid__": "3d8eec73-7510-4ccc-9425-c5a884e306a7"
+    },
+    "LineBtn29_2": {
+      "__uuid__": "93b2831e-24ab-492a-aa13-42184c22a57a"
+    },
+    "LineBtn30_1": {
+      "__uuid__": "98e4e11f-516a-41f0-95e4-746414b3ecea"
+    },
+    "LineBtn30_2": {
+      "__uuid__": "2611d972-5c79-41e0-bcf9-309e07600467"
+    },
+    "Prompt_01": {
+      "__uuid__": "515f6615-f213-4ee5-86d7-1b61c9a61579"
+    },
+    "Prompt_02": {
+      "__uuid__": "afe77478-e5fd-423f-88ac-dbde74ddb4bd"
+    },
+    "Prompt_03": {
+      "__uuid__": "d266ec9d-4ee6-4a6e-bd90-271d5f1be6e1"
+    },
+    "Prompt_04": {
+      "__uuid__": "4ba60257-2236-4214-9c01-5899b01b0499"
+    },
+    "Spin_01": {
+      "__uuid__": "b044c061-36db-46ac-af6d-81bdc90fd3c3"
+    },
+    "Spin_02": {
+      "__uuid__": "864a8c07-cdc3-453d-9f86-692f22134d7c"
+    },
+    "Spin_03": {
+      "__uuid__": "fd1f8d5c-1f78-4f7c-9e04-1ccf9789b4c3"
+    },
+    "Stop_01": {
+      "__uuid__": "66bd2b41-31d1-4460-aac8-8ac9174cec8e"
+    },
+    "Stop_02": {
+      "__uuid__": "729bf454-46dd-4b70-b61c-22a5d51affe1"
+    },
+    "Stop_03": {
+      "__uuid__": "de1e04d0-cbe4-4ae5-9891-5cb2b4dbd4bc"
+    },
+    "Up_01": {
+      "__uuid__": "8944e26a-26b6-4dc4-879d-245c62ab9580"
+    },
+    "Up_02": {
+      "__uuid__": "9067285a-0aa7-4d54-85f4-2266f1ad8ec7"
+    },
+    "Up_03": {
+      "__uuid__": "5d774456-a1bb-4613-97bf-baf935801a5f"
+    },
+    "gameWinpic": {
+      "__uuid__": "84b7c4ea-9a3b-429f-8275-87e7c0e7b6c2"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playerInfoButtons",
+    "texture": "625348be-a7f8-420a-9795-e49d5076dad9",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      726,
+      1010
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      730,
+      1014
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

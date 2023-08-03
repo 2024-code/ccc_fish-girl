@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "2bd5f5d8-1ee8-48c6-bfc3-a8b4a9b65fca",
+  "rawTextureUuid": "335735ed-d76c-40be-8275-b4f288d20fc4",
+  "size": {
+    "width": 388,
+    "height": 764
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "jjby_changci_chyuan.png": {
+      "ver": "1.0.4",
+      "uuid": "4e251f02-f305-4c61-b341-3c1241eca5e5",
+      "rawTextureUuid": "335735ed-d76c-40be-8275-b4f288d20fc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 384,
+      "height": 384,
+      "rawWidth": 384,
+      "rawHeight": 384,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "jjby_changci_paopao.png": {
+      "ver": "1.0.4",
+      "uuid": "87c42a8e-a20a-4ec1-a208-073ea0f330ae",
+      "rawTextureUuid": "335735ed-d76c-40be-8275-b4f288d20fc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 388,
+      "width": 374,
+      "height": 374,
+      "rawWidth": 374,
+      "rawHeight": 374,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

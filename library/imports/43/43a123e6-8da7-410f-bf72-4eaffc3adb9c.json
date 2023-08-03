@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_01_blur",
+    "texture": "c69fe45c-35ed-4183-9556-660b1c091deb",
+    "atlas": "",
+    "rect": [
+      57,
+      34,
+      296,
+      394
+    ],
+    "offset": [
+      5.5,
+      -5.5
+    ],
+    "originalSize": [
+      399,
+      451
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

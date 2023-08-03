@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "firework_particle",
+    "texture": "ff51a0fc-11f9-40a7-b575-0d542b9e1759",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      47,
+      45
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      48,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

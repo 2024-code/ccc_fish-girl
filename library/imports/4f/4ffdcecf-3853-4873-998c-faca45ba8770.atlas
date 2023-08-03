@@ -1,0 +1,76 @@
+
+slots_DL.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 2, 18
+  size: 99, 92
+  orig: 101, 94
+  offset: 1, 1
+  index: -1
+images/2
+  rotate: false
+  xy: 237, 96
+  size: 99, 92
+  orig: 101, 94
+  offset: 1, 1
+  index: -1
+images/3
+  rotate: true
+  xy: 338, 18
+  size: 99, 92
+  orig: 101, 94
+  offset: 1, 1
+  index: -1
+images/4
+  rotate: false
+  xy: 237, 2
+  size: 99, 92
+  orig: 101, 94
+  offset: 1, 1
+  index: -1
+images/5
+  rotate: true
+  xy: 432, 34
+  size: 83, 76
+  orig: 101, 94
+  offset: 9, 9
+  index: -1
+images/Gw0008.d5
+  rotate: false
+  xy: 62, 131
+  size: 31, 57
+  orig: 64, 64
+  offset: 15, 3
+  index: -1
+images/bg
+  rotate: false
+  xy: 96, 49
+  size: 139, 139
+  orig: 141, 141
+  offset: 1, 1
+  index: -1
+images/glow_00181
+  rotate: false
+  xy: 387, 119
+  size: 108, 127
+  orig: 128, 128
+  offset: 10, 1
+  index: -1
+images/u_DragonSoulsphere6Ani05
+  rotate: false
+  xy: 2, 130
+  size: 58, 58
+  orig: 100, 100
+  offset: 21, 21
+  index: -1
+images/zhuzi
+  rotate: true
+  xy: 2, 190
+  size: 56, 383
+  orig: 56, 383
+  offset: 0, 0
+  index: -1

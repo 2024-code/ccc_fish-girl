@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dm_logo",
+    "texture": "24962e4b-98f2-49db-a162-2e12427c19b2",
+    "atlas": "1b490d76-bb94-4a54-9509-c8dd0bcd163f",
+    "rect": [
+      323,
+      92,
+      470,
+      208
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      470,
+      208
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

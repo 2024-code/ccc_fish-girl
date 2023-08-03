@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_scatter_0002",
+    "texture": "187dc61f-3783-46f4-bb06-7b0cc29a6213",
+    "atlas": "1ea6b66d-2452-4e95-83d6-5b194e3a7a8e",
+    "rect": [
+      1222,
+      644,
+      292,
+      236
+    ],
+    "offset": [
+      1,
+      -3
+    ],
+    "originalSize": [
+      500,
+      500
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

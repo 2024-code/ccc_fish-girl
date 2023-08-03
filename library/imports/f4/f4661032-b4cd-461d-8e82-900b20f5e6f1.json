@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "game_effect.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slwh_game_effect_close_0": {
+      "__uuid__": "a7bc8079-1d1e-4956-b160-6f4369a92e8b"
+    },
+    "slwh_game_effect_close_1": {
+      "__uuid__": "d70459b6-b596-4674-8a9e-8f4dbc1b3089"
+    },
+    "slwh_game_effect_close_10": {
+      "__uuid__": "f68c665f-a49b-4e78-9193-6135a0280d4e"
+    },
+    "slwh_game_effect_close_11": {
+      "__uuid__": "b5b27229-b0f8-4f45-b93c-05a38bd80c10"
+    },
+    "slwh_game_effect_close_12": {
+      "__uuid__": "720d6f63-32ac-498b-afc8-f109313403d7"
+    },
+    "slwh_game_effect_close_13": {
+      "__uuid__": "0503168b-9825-46ea-aba0-0113dae43c76"
+    },
+    "slwh_game_effect_close_14": {
+      "__uuid__": "236cc37a-8b1f-40f8-84be-215c13f6b41e"
+    },
+    "slwh_game_effect_close_15": {
+      "__uuid__": "67914437-1ff8-412d-b698-20c24dd3c372"
+    },
+    "slwh_game_effect_close_16": {
+      "__uuid__": "bdc0a47a-0b01-4f6c-a8f4-c399dd4d88cb"
+    },
+    "slwh_game_effect_close_17": {
+      "__uuid__": "bc391633-655e-46ef-b800-ddbe92c7cf23"
+    },
+    "slwh_game_effect_close_18": {
+      "__uuid__": "9e6d03f3-9555-402f-b454-02444c892840"
+    },
+    "slwh_game_effect_close_2": {
+      "__uuid__": "36709dda-6211-4b48-8298-1d90ae9afbb3"
+    },
+    "slwh_game_effect_close_3": {
+      "__uuid__": "3b9bd0c8-95a0-4007-8e91-2fc63fc1ce6c"
+    },
+    "slwh_game_effect_close_4": {
+      "__uuid__": "7eb7dc60-991d-4f76-99de-d78cac91089f"
+    },
+    "slwh_game_effect_close_5": {
+      "__uuid__": "20ec9227-e70b-40d4-be14-22c285db6f83"
+    },
+    "slwh_game_effect_close_6": {
+      "__uuid__": "82fc6f07-56f6-464a-b3f3-c50f8ee8a9e5"
+    },
+    "slwh_game_effect_close_7": {
+      "__uuid__": "40231e5d-d7cb-46a5-81a5-bb9712fc4487"
+    },
+    "slwh_game_effect_close_8": {
+      "__uuid__": "5d72103b-cf57-4726-b1a7-d2045ef7f7ac"
+    },
+    "slwh_game_effect_close_9": {
+      "__uuid__": "a21a7227-1d6f-4884-9b7f-03784c3bb67f"
+    },
+    "slwh_game_effect_open_0": {
+      "__uuid__": "a541d6d3-7bbf-41d5-b49b-f461d49ddf28"
+    }
+  }
+}

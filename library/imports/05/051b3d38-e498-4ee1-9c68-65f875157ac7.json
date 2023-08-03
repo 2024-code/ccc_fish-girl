@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HelpBGLine",
+    "texture": "a4ec2536-bd99-4dd6-9672-55d804d84572",
+    "atlas": "ae807d62-ce37-4c97-a24e-5395b1af3fb3",
+    "rect": [
+      1,
+      1,
+      789,
+      506
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      789,
+      506
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

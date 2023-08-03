@@ -1,0 +1,295 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "goldcoin2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ],
+        "slots": {
+          "Gold_10a": {
+            "attachment": [
+              {
+                "name": "Gold_9a",
+                "time": 0
+              },
+              {
+                "name": "Gold_10a",
+                "time": 0.0666
+              },
+              {
+                "name": "Gold_11a",
+                "time": 0.1333
+              },
+              {
+                "name": "Gold_12a",
+                "time": 0.2
+              },
+              {
+                "name": "Gold_13a",
+                "time": 0.2666
+              },
+              {
+                "name": "Gold_14a",
+                "time": 0.3333
+              },
+              {
+                "name": "Gold_15a",
+                "time": 0.4
+              },
+              {
+                "name": "Gold_16a",
+                "time": 0.4666
+              },
+              {
+                "name": "Gold_1a",
+                "time": 0.5333
+              },
+              {
+                "name": "Gold_2a",
+                "time": 0.6
+              },
+              {
+                "name": "Gold_3a",
+                "time": 0.6666
+              },
+              {
+                "name": "Gold_4a",
+                "time": 0.7333
+              },
+              {
+                "name": "Gold_5a",
+                "time": 0.8
+              },
+              {
+                "name": "Gold_6a",
+                "time": 0.8666
+              },
+              {
+                "name": "Gold_7a",
+                "time": 0.9333
+              },
+              {
+                "name": "Gold_8a",
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "skeleton": {
+      "hash": "7nBFqbqfGSfcy67STP0LcKouGcc",
+      "height": 64,
+      "spine": "2.1.27",
+      "width": 64
+    },
+    "skins": {
+      "default": {
+        "Gold_10a": {
+          "Gold_10a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_11a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_12a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_13a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_14a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_15a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_16a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_1a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_2a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_3a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_4a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_5a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_6a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_7a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_8a": {
+            "height": 64,
+            "width": 64
+          },
+          "Gold_9a": {
+            "height": 64,
+            "width": 64
+          }
+        }
+      }
+    },
+    "slots": [
+      {
+        "attachment": "Gold_9a",
+        "bone": "bone",
+        "name": "Gold_10a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_11a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_12a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_13a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_14a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_15a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_16a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_1a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_2a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_3a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_4a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_5a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_6a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_7a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_8a"
+      },
+      {
+        "bone": "bone",
+        "name": "Gold_9a"
+      }
+    ]
+  },
+  "_atlasText": "\ngoldcoin2.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGold_10a\n  rotate: false\n  xy: 445, 53\n  size: 60, 31\n  orig: 64, 64\n  offset: 2, 16\n  index: -1\nGold_11a\n  rotate: false\n  xy: 382, 42\n  size: 60, 35\n  orig: 64, 64\n  offset: 2, 13\n  index: -1\nGold_12a\n  rotate: false\n  xy: 445, 86\n  size: 61, 40\n  orig: 64, 64\n  offset: 1, 10\n  index: -1\nGold_13a\n  rotate: false\n  xy: 382, 79\n  size: 61, 47\n  orig: 64, 64\n  offset: 1, 6\n  index: -1\nGold_14a\n  rotate: false\n  xy: 319, 74\n  size: 61, 52\n  orig: 64, 64\n  offset: 1, 4\n  index: -1\nGold_15a\n  rotate: false\n  xy: 130, 69\n  size: 61, 57\n  orig: 64, 64\n  offset: 1, 2\n  index: -1\nGold_16a\n  rotate: false\n  xy: 2, 2\n  size: 62, 60\n  orig: 64, 64\n  offset: 1, 1\n  index: -1\nGold_1a\n  rotate: false\n  xy: 2, 64\n  size: 62, 62\n  orig: 64, 64\n  offset: 1, 1\n  index: -1\nGold_2a\n  rotate: false\n  xy: 66, 64\n  size: 62, 62\n  orig: 64, 64\n  offset: 1, 1\n  index: -1\nGold_3a\n  rotate: false\n  xy: 66, 2\n  size: 61, 60\n  orig: 64, 64\n  offset: 2, 3\n  index: -1\nGold_4a\n  rotate: false\n  xy: 193, 69\n  size: 61, 57\n  orig: 64, 64\n  offset: 2, 5\n  index: -1\nGold_5a\n  rotate: false\n  xy: 256, 72\n  size: 61, 54\n  orig: 64, 64\n  offset: 2, 7\n  index: -1\nGold_6a\n  rotate: true\n  xy: 129, 2\n  size: 60, 48\n  orig: 64, 64\n  offset: 3, 10\n  index: -1\nGold_7a\n  rotate: false\n  xy: 179, 25\n  size: 59, 42\n  orig: 64, 64\n  offset: 3, 13\n  index: -1\nGold_8a\n  rotate: false\n  xy: 256, 35\n  size: 59, 35\n  orig: 64, 64\n  offset: 3, 16\n  index: -1\nGold_9a\n  rotate: false\n  xy: 444, 20\n  size: 60, 31\n  orig: 64, 64\n  offset: 2, 17\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "b5b71835-21be-4234-a220-8ab1782a0d5a"
+    }
+  ],
+  "textureNames": [
+    "goldcoin2.png"
+  ],
+  "scale": 1
+}

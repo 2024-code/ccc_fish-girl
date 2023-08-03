@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "05_lblSeaSnail_1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-05_lblSeaSnail-0001": {
+      "__uuid__": "ac5a6856-e692-4ac6-91f0-a71cd7663c4c"
+    },
+    "atlas-05_lblSeaSnail-0003": {
+      "__uuid__": "f6bda0af-9279-4d98-af23-528a1255d3ed"
+    },
+    "atlas-05_lblSeaSnail-0005": {
+      "__uuid__": "600ca27d-0036-4eed-9362-145cdf768bb2"
+    },
+    "atlas-05_lblSeaSnail-0007": {
+      "__uuid__": "bf3938a9-46d9-4ec8-b2eb-e67481a71bfd"
+    },
+    "atlas-05_lblSeaSnail-0009": {
+      "__uuid__": "befe2e75-b877-415a-8d5f-7162ac0d9cd4"
+    },
+    "atlas-05_lblSeaSnail-0011": {
+      "__uuid__": "425dd0b6-b2af-4d29-8583-a1afade54cff"
+    },
+    "atlas-05_lblSeaSnail-0013": {
+      "__uuid__": "3a049536-6088-4e36-ab4f-26a0bac15017"
+    },
+    "atlas-05_lblSeaSnail-0015": {
+      "__uuid__": "e3419685-c533-45e9-bbc5-34d7fc52278d"
+    },
+    "atlas-05_lblSeaSnail-0017": {
+      "__uuid__": "6d2f7b66-55f0-4add-8a91-8522dd31d0c7"
+    },
+    "atlas-05_lblSeaSnail-0019": {
+      "__uuid__": "d6c07cbd-2f03-4a93-9d22-b4e14fb0c395"
+    },
+    "atlas-05_lblSeaSnail-0021": {
+      "__uuid__": "30db22e9-2212-41fc-aee0-aa296d4e8fc8"
+    },
+    "atlas-05_lblSeaSnail-0023": {
+      "__uuid__": "7d31342e-24b2-4d10-a43e-a88173bfc5ba"
+    },
+    "atlas-05_lblSeaSnail-0025": {
+      "__uuid__": "7cbb677a-422c-4e4b-8bc2-9c92e614a4d1"
+    },
+    "atlas-05_lblSeaSnail-0027": {
+      "__uuid__": "f36797ae-c4c9-4638-a468-e96cbef588f5"
+    },
+    "atlas-05_lblSeaSnail-0029": {
+      "__uuid__": "3fa2a010-f0c7-4bb8-8118-2c3886f205d4"
+    },
+    "atlas-05_lblSeaSnail-0031": {
+      "__uuid__": "233cb4b4-a46a-4772-9897-9993759d153c"
+    },
+    "atlas-05_lblSeaSnail-0033": {
+      "__uuid__": "736b841f-b36b-475e-a110-ae0bd4608a2b"
+    },
+    "atlas-05_lblSeaSnail-0035": {
+      "__uuid__": "62f4a95d-1103-4e55-a268-b03bdea379f5"
+    },
+    "atlas-05_lblSeaSnail-0037": {
+      "__uuid__": "708fc6ce-1d94-4c8a-9aad-cfe107505002"
+    },
+    "atlas-05_lblSeaSnail-0039": {
+      "__uuid__": "b6e47f63-b132-400b-b88a-1ab7f5d05adb"
+    },
+    "atlas-05_lblSeaSnail-0041": {
+      "__uuid__": "f2bfa66b-968e-4a17-8cfb-011c0beca2bb"
+    },
+    "atlas-05_lblSeaSnail-0043": {
+      "__uuid__": "0599feab-5691-47ef-9f1d-9eabeab53382"
+    },
+    "atlas-05_lblSeaSnail-0045": {
+      "__uuid__": "72836147-3110-4055-8494-40a4f4325ba7"
+    },
+    "atlas-05_lblSeaSnail-0047": {
+      "__uuid__": "6fae26d7-4f8a-45ab-b490-7180241b66c5"
+    },
+    "atlas-05_lblSeaSnail-0049": {
+      "__uuid__": "ddae82fd-2100-4cb0-8e03-54c21e3533ac"
+    },
+    "atlas-05_lblSeaSnail-0051": {
+      "__uuid__": "c11be5eb-bc98-4a8c-b5cb-b400040a9269"
+    },
+    "atlas-05_lblSeaSnail-0053": {
+      "__uuid__": "a020f57c-ed2f-4c3c-be4f-01f6e5a8cdf8"
+    },
+    "atlas-05_lblSeaSnail-0055": {
+      "__uuid__": "4ed427ae-1b0b-42c0-a0d8-d6cca1c038ee"
+    },
+    "atlas-05_lblSeaSnail-0057": {
+      "__uuid__": "67a51798-dd5e-4514-bb05-c2da25a58057"
+    },
+    "atlas-05_lblSeaSnail-0059": {
+      "__uuid__": "74fcf9ed-f725-4c8d-b5e1-d7a05033589e"
+    },
+    "atlas-05_lblSeaSnail-0061": {
+      "__uuid__": "deb25eec-beb9-472c-9ce1-c76b00a26b55"
+    },
+    "atlas-05_lblSeaSnail-0063": {
+      "__uuid__": "79110bdf-04ab-4e52-b08a-dd08e53369ee"
+    },
+    "atlas-05_lblSeaSnail-0065": {
+      "__uuid__": "93b8e5cd-a1fb-4777-bc42-2e0e36b18573"
+    },
+    "atlas-05_lblSeaSnail-0067": {
+      "__uuid__": "efec60b8-1612-489a-af40-dd97428961e5"
+    },
+    "atlas-05_lblSeaSnail-0069": {
+      "__uuid__": "b997af02-cc4b-4387-99c8-bff9adbfbade"
+    },
+    "atlas-05_lblSeaSnail-0071": {
+      "__uuid__": "74beae37-9cfb-4cfe-ab02-768bfce0d2c3"
+    },
+    "atlas-05_lblSeaSnail-0073": {
+      "__uuid__": "cf4ffd1f-20b2-468e-8732-e94ef9bff5cf"
+    },
+    "atlas-05_lblSeaSnail-0075": {
+      "__uuid__": "19679044-5dc9-4cce-922d-cb16a9a82125"
+    },
+    "atlas-05_lblSeaSnail-0077": {
+      "__uuid__": "fee77849-3191-4625-b261-658ab253495f"
+    },
+    "atlas-05_lblSeaSnail-0079": {
+      "__uuid__": "86a112eb-d214-4292-9c4a-643ad9de1197"
+    },
+    "atlas-05_lblSeaSnail-0081": {
+      "__uuid__": "d79255b7-fa93-42c7-b39d-2c4486216e93"
+    },
+    "atlas-05_lblSeaSnail-0083": {
+      "__uuid__": "532e8297-413b-42a5-8930-835010bb6dc5"
+    },
+    "atlas-05_lblSeaSnail-0085": {
+      "__uuid__": "25d35116-6ea3-48ec-a872-416736de7065"
+    },
+    "atlas-05_lblSeaSnail-0087": {
+      "__uuid__": "99871d65-74f8-4581-a3a6-ec8f01a4c4ea"
+    },
+    "atlas-05_lblSeaSnail-0089": {
+      "__uuid__": "9fa379aa-6c34-4cfd-8dca-703889938ff4"
+    },
+    "atlas-05_lblSeaSnail-0091": {
+      "__uuid__": "a93299df-70c3-467b-ae65-acea9b79c5b3"
+    },
+    "atlas-05_lblSeaSnail-0093": {
+      "__uuid__": "5c1c1233-4f9e-4396-ac40-669d69aa16b5"
+    },
+    "atlas-05_lblSeaSnail-0095": {
+      "__uuid__": "16453de2-123e-492f-a8c1-6a4824156223"
+    },
+    "atlas-05_lblSeaSnail-0097": {
+      "__uuid__": "53f14986-1d64-4efa-911e-fc76162ac0a2"
+    },
+    "atlas-05_lblSeaSnail-0099": {
+      "__uuid__": "250823eb-f1d6-4cf1-b838-9e075a4db93a"
+    }
+  }
+}

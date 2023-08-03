@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game2_light",
+    "texture": "64678686-68e5-40bb-8f56-d75212c51bdd",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      1226,
+      129
+    ],
+    "offset": [
+      0,
+      17.5
+    ],
+    "originalSize": [
+      1226,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Triangle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "TriangleBlueFrame00": {
+      "__uuid__": "a56f7459-b09e-4886-a00d-8530149b9c9d"
+    },
+    "TriangleBonus00": {
+      "__uuid__": "0a49dce9-0a72-4f11-b1e8-c3ced6818ac2"
+    },
+    "TriangleCyanFrame00": {
+      "__uuid__": "ed57db77-44af-4c41-a734-06b68849b44f"
+    },
+    "TriangleGrayFrame00": {
+      "__uuid__": "0859c244-d85f-43e5-9c2e-5b406f8f3dec"
+    },
+    "TriangleGreenFrame00": {
+      "__uuid__": "9a57beb8-d66b-4443-8d65-25a97ff6531a"
+    },
+    "TriangleOrangeFrame00": {
+      "__uuid__": "c3379dd7-3f65-41cb-bf4e-5c75e6305183"
+    },
+    "TrianglePurpleFrame00": {
+      "__uuid__": "2cd8fdf4-b95e-4c29-a9d4-56c3a5c5bc13"
+    },
+    "TriangleRedFrame00": {
+      "__uuid__": "f24a9de4-8542-4ffb-b604-c892a77a8173"
+    },
+    "TriangleYellowFrame00": {
+      "__uuid__": "11d8723f-a44a-4577-8521-ad3a7340a8ac"
+    }
+  }
+}

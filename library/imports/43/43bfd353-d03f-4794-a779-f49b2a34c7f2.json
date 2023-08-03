@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Daili.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "yrbw_bg": {
+      "__uuid__": "f77cb309-576d-439f-bc54-44a584485068"
+    },
+    "yrbw_btn_fuzhi_qq": {
+      "__uuid__": "ccc6122b-2748-4c41-839b-ddad709d949d"
+    },
+    "yrbw_qq_label": {
+      "__uuid__": "33e52b22-e2a6-46a8-848c-f1a83ba31a8b"
+    },
+    "yrbw_weixin_label": {
+      "__uuid__": "d6f9a5c0-86f9-4694-ac94-95ded7469448"
+    }
+  }
+}

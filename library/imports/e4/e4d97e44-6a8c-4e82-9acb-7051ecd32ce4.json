@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_wait-1",
+    "texture": "b898ef53-cb58-446e-b02f-06ef1572cf48",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      493,
+      108
+    ],
+    "offset": [
+      -7.5,
+      8
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

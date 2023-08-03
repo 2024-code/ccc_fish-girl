@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "scatter_to_free_spins.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "scatter_to_free_spins_0001": {
+      "__uuid__": "2e141f6e-84dc-45db-b240-1fb0a183aeb7"
+    },
+    "scatter_to_free_spins_0002": {
+      "__uuid__": "4f40eaf7-d20a-4e0e-9071-93051af28a86"
+    },
+    "scatter_to_free_spins_0004": {
+      "__uuid__": "bc964569-f9c2-4bd7-9257-50e1d6eab330"
+    },
+    "scatter_to_free_spins_0005": {
+      "__uuid__": "f3274517-04fe-42cb-9099-9e8d40127fb1"
+    },
+    "scatter_to_free_spins_0007": {
+      "__uuid__": "bcafcd2f-ea0b-4676-b784-b9218377a1c6"
+    },
+    "scatter_to_free_spins_0008": {
+      "__uuid__": "26dd32fd-21ed-48b2-9b4b-a187ff446577"
+    },
+    "scatter_to_free_spins_0010": {
+      "__uuid__": "54915207-b2e3-4721-9e9c-ed0a5587f173"
+    },
+    "scatter_to_free_spins_0011": {
+      "__uuid__": "a2bad81f-7d2a-4fa4-becc-ac4f6d633341"
+    },
+    "scatter_to_free_spins_0013": {
+      "__uuid__": "56a1a5be-99fe-4edb-8953-08784bbaf1bc"
+    },
+    "scatter_to_free_spins_0014": {
+      "__uuid__": "410e8017-8613-40a2-bab2-396c814ff994"
+    },
+    "scatter_to_free_spins_0016": {
+      "__uuid__": "32009cff-4bb5-4318-8634-0c2376794d49"
+    },
+    "scatter_to_free_spins_0017": {
+      "__uuid__": "582c1173-7e54-4d45-b021-9f65a60341b1"
+    },
+    "scatter_to_free_spins_0019": {
+      "__uuid__": "f6a28e83-06ac-40a0-892a-4613ea3ecb54"
+    },
+    "scatter_to_free_spins_0020": {
+      "__uuid__": "e0f4ef9b-d51c-4833-8f98-329730017b6f"
+    },
+    "scatter_to_free_spins_0022": {
+      "__uuid__": "1fdb4271-99f9-45c2-a899-6b64e39428ff"
+    },
+    "scatter_to_free_spins_0023": {
+      "__uuid__": "4571cf2a-e2ef-4cba-9e62-3383df1bf6b4"
+    },
+    "scatter_to_free_spins_0025": {
+      "__uuid__": "db05bf09-368d-4246-a002-0640fb587a6b"
+    },
+    "scatter_to_free_spins_0026": {
+      "__uuid__": "9291d2b6-7563-41e5-87c6-61dac8316094"
+    },
+    "scatter_to_free_spins_0028": {
+      "__uuid__": "fb8cfc84-2c38-4d67-9ba1-888cf4fbdcac"
+    },
+    "scatter_to_free_spins_0029": {
+      "__uuid__": "1f374d83-04ec-497d-b87f-61dbffb7e41d"
+    },
+    "scatter_to_free_spins_0031": {
+      "__uuid__": "9b1973de-cc48-40e7-896c-bfac00d48192"
+    },
+    "scatter_to_free_spins_0032": {
+      "__uuid__": "10540f68-9371-4c38-8726-2951cab26b8b"
+    },
+    "scatter_to_free_spins_0034": {
+      "__uuid__": "0fd37c11-22eb-4f34-a02e-17ece9d53b6a"
+    },
+    "scatter_to_free_spins_0035": {
+      "__uuid__": "ce99ba95-489f-47af-a4d6-46c363340b23"
+    },
+    "scatter_to_free_spins_0037": {
+      "__uuid__": "0fe65251-71cd-4b88-bda2-7cf279721355"
+    },
+    "scatter_to_free_spins_0038": {
+      "__uuid__": "948f0db2-1efc-4d11-b4c3-fe52c1e25c51"
+    },
+    "scatter_to_free_spins_0040": {
+      "__uuid__": "8693d3da-f653-4452-a360-41f3029f81d1"
+    },
+    "scatter_to_free_spins_0041": {
+      "__uuid__": "88c4f79e-0835-4cfb-9a08-d350af14e53d"
+    },
+    "scatter_to_free_spins_0043": {
+      "__uuid__": "c26b04f4-522f-43f4-96f0-3899d9a62906"
+    },
+    "scatter_to_free_spins_0044": {
+      "__uuid__": "8a329fe2-c962-458b-a3bd-b5f66ef183f9"
+    },
+    "scatter_to_free_spins_0046": {
+      "__uuid__": "694196a4-670a-4754-b577-c2e989f0d098"
+    },
+    "scatter_to_free_spins_0047": {
+      "__uuid__": "fd6fa1d3-e661-4b00-a3a5-84f17689a081"
+    },
+    "scatter_to_free_spins_0049": {
+      "__uuid__": "63b92b0d-93a2-4ebf-a03e-5a3c4056827a"
+    },
+    "scatter_to_free_spins_0050": {
+      "__uuid__": "dc15a06c-5472-4dea-bad0-fcad9a877b38"
+    },
+    "scatter_to_free_spins_0052": {
+      "__uuid__": "be37f9f3-2840-4650-95a7-7cd8f07865bb"
+    },
+    "scatter_to_free_spins_0053": {
+      "__uuid__": "58782b37-1511-49f3-83e6-432f4af8ff26"
+    },
+    "scatter_to_free_spins_0055": {
+      "__uuid__": "dfe55281-3601-49b4-88c6-e71750a95ce3"
+    },
+    "scatter_to_free_spins_0056": {
+      "__uuid__": "9f463629-b8a5-4796-96c6-231dc39f7546"
+    },
+    "scatter_to_free_spins_0058": {
+      "__uuid__": "912939a7-f2c7-410c-9bfc-e0a1fc0570b4"
+    },
+    "scatter_to_free_spins_0059": {
+      "__uuid__": "ffeb6a59-f8d8-4c7f-802c-45cc3f09be52"
+    },
+    "scatter_to_free_spins_0061": {
+      "__uuid__": "4075c44b-2862-4b5f-8242-e4ec4d1a7c1c"
+    },
+    "scatter_to_free_spins_0062": {
+      "__uuid__": "b9126f5d-353b-46ac-b648-82b4ed22b4a1"
+    },
+    "scatter_to_free_spins_0064": {
+      "__uuid__": "9b1d7b63-77e4-4532-bfe9-0ce1b369b86f"
+    },
+    "scatter_to_free_spins_0065": {
+      "__uuid__": "ce76a504-bf23-4e83-853e-e1217f10c918"
+    },
+    "scatter_to_free_spins_0067": {
+      "__uuid__": "f7462798-ea76-4b99-948d-62a8f4554b79"
+    },
+    "scatter_to_free_spins_0068": {
+      "__uuid__": "dc7bd50e-5e76-40b7-a99d-9e2dadbe21fb"
+    },
+    "scatter_to_free_spins_0070": {
+      "__uuid__": "97e4cc4c-ac6d-49a1-8716-808d4fbd0e11"
+    },
+    "scatter_to_free_spins_0071": {
+      "__uuid__": "88ab3bfe-bd90-4169-87aa-c764097c0d1b"
+    },
+    "scatter_to_free_spins_0073": {
+      "__uuid__": "d014c0a9-8506-4400-9608-c8d2407723b5"
+    },
+    "scatter_to_free_spins_0074": {
+      "__uuid__": "0a630482-09f1-49e1-8fa8-1bd5e5b19bc8"
+    }
+  }
+}

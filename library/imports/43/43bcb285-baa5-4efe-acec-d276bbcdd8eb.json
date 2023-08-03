@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "light_rotate.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "hbg_01": {
+      "__uuid__": "835c842f-65e3-4745-9e57-b5c47f210d89"
+    },
+    "hbg_02": {
+      "__uuid__": "6a70919b-7b77-48aa-b543-0aabc37ce509"
+    },
+    "hbg_03": {
+      "__uuid__": "0abdaee5-87e4-4c6d-b39d-f0e6b6f348ac"
+    },
+    "hbg_04": {
+      "__uuid__": "3f0eb041-da5f-4975-87a8-64768552c5ed"
+    },
+    "hbg_05": {
+      "__uuid__": "e30aec44-ffef-4e63-b5c5-d8ca77b23b57"
+    },
+    "hbg_06": {
+      "__uuid__": "08a2f9ae-41d3-4230-ad95-c3c196807a13"
+    },
+    "hbg_07": {
+      "__uuid__": "2f8266e2-8808-4990-a645-5093f4ad8b8b"
+    },
+    "hbg_08": {
+      "__uuid__": "5ed670b0-35bc-42fe-b687-ffe6688f159b"
+    }
+  }
+}

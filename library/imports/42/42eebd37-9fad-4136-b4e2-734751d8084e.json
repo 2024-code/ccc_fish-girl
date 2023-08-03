@@ -1,0 +1,469 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shz_spine_9",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "frame",
+        "parent": "root",
+        "x": 0.94,
+        "y": 4.8
+      },
+      {
+        "name": "caishen",
+        "parent": "frame",
+        "x": 7.53,
+        "y": 15.06
+      },
+      {
+        "name": "dao",
+        "parent": "frame",
+        "x": -0.68,
+        "y": -18.49
+      }
+    ],
+    "slots": [
+      {
+        "name": "frame",
+        "bone": "frame",
+        "attachment": "frame"
+      },
+      {
+        "name": "icon_dao",
+        "bone": "dao",
+        "attachment": "icon_dao"
+      },
+      {
+        "name": "icon_cai_shen",
+        "bone": "caishen",
+        "attachment": "icon_cai_shen"
+      },
+      {
+        "name": "light1",
+        "bone": "root",
+        "attachment": "light1"
+      },
+      {
+        "name": "light2",
+        "bone": "root",
+        "attachment": "light2"
+      },
+      {
+        "name": "light3",
+        "bone": "root",
+        "attachment": "light3"
+      },
+      {
+        "name": "light4",
+        "bone": "root",
+        "attachment": "light4"
+      },
+      {
+        "name": "light5",
+        "bone": "root",
+        "attachment": "light5"
+      },
+      {
+        "name": "light6",
+        "bone": "root",
+        "attachment": "light6"
+      },
+      {
+        "name": "light7",
+        "bone": "root",
+        "attachment": "light7"
+      },
+      {
+        "name": "light8",
+        "bone": "root",
+        "attachment": "light8"
+      }
+    ],
+    "skins": {
+      "default": {
+        "frame": {
+          "frame": {
+            "path": "icon_frame",
+            "x": -1.03,
+            "y": -6.75,
+            "width": 76,
+            "height": 74
+          }
+        },
+        "icon_cai_shen": {
+          "icon_cai_shen": {
+            "x": -8.07,
+            "y": -6.32,
+            "width": 71,
+            "height": 37
+          }
+        },
+        "icon_dao": {
+          "icon_dao": {
+            "x": -0.35,
+            "y": -6.76,
+            "width": 72,
+            "height": 39
+          }
+        },
+        "light1": {
+          "light1": {
+            "x": -20.59,
+            "y": 35.04,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light2": {
+          "light2": {
+            "x": 26.4,
+            "y": 30.04,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light3": {
+          "light3": {
+            "x": -18.59,
+            "y": 21.04,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light4": {
+          "light4": {
+            "x": 21.4,
+            "y": 14.04,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light5": {
+          "light5": {
+            "x": -11.59,
+            "y": -4.95,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light6": {
+          "light6": {
+            "x": -27.59,
+            "y": -17.95,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light7": {
+          "light7": {
+            "x": -4.59,
+            "y": -29.95,
+            "width": 123,
+            "height": 56
+          }
+        },
+        "light8": {
+          "light8": {
+            "x": 23.4,
+            "y": -23.95,
+            "width": 123,
+            "height": 56
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "frame": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2666,
+                "x": 1.099,
+                "y": 1.099
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.8,
+                "x": 1.099,
+                "y": 1.099
+              },
+              {
+                "time": 1.0666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "caishen": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 1.028,
+                "y": 1.028
+              },
+              {
+                "time": 0.2666,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 1.028,
+                "y": 1.028
+              },
+              {
+                "time": 0.8,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "dao": {
+            "scale": [
+              {
+                "time": 0.2666,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4,
+                "x": 1.028,
+                "y": 1.028
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.028,
+                "y": 1.028
+              },
+              {
+                "time": 1.0666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "light1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1333,
+                "name": "light2"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2666,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5333,
+                "name": "light3"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6666,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4,
+                "name": "light4"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2666,
+                "name": "light5"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.2666,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": "light6"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light7": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.6666,
+                "name": "light7"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.6666,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light8": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.9333,
+                "name": "light8"
+              }
+            ],
+            "color": [
+              {
+                "time": 0.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.0666,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ncaishendao-1.png\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nicon_cai_shen\n  rotate: true\n  xy: 205, 28\n  size: 71, 37\n  orig: 71, 37\n  offset: 0, 0\n  index: -1\nicon_dao\n  rotate: false\n  xy: 2, 2\n  size: 72, 39\n  orig: 72, 39\n  offset: 0, 0\n  index: -1\nicon_frame\n  rotate: false\n  xy: 127, 25\n  size: 76, 74\n  orig: 76, 74\n  offset: 0, 0\n  index: -1\nlight1\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight8\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight4\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight5\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight3\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight2\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight7\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\nlight6\n  rotate: false\n  xy: 2, 43\n  size: 123, 56\n  orig: 123, 56\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5004f84a-c448-4a66-bc3e-ae1dd7a77fc1"
+    }
+  ],
+  "textureNames": [
+    "caishendao-1.png"
+  ],
+  "scale": 1
+}

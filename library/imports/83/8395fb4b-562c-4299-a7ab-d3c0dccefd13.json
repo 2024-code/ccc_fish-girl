@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "chuntian_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\r\n    \"SubTexture\": [{\r\n        \"width\": 450,\r\n        \"y\": 1,\r\n        \"height\": 242,\r\n        \"name\": \"组-46_1\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 60,\r\n        \"y\": 320,\r\n        \"height\": 56,\r\n        \"name\": \"huad3\",\r\n        \"x\": 416\r\n    },\r\n    {\r\n        \"width\": 19,\r\n        \"y\": 1,\r\n        \"height\": 33,\r\n        \"name\": \"hua3\",\r\n        \"x\": 491\r\n    },\r\n    {\r\n        \"width\": 24,\r\n        \"y\": 320,\r\n        \"height\": 25,\r\n        \"name\": \"hua1\",\r\n        \"x\": 478\r\n    },\r\n    {\r\n        \"width\": 79,\r\n        \"y\": 245,\r\n        \"height\": 73,\r\n        \"name\": \"huad1\",\r\n        \"x\": 416\r\n    },\r\n    {\r\n        \"width\": 99,\r\n        \"y\": 245,\r\n        \"height\": 93,\r\n        \"name\": \"huad2\",\r\n        \"x\": 315\r\n    },\r\n    {\r\n        \"width\": 312,\r\n        \"y\": 245,\r\n        \"height\": 157,\r\n        \"name\": \"组-45\",\r\n        \"x\": 1\r\n    },\r\n    {\r\n        \"width\": 36,\r\n        \"y\": 1,\r\n        \"height\": 36,\r\n        \"name\": \"star\",\r\n        \"x\": 453\r\n    }],\r\n    \"imagePath\": \"chuntian_tex.png\",\r\n    \"name\": \"chuntian\"\r\n}",
+  "_texture": {
+    "__uuid__": "f914dcab-f0f9-4d65-969c-8be1512b0a97"
+  },
+  "texture": {
+    "__uuid__": "f914dcab-f0f9-4d65-969c-8be1512b0a97"
+  },
+  "_textureAtlasData": null
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_history_red",
+    "texture": "9e92fe08-0813-47dc-835b-38bb7ddb7e2d",
+    "atlas": "07e7ea1f-a2eb-4866-9166-1eaedc4fbf6e",
+    "rect": [
+      2,
+      86,
+      83,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      68
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

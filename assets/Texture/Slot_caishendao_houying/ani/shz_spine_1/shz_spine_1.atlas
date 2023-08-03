@@ -1,0 +1,54 @@
+
+milefo-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_milefo_brow
+  rotate: false
+  xy: 2, 2
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+icon_milefo_ears
+  rotate: false
+  xy: 78, 80
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+icon_milefo_face
+  rotate: false
+  xy: 2, 51
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+icon_milefo_nose
+  rotate: false
+  xy: 105, 111
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+icon_molefo_eyes
+  rotate: true
+  xy: 54, 14
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+icon_molefo_mouth
+  rotate: false
+  xy: 2, 20
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+icon_molefo_point
+  rotate: false
+  xy: 78, 69
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1

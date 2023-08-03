@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "helmet.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "helmet_0001": {
+      "__uuid__": "aae51975-63d7-483a-add8-619a704e9228"
+    },
+    "helmet_0002": {
+      "__uuid__": "3eccd467-2504-4b1e-a1fd-c69f001fedbf"
+    },
+    "helmet_0003": {
+      "__uuid__": "6ee8ba4d-9c64-4256-8f1c-89ff4d7e9e5d"
+    },
+    "helmet_0004": {
+      "__uuid__": "985103ac-a7cd-4c2f-b849-567f4dade99f"
+    },
+    "helmet_0005": {
+      "__uuid__": "fe2895ff-5b96-4f28-96a3-e367bafdbe50"
+    },
+    "helmet_0006": {
+      "__uuid__": "8192c500-0464-4712-b11a-90a00617d5fb"
+    },
+    "helmet_0007": {
+      "__uuid__": "bc56080b-6d41-4425-8ef8-af72f45f143a"
+    },
+    "helmet_0008": {
+      "__uuid__": "4f22be69-c707-440e-8dee-c4d1e16c5fbd"
+    },
+    "helmet_0009": {
+      "__uuid__": "1948a73a-e163-4b38-92a2-913055b70f37"
+    },
+    "helmet_0010": {
+      "__uuid__": "109542b3-0e4f-41b3-bbb7-3051db533a5f"
+    },
+    "helmet_0011": {
+      "__uuid__": "02239393-29c9-46d0-a370-e052d7cfe7ca"
+    },
+    "helmet_0012": {
+      "__uuid__": "a242c094-1591-4cc0-a521-ad99df072611"
+    },
+    "helmet_0013": {
+      "__uuid__": "e48610e1-b33d-41a6-91fc-8e6e1ccdf072"
+    },
+    "helmet_0014": {
+      "__uuid__": "d3c9f48b-fdf3-47a6-918e-430deecf498b"
+    },
+    "helmet_0015": {
+      "__uuid__": "ea3d2e73-f96d-4ab4-a882-d2a26107457c"
+    },
+    "helmet_0016": {
+      "__uuid__": "636f555b-ef7e-42c0-8f53-7d7e1b47e9f4"
+    },
+    "helmet_0017": {
+      "__uuid__": "4731cb8e-40dc-477c-98a7-a1f0bd9d53e5"
+    },
+    "helmet_0018": {
+      "__uuid__": "4c414085-a95d-41a3-ac83-cb9482f699dd"
+    },
+    "helmet_0019": {
+      "__uuid__": "d9315106-548a-416d-ab8b-5910dbd5c5b8"
+    },
+    "helmet_0020": {
+      "__uuid__": "407bd168-aa23-4fc3-ab23-b917de249370"
+    },
+    "helmet_0021": {
+      "__uuid__": "a4b4409e-5311-4374-bd79-c85b0c9542aa"
+    },
+    "helmet_0022": {
+      "__uuid__": "8713e545-3506-413d-809d-1c31ea030648"
+    },
+    "helmet_0023": {
+      "__uuid__": "8da55efb-65ee-47b7-bfb0-bd6d0756867e"
+    },
+    "helmet_0024": {
+      "__uuid__": "722ca90d-9a15-46fd-a3d4-0135f37267cb"
+    },
+    "helmet_0025": {
+      "__uuid__": "79c2019e-605a-4839-ae43-59b5c77cef87"
+    },
+    "helmet_0026": {
+      "__uuid__": "4ca6af7e-e452-41ca-95f8-52980ffa91e6"
+    },
+    "helmet_0027": {
+      "__uuid__": "48e32279-efa8-46f1-ba0b-8fcef4bbeee4"
+    },
+    "helmet_0028": {
+      "__uuid__": "32af8f20-1663-4ee5-ab0e-e6169b247fc5"
+    },
+    "helmet_0029": {
+      "__uuid__": "4a3e8e16-ce79-489f-bc06-d2d089b8cf55"
+    },
+    "helmet_0030": {
+      "__uuid__": "f7bdfb20-293c-4970-ba84-5eb4b049dd72"
+    },
+    "helmet_0031": {
+      "__uuid__": "b9ed5ee9-ca72-4ad8-9492-11ecfde65b88"
+    },
+    "helmet_0032": {
+      "__uuid__": "d3b80ba9-e50b-476e-9b5f-71f3876ca083"
+    },
+    "helmet_0033": {
+      "__uuid__": "0773cbef-c071-473a-ad34-bfecbcfbb3c6"
+    },
+    "helmet_0034": {
+      "__uuid__": "da3592df-209f-4212-be0b-98e93614ae63"
+    },
+    "helmet_0035": {
+      "__uuid__": "81257df5-8351-4156-9ef6-2a979313a0a1"
+    },
+    "helmet_0036": {
+      "__uuid__": "e854dd41-118e-4a5b-9319-cd7679069362"
+    },
+    "helmet_0037": {
+      "__uuid__": "d0093774-5751-4e49-9140-db06f4f8fb9a"
+    },
+    "helmet_0038": {
+      "__uuid__": "08da125e-79e2-4605-bb0f-22ac531c9603"
+    },
+    "helmet_0039": {
+      "__uuid__": "376aa60f-0de2-41c0-815c-e68077b41435"
+    },
+    "helmet_0040": {
+      "__uuid__": "2145d02c-edfa-4443-962a-1226eea7b2b6"
+    },
+    "helmet_0041": {
+      "__uuid__": "313ddecc-bf14-40c3-8a4d-e0f9d2ad75c7"
+    },
+    "helmet_0042": {
+      "__uuid__": "46fdfb37-ac54-467b-a9c8-d87ebd676a84"
+    },
+    "helmet_0043": {
+      "__uuid__": "098ca81c-4469-445d-a717-ece3bfaded8e"
+    },
+    "helmet_0044": {
+      "__uuid__": "3690c24d-c6e0-40e3-ac20-9ec55dbc3b3e"
+    },
+    "helmet_0045": {
+      "__uuid__": "20e6980b-9de1-4296-8aa0-edbcd0cee61e"
+    },
+    "helmet_0046": {
+      "__uuid__": "748bd92b-0e58-4cd2-9479-3a05d5e00d2a"
+    },
+    "helmet_0047": {
+      "__uuid__": "ada5d90a-e179-46c6-ba7b-c78a7b649361"
+    },
+    "helmet_0048": {
+      "__uuid__": "383f701b-54ce-42c1-a074-eab024c4ef9c"
+    },
+    "helmet_0049": {
+      "__uuid__": "37d21d3e-5033-470a-8e75-2234683fe7c1"
+    },
+    "helmet_0050": {
+      "__uuid__": "97404756-2c2b-4a49-865a-d48cee95fa0a"
+    }
+  }
+}

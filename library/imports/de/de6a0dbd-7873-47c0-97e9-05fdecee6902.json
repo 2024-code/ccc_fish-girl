@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "im_game_bg",
+    "texture": "144cc28e-8dab-4a6e-927e-11bfb0aca006",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1386,
+      640
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1386,
+      640
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

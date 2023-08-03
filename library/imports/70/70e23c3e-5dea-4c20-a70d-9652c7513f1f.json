@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "getBull_tex",
+    "texture": "272d401f-1cdf-4da7-9976-57f76d82ccaa",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      594,
+      498
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      597,
+      501
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

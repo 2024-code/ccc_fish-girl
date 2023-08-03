@@ -1,0 +1,275 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "headAni.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Role-0-0": {
+      "__uuid__": "42f977f4-c5c2-45aa-91c1-7cef120f8ba6"
+    },
+    "Role-0-1": {
+      "__uuid__": "5c506181-869d-4c57-8550-97d4fc89603e"
+    },
+    "Role-0-10": {
+      "__uuid__": "c548f8ca-7b4f-4d7e-9e91-3e5abe2c3f5d"
+    },
+    "Role-0-11": {
+      "__uuid__": "7851d1a5-dbee-4186-95b0-54215ce03d1f"
+    },
+    "Role-0-12": {
+      "__uuid__": "a7c3d5ff-e55c-4e23-83aa-937489d02413"
+    },
+    "Role-0-13": {
+      "__uuid__": "20b34fda-c6f0-424f-8886-4585fcea57aa"
+    },
+    "Role-0-2": {
+      "__uuid__": "49ae91f6-f254-4ea6-8323-91358d256323"
+    },
+    "Role-0-3": {
+      "__uuid__": "07ad3cee-f5f4-4a33-98df-bbe26b5123bd"
+    },
+    "Role-0-4": {
+      "__uuid__": "ec937a9c-2709-4820-a013-85898d2c77aa"
+    },
+    "Role-0-5": {
+      "__uuid__": "1524d655-be79-4ce1-97af-1412d7b49d74"
+    },
+    "Role-0-6": {
+      "__uuid__": "af0555c3-c465-4547-87eb-1d7cc42e1a59"
+    },
+    "Role-0-7": {
+      "__uuid__": "04a488ae-6113-4525-a4da-0fe8c09fd183"
+    },
+    "Role-0-8": {
+      "__uuid__": "1808c2d5-89d2-4821-a60a-f4abc4ce4f1e"
+    },
+    "Role-0-9": {
+      "__uuid__": "37febbf9-e170-4274-a0bb-d721e6f6029a"
+    },
+    "Role-0-14": {
+      "__uuid__": "e2d1d410-9845-479d-8171-e1ae4da73e40"
+    },
+    "Role-1-0": {
+      "__uuid__": "2d430187-c880-42fe-b8d8-da10f3182490"
+    },
+    "Role-1-1": {
+      "__uuid__": "47880e37-aa5e-40ad-ab00-720fcba9219f"
+    },
+    "Role-1-10": {
+      "__uuid__": "2599b6ee-80db-4df3-8db3-4a9abbe9f1f4"
+    },
+    "Role-1-11": {
+      "__uuid__": "72a64697-0191-4ae1-b285-de02bdaf269c"
+    },
+    "Role-1-12": {
+      "__uuid__": "37fbdf82-9905-4163-bd36-5c231cab6ab2"
+    },
+    "Role-1-13": {
+      "__uuid__": "21578701-b844-4197-bc33-9925e80e6384"
+    },
+    "Role-1-14": {
+      "__uuid__": "15feb116-6a56-49c8-9378-1a0dbd480477"
+    },
+    "Role-1-2": {
+      "__uuid__": "ed0060e9-c529-4e30-8781-8c432cf79e7b"
+    },
+    "Role-1-3": {
+      "__uuid__": "63c7f0d5-d83e-422a-aaed-2a1a38158fde"
+    },
+    "Role-1-4": {
+      "__uuid__": "8d884748-1582-465b-b848-d7b646961c47"
+    },
+    "Role-1-5": {
+      "__uuid__": "f4c45a8d-ffce-49fe-8512-63b0544fc463"
+    },
+    "Role-1-6": {
+      "__uuid__": "ab879ec3-934f-4b74-98b4-bba7b14e1812"
+    },
+    "Role-1-7": {
+      "__uuid__": "e87bed7c-656c-498d-9b52-a6a816ee500a"
+    },
+    "Role-1-8": {
+      "__uuid__": "e356271e-a44b-4319-a1f8-de8fd3d1c314"
+    },
+    "Role-1-9": {
+      "__uuid__": "cee2f3df-2074-4c72-981e-9e520c0cd422"
+    },
+    "Role-2-0": {
+      "__uuid__": "08544ba2-6e46-4a92-ae9e-d0774b234147"
+    },
+    "Role-2-1": {
+      "__uuid__": "badbaa5f-3a27-4aaa-875a-397928350b57"
+    },
+    "Role-2-10": {
+      "__uuid__": "f8380feb-abdd-43dc-802f-b799c13e297f"
+    },
+    "Role-2-11": {
+      "__uuid__": "b463f902-cf66-4d63-a88a-d89e0d2b7924"
+    },
+    "Role-2-12": {
+      "__uuid__": "e116a414-bd46-4867-8475-030a2b110166"
+    },
+    "Role-2-13": {
+      "__uuid__": "1c0e113a-cc0a-434e-994b-711edd1b4dc5"
+    },
+    "Role-2-14": {
+      "__uuid__": "6358d991-fc83-4f5f-a527-236bb8d9087d"
+    },
+    "Role-2-2": {
+      "__uuid__": "2ba8ac9c-3f21-4700-b1af-cead15df9757"
+    },
+    "Role-2-3": {
+      "__uuid__": "e67c924a-5b5f-4b05-be6a-45c2e793eb00"
+    },
+    "Role-2-4": {
+      "__uuid__": "d2ed4511-6fea-40e2-ba14-bdc72b0c7598"
+    },
+    "Role-2-5": {
+      "__uuid__": "d7a7f8d4-d099-438c-ad8b-766aa2fb7ee5"
+    },
+    "Role-2-6": {
+      "__uuid__": "7f7c3450-64c8-4430-bf9b-9d9195195038"
+    },
+    "Role-2-7": {
+      "__uuid__": "a709cb05-3676-49de-8930-28c5898f3fe7"
+    },
+    "Role-2-8": {
+      "__uuid__": "bc2ba085-ab67-4836-8190-767b20c51d43"
+    },
+    "Role-2-9": {
+      "__uuid__": "3a80bba6-6a81-4a50-ac9a-37dd5838e606"
+    },
+    "Role-3-0": {
+      "__uuid__": "bbc0df5c-2bea-40ab-8c8e-0ec819162522"
+    },
+    "Role-3-1": {
+      "__uuid__": "4fb631e4-3f74-4b68-8373-f593bebf5fa1"
+    },
+    "Role-3-10": {
+      "__uuid__": "4da8555e-1956-413a-8fae-bbabfc444d61"
+    },
+    "Role-3-11": {
+      "__uuid__": "24f50ace-82e5-429b-a00c-2ef2352a3268"
+    },
+    "Role-3-12": {
+      "__uuid__": "063cfea9-266e-4bab-a1dc-89ab0ff71aea"
+    },
+    "Role-3-13": {
+      "__uuid__": "6263792e-1cb2-4439-84fc-daaac5155bbb"
+    },
+    "Role-3-14": {
+      "__uuid__": "d649ecfc-faf0-48fd-b676-71adbca10a39"
+    },
+    "Role-3-2": {
+      "__uuid__": "e473c059-2c98-4223-a807-ead216af420e"
+    },
+    "Role-3-3": {
+      "__uuid__": "374c5fa8-ac22-4cc7-9879-2e5fa8faca36"
+    },
+    "Role-3-4": {
+      "__uuid__": "40eef0ed-487b-4cd0-ae24-c72654cca3b3"
+    },
+    "Role-3-5": {
+      "__uuid__": "4df2f3b6-6fb9-498b-9518-f7baf43bea2f"
+    },
+    "Role-3-6": {
+      "__uuid__": "64b8bc48-73be-44d6-ae0b-7107608e0d69"
+    },
+    "Role-3-7": {
+      "__uuid__": "6281b335-0d56-46fe-913b-ba952b6f2d1c"
+    },
+    "Role-3-8": {
+      "__uuid__": "14d39c21-c0ff-445f-9207-fbac10438027"
+    },
+    "Role-3-9": {
+      "__uuid__": "f098f2db-aae8-48f1-8651-6889054813e8"
+    },
+    "Role-UI-Monkey_Green": {
+      "__uuid__": "b0d6c6c2-7ac4-4b74-88f7-243b5c5b0750"
+    },
+    "Role-UI-Monkey_Green_0": {
+      "__uuid__": "d38659af-b9f0-4f6e-80cb-c058bc967726"
+    },
+    "Role-UI-Monkey_Red": {
+      "__uuid__": "ecd77b41-fc5a-4056-ade5-891e79c430d1"
+    },
+    "Role-UI-Monkey_Red_0": {
+      "__uuid__": "134e11dc-f7e0-4c96-80c0-78f8e6ed4394"
+    },
+    "Role-UI-Monkey_Yellow": {
+      "__uuid__": "d694c3f8-9de4-4f37-a18c-ae7197512098"
+    },
+    "Role-UI-Monkey_Yellow_0": {
+      "__uuid__": "78b2fe66-3832-40f6-9114-ca5a1ac35f22"
+    },
+    "Role-UI-Niu_Green": {
+      "__uuid__": "a4ba95ee-1dcf-47ce-a741-3c44170c1110"
+    },
+    "Role-UI-Niu_Green_0": {
+      "__uuid__": "192ccff9-db19-40dc-94b5-46cec815f750"
+    },
+    "Role-UI-Niu_Red": {
+      "__uuid__": "4446132c-e88c-4c7b-b751-2fc55c7bfd44"
+    },
+    "Role-UI-Niu_Red_0": {
+      "__uuid__": "d2db911a-5b08-47ac-af20-b60be01901b5"
+    },
+    "Role-UI-Niu_Yellow": {
+      "__uuid__": "0aa413f5-14df-4772-854f-c4f984c15ff7"
+    },
+    "Role-UI-Niu_Yellow_0": {
+      "__uuid__": "f282f509-d441-46ba-a2fc-93022ba53cc8"
+    },
+    "Role-UI-RedBack": {
+      "__uuid__": "7f930078-7693-4d68-8db2-812ef3b87c5c"
+    },
+    "Role-UI-Sha_Green": {
+      "__uuid__": "34a06211-3cc2-4f37-ad9d-1f48160e4559"
+    },
+    "Role-UI-Sha_Green_0": {
+      "__uuid__": "5f5d329f-1f79-4d91-8cf7-22888c279712"
+    },
+    "Role-UI-Sha_Red": {
+      "__uuid__": "e99062b3-9e3b-4d9c-81fd-b83e57280fb1"
+    },
+    "Role-UI-Sha_Red_0": {
+      "__uuid__": "0c7dcd11-1274-4d3a-9062-6dc9aa5c3c09"
+    },
+    "Role-UI-Sha_Yellow": {
+      "__uuid__": "0a2ebfa2-82c3-4d4e-866d-62ccb35b096f"
+    },
+    "Role-UI-Sha_Yellow_0": {
+      "__uuid__": "f8f62713-3273-4281-a5b4-6419be2aa78f"
+    },
+    "Role-UI-Sun_Green": {
+      "__uuid__": "e21697b1-8ccd-4846-ac19-35dc4560d8f5"
+    },
+    "Role-UI-Sun_Green_0": {
+      "__uuid__": "fcc096d4-be65-4e0e-9503-423c5f6857b9"
+    },
+    "Role-UI-Sun_Red": {
+      "__uuid__": "eee81775-c0b2-4692-9cd1-a5d0d07fd1ae"
+    },
+    "Role-UI-Sun_Red_0": {
+      "__uuid__": "3e4b3271-24ed-4797-b9f6-808a5e8677e9"
+    },
+    "Role-UI-Sun_Yellow": {
+      "__uuid__": "fef21d57-8e68-443b-ac6a-0c301e704747"
+    },
+    "Role-UI-Sun_Yellow_0": {
+      "__uuid__": "701ed9a7-1f1f-4681-94b7-4834c9d1b521"
+    },
+    "Role-UI-YellowBack": {
+      "__uuid__": "872025e2-bf57-4173-8eeb-53b669e22030"
+    },
+    "Role-UI-Door": {
+      "__uuid__": "21439d59-37f5-4d2e-a7da-41c9bcddbe90"
+    },
+    "Role-UI-GreenBack": {
+      "__uuid__": "9c0fd78d-702e-4578-b3ab-17af81d990a0"
+    },
+    "Role-UI-Hole": {
+      "__uuid__": "6f819a9f-e8b7-4c88-bc25-5c89498992cf"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_bangzhu",
+    "texture": "baf391d1-83f7-4d67-8533-6afa23486ca0",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      96,
+      96
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      98,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

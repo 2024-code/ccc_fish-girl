@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_betting_box",
+    "texture": "70654695-e805-4e00-a203-a9609f1a1409",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cannon_2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atlas-NewUi-0162": {
+      "__uuid__": "6c31c853-fb83-4f7a-9d7e-37a0d8324d84"
+    },
+    "atlas-NewUi-0163": {
+      "__uuid__": "16ac3cc6-a434-4c10-b3a5-cb6d4ff452c1"
+    },
+    "atlas-NewUi-0164": {
+      "__uuid__": "4e4f17b1-a584-4a58-87ac-5061a1171af1"
+    },
+    "atlas-NewUi-0165": {
+      "__uuid__": "f3575b76-992b-409e-98e3-ffc7185a0ed6"
+    },
+    "atlas-NewUi-0166": {
+      "__uuid__": "7b86bfec-3084-44ef-a4a0-00e984569f33"
+    },
+    "atlas-NewUi-0167": {
+      "__uuid__": "dc60ca0d-e977-4744-89ae-4bcf3fad6358"
+    },
+    "atlas-NewUi-0168": {
+      "__uuid__": "6cc69a88-58b0-475d-b986-b2408515cbf3"
+    },
+    "atlas-NewUi-0169": {
+      "__uuid__": "c93f74b2-973c-4f7f-bec7-67a6b5e3cbe8"
+    },
+    "atlas-NewUi-0170": {
+      "__uuid__": "517fc3bc-2bdd-4561-a9d8-b74e9e8c2fdf"
+    },
+    "atlas-NewUi-0171": {
+      "__uuid__": "5ccb8fa1-39f2-47e6-8449-2eaef89a2c2b"
+    },
+    "atlas-NewUi-0172": {
+      "__uuid__": "40ab656a-9152-49ac-b84c-96261388bcef"
+    },
+    "atlas-NewUi-0173": {
+      "__uuid__": "cbaadc69-616d-4ac7-a0a8-d54c0af434b3"
+    },
+    "atlas-NewUi-0174": {
+      "__uuid__": "60693232-4d08-409b-ae9d-7bf5b59ee589"
+    },
+    "atlas-NewUi-0175": {
+      "__uuid__": "ec57634b-5826-4b06-86c2-94f006c9a96c"
+    },
+    "atlas-NewUi-0176": {
+      "__uuid__": "8e115d6e-c893-4078-802a-f4980b8e45ea"
+    },
+    "atlas-NewUi-0177": {
+      "__uuid__": "fae7f2d8-cc78-49ce-985d-5acbdcb4a98f"
+    },
+    "atlas-NewUi-0178": {
+      "__uuid__": "ab03e200-2de4-4e94-bd49-0c9529d24b59"
+    },
+    "atlas-NewUi-0179": {
+      "__uuid__": "49be847e-ad04-4055-a53c-66ff117c6981"
+    },
+    "atlas-NewUi-0180": {
+      "__uuid__": "4b3a1a7d-cba7-4295-a819-a1fb018bc626"
+    },
+    "atlas-NewUi-0181": {
+      "__uuid__": "2d6cd5de-ee29-4c00-a083-81d35089f875"
+    },
+    "atlas-NewUi-0182": {
+      "__uuid__": "ce750a18-a5e9-4304-ada3-d8dbe1c547f6"
+    },
+    "atlas-NewUi-0183": {
+      "__uuid__": "6322c9d6-2ff1-4f49-863e-0e1340b2a431"
+    },
+    "atlas-NewUi-0184": {
+      "__uuid__": "f8edc359-344f-4dfe-a746-83a9591a3c4a"
+    },
+    "atlas-NewUi-0185": {
+      "__uuid__": "8ee155f3-2ebb-41c1-ab97-56aaa024b97f"
+    },
+    "atlas-NewUi-0186": {
+      "__uuid__": "52ba5045-d332-4467-9d9d-283207e95485"
+    },
+    "atlas-NewUi-0187": {
+      "__uuid__": "aa1a1af8-a45a-416c-aa98-fad25c30971e"
+    },
+    "atlas-NewUi-0188": {
+      "__uuid__": "f43e9941-67ca-44a7-a3d7-ee0a37e6e736"
+    },
+    "atlas-NewUi-0189": {
+      "__uuid__": "058e2b1b-1d89-4e93-be49-7d81204f8b85"
+    },
+    "atlas-NewUi-0190": {
+      "__uuid__": "dc163cff-058d-4e97-845d-d06995681fa2"
+    },
+    "atlas-NewUi-0191": {
+      "__uuid__": "50d6752f-d7b5-47ec-8493-fda45cb94a64"
+    },
+    "atlas-NewUi-0192": {
+      "__uuid__": "bc8edbde-b1c0-4bba-8228-3f49c06ede53"
+    },
+    "atlas-NewUi-0193": {
+      "__uuid__": "4db8be75-3863-438d-9522-c2863aee734d"
+    },
+    "atlas-NewUi-0194": {
+      "__uuid__": "3bbad314-612c-4210-9232-3725fc8cb949"
+    },
+    "atlas-NewUi-0195": {
+      "__uuid__": "0fd3f995-24a0-43ae-a865-cf295f7689c7"
+    },
+    "atlas-NewUi-0196": {
+      "__uuid__": "1d37e485-0383-41ac-b442-b825c344f2fb"
+    },
+    "atlas-NewUi-0197": {
+      "__uuid__": "868f0b08-a0f1-4f8a-8362-e4a658b30e05"
+    },
+    "atlas-NewUi-0198": {
+      "__uuid__": "df2dcd6c-ae44-4ac3-b4c0-ad8f207ddea0"
+    },
+    "atlas-NewUi-0199": {
+      "__uuid__": "4b86bcbe-560f-4e02-b28d-1f88c8b17418"
+    },
+    "atlas-NewUi-0200": {
+      "__uuid__": "e1da78df-0dd9-42b8-83a0-ccedfde12e68"
+    },
+    "atlas-NewUi-0201": {
+      "__uuid__": "1208b202-46ed-4ebe-87b9-075fcfafb820"
+    },
+    "atlas-NewUi-0202": {
+      "__uuid__": "8a19b1f7-12a9-4969-932f-0d9f5979f056"
+    },
+    "atlas-NewUi-0203": {
+      "__uuid__": "6bae6804-8d52-444a-9fc3-083df04d6e4b"
+    },
+    "atlas-NewUi-0204": {
+      "__uuid__": "2a8d1980-86d1-404f-bb9b-03795f564d37"
+    },
+    "atlas-NewUi-0205": {
+      "__uuid__": "48736f10-17a9-455f-be2e-449c10ac38bd"
+    },
+    "atlas-NewUi-0206": {
+      "__uuid__": "84ab3f3d-3c97-4944-bf05-30bb03bc54db"
+    },
+    "atlas-NewUi-0207": {
+      "__uuid__": "0d7b450e-eb63-450e-b06f-daa8507b1ccd"
+    },
+    "atlas-NewUi-0208": {
+      "__uuid__": "ccefd0ee-1270-42f2-8b74-ee104c2fd78b"
+    },
+    "atlas-NewUi-0209": {
+      "__uuid__": "322e4c62-6e32-4bea-bd49-cc9df4e8a976"
+    },
+    "atlas-NewUi-0210": {
+      "__uuid__": "e89e3997-5913-486f-b47f-ff651f13a90b"
+    },
+    "atlas-NewUi-0211": {
+      "__uuid__": "63da8ea1-9a71-4d80-8afa-37d3f2b6128f"
+    },
+    "atlas-NewUi-0212": {
+      "__uuid__": "5d3011e2-94e2-45b7-b679-6fd6669d2666"
+    },
+    "atlas-NewUi-0213": {
+      "__uuid__": "58706f2a-8320-4697-8858-0d0a8ed1f914"
+    },
+    "atlas-NewUi-0214": {
+      "__uuid__": "351d02b5-ff55-4311-aa67-31b4f28b4569"
+    },
+    "atlas-NewUi-0215": {
+      "__uuid__": "67c09db0-1844-4f33-9739-d981347391b7"
+    },
+    "atlas-NewUi-0216": {
+      "__uuid__": "c64e7cf9-1f50-4e21-8c90-623dab83ecef"
+    },
+    "atlas-NewUi-0217": {
+      "__uuid__": "1bfad1a0-ba47-4224-be3a-27ca6eb78ab0"
+    },
+    "atlas-NewUi-0218": {
+      "__uuid__": "4c0e0f11-dd62-4da2-80d9-93cf8f1bba7f"
+    },
+    "atlas-NewUi-0219": {
+      "__uuid__": "61fe0eaf-e1cf-4b83-aea5-dbdeca33686b"
+    },
+    "atlas-NewUi-0220": {
+      "__uuid__": "5ae8b73e-a617-4ca4-bc15-cea2c3e151ec"
+    },
+    "atlas-NewUi-0221": {
+      "__uuid__": "980d9ef2-9cef-4cc4-90bc-178ef4d18add"
+    },
+    "atlas-NewUi-0222": {
+      "__uuid__": "ff3bec6b-1dfe-497e-a1e3-2897c82245b1"
+    },
+    "atlas-NewUi-0223": {
+      "__uuid__": "474ea601-1a98-4fac-8df9-90e6d9c5a975"
+    },
+    "atlas-NewUi-0224": {
+      "__uuid__": "e8336414-dc32-4458-98a3-9adb4874bdc1"
+    },
+    "atlas-NewUi-0225": {
+      "__uuid__": "85ddbf45-326d-49a2-a32b-db9940b9fdfe"
+    },
+    "atlas-NewUi-0226": {
+      "__uuid__": "467831b4-263f-4a6e-b895-a2a49d0a44a4"
+    },
+    "atlas-NewUi-0227": {
+      "__uuid__": "13c4c39d-9388-481f-bec5-7e5409037e5d"
+    },
+    "atlas-NewUi-0228": {
+      "__uuid__": "06e82cf0-94a9-47dc-a42e-4191dadc322d"
+    },
+    "atlas-NewUi-0229": {
+      "__uuid__": "76f4c3a6-935f-4e19-a875-7236f009fe12"
+    },
+    "atlas-NewUi-0230": {
+      "__uuid__": "d14c4354-3c4c-4238-8e33-3795df7e8a40"
+    },
+    "atlas-NewUi-0231": {
+      "__uuid__": "fa46eea0-27d3-4ffb-8146-91bd0584f540"
+    },
+    "atlas-NewUi-0232": {
+      "__uuid__": "dc9fa13f-986b-42e9-b8fe-624c095e3ce6"
+    },
+    "atlas-NewUi-0233": {
+      "__uuid__": "77762bb9-7d4e-4680-8527-224bce72c9f9"
+    },
+    "atlas-NewUi-0234": {
+      "__uuid__": "354956a0-c51c-4318-8b3e-94bc31b41808"
+    },
+    "atlas-NewUi-0235": {
+      "__uuid__": "9fc19de3-b482-48bf-85c9-85d8718a5570"
+    },
+    "atlas-NewUi-0236": {
+      "__uuid__": "c394401b-dea6-4831-adb8-f4260d58633c"
+    },
+    "atlas-NewUi-0237": {
+      "__uuid__": "c3cf4b7b-10cf-46c6-ae6b-abbf99ef470e"
+    },
+    "atlas-NewUi-0238": {
+      "__uuid__": "1b7acf77-2c40-4873-bcb0-9866189aaf9f"
+    },
+    "atlas-NewUi-0239": {
+      "__uuid__": "efdcb633-8630-40f6-8d35-c722d90d5517"
+    },
+    "atlas-NewUi-0240": {
+      "__uuid__": "c8482dba-edd8-46ac-aa23-2691d501dd0a"
+    },
+    "atlas-NewUi-0241": {
+      "__uuid__": "70977e01-1be9-4c18-ac4f-7c9f5fd69331"
+    },
+    "atlas-NewUi-0242": {
+      "__uuid__": "4c1fd6ef-65b8-46b7-8ef0-0bc51d17104a"
+    },
+    "atlas-NewUi-0243": {
+      "__uuid__": "52eb0d4e-0bfd-4f42-9fee-a6ddfd195b5f"
+    },
+    "atlas-NewUi-0244": {
+      "__uuid__": "daca445d-ff84-4639-9646-f84137a81d48"
+    },
+    "atlas-NewUi-0245": {
+      "__uuid__": "76740cdf-728e-4f06-814d-584ef86bfed0"
+    },
+    "atlas-NewUi-0246": {
+      "__uuid__": "c120a3f7-6fb1-4a9a-9744-e75026a1172a"
+    },
+    "atlas-NewUi-0247": {
+      "__uuid__": "74358a8b-c835-4396-bc59-613b8b5f0edc"
+    },
+    "atlas-NewUi-0248": {
+      "__uuid__": "3436d4cc-2b2f-45f0-893d-e61eb425e791"
+    },
+    "atlas-NewUi-0249": {
+      "__uuid__": "639ab608-ce6b-4de3-83ba-1dca2b69954b"
+    },
+    "atlas-NewUi-0250": {
+      "__uuid__": "32523c17-a86f-4609-b5a9-6769b3fa577f"
+    },
+    "atlas-NewUi-0251": {
+      "__uuid__": "a1c65313-36f8-48b4-a50d-0e6f4cfddabc"
+    },
+    "atlas-NewUi-0252": {
+      "__uuid__": "c6bc35fb-711f-4fba-9de5-0c26c3677672"
+    },
+    "atlas-NewUi-0253": {
+      "__uuid__": "b498c6f0-96fc-4c72-b27b-1ab9667cc123"
+    },
+    "atlas-NewUi-0254": {
+      "__uuid__": "9bf57faf-1b50-43b1-ad4a-5951f4ea61c0"
+    },
+    "atlas-NewUi-0255": {
+      "__uuid__": "ee9bd426-7604-4ab5-a534-5241a665f951"
+    },
+    "atlas-NewUi-0256": {
+      "__uuid__": "0289c5fe-033e-40c3-81a7-1d28af5da72a"
+    },
+    "atlas-NewUi-0257": {
+      "__uuid__": "bb587c13-fde9-457b-ba1d-420dd6d19a13"
+    },
+    "atlas-NewUi-0258": {
+      "__uuid__": "2b6e9280-2b09-4683-af08-0314c4d0d481"
+    },
+    "atlas-NewUi-0259": {
+      "__uuid__": "50a84d18-e9e0-4e92-9704-3d43a3411fd1"
+    },
+    "atlas-NewUi-0291": {
+      "__uuid__": "02ed89c7-2c39-42d0-86d0-a856c50e8906"
+    },
+    "atlas-NewUi-0292": {
+      "__uuid__": "b6a2d7e4-7959-4512-a3a4-b0d62ec3c555"
+    },
+    "atlas-NewUi-0293": {
+      "__uuid__": "6a81536e-b39d-4597-814a-a5a87b5ac0d3"
+    },
+    "atlas-NewUi-0294": {
+      "__uuid__": "a874c96c-ed73-4219-8d38-2166d8012730"
+    },
+    "atlas-NewUi-0295": {
+      "__uuid__": "939474c4-f566-457f-9046-2811496c6e34"
+    },
+    "atlas-NewUi-0296": {
+      "__uuid__": "88055233-063c-47cc-b26f-86ed7db09cf7"
+    },
+    "atlas-NewUi-0297": {
+      "__uuid__": "357f3d9f-1966-46a0-949b-6ebd38ae2961"
+    },
+    "atlas-NewUi-0298": {
+      "__uuid__": "f2c64364-fef3-4bdd-a8ee-5a162e399d75"
+    },
+    "atlas-NewUi-0300": {
+      "__uuid__": "2ef88cc1-a3cf-4243-9379-8216ae4193e7"
+    },
+    "atlas-NewUi-0301": {
+      "__uuid__": "558ccf6d-6a78-43d8-a6ed-927cb1c1e13b"
+    },
+    "atlas-NewUi-0302": {
+      "__uuid__": "2336229b-d6a5-42e9-9c2a-8b8cf57259ae"
+    },
+    "atlas-NewUi-0303": {
+      "__uuid__": "fac8dbbd-4622-4c49-95e2-2a2674d3dbfc"
+    },
+    "atlas-NewUi-0304": {
+      "__uuid__": "5016ab0a-2063-4052-9217-b8919b3bfb46"
+    },
+    "atlas-NewUi-0305": {
+      "__uuid__": "f538953b-4fee-4c1d-a1c5-2b436735237f"
+    },
+    "atlas-NewUi-0319": {
+      "__uuid__": "a5b8d275-4e8e-44df-8253-70f0cbd0a9c8"
+    },
+    "atlas-NewUi-0321": {
+      "__uuid__": "a0c6d977-fddf-49a7-8dc4-2421414c35db"
+    },
+    "atlas-NewUi-0322": {
+      "__uuid__": "6f2e157c-8cf8-40d8-a3f6-dac6db9abe56"
+    },
+    "atlas-NewUi-0323": {
+      "__uuid__": "575b06b0-832d-4f33-819d-c6219e40a266"
+    },
+    "atlas-player-0457": {
+      "__uuid__": "7c18ce98-3d49-45e2-9455-38496e6f159b"
+    },
+    "atlas-player-0458": {
+      "__uuid__": "6fc18d4b-ec07-4d70-b837-f62801f0408b"
+    },
+    "atlas-player-0459": {
+      "__uuid__": "452b494f-6816-4a4d-a634-47809f3c8088"
+    },
+    "atlas-player-0463": {
+      "__uuid__": "8199c025-e5c2-4089-bd4e-51dcafc112f6"
+    },
+    "atlas-player-0467": {
+      "__uuid__": "a0dd0f81-d616-46b9-a07d-b61ee8882893"
+    },
+    "atlas-player-0468": {
+      "__uuid__": "aed5a1ff-0243-471b-b39c-dadca773481f"
+    },
+    "atlas-player-0469": {
+      "__uuid__": "d63b295b-12e9-4a1e-85b9-57a837fb3863"
+    },
+    "atlas-player-0470": {
+      "__uuid__": "366964e4-c32b-4d69-8c16-356f34182c2d"
+    },
+    "atlas-player-0471": {
+      "__uuid__": "44a2e183-9bff-4b6e-9c31-955182ed1e44"
+    },
+    "atlas-player-0472": {
+      "__uuid__": "4cc1e1aa-f322-4903-9091-92bbb52bfa5f"
+    },
+    "atlas-player-0473": {
+      "__uuid__": "89a6c3fe-27d3-4894-9dbb-b2f2b0b49e9c"
+    },
+    "atlas-player-0474": {
+      "__uuid__": "14ac0c4b-54ac-4460-b1c0-fc91f6b9cbe2"
+    },
+    "atlas-player-0475": {
+      "__uuid__": "5c8e0afa-6520-472c-a792-9728472081ae"
+    },
+    "atlas-player-0476": {
+      "__uuid__": "05ddb942-1846-42d6-a889-39d6c93fc812"
+    },
+    "atlas-player-0484": {
+      "__uuid__": "2545368b-87ea-4902-b0a1-46630cdbd12f"
+    },
+    "atlas-player-0494": {
+      "__uuid__": "cd68cd14-0f5d-4265-b5e4-6fc043184fee"
+    },
+    "atlas-player-0599": {
+      "__uuid__": "aef0fd59-18cd-4e32-955a-76692d237f1c"
+    },
+    "atlas-player-0601": {
+      "__uuid__": "edd8ac78-c24a-41f3-baef-5adc5a066bce"
+    },
+    "atlas-player-0602": {
+      "__uuid__": "d455b511-4c63-4120-af4e-7855dbbf5507"
+    },
+    "atlas-player-0603": {
+      "__uuid__": "18dfbdda-139e-40d1-85b4-8116568244d9"
+    },
+    "atlas-player-0604": {
+      "__uuid__": "f62d824a-037b-45df-9633-ed49191471c0"
+    },
+    "atlas-player-0605": {
+      "__uuid__": "d8ad5665-af1f-4818-9483-1c3a4f352a66"
+    },
+    "atlas-player-0606": {
+      "__uuid__": "72d4d6a9-6110-40ca-81af-67832f31968f"
+    },
+    "atlas-player-0607": {
+      "__uuid__": "d938b7f4-1ca7-4bd9-8f62-9327905793ff"
+    },
+    "atlas-player-0608": {
+      "__uuid__": "ffdca91c-bd14-47a9-a665-faec7ebdd2cc"
+    },
+    "atlas-player-0609": {
+      "__uuid__": "512cad8a-eb44-47a3-93bc-71496360b526"
+    },
+    "atlas-player-0610": {
+      "__uuid__": "44f33aca-cce4-4b0a-88c4-3e44ec2be198"
+    },
+    "atlas-player-0611": {
+      "__uuid__": "f64460cd-3c64-4747-ac7c-92c37bb9e246"
+    },
+    "atlas-player-0612": {
+      "__uuid__": "81bbe239-e8da-4b05-b77a-9be1f103cfb1"
+    },
+    "atlas-player-0613": {
+      "__uuid__": "85325803-0b39-4a5d-85a7-3f8b8bcf2932"
+    },
+    "atlas-player-0614": {
+      "__uuid__": "f212a9e8-a2dd-4575-b35d-d465a38aae23"
+    },
+    "atlas-player-0615": {
+      "__uuid__": "6dfbe883-2976-4115-96cc-3fbae36773e2"
+    },
+    "atlas-player-0616": {
+      "__uuid__": "b8cc6ba8-8910-45fd-8514-cb890b55a554"
+    },
+    "atlas-player-0617": {
+      "__uuid__": "4b58feb0-4fdf-44d2-a20a-22a5f321998c"
+    },
+    "atlas-player-0618": {
+      "__uuid__": "e45b4cd9-0ee5-4bec-91e7-ecb7dfde85cb"
+    },
+    "atlas-player-0619": {
+      "__uuid__": "aec8114a-4d6e-4a58-9b16-e4dac852a813"
+    },
+    "atlas-player-0620": {
+      "__uuid__": "8e6b3729-b233-4bd8-a23a-969c543251e3"
+    },
+    "atlas-player-0621": {
+      "__uuid__": "8a2152b8-74a8-44b3-9211-c583a94578b2"
+    },
+    "atlas-player-0622": {
+      "__uuid__": "ded5b3df-cdcd-482d-a7b4-3fe19eb62e19"
+    },
+    "atlas-player-0623": {
+      "__uuid__": "83653d92-b3b8-4665-98b5-d4937ce6bed1"
+    },
+    "atlas-player-0624": {
+      "__uuid__": "fa7ed63f-12a6-4034-bccf-dcb354c77b35"
+    },
+    "atlas-player-0625": {
+      "__uuid__": "a5838546-e907-45cd-969e-bc9257e1dc0e"
+    },
+    "atlas-player-0626": {
+      "__uuid__": "c64ef138-d961-4cfb-8fb4-d8488aa37533"
+    },
+    "atlas-player-0627": {
+      "__uuid__": "75ff8ea1-ebb8-4688-90b8-d1dc28df18b7"
+    },
+    "atlas-player-0628": {
+      "__uuid__": "c4dd0e85-67a9-4447-8093-7f9bc3ebc9a7"
+    },
+    "atlas-player-0631": {
+      "__uuid__": "7ff0b80f-8d87-4919-a66b-94784b24cd3e"
+    },
+    "atlas-player-0632": {
+      "__uuid__": "735e5876-fd81-42a1-a568-30208b00e0c6"
+    },
+    "atlas-player-1655": {
+      "__uuid__": "210d276b-7e3d-47bf-a2dc-f0ce535a1d02"
+    },
+    "atlas-player-1657": {
+      "__uuid__": "ff41a8c8-84cb-4c48-823b-f8ca69f5761d"
+    },
+    "atlas-player-1658": {
+      "__uuid__": "9f34a035-8635-454f-bd61-b43f950630c5"
+    },
+    "atlas-player-1659": {
+      "__uuid__": "7e41515d-a916-4f9f-bd0d-341037adaf59"
+    },
+    "atlas-player-1660": {
+      "__uuid__": "9b3b07b1-2cfa-4a10-b733-e8c1958a94b9"
+    },
+    "atlas-player-1664": {
+      "__uuid__": "2e7e6445-af56-4252-ba4e-c2866c7ca9be"
+    },
+    "atlas-player-1665": {
+      "__uuid__": "52ecd7e7-e52d-48f5-801d-4d593227a5dc"
+    },
+    "atlas-player-1671": {
+      "__uuid__": "464cf7f5-4866-4dd9-a62c-3ac62b233bc9"
+    },
+    "atlas-player-1672": {
+      "__uuid__": "7ab28ff9-faf9-4bc6-b26a-85866490ac51"
+    },
+    "atlas-player-1673": {
+      "__uuid__": "1d31f978-f8fb-4b5f-9087-a2fab806353b"
+    },
+    "atlas-player-1674": {
+      "__uuid__": "7f42baa9-bb52-4c51-aba7-9b34fe153aa9"
+    },
+    "atlas-player-1675": {
+      "__uuid__": "fd64e605-97df-4b0e-881d-60cb35a92f0c"
+    },
+    "atlas-player-1676": {
+      "__uuid__": "7a1c206d-2b56-4c4e-a64f-8f3b61e0147c"
+    },
+    "atlas-player-1677": {
+      "__uuid__": "230fc637-3424-4adc-a5e8-36139babd3c1"
+    },
+    "atlas-player-1678": {
+      "__uuid__": "5f996e69-107b-48b6-a394-a48b35d49460"
+    },
+    "atlas-player-1679": {
+      "__uuid__": "de87dd86-9e0f-4bbc-b7bb-b5540ad91c41"
+    },
+    "atlas-player-1680": {
+      "__uuid__": "feb2b55a-3b1b-4103-b645-f9ebeaf856af"
+    },
+    "atlas-player-1682": {
+      "__uuid__": "539cf349-54e7-40aa-b38a-24c982a5848a"
+    },
+    "atlas-player-1683": {
+      "__uuid__": "2b5bd42e-e942-4974-9677-19f513858cae"
+    },
+    "atlas-player-1684": {
+      "__uuid__": "c6f56db7-1070-40e0-b754-014a0185025a"
+    },
+    "atlas-player-1685": {
+      "__uuid__": "4731611e-eda8-4225-b387-465db28efa7a"
+    },
+    "atlas-player-1686": {
+      "__uuid__": "f5680481-6dd4-4619-8b73-c717056766e3"
+    },
+    "atlas-player-1687": {
+      "__uuid__": "c5325c8d-185f-48ec-9409-7d4325f08af4"
+    },
+    "atlas-player-1688": {
+      "__uuid__": "93ced181-2b2a-4397-86d3-9c4f5e7e1fcc"
+    },
+    "atlas-player-1689": {
+      "__uuid__": "8cc1fe9c-292f-43f3-a90f-0559a3700b7e"
+    },
+    "atlas-player-1690": {
+      "__uuid__": "facc338e-0d14-4f67-9845-056d8b0dcab7"
+    },
+    "atlas-player-1691": {
+      "__uuid__": "676feb4f-5c9e-4032-9383-ad731a2f4c91"
+    },
+    "atlas-player-1692": {
+      "__uuid__": "df2e1277-048e-4279-8f90-1fcaecf9112a"
+    },
+    "atlas-player-1693": {
+      "__uuid__": "a5f051ca-40f9-4ea2-8b99-64ad3d807f54"
+    },
+    "atlas-player-1694": {
+      "__uuid__": "d6b24d61-101a-4fa0-8ff3-69144750abc4"
+    },
+    "atlas-player-1695": {
+      "__uuid__": "3b94f3e0-9dd0-47c2-a403-ec8687dc651c"
+    },
+    "atlas-player-1702": {
+      "__uuid__": "7dc68694-6b9f-4721-848b-2943bc8e077a"
+    },
+    "atlas-player-1703": {
+      "__uuid__": "e3f969ff-7610-412d-9957-76a28ea2b113"
+    },
+    "atlas-player-1704": {
+      "__uuid__": "1da9a78d-d3f4-4309-a544-be546763ce94"
+    },
+    "atlas-player-1705": {
+      "__uuid__": "0ed25c6d-b96a-43c4-92f5-e9e85af916df"
+    },
+    "atlas-player-1706": {
+      "__uuid__": "8c91a60a-d5ad-4b96-8ffd-18d556f80693"
+    },
+    "atlas-player-1707": {
+      "__uuid__": "b8900152-82a9-475f-80a2-54294e9f858f"
+    },
+    "atlas-player-1708": {
+      "__uuid__": "28b9a605-bc24-4c47-9880-886aaf953664"
+    },
+    "atlas-player-1709": {
+      "__uuid__": "ebb5a04a-3dc5-4f9d-9dda-0bb1f6957522"
+    },
+    "atlas-player-1710": {
+      "__uuid__": "f0fbb918-910f-4baa-8abd-295a2bdef4d3"
+    },
+    "atlas-player-1711": {
+      "__uuid__": "91d2ed5c-174d-4c5e-b802-a2f6495f257c"
+    },
+    "atlas-player-1712": {
+      "__uuid__": "6e49c118-8722-4ed1-abd1-9eb9f01380bc"
+    },
+    "atlas-player-1713": {
+      "__uuid__": "3c27a349-8a34-448b-a059-8c4c5ef04162"
+    },
+    "atlas-player-1714": {
+      "__uuid__": "cd0bf49b-0536-478e-98be-015cebd5e75c"
+    },
+    "atlas-player-1715": {
+      "__uuid__": "7ce33861-8f74-4e4d-9670-aec601556a31"
+    },
+    "atlas-player-1717": {
+      "__uuid__": "fa3717fe-c9af-48be-8e94-eaf5c215f192"
+    },
+    "atlas-player-1718": {
+      "__uuid__": "148a8d1f-c943-4da3-ae78-bafe068af42d"
+    },
+    "atlas-player-1719": {
+      "__uuid__": "441bb53f-00e5-4970-9247-7389c40f57bd"
+    },
+    "atlas-player-1721": {
+      "__uuid__": "6bedc6d4-e3b3-46d9-bef4-af6f25b4c9dc"
+    },
+    "atlas-player-1724": {
+      "__uuid__": "0c1ee5b9-e090-4450-b006-5886e8011952"
+    },
+    "atlas-player-1728": {
+      "__uuid__": "a122e012-831c-4ba2-ac03-d07d115200c9"
+    },
+    "atlas-player-1729": {
+      "__uuid__": "348f9fd6-1341-44a6-871b-0fb0011abfe5"
+    },
+    "atlas-player-1730": {
+      "__uuid__": "fd6689be-3056-48d7-8910-ba1f2c213ec1"
+    },
+    "atlas-player-1731": {
+      "__uuid__": "cb4fd215-11f7-4b2a-b524-309950886da5"
+    },
+    "atlas-player-1781": {
+      "__uuid__": "508541a6-1353-4b2c-90b1-2dc6771e3e77"
+    },
+    "atlas-player-1782": {
+      "__uuid__": "f886180c-f2d1-4594-bc68-3dba5f841a12"
+    },
+    "atlas-player-1785": {
+      "__uuid__": "cb710ef9-08e7-4d2b-8b4e-a84066d79628"
+    },
+    "atlas-player-1786": {
+      "__uuid__": "17f7df14-6aaf-41b3-b006-c2fea24f2ac6"
+    },
+    "atlas-player-1806": {
+      "__uuid__": "77957825-a2d2-465e-b392-a254347bbdf3"
+    },
+    "atlas-player-1807": {
+      "__uuid__": "556a8aa3-8296-4f2e-a0d9-e613190a42eb"
+    },
+    "atlas-player-1808": {
+      "__uuid__": "f257beb8-85c7-49bf-a037-6db2ba60a7e0"
+    },
+    "atlas-player-1809": {
+      "__uuid__": "8e50bf8b-347a-40ce-8d17-d10c74e80817"
+    },
+    "atlas-player-1810": {
+      "__uuid__": "0f22e7b3-9296-4bc7-9f13-c8760dd78cfd"
+    },
+    "atlas-player-1811": {
+      "__uuid__": "66c11268-7dbe-467e-b377-dcf55da05e95"
+    },
+    "atlas-player-1812": {
+      "__uuid__": "d7d03f69-7e03-46f6-ad43-85b1b08f3388"
+    },
+    "atlas-player-1813": {
+      "__uuid__": "1f8abd1f-b171-48a6-a346-fe4e7644c576"
+    },
+    "atlas-player-1814": {
+      "__uuid__": "d9a0eb08-49b8-4f40-af65-a5792e2abcdb"
+    },
+    "atlas-player-2096": {
+      "__uuid__": "60eb434b-7b87-4140-a822-3b595085a2ba"
+    },
+    "atlas-player-2097": {
+      "__uuid__": "d9010aa0-6b91-45f8-aaab-76a1940a963b"
+    },
+    "atlas-player-2098": {
+      "__uuid__": "0614b9f3-1006-43d0-8f35-c3b9a0621c5c"
+    },
+    "atlas-player-2099": {
+      "__uuid__": "0aa006e8-cf22-4f46-930e-3f0dd79367b8"
+    },
+    "atlas-player-2100": {
+      "__uuid__": "2790db70-cb34-4222-bb39-270abc048732"
+    },
+    "atlas-player-2101": {
+      "__uuid__": "bead3306-7577-457b-bc89-ee33eddea400"
+    },
+    "atlas-player-2102": {
+      "__uuid__": "8c538252-6c5c-4464-aa6f-6c927b9a0e31"
+    },
+    "atlas-player-2103": {
+      "__uuid__": "cd501d74-135f-4e39-af24-1ed79cdecb26"
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cz.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "alipay_0": {
+      "__uuid__": "bb5e9a68-8c09-4fe3-9df3-ad3c10b0e71a"
+    },
+    "alipay_0_2": {
+      "__uuid__": "389ebc43-0a67-4327-9382-673ecaf89007"
+    },
+    "alipay_1": {
+      "__uuid__": "d70934ca-4bc0-45bd-b6ee-3d8355d955d3"
+    },
+    "alipay_1_2": {
+      "__uuid__": "3fcdc0f8-8660-45d2-82dd-1ea8475f0414"
+    },
+    "alipay_2": {
+      "__uuid__": "9a3b31d2-bd32-4e8c-8dc8-b3ab32ccfae2"
+    },
+    "alipay_2_2": {
+      "__uuid__": "97718306-1f3a-4799-bbe8-3abe7b961be2"
+    },
+    "alipay_quota": {
+      "__uuid__": "e2d70531-b5b0-4028-94d4-a2f2bcecd58f"
+    },
+    "alipay_quota_2": {
+      "__uuid__": "0c3b229b-52e0-48ab-8ded-f7c00fbe18a3"
+    },
+    "alipay_transfer": {
+      "__uuid__": "74ee8bb5-4cbf-4875-9f0e-e9a6fc421e26"
+    },
+    "alipay_transfer_2": {
+      "__uuid__": "b6cd7827-70a0-4038-a0e3-ce36bc0983b6"
+    },
+    "bank_bg": {
+      "__uuid__": "abcd60b0-fca1-4705-bd1b-6349684be3f6"
+    },
+    "banner_1": {
+      "__uuid__": "0999ea2f-111b-4ebb-a85e-d4b328af2c74"
+    },
+    "banner_2": {
+      "__uuid__": "4ca2d37e-83af-4946-81bf-155aab6258e2"
+    },
+    "bannershang1": {
+      "__uuid__": "8285fa6e-f9c8-46ac-8697-ff50896a2874"
+    },
+    "bannershang12": {
+      "__uuid__": "4328a205-0996-4ef3-9bde-d65caa89d975"
+    },
+    "bannershang13": {
+      "__uuid__": "7089c1d2-69e4-4a04-ab4f-ff40eac3a1fb"
+    },
+    "bannershang14": {
+      "__uuid__": "7bcca7ac-d2b5-453d-8f5d-064e08728eb0"
+    },
+    "bannershang2": {
+      "__uuid__": "3090ef24-8a55-448f-ab79-3f07d3731e00"
+    },
+    "bannershang3": {
+      "__uuid__": "4a3a3329-9046-452d-ab0c-828f587ef077"
+    },
+    "bannershang4": {
+      "__uuid__": "1fec8018-8c0e-4f68-aceb-5abd18ab01cf"
+    },
+    "bannershang5": {
+      "__uuid__": "2e8c1d4d-7e6b-4095-af74-686902595a49"
+    },
+    "bannershang6": {
+      "__uuid__": "d0530388-9db8-40c3-8c6e-72298f3fc6d6"
+    },
+    "bannershang7": {
+      "__uuid__": "afa14137-e843-4b03-93b4-67db0aaf6b00"
+    },
+    "bannershang8": {
+      "__uuid__": "4f964b99-08b0-456b-8db1-0160f15fde68"
+    },
+    "bg": {
+      "__uuid__": "99aea63f-d0d9-45d2-b47a-49ce241a61eb"
+    },
+    "black_16": {
+      "__uuid__": "248b87f0-ce5b-4581-a3f4-922461616ccb"
+    },
+    "button_0000": {
+      "__uuid__": "0b83e773-6287-4681-a867-4a108e30bc78"
+    },
+    "button_1": {
+      "__uuid__": "9a646e25-eeed-4a56-810d-1841243403c4"
+    },
+    "button_2": {
+      "__uuid__": "f7ffe9d4-dab1-4c5d-b845-a59851d1193c"
+    },
+    "button_3": {
+      "__uuid__": "7c137a06-6c2a-403c-b3a8-2aa375f3ceb6"
+    },
+    "button_4": {
+      "__uuid__": "943522c4-e3a6-4d9d-be33-69037310f39c"
+    },
+    "button_5": {
+      "__uuid__": "fecbf851-c940-4ce6-ad20-9c055d43ea2e"
+    },
+    "button_6": {
+      "__uuid__": "b9343e3b-d569-4dde-aab2-4e790f831609"
+    },
+    "button_7": {
+      "__uuid__": "e3a1c11d-b895-40fa-b7ff-78a7ce49a6a5"
+    },
+    "button_8": {
+      "__uuid__": "8fbaa9db-d755-49b3-8571-49c998dcf570"
+    },
+    "button_9": {
+      "__uuid__": "d259b98c-990d-4416-90b7-e3adfdb50b9e"
+    },
+    "button_eliminate": {
+      "__uuid__": "f694c07b-93b0-478e-8825-c8c907a156e7"
+    },
+    "button_eliminate_2": {
+      "__uuid__": "2819b219-7575-49c6-ae50-471e5727b4cf"
+    },
+    "button_money": {
+      "__uuid__": "4cdaf5b9-09d3-4502-a945-1dbe010ac4fd"
+    },
+    "button_money_100": {
+      "__uuid__": "543cb4db-420a-42d3-a27f-09402f3981f1"
+    },
+    "button_money_1500": {
+      "__uuid__": "57a98ea5-d8b9-4684-bbd2-3cfd16a3b1bd"
+    },
+    "button_money_200": {
+      "__uuid__": "3ecb3c3f-f4d5-43f5-8af6-59cffcaac9dc"
+    },
+    "button_money_2000": {
+      "__uuid__": "9c2fcd32-e925-4e85-83d6-cc9b369d7663"
+    },
+    "button_money_300": {
+      "__uuid__": "fcc2477b-52b7-484a-a463-75e910c19ace"
+    },
+    "button_money_50": {
+      "__uuid__": "5a9069e8-b4db-4d9f-914f-06bf22cc8f80"
+    },
+    "button_money_500": {
+      "__uuid__": "bea713da-e51d-4bc2-943c-a613b6d73af0"
+    },
+    "button_recharge_1": {
+      "__uuid__": "8dd282d3-927b-404f-86be-477c90c04407"
+    },
+    "button_rechargr_2": {
+      "__uuid__": "f9aa41b6-e1d3-4dd9-bc30-ce23c6de2da3"
+    },
+    "chongzhijilu": {
+      "__uuid__": "53deb4b9-da30-4ded-9f33-a9c8918889be"
+    },
+    "chongzhijilu_10": {
+      "__uuid__": "5d7d6f8a-f7b7-4a62-97fd-c72c4e5fbd0f"
+    },
+    "cloud": {
+      "__uuid__": "0bc1c7b6-0d89-4f39-8daf-0a98eb6c2431"
+    },
+    "cloud_2": {
+      "__uuid__": "51e46505-154f-4fce-923a-5efeb91d63cf"
+    },
+    "cz_banner_alipay": {
+      "__uuid__": "b0192b24-65ce-40b3-9b38-1ca51bc8fc05"
+    },
+    "cz_banner_copy_alipay": {
+      "__uuid__": "8ffabf4b-a918-4b5c-a363-94c3aa025c9d"
+    },
+    "cz_banner_copy_vip": {
+      "__uuid__": "bbfe98b2-4336-41ab-97ff-89a87a712b88"
+    },
+    "cz_banner_copyz-jd": {
+      "__uuid__": "ad7e2c13-7961-4b9b-b7eb-3d55923042df"
+    },
+    "cz_banner_jd": {
+      "__uuid__": "29211a9f-650c-46fe-a821-f3ac757f36de"
+    },
+    "cz_banner_vip": {
+      "__uuid__": "1af31655-40aa-484c-9138-258cef89a367"
+    },
+    "cz_banner_wechat": {
+      "__uuid__": "14be3592-2f23-4a99-b7c7-1ab61c5a12db"
+    },
+    "cz_banner_weixin": {
+      "__uuid__": "9cdca92f-7c5a-4271-a680-28892c0a31d8"
+    },
+    "cz_button_jd_1": {
+      "__uuid__": "bd1aa994-818f-4cb6-a6ff-b6c8ac10fa1d"
+    },
+    "cz_button_jd_2": {
+      "__uuid__": "bc6be816-fa9b-4c79-aabe-9d0e904ce13a"
+    },
+    "czblack_16": {
+      "__uuid__": "d4b11416-9aa1-45f4-a58c-eb1061dc9229"
+    },
+    "czbutton_1": {
+      "__uuid__": "30055281-318f-48d5-a167-0501e56c1bc8"
+    },
+    "czbutton_2": {
+      "__uuid__": "ce6d809a-5819-43a5-a063-fc32a41d06ce"
+    },
+    "czbutton_3": {
+      "__uuid__": "32990cdc-e332-428c-a3f2-d1c5dd3f406c"
+    },
+    "czbutton_4": {
+      "__uuid__": "f2923821-ef7e-4c3d-89f8-3208de83a0c2"
+    },
+    "czbutton_5": {
+      "__uuid__": "69523204-4146-4af2-8c34-d749bbd582fd"
+    },
+    "czbutton_6": {
+      "__uuid__": "9039a358-9c13-4b0f-ba4b-d1ed1eefd40c"
+    },
+    "dingdanhao_12": {
+      "__uuid__": "42c855f3-3cac-4d7d-a099-481d738a4505"
+    },
+    "download": {
+      "__uuid__": "5cd2fb71-a967-4613-84f3-522bef87a2a2"
+    },
+    "fangshi_19": {
+      "__uuid__": "d68b86cc-34b6-4bed-8270-5a7913d48af9"
+    },
+    "fonts": {
+      "__uuid__": "5bd113e5-6460-4c4c-aa86-766c5e925560"
+    },
+    "fonts1": {
+      "__uuid__": "732764dd-3f94-40bb-bb89-abd376bf5616"
+    },
+    "frame": {
+      "__uuid__": "1283e8bd-a64b-4c2a-8068-c57b66896fe7"
+    },
+    "icon_alipay": {
+      "__uuid__": "95a8ed92-25fe-44de-b63c-a981aa1bef7b"
+    },
+    "icon_alipay_quota": {
+      "__uuid__": "f1232e00-c507-4836-a0ab-93b2babb13c9"
+    },
+    "icon_cloud": {
+      "__uuid__": "a6994dfd-7d26-4daa-93dd-69c8e8033ae5"
+    },
+    "icon_gongsirukuan": {
+      "__uuid__": "3156974a-505f-450a-bf6d-9312bf2c96af"
+    },
+    "icon_internet_banking": {
+      "__uuid__": "d503c800-dd14-468d-aa97-32052c42dc92"
+    },
+    "icon_jingdongqianbao": {
+      "__uuid__": "435c1a5e-0448-4a7a-bece-b67bba607a93"
+    },
+    "icon_qq": {
+      "__uuid__": "024fe72d-55fb-444d-8b13-d5a4485ebf6d"
+    },
+    "icon_vip": {
+      "__uuid__": "13b2d2fe-773b-4c64-9e35-3cf0042a7745"
+    },
+    "icon_wechat": {
+      "__uuid__": "d59960d5-2681-4751-901f-752c578566d0"
+    },
+    "icon_wechat_large": {
+      "__uuid__": "3549627b-0389-4224-9ea0-e7da35a65ca6"
+    },
+    "iconj_alipay_transfer": {
+      "__uuid__": "2611a951-86e3-4a8b-b73b-05adc7c996ce"
+    },
+    "id_11": {
+      "__uuid__": "c5c52bc1-460b-4a8f-9be8-67fdf725cf14"
+    },
+    "input": {
+      "__uuid__": "ded27d04-83e0-4a18-8a0c-82f322b4ec29"
+    },
+    "internet_banking": {
+      "__uuid__": "3e26097c-10d6-44aa-adae-bd75eeba68f2"
+    },
+    "internet_banking_2": {
+      "__uuid__": "ed4d357e-0ff6-4f6f-b213-2bddd322642d"
+    },
+    "jiemian1": {
+      "__uuid__": "163d7361-9e3a-47ef-bc64-887befaf8360"
+    },
+    "jiemian12": {
+      "__uuid__": "54e69801-3402-4108-a667-a6c79a8f3419"
+    },
+    "jiemian13": {
+      "__uuid__": "6afe2899-db01-445a-9cd8-e65064fbcceb"
+    },
+    "jiemian14": {
+      "__uuid__": "1a2fb805-64c7-4ef3-a891-d9744c26111b"
+    },
+    "jiemian16": {
+      "__uuid__": "ac588f4c-cb83-4363-ac83-7eeabbbe24f4"
+    },
+    "jiemian18": {
+      "__uuid__": "80721422-9ef7-493f-89c0-9fa293f2cb0c"
+    },
+    "jiemian20": {
+      "__uuid__": "a489d8e1-b590-4efa-b5df-02982ceaa6a0"
+    },
+    "jiemian9": {
+      "__uuid__": "b21e4103-354b-4f5d-a383-30983d4cda30"
+    },
+    "jine_18": {
+      "__uuid__": "3a38803b-c586-4a75-a829-315c49a97331"
+    },
+    "line_15": {
+      "__uuid__": "5febf955-473f-4e04-a9cf-e718e3013a75"
+    },
+    "qq": {
+      "__uuid__": "c3ba5fc4-91e7-4eee-a879-606908d78155"
+    },
+    "qq_2": {
+      "__uuid__": "eccfe793-b562-4075-88ad-1360323546c2"
+    },
+    "qq_bg": {
+      "__uuid__": "ea405921-6264-4ce2-8ee0-a287fcfa4569"
+    },
+    "recharge_amount": {
+      "__uuid__": "4859e4ff-85a4-4b27-8f40-3500877570a4"
+    },
+    "recharge_text": {
+      "__uuid__": "964cf4b4-7dd6-42c6-af9f-87db0cefcc5b"
+    },
+    "time_14": {
+      "__uuid__": "f946e623-ccc4-4c60-996d-22a64e75e7d7"
+    },
+    "title_recharge": {
+      "__uuid__": "2e56d48e-9503-42a7-9c33-a3e160c693a2"
+    },
+    "vip": {
+      "__uuid__": "4504835d-20d8-4a3c-8882-37fb91b682ee"
+    },
+    "vip_2": {
+      "__uuid__": "43e446f4-2e9f-49c4-9286-e662ed50df2e"
+    },
+    "wechat_0": {
+      "__uuid__": "8d4adbfc-6bb9-4fc4-8be8-596b3bf42f18"
+    },
+    "wechat_0_2": {
+      "__uuid__": "67981041-9079-48fc-a2f7-4356cd229042"
+    },
+    "wechat_1": {
+      "__uuid__": "b8bd316b-1949-4d9d-b044-d4744259c963"
+    },
+    "wechat_1_2": {
+      "__uuid__": "28535feb-5da0-4108-bbfa-4626682fd7f2"
+    },
+    "wechat_2": {
+      "__uuid__": "9be732a2-af39-4357-be24-e5842aed3b6d"
+    },
+    "wechat_2_2": {
+      "__uuid__": "5a60bf15-9ddb-445b-93e5-ed38180fa544"
+    },
+    "wechat_large": {
+      "__uuid__": "579b0885-f418-46cf-b0b6-2f6c5b86d621"
+    },
+    "wechat_large_2": {
+      "__uuid__": "8c46a7cf-9f55-426c-bd5d-70b9daf11fe7"
+    },
+    "zhuangtai_13": {
+      "__uuid__": "43c8ff10-f825-404a-b981-9c4e4ec3cde1"
+    },
+    "充值": {
+      "__uuid__": "539bd559-0c28-4329-ad3e-28d7e89ad3ac"
+    }
+  }
+}

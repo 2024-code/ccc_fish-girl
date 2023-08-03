@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slots_fnt_jackpot",
+    "texture": "de1d75fc-a444-4436-a239-41cc4d194daf",
+    "atlas": "37b5b56a-c1a1-4589-ae05-608e6e430ef7",
+    "rect": [
+      2,
+      555,
+      290,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

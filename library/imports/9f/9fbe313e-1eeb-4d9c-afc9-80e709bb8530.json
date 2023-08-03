@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_grand_reveal_11",
+    "texture": "149ca72d-7d46-4bb6-9ef1-6e922ff643a7",
+    "atlas": "",
+    "rect": [
+      117,
+      100,
+      345,
+      365
+    ],
+    "offset": [
+      -10.5,
+      17.5
+    ],
+    "originalSize": [
+      600,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

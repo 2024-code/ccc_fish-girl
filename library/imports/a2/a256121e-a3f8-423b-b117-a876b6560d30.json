@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_gates_open_04",
+    "texture": "fe0d8710-ed03-4e5e-8ded-4b2d462817d8",
+    "atlas": "",
+    "rect": [
+      80,
+      52,
+      149,
+      899
+    ],
+    "offset": [
+      -290,
+      -8.5
+    ],
+    "originalSize": [
+      889,
+      986
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameMaxCard",
+    "texture": "dd961825-ad96-47ef-ba9d-07c48d7ca9a5",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      177,
+      238
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      180,
+      238
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ho_help.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "jued_help_1": {
+      "__uuid__": "a8aaf731-bbd8-4f3c-ae63-ce791db9bf4f"
+    },
+    "jued_help_2": {
+      "__uuid__": "13994e04-98f6-456f-8982-04b4d30f7233"
+    },
+    "jued_help_3": {
+      "__uuid__": "2c6c3400-ff3e-4e37-b8bc-fc9e14c306a2"
+    },
+    "jued_help_bg": {
+      "__uuid__": "d9a6c564-06c3-4f3b-975b-83133935d189"
+    },
+    "jued_help_btn_close": {
+      "__uuid__": "31631f00-b42a-4421-a963-25f806d5aab0"
+    },
+    "jued_help_btn_close2": {
+      "__uuid__": "26fda125-c2d7-47cb-9b3d-677e8bba8251"
+    },
+    "jued_help_btn_left": {
+      "__uuid__": "0f92753c-f3bb-47aa-8034-546b440fd1d0"
+    },
+    "jued_help_btn_right": {
+      "__uuid__": "4d91fc33-0592-48f6-b5eb-569b8feb3e80"
+    }
+  }
+}

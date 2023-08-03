@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gold_effect1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "gold_fx_lightning_a0001": {
+      "__uuid__": "5e13592e-e9d0-4cb0-a66d-ed6ace349a3d"
+    },
+    "gold_fx_lightning_a0002": {
+      "__uuid__": "22221b56-803f-4a6f-bf4b-7fe309985de6"
+    },
+    "gold_fx_lightning_a0003": {
+      "__uuid__": "53bbbd23-ca44-4f40-adee-0177ff8c9d85"
+    },
+    "gold_fx_lightning_a0004": {
+      "__uuid__": "f9d466d5-80f4-47ab-966d-5d1a25bbf94d"
+    },
+    "gold_fx_lightning_a0005": {
+      "__uuid__": "280a17e5-28fa-4fea-9494-268da861fa5a"
+    },
+    "gold_fx_lightning_a0006": {
+      "__uuid__": "e53c27df-fa73-41c1-a53f-0b8896e2bed1"
+    },
+    "gold_fx_lightning_b0001": {
+      "__uuid__": "bc4d2a53-0f82-4f67-af5a-d3151286918e"
+    },
+    "gold_fx_lightning_b0002": {
+      "__uuid__": "8050dc02-c6b8-4fb9-871a-8d29b755653b"
+    },
+    "gold_fx_lightning_b0003": {
+      "__uuid__": "d510424c-6461-43ac-b499-22f0a75615fc"
+    },
+    "gold_fx_lightning_b0004": {
+      "__uuid__": "9579560f-9fd7-4fec-bd1b-720c386ec105"
+    },
+    "gold_fx_lightning_b0005": {
+      "__uuid__": "0e2e8665-579a-47ec-bb65-0d7b00ce1c92"
+    },
+    "gold_fx_lightning_b0006": {
+      "__uuid__": "8da19d38-b87a-425a-9013-a05b6ec33fd2"
+    },
+    "gold_fx_lightning_b0007": {
+      "__uuid__": "159d639f-98d0-4d03-95af-527e8f5c67d6"
+    },
+    "gold_fx_lightning_b0008": {
+      "__uuid__": "8d96b20b-7b5c-4296-9725-a36f248378f0"
+    },
+    "gold_fx_lightning_b0009": {
+      "__uuid__": "732bc058-31bb-43c9-877a-7d435c1c65e7"
+    },
+    "gold_fx_lightning_c0001": {
+      "__uuid__": "5142bd63-a920-4f94-afba-02f812147942"
+    },
+    "gold_fx_lightning_c0002": {
+      "__uuid__": "9704d4c6-bf8f-4dcd-9f1d-5b51d0b9ea14"
+    },
+    "gold_fx_lightning_c0003": {
+      "__uuid__": "74c543db-52ef-4e7a-8535-f358b3e49121"
+    },
+    "gold_fx_lightning_c0004": {
+      "__uuid__": "cd83f70f-4ab8-43db-90c3-c349994ab960"
+    },
+    "gold_fx_lightning_c0005": {
+      "__uuid__": "c600d837-642c-496c-8a73-dec7f10cd3da"
+    },
+    "gold_fx_lightning_c0006": {
+      "__uuid__": "00fa11ad-c99b-488e-84fd-fc037a623aeb"
+    },
+    "gold_fx_lightning_c0007": {
+      "__uuid__": "7590e7ea-cfc4-426f-867c-c9d3407f95a7"
+    },
+    "gold_fx_lightning_c0008": {
+      "__uuid__": "3060b3be-3325-4d5c-96d3-303bd8fde1c9"
+    },
+    "gold_fx_lightning_c0009": {
+      "__uuid__": "5df279e3-684e-4682-92e1-7ef9deb72565"
+    },
+    "gold_fx_lightning_c0010": {
+      "__uuid__": "e553ea7b-b734-4cd1-8dd7-1b7241bc9ad6"
+    },
+    "gold_fx_lightning_c0011": {
+      "__uuid__": "6f4688e3-fec6-4dc6-9460-1f81361c8af9"
+    },
+    "gold_fx_lightning_c0012": {
+      "__uuid__": "00bdf7d5-4d2c-4bcf-b1e5-20119b47930a"
+    },
+    "gold_fx_lightning_c0013": {
+      "__uuid__": "625ca36a-d2b6-4a50-b0cd-cc5ae65d5bc2"
+    },
+    "gold_fx_lightning_c0014": {
+      "__uuid__": "bfee1f21-8765-4532-b665-de2d58ad48a3"
+    },
+    "gold_fx_lightning_c0015": {
+      "__uuid__": "58740072-6efc-47b9-b108-24064830cb96"
+    },
+    "goldfx_lizi_0001": {
+      "__uuid__": "3ab1a063-a82c-491c-8c72-92bdbdba7ca6"
+    },
+    "goldfx_lizi_0002": {
+      "__uuid__": "31dcae49-ac9e-464f-a5e0-6762d438cc74"
+    },
+    "goldfx_lizi_0003": {
+      "__uuid__": "5580c8ff-4c93-4e2c-9587-a3a3028974e8"
+    },
+    "goldfx_lizi_0004": {
+      "__uuid__": "7495391c-91a5-42eb-b2ea-eb7d981d0452"
+    },
+    "goldfx_lizi_0005": {
+      "__uuid__": "5b6305e1-450d-4e4e-88ff-31b86e6f2ffd"
+    },
+    "goldfx_lizi_0006": {
+      "__uuid__": "a9e6110e-ac0d-46b7-afbb-6066c6041d93"
+    },
+    "goldfx_lizi_0007": {
+      "__uuid__": "65d3ae81-512c-493e-a63d-db4b2dc3946c"
+    },
+    "goldfx_lizi_0008": {
+      "__uuid__": "d4b6ebf6-f24c-4125-b224-241b02f9c0f2"
+    },
+    "goldfx_lizi_0009": {
+      "__uuid__": "37a3666c-16b5-4a88-9e09-844f29f19e68"
+    },
+    "goldfx_lizi_0010": {
+      "__uuid__": "fa71ead4-e1ca-47a4-9062-27e7b0142389"
+    },
+    "goldfx_lizi_0011": {
+      "__uuid__": "c33a274d-2f39-424f-ac2a-7413d22fc2cf"
+    }
+  }
+}

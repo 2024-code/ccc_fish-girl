@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "s_FSTransition_under_scroll",
+    "texture": "d1396565-e9f0-4741-856a-639a5c490782",
+    "atlas": "",
+    "rect": [
+      35,
+      32,
+      1709,
+      780
+    ],
+    "offset": [
+      1.5,
+      -10
+    ],
+    "originalSize": [
+      1776,
+      824
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

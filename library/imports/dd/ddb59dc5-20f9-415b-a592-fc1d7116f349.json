@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pig_box",
+    "texture": "5a1e7d7c-9464-43f7-bac9-7aa37c2ee062",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      609,
+      231
+    ],
+    "offset": [
+      -205.5,
+      10.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

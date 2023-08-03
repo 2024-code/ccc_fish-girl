@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Bonus1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BounsBG ": {
+      "__uuid__": "4e39bb7d-cffd-4bfa-9f03-706b63330ad0"
+    },
+    "Pick2Shells": {
+      "__uuid__": "5d0a6f28-9a84-4844-bd1f-645ae1e015ef"
+    },
+    "Price1": {
+      "__uuid__": "ccbac4cd-d868-4848-afde-b4c090fb099d"
+    },
+    "Price2": {
+      "__uuid__": "67ac6ad9-a34b-4b93-9868-ea92743adad3"
+    },
+    "Price3": {
+      "__uuid__": "c45df52a-d8a5-46ec-9900-67f4c9cf51c0"
+    },
+    "Price4": {
+      "__uuid__": "ec3ecf6b-9910-413f-8e67-918024386add"
+    },
+    "Price5": {
+      "__uuid__": "75e69e9d-a7ff-4dd2-9fe6-babbba5efb67"
+    },
+    "SharkBig": {
+      "__uuid__": "4cde57c9-7b2d-4126-8c41-89f5b1cc18be"
+    },
+    "Shell": {
+      "__uuid__": "e38b7605-0474-4cae-ad0d-c3ab10ef0a90"
+    },
+    "YouWin": {
+      "__uuid__": "d3bf49e5-a9d2-4ea9-954e-ed86e9c7bddb"
+    }
+  }
+}

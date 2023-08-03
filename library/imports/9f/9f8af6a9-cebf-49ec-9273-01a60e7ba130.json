@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bn_exchange_cut",
+    "texture": "5c0a2a88-c995-4964-b153-69544634a468",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      63
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

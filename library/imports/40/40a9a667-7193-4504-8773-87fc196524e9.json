@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atlas-lbl_King_Lacoste-0173",
+    "texture": "5e5b7dc4-ecc6-49e6-94f8-7cb074c5b223",
+    "atlas": "b86284e8-0a12-479c-bd3c-fa0a6e701779",
+    "rect": [
+      1066,
+      794,
+      119,
+      295
+    ],
+    "offset": [
+      0,
+      -28
+    ],
+    "originalSize": [
+      119,
+      351
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

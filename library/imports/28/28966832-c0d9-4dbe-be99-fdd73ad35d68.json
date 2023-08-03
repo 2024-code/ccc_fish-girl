@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ML3_game_item_play_frame",
+    "texture": "78955da3-3f9f-4776-853d-74aa8e8ac776",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1065,
+      645
+    ],
+    "offset": [
+      0,
+      5.5
+    ],
+    "originalSize": [
+      1065,
+      656
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

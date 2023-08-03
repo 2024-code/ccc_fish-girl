@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chip.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "chip0": {
+      "__uuid__": "3f01c01a-d29a-41e3-8e4f-2b610f1112c1"
+    },
+    "chip1": {
+      "__uuid__": "01506680-2e61-4fea-b986-ead2a98b3a49"
+    },
+    "chip2": {
+      "__uuid__": "18c93e7a-7abe-4d16-b480-42c189f0b283"
+    },
+    "chip3": {
+      "__uuid__": "3f45126f-6c18-4424-9d99-c62466aa1b1d"
+    },
+    "chip4": {
+      "__uuid__": "ae911854-f778-4935-a617-fb8168409b20"
+    },
+    "chip5": {
+      "__uuid__": "8940b5b7-ef8d-4ef8-91d8-7d518a05e832"
+    },
+    "chip6": {
+      "__uuid__": "a92fd5dc-80b0-4002-8e6f-7f511ebeea09"
+    },
+    "chip7": {
+      "__uuid__": "14cbc6da-bc8f-44f4-9863-6a5597c3d713"
+    },
+    "chip8": {
+      "__uuid__": "32f49418-8613-42d8-9cb5-dbf49e3b0463"
+    },
+    "chip9": {
+      "__uuid__": "ce91e12b-3249-46f5-93ed-f3c2e31409ef"
+    },
+    "chip_black": {
+      "__uuid__": "408e9d1e-7c80-4c7c-a504-9dda14ade388"
+    },
+    "chip_blue": {
+      "__uuid__": "22028e62-c28e-4bcf-8ad8-53d14723d0d7"
+    },
+    "chip_blue_bg": {
+      "__uuid__": "3d1e9d72-93fa-485d-8585-9466fcef78f3"
+    },
+    "chip_green": {
+      "__uuid__": "288c466a-8665-48d2-8773-82b513844293"
+    },
+    "chip_green_bg": {
+      "__uuid__": "e1c7eb38-ed8a-472b-93c1-f8bbce6f09a4"
+    },
+    "chip_orange_bg": {
+      "__uuid__": "6b0fbb4a-40ec-4973-94dd-a2d87ed79e28"
+    },
+    "chip_purple": {
+      "__uuid__": "3cc027de-fdad-4b3f-8c70-58548e061495"
+    },
+    "chip_red": {
+      "__uuid__": "79fe3e78-3879-42d8-9319-d6fb40cece0f"
+    },
+    "chip_red_bg": {
+      "__uuid__": "53b7e7c9-29b0-4009-88c6-b0c4d54ee8ae"
+    },
+    "chip_select": {
+      "__uuid__": "9485f828-a1d8-41c1-9e28-c57bd26ebf67"
+    },
+    "chip_yellow": {
+      "__uuid__": "34c7661f-4e0e-4bc2-a628-8b1e7ba0fb6d"
+    }
+  }
+}
