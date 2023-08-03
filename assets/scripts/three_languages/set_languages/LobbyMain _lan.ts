@@ -28,7 +28,10 @@ export default class yadaxiao_game_lan extends cc.Component {
         12: '请输入密码',
         13: '注册',
         14: '游客登录',
-        15: '登录'
+        15: '登录',
+        16: '手机号',
+        17: '验证码',
+        18: '确认密码'
     };
 
     enLanguage: { [key: number]: string } = {
@@ -47,7 +50,10 @@ export default class yadaxiao_game_lan extends cc.Component {
         12: 'Please enter password ',
         13: 'Register ',
         14: 'Visitor login ',
-        15: 'Login'
+        15: 'Login',
+        16: 'Mobile number ',
+        17: 'Verification code ',
+        18: 'Confirm password'
     };
 
     inLanguage: { [key: number]: string } = {
@@ -66,7 +72,10 @@ export default class yadaxiao_game_lan extends cc.Component {
         12: 'masukkan kata sandi ',
         13: 'Register ',
         14: 'log masuk pengunjung ',
-        15: 'log masuk'
+        15: 'log masuk',
+        16: 'nomor ponsel ',
+        17: 'kode verifikasi ',
+        18: 'konfirmasi sandi'
     };
 
     protected start(): void {
