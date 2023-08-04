@@ -1154,11 +1154,6 @@
     "meta": 1690791703477,
     "relativePath": "LaoHuJi\\module\\i18n\\data"
   },
-  "920c554b-cc9c-4a8d-8080-a08530507ca6": {
-    "asset": 1615546779000,
-    "meta": 1690097741832,
-    "relativePath": "LaoHuJi\\module\\i18n\\data\\en.js"
-  },
   "27726521-1c8c-4543-a96c-884337b64540": {
     "asset": 1615546779000,
     "meta": 1690097741864,
@@ -1198,11 +1193,6 @@
     "asset": 1615546779000,
     "meta": 1690097742017,
     "relativePath": "LaoHuJi\\module\\i18n\\data\\vn.js"
-  },
-  "87f1fb34-8288-470c-87cd-83869e3d76ed": {
-    "asset": 1615546779000,
-    "meta": 1690097742038,
-    "relativePath": "LaoHuJi\\module\\i18n\\data\\zh.js"
   },
   "1ab4136d-7aeb-47bf-b59d-034f9528ebad": {
     "asset": 1615546779000,
@@ -4150,8 +4140,8 @@
     "relativePath": "Scene\\game_21dian.fire"
   },
   "09f67ceb-b05b-4cb3-bfc1-0df57cb3a33a": {
-    "asset": 1691087812140,
-    "meta": 1691087812177,
+    "asset": 1691147555303,
+    "meta": 1691147555332,
     "relativePath": "Scene\\game_ATTlianhuanpao.fire"
   },
   "99ffe0a0-4a7f-4061-9b3e-57dc96857a89": {
@@ -4905,8 +4895,8 @@
     "relativePath": "scripts\\components\\TempAnimation.js"
   },
   "58174c37-4d0d-4d83-a75f-e99ca4385c9f": {
-    "asset": 1690791439588,
-    "meta": 1690791703604,
+    "asset": 1691082417612,
+    "meta": 1691138123265,
     "relativePath": "Texture"
   },
   "603ee438-c7f0-40c9-870d-cc41f32109e8": {
@@ -71170,13 +71160,13 @@
     "relativePath": "Texture\\Slot_ZhuYeDao\\split_Slots_ZhuYeDao\\slots_ptable_btn_return_press.png"
   },
   "cef3153e-2fc1-4e7d-b37a-9c879e213088": {
-    "asset": 1690850058948,
-    "meta": 1691050323625,
+    "asset": 1691083872070,
+    "meta": 1691138123202,
     "relativePath": "scripts\\three_languages"
   },
   "90b644fa-d095-40d1-832a-e04a28e3cda5": {
-    "asset": 1690849938712,
-    "meta": 1691050323636,
+    "asset": 1691079820742,
+    "meta": 1691138123254,
     "relativePath": "scripts\\three_languages\\set_languages"
   },
   "cd72077a-cc10-4b2e-87e1-84c9edf433db": {
@@ -71220,8 +71210,8 @@
     "relativePath": "LaoHuJi\\module\\i18n\\multi_language.js"
   },
   "14037037-0756-41d4-ab69-0de9ced45e84": {
-    "asset": 1691083099671,
-    "meta": 1691082441018,
+    "asset": 1691087899399,
+    "meta": 1691138123255,
     "relativePath": "set_language_Text"
   },
   "2da0c959-1cb3-45bc-a1f3-5e26b6f9b4e1": {
@@ -71235,14 +71225,9 @@
     "relativePath": "set_language_Text\\baijiale_text\\pl_helpbg.png"
   },
   "3fa6df74-d778-4860-ba3f-5cdb2a5b4c30": {
-    "asset": 1691083090456,
-    "meta": 1691083090459,
+    "asset": 1691083668879,
+    "meta": 1691138123262,
     "relativePath": "set_language_Text\\fishMain_text"
-  },
-  "08c873ab-d12c-4be5-a136-72f526973aff": {
-    "asset": 1691083312827,
-    "meta": 1691083320871,
-    "relativePath": "scripts\\three_languages\\set_languages\\FishMain_lan.ts"
   },
   "b1030091-a6e2-43bd-b992-98fa094982ad": {
     "asset": 1690994670221,
@@ -71270,8 +71255,8 @@
     "relativePath": "set_language_Text\\fishMain_text\\menu_set.png"
   },
   "4f408dc2-89fd-48b8-96f2-d2c577d8e06b": {
-    "asset": 1691083876154,
-    "meta": 1691083876191,
+    "asset": 1691083902249,
+    "meta": 1691138123260,
     "relativePath": "set_language_Text\\21dian"
   },
   "afc4aa0f-8d7b-4ca0-a684-268feb6ed598": {
@@ -71395,18 +71380,13 @@
     "relativePath": "set_language_Text\\ATTlianhuanpao\\UI_BaoLiu.png"
   },
   "c280416e-9959-441e-8dc8-b8cd71617ac0": {
-    "asset": 1691087893481,
-    "meta": 1691087893486,
+    "asset": 1691087994210,
+    "meta": 1691138123264,
     "relativePath": "set_language_Text\\saigou"
   },
-  "beb2abc8-46b5-4007-a968-ac4f314ea4fa": {
-    "asset": 1691088222157,
-    "meta": 1691088358666,
-    "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
-  },
   "b9701a18-9f69-4dc9-8bbd-2a9ac088b5ee": {
-    "asset": 1691093469381,
-    "meta": 1691093469516,
+    "asset": 1691146123874,
+    "meta": 1691146123977,
     "relativePath": "Scene\\LobbyMain.fire"
   },
   "bd60c950-a1fc-4421-a141-3e00573519f3": {
@@ -71419,14 +71399,34 @@
     "meta": 1691090875858,
     "relativePath": "scripts\\three_languages\\set_languages\\baijiale_game_lan.ts"
   },
-  "92de601c-ec05-4602-b425-da33cb30ae87": {
-    "asset": 1691091667257,
-    "meta": 1691091751038,
-    "relativePath": "scripts\\three_languages\\set_languages\\LobbyMain_lan.ts"
-  },
   "14045c4d-61e6-43f2-9b9c-dbafd2f49d0b": {
     "asset": 1691092996973,
     "meta": 1691093006693,
     "relativePath": "scripts\\three_languages\\set_languages\\send_verfication.ts"
+  },
+  "08c873ab-d12c-4be5-a136-72f526973aff": {
+    "asset": 1691139082847,
+    "meta": 1691139098610,
+    "relativePath": "scripts\\three_languages\\set_languages\\FishMain_lan.ts"
+  },
+  "920c554b-cc9c-4a8d-8080-a08530507ca6": {
+    "asset": 1691140729640,
+    "meta": 1691140996258,
+    "relativePath": "LaoHuJi\\module\\i18n\\data\\en.js"
+  },
+  "87f1fb34-8288-470c-87cd-83869e3d76ed": {
+    "asset": 1691140899055,
+    "meta": 1691140996258,
+    "relativePath": "LaoHuJi\\module\\i18n\\data\\zh.js"
+  },
+  "92de601c-ec05-4602-b425-da33cb30ae87": {
+    "asset": 1691147044096,
+    "meta": 1691147061998,
+    "relativePath": "scripts\\three_languages\\set_languages\\LobbyMain_lan.ts"
+  },
+  "beb2abc8-46b5-4007-a968-ac4f314ea4fa": {
+    "asset": 1691147512623,
+    "meta": 1691147550083,
+    "relativePath": "scripts\\three_languages\\set_languages\\ATTlianhuanpao_lan.ts"
   }
 }

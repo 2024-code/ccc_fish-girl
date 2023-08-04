@@ -76883,8 +76883,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "|",
-    "_N$string": "|",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 66,
     "_enableWrapText": false,
@@ -76925,7 +76925,7 @@
     "_enabled": true,
     "_string": "",
     "returnType": 0,
-    "maxLength": 18,
+    "maxLength": 11,
     "_tabIndex": 0,
     "editingDidBegan": [],
     "textChanged": [],
@@ -77280,8 +77280,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "|",
-    "_N$string": "|",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 66,
     "_enableWrapText": false,
@@ -77677,8 +77677,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "|",
-    "_N$string": "|",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 66,
     "_enableWrapText": false,
@@ -78385,7 +78385,7 @@
         "__id__": 1860
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 1863
@@ -80688,7 +80688,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 143,
+      "width": 110.89,
       "height": 46.32
     },
     "_anchorPoint": {
@@ -80740,8 +80740,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "游戏账号:",
-    "_N$string": "游戏账号:",
+    "_string": "手机号:",
+    "_N$string": "手机号:",
     "_fontSize": 32,
     "_lineHeight": 32,
     "_enableWrapText": true,
@@ -80821,7 +80821,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 143,
+      "width": 142.89,
       "height": 46.32
     },
     "_anchorPoint": {
@@ -81255,8 +81255,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 请输入账号",
-    "_N$string": " 请输入账号",
+    "_string": " 请输入手机号",
+    "_N$string": " 请输入手机号",
     "_fontSize": 32,
     "_lineHeight": 66,
     "_enableWrapText": false,
@@ -81711,7 +81711,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 668,
+      "width": 667.35,
       "height": 104.32
     },
     "_anchorPoint": {
@@ -82903,7 +82903,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -82998,7 +82998,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -83093,7 +83093,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -83499,8 +83499,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 支付宝账号",
-    "_N$string": " 支付宝账号",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -83883,8 +83883,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 确认支付宝账号",
-    "_N$string": " 确认支付宝账号",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -84267,8 +84267,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 真实姓名",
-    "_N$string": " 真实姓名",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -84910,7 +84910,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -85005,7 +85005,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -85768,7 +85768,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -85863,7 +85863,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 105,
+      "width": 104.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -87396,7 +87396,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -87586,7 +87586,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 582,
+      "width": 576.09,
       "height": 232.32
     },
     "_anchorPoint": {
@@ -88058,7 +88058,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -88153,7 +88153,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -88248,7 +88248,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -88654,8 +88654,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 支付宝账号",
-    "_N$string": " 支付宝账号",
+    "_string": "|",
+    "_N$string": "|",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -89038,8 +89038,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 确认支付宝账号",
-    "_N$string": " 确认支付宝账号",
+    "_string": "|",
+    "_N$string": "|",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -89422,8 +89422,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": " 真实姓名",
-    "_N$string": " 真实姓名",
+    "_string": "|",
+    "_N$string": "|",
     "_fontSize": 32,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -90758,7 +90758,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 73,
+      "width": 72.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -90853,7 +90853,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -90948,7 +90948,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -91043,7 +91043,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 105,
+      "width": 104.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -96645,7 +96645,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 73,
+      "width": 72.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -96740,7 +96740,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
+      "width": 136.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -96835,7 +96835,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -96930,7 +96930,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 105,
+      "width": 104.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -102633,7 +102633,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -102728,7 +102728,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -102823,7 +102823,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 169,
+      "width": 168.89,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -104070,7 +104070,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 544,
+      "width": 543.7,
       "height": 91.28
     },
     "_anchorPoint": {
@@ -129028,7 +129028,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Background",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2992
     },
@@ -129124,7 +129124,7 @@
   {
     "__type__": "cc.Node",
     "_name": "checkmark",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2992
     },
@@ -131098,8 +131098,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "流水号",
-    "_N$string": "流水号",
+    "_string": "流水号转入日期转入数量游戏id流水号转出记录转入记录",
+    "_N$string": "流水号转入日期转入数量游戏id流水号转出记录转入记录",
     "_fontSize": 25,
     "_lineHeight": 40,
     "_enableWrapText": true,
@@ -131192,7 +131192,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 76,
+      "width": 75.46,
       "height": 56.4
     },
     "_anchorPoint": {
@@ -131244,8 +131244,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "游戏id",
-    "_N$string": "游戏id",
+    "_string": "游戏id流水号转入日期转入数量游戏id流水号转出记录转入记录",
+    "_N$string": "游戏id流水号转入日期转入数量游戏id流水号转出记录转入记录",
     "_fontSize": 25,
     "_lineHeight": 40,
     "_enableWrapText": true,
@@ -131291,7 +131291,7 @@
     "alignMode": 1,
     "_target": null,
     "_alignFlags": 9,
-    "_left": 226.306,
+    "_left": 226.57600000000002,
     "_right": 0,
     "_top": 4.606000000000023,
     "_bottom": 0,
@@ -139933,7 +139933,7 @@
         "__id__": 3305
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 3314
@@ -158459,6 +158459,216 @@
       },
       {
         "__id__": 3310
+      },
+      {
+        "__id__": 1906
+      },
+      {
+        "__id__": 1910
+      },
+      {
+        "__id__": 1919
+      },
+      {
+        "__id__": 1927
+      },
+      {
+        "__id__": 1934
+      },
+      {
+        "__id__": 1944
+      },
+      {
+        "__id__": 1930
+      },
+      {
+        "__id__": 2397
+      },
+      {
+        "__id__": 2399
+      },
+      {
+        "__id__": 2401
+      },
+      {
+        "__id__": 2427
+      },
+      {
+        "__id__": 1959
+      },
+      {
+        "__id__": 1961
+      },
+      {
+        "__id__": 1963
+      },
+      {
+        "__id__": 2648
+      },
+      {
+        "__id__": 2658
+      },
+      {
+        "__id__": 2668
+      },
+      {
+        "__id__": 2678
+      },
+      {
+        "__id__": 2688
+      },
+      {
+        "__id__": 2698
+      },
+      {
+        "__id__": 2716
+      },
+      {
+        "__id__": 2720
+      },
+      {
+        "__id__": 2724
+      },
+      {
+        "__id__": 2736
+      },
+      {
+        "__id__": 2742
+      },
+      {
+        "__id__": 2778
+      },
+      {
+        "__id__": 2786
+      },
+      {
+        "__id__": 2636
+      },
+      {
+        "__id__": 2806
+      },
+      {
+        "__id__": 2810
+      },
+      {
+        "__id__": 2814
+      },
+      {
+        "__id__": 2826
+      },
+      {
+        "__id__": 2832
+      },
+      {
+        "__id__": 2868
+      },
+      {
+        "__id__": 2880
+      },
+      {
+        "__id__": 2886
+      },
+      {
+        "__id__": 2894
+      },
+      {
+        "__id__": 2914
+      },
+      {
+        "__id__": 2918
+      },
+      {
+        "__id__": 2930
+      },
+      {
+        "__id__": 2943
+      },
+      {
+        "__id__": 2949
+      },
+      {
+        "__id__": 2957
+      },
+      {
+        "__id__": 2961
+      },
+      {
+        "__id__": 2965
+      },
+      {
+        "__id__": 2977
+      },
+      {
+        "__id__": 2983
+      },
+      {
+        "__id__": 2998
+      },
+      {
+        "__id__": 3007
+      },
+      {
+        "__id__": 3016
+      },
+      {
+        "__id__": 3020
+      },
+      {
+        "__id__": 3024
+      },
+      {
+        "__id__": 3028
+      },
+      {
+        "__id__": 3038
+      },
+      {
+        "__id__": 3042
+      },
+      {
+        "__id__": 3046
+      },
+      {
+        "__id__": 3050
+      },
+      {
+        "__id__": 3066
+      },
+      {
+        "__id__": 3079
+      },
+      {
+        "__id__": 3085
+      },
+      {
+        "__id__": 3092
+      },
+      {
+        "__id__": 3096
+      },
+      {
+        "__id__": 3100
+      },
+      {
+        "__id__": 3112
+      },
+      {
+        "__id__": 3118
+      },
+      {
+        "__id__": 3134
+      },
+      {
+        "__id__": 3140
+      },
+      {
+        "__id__": 3151
+      },
+      {
+        "__id__": 3155
+      },
+      {
+        "__id__": 3164
       }
     ],
     "_id": "a3e1syj/ZKyZ9Epwpr8sIl"

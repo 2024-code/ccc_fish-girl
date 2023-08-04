@@ -73,8 +73,8 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
                 }
                 this.beginArr.normalSprite = this.beginSpriteArr_zh[0];
                 this.beginArr.pressedSprite = this.beginSpriteArr_zh[1];
-                // this.beginArr.hoverSprite = this.beginSpriteArr_zh[2];
-                // this.beginArr.disabledSprite = this.beginSpriteArr_zh[3];
+                this.beginArr.hoverSprite = this.beginSpriteArr_zh[0];
+                this.beginArr.disabledSprite = this.beginSpriteArr_zh[1];
                 break;
             case Language.VN:
                 languageObj = this.inLanguage;
@@ -83,8 +83,8 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
                 }
                 this.beginArr.normalSprite = this.beginSpriteArr_vn[0];
                 this.beginArr.pressedSprite = this.beginSpriteArr_vn[1];
-                // this.beginArr.hoverSprite = this.beginSpriteArr_vn[2];
-                // this.beginArr.disabledSprite = this.beginSpriteArr_vn[3];
+                this.beginArr.hoverSprite = this.beginSpriteArr_vn[0];
+                this.beginArr.disabledSprite = this.beginSpriteArr_vn[1];
                 break;
             case Language.EN:
                 languageObj = this.enLanguage;
@@ -93,8 +93,8 @@ var ATTlianhuanpao_lan = /** @class */ (function (_super) {
                 }
                 this.beginArr.normalSprite = this.beginSpriteArr_en[0];
                 this.beginArr.pressedSprite = this.beginSpriteArr_en[1];
-                // this.beginArr.hoverSprite = this.beginSpriteArr_en[2];
-                // this.beginArr.disabledSprite = this.beginSpriteArr_en[3];
+                this.beginArr.hoverSprite = this.beginSpriteArr_en[0];
+                this.beginArr.disabledSprite = this.beginSpriteArr_en[1];
                 break;
         }
         this.labelArr.forEach(function (label, index) {
