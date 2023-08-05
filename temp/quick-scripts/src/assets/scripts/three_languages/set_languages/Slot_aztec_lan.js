@@ -3,12 +3,6 @@ cc._RF.push(module, 'cd720d6zBBLLofhhMnt9DPb', 'Slot_aztec_lan');
 // scripts/three_languages/set_languages/Slot_aztec_lan.ts
 
 "use strict";
-// Learn TypeScript:
-//  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
-// Learn Attribute:
-//  - https://docs.cocos.com/creator/manual/en/scripting/reference/attributes.html
-// Learn life-cycle callbacks:
-//  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
@@ -30,30 +24,109 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
-var NewClass = /** @class */ (function (_super) {
-    __extends(NewClass, _super);
-    function NewClass() {
+var Language;
+(function (Language) {
+    Language["ZH"] = "txt.zh";
+    Language["VN"] = "txt.vn";
+    Language["EN"] = "txt.en";
+})(Language || (Language = {}));
+var Slot_aztec_lan = /** @class */ (function (_super) {
+    __extends(Slot_aztec_lan, _super);
+    function Slot_aztec_lan() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
-        _this.label = null;
-        _this.text = 'hello';
+        _this.labelArr = [];
+        _this.spriteArr = [];
+        _this.spriteFrameArr_zh = [];
+        _this.spriteFrameArr_en = [];
+        _this.spriteFrameArr_vn = [];
+        _this.zhLanguage = {
+            0: '点击下注',
+            1: '退出',
+            2: '点击下注'
+        };
+        _this.enLanguage = {
+            0: 'Click to bet ',
+            1: 'Quit ',
+            2: 'Click to bet'
+        };
+        _this.inLanguage = {
+            0: 'klik dan bertaruh',
+            1: 'keluar ',
+            2: 'Klik untuk bertaruh'
+        };
         return _this;
-        // update (dt) {}
     }
-    // LIFE-CYCLE CALLBACKS:
-    // onLoad () {}
-    NewClass.prototype.start = function () {
+    Slot_aztec_lan.prototype.start = function () {
+        // 将需要保留的属性赋值给全局对象
+        if (!window.globalData_3) {
+            window.globalData_3 = {};
+        }
+        window.globalData_3.labelArr = this.labelArr;
+        window.globalData_3.spriteArr = this.spriteArr;
+        window.globalData_3.spriteFrameArr_zh = this.spriteFrameArr_zh;
+        window.globalData_3.spriteFrameArr_en = this.spriteFrameArr_en;
+        window.globalData_3.spriteFrameArr_vn = this.spriteFrameArr_vn;
+        this.setLanguage();
+    };
+    Slot_aztec_lan.prototype.setLanguage = function () {
+        var persistNode = cc.director.getScene().getChildByName('init_language');
+        var yourScriptComponent = persistNode.getComponent('Slot_aztec_lan');
+        var globalLabelArr = window.globalData_3.labelArr || [];
+        this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
+        var globalSpriteArr = window.globalData_3.spriteArr || [];
+        this.spriteArr = globalSpriteArr.length ? globalSpriteArr : this.spriteArr;
+        var globalSpriteFrameArr_zh = window.globalData_3.spriteFrameArr_zh || [];
+        this.spriteFrameArr_zh = globalSpriteFrameArr_zh.length ? globalSpriteFrameArr_zh : this.spriteFrameArr_zh;
+        var globalSpriteFrameArr_en = window.globalData_3.spriteFrameArr_en || [];
+        this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
+        var globalSpriteFrameArr_vn = window.globalData_3.spriteFrameArr_vn || [];
+        this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
+        var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
+        var languageObj = {};
+        switch (language) {
+            case Language.ZH:
+                languageObj = this.zhLanguage;
+                for (var i = 0; i < this.spriteFrameArr_zh.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_zh[i];
+                }
+                break;
+            case Language.VN:
+                languageObj = this.inLanguage;
+                for (var i = 0; i < this.spriteFrameArr_vn.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_vn[i];
+                }
+                break;
+            case Language.EN:
+                languageObj = this.enLanguage;
+                for (var i = 0; i < this.spriteFrameArr_en.length; i++) {
+                    this.spriteArr[i].getComponent(cc.Sprite).spriteFrame = this.spriteFrameArr_en[i];
+                }
+                break;
+        }
+        this.labelArr.forEach(function (label, index) {
+            label.string = languageObj[index] || '';
+        });
     };
     __decorate([
-        property(cc.Label)
-    ], NewClass.prototype, "label", void 0);
+        property({ type: [cc.Label], tooltip: '替换的Label' })
+    ], Slot_aztec_lan.prototype, "labelArr", void 0);
     __decorate([
-        property
-    ], NewClass.prototype, "text", void 0);
-    NewClass = __decorate([
+        property({ type: [cc.Sprite], tooltip: '替换的Sprite' })
+    ], Slot_aztec_lan.prototype, "spriteArr", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的中文图片' })
+    ], Slot_aztec_lan.prototype, "spriteFrameArr_zh", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的英文图片' })
+    ], Slot_aztec_lan.prototype, "spriteFrameArr_en", void 0);
+    __decorate([
+        property({ type: [cc.SpriteFrame], tooltip: '替换的印尼图片' })
+    ], Slot_aztec_lan.prototype, "spriteFrameArr_vn", void 0);
+    Slot_aztec_lan = __decorate([
         ccclass
-    ], NewClass);
-    return NewClass;
+    ], Slot_aztec_lan);
+    return Slot_aztec_lan;
 }(cc.Component));
-exports.default = NewClass;
+exports.default = Slot_aztec_lan;
 
 cc._RF.pop();

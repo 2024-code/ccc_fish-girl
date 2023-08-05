@@ -62,9 +62,30 @@ var HotUpdate_lan = /** @class */ (function (_super) {
         return _this;
     }
     HotUpdate_lan.prototype.start = function () {
+        // 将需要保留的属性赋值给全局对象
+        if (!window.globalData_6) {
+            window.globalData_6 = {};
+        }
+        window.globalData_6.labelArr = this.labelArr;
+        window.globalData_6.spriteArr = this.spriteArr;
+        window.globalData_6.spriteFrameArr_zh = this.spriteFrameArr_zh;
+        window.globalData_6.spriteFrameArr_en = this.spriteFrameArr_en;
+        window.globalData_6.spriteFrameArr_vn = this.spriteFrameArr_vn;
         this.setLanguage();
     };
     HotUpdate_lan.prototype.setLanguage = function () {
+        var persistNode = cc.director.getScene().getChildByName('init_language');
+        var yourScriptComponent = persistNode.getComponent('HotUpdate_lan');
+        var globalLabelArr = window.globalData_6.labelArr || [];
+        this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
+        var globalSpriteArr = window.globalData_6.spriteArr || [];
+        this.spriteArr = globalSpriteArr.length ? globalSpriteArr : this.spriteArr;
+        var globalSpriteFrameArr_zh = window.globalData_6.spriteFrameArr_zh || [];
+        this.spriteFrameArr_zh = globalSpriteFrameArr_zh.length ? globalSpriteFrameArr_zh : this.spriteFrameArr_zh;
+        var globalSpriteFrameArr_en = window.globalData_6.spriteFrameArr_en || [];
+        this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
+        var globalSpriteFrameArr_vn = window.globalData_6.spriteFrameArr_vn || [];
+        this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
         var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
         var languageObj = {};
         switch (language) {

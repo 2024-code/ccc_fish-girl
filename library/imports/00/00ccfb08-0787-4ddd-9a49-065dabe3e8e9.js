@@ -1,4 +1,3 @@
-
 "use strict";
 cc._RF.push(module, '00ccfsIB4dN3ZpJBl2r4+jp', 'yadaxiao_game_lan');
 // scripts/three_languages/set_languages/yadaxiao_game_lan.ts
@@ -120,9 +119,30 @@ var yadaxiao_game_lan = /** @class */ (function (_super) {
         return _this;
     }
     yadaxiao_game_lan.prototype.start = function () {
+        // 将需要保留的属性赋值给全局对象
+        if (!window.globalData_8) {
+            window.globalData_8 = {};
+        }
+        window.globalData_8.labelArr = this.labelArr;
+        window.globalData_8.spriteArr = this.spriteArr;
+        window.globalData_8.spriteFrameArr_zh = this.spriteFrameArr_zh;
+        window.globalData_8.spriteFrameArr_en = this.spriteFrameArr_en;
+        window.globalData_8.spriteFrameArr_vn = this.spriteFrameArr_vn;
         this.setLanguage();
     };
     yadaxiao_game_lan.prototype.setLanguage = function () {
+        var persistNode = cc.director.getScene().getChildByName('init_language');
+        var yourScriptComponent = persistNode.getComponent('yadaxiao_game_lan');
+        var globalLabelArr = window.globalData_8.labelArr || [];
+        this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
+        var globalSpriteArr = window.globalData_8.spriteArr || [];
+        this.spriteArr = globalSpriteArr.length ? globalSpriteArr : this.spriteArr;
+        var globalSpriteFrameArr_zh = window.globalData_8.spriteFrameArr_zh || [];
+        this.spriteFrameArr_zh = globalSpriteFrameArr_zh.length ? globalSpriteFrameArr_zh : this.spriteFrameArr_zh;
+        var globalSpriteFrameArr_en = window.globalData_8.spriteFrameArr_en || [];
+        this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
+        var globalSpriteFrameArr_vn = window.globalData_8.spriteFrameArr_vn || [];
+        this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
         var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
         var languageObj = {};
         switch (language) {

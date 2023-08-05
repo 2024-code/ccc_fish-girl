@@ -31,33 +31,27 @@ cc.Class({
         }
     },
 
-    setDaili(txt)
-    {
+    setDaili(txt) {
         if (txt == "") return;
+    
+        var time = Math.floor(Date.now() / 1000);
+        var key = 'fdgkl5rtlk4mfdv';
+        var sign = md5(time + key); // 假设md5函数已定义并可用
+        var uid = 1000;
+        var code = '025679';
+        var url = this.hturl + "/index.php/agent/api/uidcode/time/" + time + "/sign/" + sign + "/uid/" + uid + "/code/" + code;
+        var res = this._request(url);
+    
+        var pInfo = require('PlayerInfo').getInstant();
+        var MD5 = require("md5").getInstant();
+        var currentTime = Math.floor(Date.now() / 1000);
+    
+        var baseurl = this.url_;
+        var apiUrl = "/time/" + currentTime + "/sign/" + MD5.hex_md5(currentTime + this.key_) + "/uid/" + pInfo.playerId + "/code/" + txt;
+        var url = baseurl + apiUrl;
+    
+        console.log("pInfo:", pInfo, "url:", url);
         
-        $time = strtotime('now');
-        $key = 'fdgkl5rtlk4mfdv';
-        $sign = md5($time.$key);
-        $uid = 1000;
-        $code = '025679';
-        $url= $this->hturl."/index.php/agent/api/uidcode/time/{$time}/sign/{$sign}/uid/{$uid}/code/{$code}";
-        $res = $this->_request($url);
-        
-        var pInfo = require('PlayerInfo').getInstant;
-        var MD5 = require("md5").getInstant;
-        var time = parseInt(Date.now()/1000);
-        
-        var url = this.url_;
-        url += "/time";
-        url += "/" + time;
-        url += "/sign";
-        url += "/" + MD5.hex_md5(time + this.key_);
-        url += "/uid";
-        url += "/" + pInfo.playerId;
-        url += "/code";
-        url += "/" + txt;
-        
-        console.log("pInfo:",pInfo,"url:",url);
         let instance = this;
         this.sendpost(url, function (response) {
             // if (response.status === 1) {
@@ -69,8 +63,6 @@ cc.Class({
             instance.node.getChildByName('messagebox').active = true;
             instance.node.getChildByName('messagebox').getChildByName('lb_Tips').getComponent(cc.Label).string = response.msg;
         }, "");
-
-
     },
     // update (dt) {},
 

@@ -129,9 +129,6 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 278
-      },
-      {
         "__id__": 279
       },
       {
@@ -142,6 +139,9 @@
       },
       {
         "__id__": 282
+      },
+      {
+        "__id__": 283
       }
     ],
     "_prefab": null,
@@ -11791,7 +11791,11 @@
     },
     "_children": [],
     "_active": true,
-    "_components": [],
+    "_components": [
+      {
+        "__id__": 278
+      }
+    ],
     "_prefab": null,
     "_opacity": 255,
     "_color": {
@@ -11839,6 +11843,21 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "_id": "f2yOuVVNpLgZFqDgk4S8w1"
+  },
+  {
+    "__type__": "cd720d6zBBLLofhhMnt9DPb",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 277
+    },
+    "_enabled": true,
+    "labelArr": [],
+    "spriteArr": [],
+    "spriteFrameArr_zh": [],
+    "spriteFrameArr_en": [],
+    "spriteFrameArr_vn": [],
+    "_id": "c4JXeZxIFDA402aJfCNX1k"
   },
   {
     "__type__": "cc.Canvas",

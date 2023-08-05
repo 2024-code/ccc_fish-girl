@@ -3984,9 +3984,15 @@
     "pressedSprite": {
       "__uuid__": "06b9b33c-1f3a-4a49-8889-3df0490b68cd"
     },
-    "_N$hoverSprite": null,
-    "hoverSprite": null,
-    "_N$disabledSprite": null,
+    "_N$hoverSprite": {
+      "__uuid__": "36d9e7e3-4e8d-4815-a5d8-e0f13a121162"
+    },
+    "hoverSprite": {
+      "__uuid__": "36d9e7e3-4e8d-4815-a5d8-e0f13a121162"
+    },
+    "_N$disabledSprite": {
+      "__uuid__": "06b9b33c-1f3a-4a49-8889-3df0490b68cd"
+    },
     "_N$target": null,
     "_id": "54omPeIIhLMpE1Q2Uou21m"
   },

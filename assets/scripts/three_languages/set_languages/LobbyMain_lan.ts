@@ -6,6 +6,14 @@ enum Language {
     EN = 'txt.en'
 }
 
+interface GlobalData {
+    labelArr: cc.Label[],
+    spriteArr: cc.Sprite[],
+    spriteFrameArr_zh: cc.SpriteFrame[],
+    spriteFrameArr_en: cc.SpriteFrame[],
+    spriteFrameArr_vn: cc.SpriteFrame[]
+}
+
 @ccclass
 export default class LobbyMain_lan extends cc.Component {
 
@@ -297,16 +305,37 @@ export default class LobbyMain_lan extends cc.Component {
     };
 
     protected start(): void {
-        if (LobbyMain_lan.Instance === null) {
-            LobbyMain_lan.Instance = this;
-        } else {
-            this.destroy();
-            return;
+        // 将需要保留的属性赋值给全局对象
+        if (!window.globalData) {
+            window.globalData = {} as GlobalData;
         }
+        window.globalData.labelArr = this.labelArr;
+        window.globalData.spriteArr = this.spriteArr;
+        window.globalData.spriteFrameArr_zh = this.spriteFrameArr_zh;
+        window.globalData.spriteFrameArr_en = this.spriteFrameArr_en;
+        window.globalData.spriteFrameArr_vn = this.spriteFrameArr_vn;
+
         this.setLanguage();
     }
 
-    public setLanguage(): void {
+    private setLanguage(): void {
+        const persistNode = cc.director.getScene().getChildByName('init_language');
+        const yourScriptComponent = persistNode.getComponent('LobbyMain_lan');
+
+        const globalLabelArr = window.globalData.labelArr || [];
+        this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
+
+        const globalSpriteArr = window.globalData.spriteArr || [];
+        this.spriteArr = globalSpriteArr.length ? globalSpriteArr : this.spriteArr;
+
+        const globalSpriteFrameArr_zh = window.globalData.spriteFrameArr_zh || [];
+        this.spriteFrameArr_zh = globalSpriteFrameArr_zh.length ? globalSpriteFrameArr_zh : this.spriteFrameArr_zh;
+
+        const globalSpriteFrameArr_en = window.globalData.spriteFrameArr_en || [];
+        this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
+
+        const globalSpriteFrameArr_vn = window.globalData.spriteFrameArr_vn || [];
+        this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
         let language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
 
         let languageObj: { [key: number]: string } = {};

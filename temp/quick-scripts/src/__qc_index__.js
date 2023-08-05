@@ -88,6 +88,7 @@ require('./assets/Script/Lobby/LobbyQuest');
 require('./assets/Script/Lobby/LobbyRank');
 require('./assets/Script/Lobby/LobbyRegister');
 require('./assets/Script/Lobby/LobbyVip');
+require('./assets/Script/Lobby/daili');
 require('./assets/Script/Lobby/iconListCtr');
 require('./assets/Script/Lobby/jackpot');
 require('./assets/Script/Lobby/matchRace');

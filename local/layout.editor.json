@@ -16,27 +16,27 @@
             "children": [
               "hierarchy"
             ],
-            "height": 745.7000122070312,
+            "height": 748.2000122070312,
             "type": "panel",
-            "width": 306.2875061035156
+            "width": 306.07501220703125
           },
           {
             "active": 0,
             "children": [
               "assets"
             ],
-            "height": 745.7000122070312,
+            "height": 748.2000122070312,
             "type": "panel",
-            "width": 204.1875
+            "width": 204.0500030517578
           },
           {
             "active": 0,
             "children": [
               "scene"
             ],
-            "height": 745.7000122070312,
+            "height": 748.2000122070312,
             "type": "panel",
-            "width": 498.4624938964844
+            "width": 498.13751220703125
           },
           {
             "active": 0,
@@ -44,9 +44,9 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 745.7000122070312,
+            "height": 748.2000122070312,
             "type": "panel",
-            "width": 504.4624938964844
+            "width": 505.13751220703125
           }
         ],
         "type": "dock-h"
@@ -62,10 +62,10 @@
   },
   "panels": {
     "preferences": {
-      "x": 663,
-      "y": 314,
-      "width": 600,
-      "height": 565
+      "x": 660,
+      "y": 312,
+      "width": 604,
+      "height": 568
     },
     "node-library": {
       "x": 802,

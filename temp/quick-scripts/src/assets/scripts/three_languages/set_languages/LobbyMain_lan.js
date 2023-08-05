@@ -316,18 +316,31 @@ var LobbyMain_lan = /** @class */ (function (_super) {
         };
         return _this;
     }
-    LobbyMain_lan_1 = LobbyMain_lan;
     LobbyMain_lan.prototype.start = function () {
-        if (LobbyMain_lan_1.Instance === null) {
-            LobbyMain_lan_1.Instance = this;
+        // 将需要保留的属性赋值给全局对象
+        if (!window.globalData) {
+            window.globalData = {};
         }
-        else {
-            this.destroy();
-            return;
-        }
+        window.globalData.labelArr = this.labelArr;
+        window.globalData.spriteArr = this.spriteArr;
+        window.globalData.spriteFrameArr_zh = this.spriteFrameArr_zh;
+        window.globalData.spriteFrameArr_en = this.spriteFrameArr_en;
+        window.globalData.spriteFrameArr_vn = this.spriteFrameArr_vn;
         this.setLanguage();
     };
     LobbyMain_lan.prototype.setLanguage = function () {
+        var persistNode = cc.director.getScene().getChildByName('init_language');
+        var yourScriptComponent = persistNode.getComponent('LobbyMain_lan');
+        var globalLabelArr = window.globalData.labelArr || [];
+        this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
+        var globalSpriteArr = window.globalData.spriteArr || [];
+        this.spriteArr = globalSpriteArr.length ? globalSpriteArr : this.spriteArr;
+        var globalSpriteFrameArr_zh = window.globalData.spriteFrameArr_zh || [];
+        this.spriteFrameArr_zh = globalSpriteFrameArr_zh.length ? globalSpriteFrameArr_zh : this.spriteFrameArr_zh;
+        var globalSpriteFrameArr_en = window.globalData.spriteFrameArr_en || [];
+        this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
+        var globalSpriteFrameArr_vn = window.globalData.spriteFrameArr_vn || [];
+        this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
         var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
         var languageObj = {};
         switch (language) {
@@ -345,12 +358,11 @@ var LobbyMain_lan = /** @class */ (function (_super) {
             label.string = languageObj[index] || '';
         });
     };
-    var LobbyMain_lan_1;
     LobbyMain_lan.Instance = null;
     __decorate([
         property({ type: [cc.Label], tooltip: '替换的Label' })
     ], LobbyMain_lan.prototype, "labelArr", void 0);
-    LobbyMain_lan = LobbyMain_lan_1 = __decorate([
+    LobbyMain_lan = __decorate([
         ccclass
     ], LobbyMain_lan);
     return LobbyMain_lan;
