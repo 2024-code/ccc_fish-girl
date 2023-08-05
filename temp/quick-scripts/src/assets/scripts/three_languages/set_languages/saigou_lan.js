@@ -96,7 +96,7 @@ var saigou_lan = /** @class */ (function (_super) {
     };
     saigou_lan.prototype.setLanguage = function () {
         var persistNode = cc.director.getScene().getChildByName('init_language');
-        var yourScriptComponent = persistNode.getComponent('Slot_aztec_lan');
+        var yourScriptComponent = persistNode.getComponent('saigou_lan');
         var globalLabelArr = window.globalData_7.labelArr || [];
         this.labelArr = globalLabelArr.length ? globalLabelArr : this.labelArr;
         var globalSpriteArr = window.globalData_7.spriteArr || [];
@@ -107,13 +107,6 @@ var saigou_lan = /** @class */ (function (_super) {
         this.spriteFrameArr_en = globalSpriteFrameArr_en.length ? globalSpriteFrameArr_en : this.spriteFrameArr_en;
         var globalSpriteFrameArr_vn = window.globalData_7.spriteFrameArr_vn || [];
         this.spriteFrameArr_vn = globalSpriteFrameArr_vn.length ? globalSpriteFrameArr_vn : this.spriteFrameArr_vn;
-        var persistNode = cc.director.getScene().getChildByName('init_language');
-        var yourScriptComponent = persistNode.getComponent('Slot_aztec_lan');
-        this.labelArr = Slot_aztec_lan.labelArr;
-        this.spriteArr = Slot_aztec_lan.spriteArr;
-        this.spriteFrameArr_zh = Slot_aztec_lan.spriteFrameArr_zh;
-        this.spriteFrameArr_en = Slot_aztec_lan.spriteFrameArr_en;
-        this.spriteFrameArr_vn = Slot_aztec_lan.spriteFrameArr_vn;
         var language = cc.sys.localStorage.getItem('selectedLanguage') || Language.EN;
         var languageObj = {};
         switch (language) {
